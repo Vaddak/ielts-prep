@@ -4,7 +4,7 @@
 **Meta:** 7.5–8.0 | **Examen:** Octubre 2026 | **Inicio:** Mayo 2026
 
 ---
-
+ 
 ## Cómo usar este diario
 
 Después de cada sesión de estudio, agrega una entrada al final de este archivo con este formato:
