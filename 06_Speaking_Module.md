@@ -296,6 +296,28 @@ IELTS does not test your accent. A Colombian accent, a German accent, an Indian 
 
 ---
 
+## Practicing with ChatGPT Voice
+
+The ChatGPT mobile app (iOS/Android) has microphone access and can simulate an IELTS examiner in real time. This is the best tool available for Speaking practice outside of a real exam.
+
+**Setup — paste this prompt before each session:**
+
+> *"Act as an IELTS examiner. Ask me Speaking questions (Part 1, 2, or 3 — I'll tell you which). After each of my answers, give me feedback on these 4 criteria: Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy, and Pronunciation. Give each a band score from 1–9 and explain specifically what I need to improve."*
+
+**How to use it per part:**
+- **Part 1:** Tell it "Ask me 5 Part 1 questions on everyday topics"
+- **Part 2:** Tell it "Give me a cue card" — it will generate one and time you
+- **Part 3:** Tell it "Now ask me Part 3 questions related to that topic"
+
+**After your ChatGPT session — bring it here:**
+Write out (or paste) 1–2 of your answers in this chat and I'll give you deeper feedback on vocabulary and structure. ChatGPT scores fluency well; I can help you push the Lexical Resource criterion specifically toward Band 7.5.
+
+**The combination:**
+- ChatGPT Voice → real-time spoken practice + immediate feedback
+- Claude Code → written analysis of your vocabulary and argument structure
+
+---
+
 ## Recording Yourself — The Most Important Practice
 
 Record every Speaking practice session. Then listen back and answer:
