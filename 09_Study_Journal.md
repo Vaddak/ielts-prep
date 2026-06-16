@@ -33,4 +33,13 @@ No tiene que ser largo. Tres líneas son suficientes. Lo importante es la consis
 **Palabras nuevas:** —
 **Cómo me sentí:** Lista para empezar.
 
+### 2026-06-16 — Semana 2, Día 2
+**Módulo:** Listening Module (05_Listening_Module.md)
+**Tiempo:** 30 min
+**Qué aprendí o practiqué:** Cómo será la estructura del módulo de listening.
+**Dificultades:** 
+**Palabras nuevas:** Dwell (be preoccupied with)
+**Cómo me sentí:** Bien.
+
+
 ---
