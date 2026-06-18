@@ -42,5 +42,11 @@ No tiene que ser largo. Tres líneas son suficientes. Lo importante es la consis
 **Cómo me sentí:** Bien.
 
 
-
+### 2026-06-18 — Semana 2, Día 4
+**Módulo:** Reading Module (04_Reading_Module.md)
+**Tiempo:** 60 min
+**Qué aprendí o practiqué:** Cómo será la estructura del módulo de reading.
+**Dificultades:** 
+**Palabras nuevas:** 
+**Cómo me sentí:** Bien.
 ---
