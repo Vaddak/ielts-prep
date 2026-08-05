@@ -1,7 +1,7 @@
 # Study Journal
 *Registro diario del proceso de preparación IELTS*
 
-**Meta:** 7.5–8.0 | **Examen:** Octubre 2026 | **Inicio:** Mayo 2026
+**Meta:** 7.5–8.0 | **Examen:** sábado 7 de noviembre de 2026 | **Inicio:** Mayo 2026
 
 ---
  
@@ -49,4 +49,12 @@ No tiene que ser largo. Tres líneas son suficientes. Lo importante es la consis
 **Dificultades:** 
 **Palabras nuevas:** 
 **Cómo me sentí:** Bien.
+
+### 2026-08-05 — Cierre de Fase 1
+**Módulo:** Writing Module (03_Writing_Module.md)
+**Tiempo:** 30 min
+**Qué aprendí o practiqué:** Estructura del módulo de writing — Task 1 vs Task 2, los 4 criterios de evaluación, la fórmula de 4 párrafos y el ensayo modelo anotado Band 7.5.
+**Dificultades:**
+**Palabras nuevas:**
+**Cómo me sentí:** Con el atraso identificado y decidida a cumplir. Examen movido a noviembre; cronograma rebasado a 13 semanas.
 ---

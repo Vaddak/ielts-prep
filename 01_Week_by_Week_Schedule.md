@@ -1,279 +1,258 @@
 # Week-by-Week Schedule
 **30 min/day Mon–Fri | 60 min Sat–Sun**
+**Examen objetivo: sábado 7 de noviembre de 2026**
 
 > Use `[ ]` → `[x]` to check off each day as you complete it.
 
 ---
 
-## PHASE 1 — Foundations & Diagnosis
+## Estado actual — 5 de agosto de 2026
 
-### WEEK 1 — Understanding the Exam (May 14–20)
-*Goal: Know the rules of the game before playing.*
+**Completado (Fase 1):**
+- [x] Course Overview leído
+- [x] Módulo de Listening leído
+- [x] Módulo de Reading leído
+- [x] Módulo de Writing leído
 
-| Day | Task | File/Resource |
+**Pendiente de la Fase 1:** módulo de Speaking (se integra en la Semana 3 abajo).
+
+**Nota sobre el rebase:** el calendario original apuntaba a octubre con 20 semanas. Al mover el examen a noviembre quedan 13 semanas desde hoy para 18 semanas de contenido. La compresión aplicada:
+- Writing mantiene 5 bloques (tu banda más baja — máxima prioridad)
+- Reading pasa de 4 a 2 bloques intensivos
+- Listening pasa de 4 a 2 bloques intensivos
+- Speaking mantiene 3 bloques
+- 2 mocks completos en vez de 3
+- La semana de "solo descanso" desaparece; el descanso queda en los días previos al examen
+
+---
+
+## FASE 1 (cierre) + FASE 2/3 — Vocabulario + Módulos
+
+### SEMANA 3 — Cierre de formato + Writing Task 2: estructura (Ago 6–9)
+*Semana corta de 4 días. Cada sesión: 10 min vocabulario primero, luego el módulo.*
+
+| Día | Fecha | Tarea |
 |---|---|---|
-| Mon | Read: IELTS format overview — 4 sections, scoring, Academic vs General | `00_Course_Overview.md` |
-| Tue | Study: Listening — 4 sections explained, question types, how to transfer answers | `05_Listening_Module.md` (intro) |
-| Wed | Study: Reading — 3 passages, 40 questions, 13 question types overview | `04_Reading_Module.md` (intro) |
-| Thu | Study: Writing — Task 1 vs Task 2, word counts, timing split (20+40 min) | `03_Writing_Module.md` (intro) |
-| Fri | Study: Speaking — 3 parts, what each part tests, how it's scored | `06_Speaking_Module.md` (intro) |
-| Sat | Watch: 1 full official IELTS sample test on YouTube (British Council or IDP) — just observe, don't do it yet | Online |
-| Sun | Reflect: Write 5 sentences in English about what you learned this week — no pressure, just activate the language | Your notes |
+| [ ] Jue | Ago 6 | Leer módulo de Speaking (`06_Speaking_Module.md`) — cierra la Fase 1 |
+| [ ] Vie | Ago 7 | Vocab: AWL 1–20. Writing: la estructura de 4 párrafos + fórmula de Introducción (`03_Writing_Module.md`) |
+| [ ] Sáb | Ago 8 | Vocab: AWL 21–40. Writing: escribir 3 introducciones distintas (prompts 1, 2 y 3 del módulo), 10 min cada una |
+| [ ] Dom | Ago 9 | Writing: Body 1 — fórmula Claim → Explain → Example. Escribir un Body 1 completo (15 min) |
 
 ---
 
-### WEEK 2 — Diagnostic Tests (May 21–27)
-*Goal: Identify your actual current band per section.*
+### SEMANA 4 — Writing Task 2: argumentos + primer ensayo completo (Ago 10–16)
 
-| Day | Task |
-|---|---|
-| Mon | Diagnostic: Listening Section 1 + 2 (20 min timed) — record score |
-| Tue | Diagnostic: Listening Section 3 + 4 (20 min timed) — record score + note where you lost marks |
-| Wed | Diagnostic: Reading Passage 1 (20 min timed) |
-| Thu | Diagnostic: Reading Passage 2 (20 min timed) |
-| Fri | Analysis: Review all Reading + Listening answers. What question types caused errors? |
-| Sat | Diagnostic: Writing Task 2 — write a full essay (40 min timed). Save it — you'll use it as a baseline later. |
-| Sun | Diagnostic: Speaking Part 1 + 2 — record yourself on your phone. Save the audio. |
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Ago 10 | Vocab: AWL 41–60. Writing: fórmula de Body 2 y Conclusión |
+| [ ] Mar | Ago 11 | Writing: ¿qué hace que un argumento sea Band 7? Profundidad, no longitud. Desarrollar 1 argumento de 3 a 6 oraciones |
+| [ ] Mié | Ago 12 | Vocab: AWL 61–80. Writing: los 4 tipos de pregunta (opinion, discussion, problem-solution, advantages-disadvantages) |
+| [ ] Jue | Ago 13 | Writing: escribir un Body 2 completo (15 min) sobre el prompt 1 |
+| [ ] Vie | Ago 14 | Vocab: AWL 81–100. Writing: repasar el ensayo modelo anotado del módulo, identificar cada movimiento |
+| [ ] **Sáb** | Ago 15 | **Writing: primer Task 2 completo, 40 min cronometrados** (prompt 1 — salud pública / instalaciones deportivas). Guardarlo como baseline |
+| [ ] Dom | Ago 16 | Autoevaluar el ensayo con el checklist de Task 2. Registrar errores en `07_Error_Log.md` |
 
-**After Week 2:** Review `07_Error_Log.md` and fill in your baseline scores.
-
----
-
-## PHASE 2+3 — Vocabulary + Section Modules (Parallel)
-
-### WEEK 3 — Writing Task 2 Structure + AWL Start (May 28 – Jun 3)
-*Every session: 10 min vocab first, then module work.*
-
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL words 1–20 (see `02_Vocabulary_Engine.md`) |
-| Tue | Writing: The 4-paragraph structure for Task 2 — Introduction formula |
-| Wed | Vocab: AWL words 21–40. Writing: Body paragraph 1 — claim + evidence + example |
-| Thu | Writing: Body paragraph 2 + concluding paragraph formulas |
-| Fri | Vocab: AWL 41–60. Writing: Practice writing an introduction (10 min) |
-| Sat | Writing: Write 1 full Task 2 essay using the structure (40 min timed) |
-| Sun | Review your essay against the Task Achievement checklist in `03_Writing_Module.md` |
+**Hito:** al final de esta semana tienes tu primer baseline de Writing. Sin esto no hay medición.
 
 ---
 
-### WEEK 4 — Writing Task 2 Arguments + AWL (Jun 4–10)
+### SEMANA 5 — Writing Task 2: vocabulario y precisión léxica (Ago 17–23)
 
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL 61–80. Writing: What makes a Band 7 argument? (depth, not length) |
-| Tue | Writing: Practice developing 1 argument fully — 3 sentences → 6 sentences |
-| Wed | Vocab: AWL 81–100. Writing: Common Task 2 question types (opinion, discussion, problem-solution) |
-| Thu | Writing: Practice writing a full Body Paragraph 1 (15 min) |
-| Fri | Vocab: AWL 101–120. Writing: Practice writing a full Body Paragraph 2 (15 min) |
-| Sat | Writing: Full timed Task 2 (40 min) — different topic from Week 3 |
-| Sun | Compare Week 3 essay vs Week 4 essay. What improved? Log in `07_Error_Log.md` |
-
----
-
-### WEEK 5 — Writing Vocabulary + AWL (Jun 11–17)
-
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL 121–140. Writing: Topic word banks — Technology & Engineering |
-| Tue | Writing: Replace basic words with precise alternatives (synonym practice) |
-| Wed | Vocab: AWL 141–160. Writing: Topic word banks — Environment & Energy |
-| Thu | Writing: Paraphrase the question stem — practice with 5 Task 2 prompts |
-| Fri | Vocab: AWL 161–180. Writing: Topic word banks — Education & Research |
-| Sat | Writing: Full timed Task 2 (40 min) — environment topic |
-| Sun | Self-assess Lexical Resource in your essay using the Band 7 checklist |
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Ago 17 | Vocab: AWL 101–120. Writing: banco de palabras — Technology & Engineering |
+| [ ] Mar | Ago 18 | Writing: reemplazar palabras básicas por precisas — reescribir 10 oraciones de tu ensayo del sábado |
+| [ ] Mié | Ago 19 | Vocab: AWL 121–140. Writing: banco de palabras — Environment & Energy |
+| [ ] Jue | Ago 20 | Writing: parafrasear el enunciado — practicar con 5 prompts del módulo |
+| [ ] Vie | Ago 21 | Vocab: AWL 141–160. Writing: banco de palabras — Education & Research + Society & Work |
+| [ ] **Sáb** | Ago 22 | **Writing: Task 2 completo, 40 min** (prompt 4 — brecha entre ricos y pobres) |
+| [ ] Dom | Ago 23 | Autoevaluar solo el criterio **Lexical Resource**. Comparar con el ensayo del 15 de agosto |
 
 ---
 
-### WEEK 6 — Writing Task 1 + AWL (Jun 18–24)
+### SEMANA 6 — Writing Task 1: gráficos y tendencias (Ago 24–30)
 
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL 181–200. Writing Task 1: Overview — what it is, what it rewards |
-| Tue | Writing Task 1: Line graphs — language of trends (rise, fall, fluctuate, plateau) |
-| Wed | Vocab: AWL 201–220. Writing Task 1: Bar charts — language of comparison |
-| Thu | Writing Task 1: The Overview paragraph — most important sentence you'll write |
-| Fri | Vocab: AWL 221–240. Writing Task 1: Pie charts + tables |
-| Sat | Writing: Full timed Task 1 (20 min) + Task 2 (40 min) — first full Writing session |
-| Sun | Review both tasks. Score Task 1 against checklist. Log errors. |
-
----
-
-### WEEK 7 — Writing Task 1 Advanced + Reading Intro (Jun 25 – Jul 1)
-
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL 241–260. Writing Task 1: Processes and maps (diagram description) |
-| Tue | Writing Task 1: Timed practice — 1 diagram (20 min) |
-| Wed | Vocab: AWL 261–280. Reading: Question type deep-dive — True/False/Not Given |
-| Thu | Reading: True/False/NG practice — 15 questions (20 min) |
-| Fri | Vocab: AWL 281–300. Reading: Matching Headings strategy |
-| Sat | Writing: Full timed Task 1 + Task 2 (60 min total) |
-| Sun | Reading: 1 full passage with Matching Headings questions (timed) |
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Ago 24 | Vocab: AWL 161–180. Writing Task 1: qué es, qué premia, la estructura de 3 párrafos |
+| [ ] Mar | Ago 25 | Writing Task 1: **el párrafo Overview** — la oración más importante que vas a escribir. Practicar 3 overviews |
+| [ ] Mié | Ago 26 | Vocab: AWL 181–200. Writing Task 1: line graphs — lenguaje de tendencias (rise, fall, fluctuate, plateau) |
+| [ ] Jue | Ago 27 | Writing Task 1: bar charts y tablas — lenguaje de comparación |
+| [ ] Vie | Ago 28 | Vocab: repaso AWL 1–100 (sesión de flashcards). Writing Task 1: pie charts |
+| [ ] **Sáb** | Ago 29 | **Writing: Task 1 completo, 20 min cronometrados** (un line graph) + autoevaluación con checklist |
+| [ ] Dom | Ago 30 | Writing: Task 1 sobre un bar chart (20 min). Revisar: ¿el overview cubre todo el gráfico sin números? |
 
 ---
 
-### WEEK 8 — Reading Strategies + Writing Consolidation (Jul 2–8)
+### SEMANA 7 — Writing Task 1 avanzado + primera sesión completa de Writing (Ago 31 – Sep 6)
 
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL 301–320. Reading: Skimming — how to read 900 words in 60 seconds |
-| Tue | Reading: Scanning — finding keywords without reading everything |
-| Wed | Vocab: AWL 321–340. Reading: Sentence completion questions |
-| Thu | Writing: Review your 3 Task 2 essays. Rewrite the weakest paragraphs. |
-| Fri | Vocab: AWL 341–360. Reading: Multiple choice strategy |
-| Sat | Reading: Full timed passage (all 3 question types, 20 min) |
-| Sun | Writing: Write 1 Task 2 under 35 min (speed practice) |
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Ago 31 | Vocab: repaso AWL 101–200. Writing Task 1: procesos y mapas — voz pasiva y lenguaje de secuencia |
+| [ ] Mar | Sep 1 | Writing Task 1: describir un diagrama de proceso (20 min cronometrados) |
+| [ ] Mié | Sep 2 | Vocab: Discourse markers (Unit 3 completa). Writing: usarlos en un párrafo de prueba |
+| [ ] Jue | Sep 3 | Vocab: Hedging language (Unit 4). Writing: suavizar 10 afirmaciones absolutas de tus ensayos |
+| [ ] Vie | Sep 4 | Writing Task 1: mapa — cambios entre dos períodos (20 min) |
+| [ ] **Sáb** | Sep 5 | **Writing: sesión completa — Task 1 (20 min) + Task 2 (40 min), 60 min seguidos.** Primera prueba de resistencia |
+| [ ] Dom | Sep 6 | Revisar ambas tareas. Puntuar contra los dos checklists. Registrar patrones en `07_Error_Log.md` |
 
----
-
-### WEEK 9 — Reading Advanced + Listening Intro (Jul 9–15)
-
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL 361–380. Reading: Paraphrase recognition — IELTS answer is always a paraphrase |
-| Tue | Reading: Vocabulary-in-context — deduce meaning from surrounding words |
-| Wed | Vocab: AWL 381–400. Listening: Section 1 + 2 strategies |
-| Thu | Listening: Section 1 timed practice (10 min audio) |
-| Fri | Vocab: AWL 401–420. Listening: Note completion traps (spelling, plural, word limit) |
-| Sat | Reading: Full timed Reading (all 3 passages, 60 min) — first full Reading test |
-| Sun | Review Reading answers. Categorize errors by question type. Log in `07_Error_Log.md`. |
+**Hito:** cierre del módulo Writing. A partir de aquí Writing pasa a mantenimiento (1 tarea cronometrada por semana).
 
 ---
 
-### WEEK 10 — Reading Traps + Listening Academic (Jul 16–22)
+### SEMANA 8 — Reading: tipos de pregunta y estrategia (Sep 7–13)
 
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL 421–440. Reading: The Not Given trap — why it's not the same as False |
-| Tue | Reading: Timed passage focusing on T/F/NG (20 min) |
-| Wed | Vocab: AWL 441–460. Listening: Section 3 + 4 — academic conversations and lectures |
-| Thu | Listening: Section 4 timed practice (monologue, hardest section) |
-| Fri | Vocab: AWL 461–480. Listening: Predicting answers from questions before audio plays |
-| Sat | Listening: Full timed Listening test (4 sections, 40 min + 10 min transfer) |
-| Sun | Review Listening. Note which section type you lost most marks. Log errors. |
-
----
-
-### WEEK 11 — Listening Consolidation + Speaking Intro (Jul 23–29)
-
-| Day | Task |
-|---|---|
-| Mon | Vocab: AWL 481–500. Listening: Spelling traps — common misspellings that cost marks |
-| Tue | Listening: Numbers, dates, times — common trap in Section 1 |
-| Wed | Vocab: STEM collocations 1–20. Speaking: Part 1 — how to give full but natural answers |
-| Thu | Speaking: Practice Part 1 questions on 5 topics (record yourself) |
-| Fri | Vocab: STEM collocations 21–40. Speaking: The "extend + reason + example" formula |
-| Sat | Listening: Full timed test #2 |
-| Sun | Speaking: Record yourself answering 10 Part 1 questions. Listen back critically. |
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Sep 7 | Vocab: STEM collocations 1–20. Reading: True/False/Not Given — la distinción crítica |
+| [ ] Mar | Sep 8 | Reading: práctica T/F/NG — 15 preguntas (20 min) |
+| [ ] Mié | Sep 9 | Vocab: repaso AWL. Reading: Matching Headings — idea principal vs detalle |
+| [ ] Jue | Sep 10 | Reading: 1 pasaje con Matching Headings (cronometrado, 20 min) |
+| [ ] Vie | Sep 11 | Reading: skimming y scanning — leer 900 palabras en 60 segundos. Sentence completion |
+| [ ] **Sáb** | Sep 12 | **Reading: 1 pasaje completo con los 3 tipos de pregunta (20 min)** + Writing: 1 Task 2 (40 min, mantenimiento) |
+| [ ] Dom | Sep 13 | Revisar Reading: para cada error, encontrar la respuesta correcta en el texto y entender **por qué**. Registrar por tipo de pregunta |
 
 ---
 
-### WEEK 12 — Speaking Part 2 + Reading Timed (Jul 30 – Aug 5)
+### SEMANA 9 — Reading: paráfrasis, trampas y test completo (Sep 14–20)
 
-| Day | Task |
-|---|---|
-| Mon | Vocab: STEM collocations 41–60. Speaking Part 2: The cue card — 1 min prep + 2 min talk |
-| Tue | Speaking Part 2: Structure — WHEN / WHERE / WHO / WHY formula |
-| Wed | Vocab: STEM collocations 61–80. Speaking Part 2: 3 timed cue card practices (record) |
-| Thu | Speaking: Review recordings — where did you pause? What words did you repeat? |
-| Fri | Vocab: STEM collocations 81–100. Reading: Timed full test (60 min) |
-| Sat | Speaking: 5 more Part 2 cue card practices with different topics |
-| Sun | Reading: Full review of timed test — categorize errors |
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Sep 14 | Vocab: STEM collocations 21–40. Reading: reconocimiento de paráfrasis — la respuesta siempre está reformulada |
+| [ ] Mar | Sep 15 | Reading: vocabulary-in-context — deducir significado sin conocer la palabra. Prefijos académicos |
+| [ ] Mié | Sep 16 | Vocab: STEM collocations 41–60. Reading: multiple choice — cómo eliminar opciones "casi correctas" |
+| [ ] Jue | Sep 17 | Reading: la trampa del Not Given — 15 preguntas enfocadas (20 min) |
+| [ ] Vie | Sep 18 | Reading: gestión del tiempo — 17/20/23 min por pasaje. Pasaje 3 cronometrado |
+| [ ] **Sáb** | Sep 19 | **Reading: test completo — 3 pasajes, 40 preguntas, 60 min estrictos.** Primer Reading completo |
+| [ ] Dom | Sep 20 | Análisis completo del test. Categorizar errores por tipo de pregunta. Actualizar `07_Error_Log.md` y anotar la banda estimada |
 
----
-
-### WEEK 13 — Speaking Part 3 + Listening Fine-tuning (Aug 6–12)
-
-| Day | Task |
-|---|---|
-| Mon | Vocab: Discourse markers 1–20. Speaking Part 3: Abstract questions — giving opinions precisely |
-| Tue | Speaking Part 3: Hedging language ("it could be argued that…", "to some extent…") |
-| Wed | Vocab: Discourse markers 21–40. Speaking Part 3: Record yourself on 5 Part 3 topics |
-| Thu | Listening: Focus session on Section 4 (academic lecture) — 3 practices |
-| Fri | Vocab: Discourse markers 41–60. Speaking: Full mock Part 1+2+3 (record, 14 min) |
-| Sat | Full Listening test (timed) |
-| Sun | Speaking: Listen to your mock recording. Score yourself on all 4 criteria. |
+**Hito:** primera banda medida de Reading.
 
 ---
 
-### WEEK 14 — Speaking Vocabulary + Writing Revision (Aug 13–19)
+### SEMANA 10 — Listening: las 4 secciones + trampas (Sep 21–27)
 
-| Day | Task |
-|---|---|
-| Mon | Vocab: Hedging language 1–20. Speaking: Synonyms for overused words (good→beneficial, bad→detrimental) |
-| Tue | Speaking: Collocations in speech — topic-specific phrases for technology, environment, society |
-| Wed | Vocab: Hedging language 21–40. Writing: Re-read your earliest Task 2 essay. Rewrite it at Band 7 level. |
-| Thu | Writing: Task 1 speed practice — 2 graphs in 25 min |
-| Fri | Vocab: Review AWL 1–100 (flash card review session) |
-| Sat | Writing: Full timed Writing (Task 1 + Task 2, 60 min) |
-| Sun | Speaking: Full mock (record). Compare to Week 11 recording. What changed? |
-
----
-
-### WEEK 15 — First Full Mock Exam (Aug 20–26)
-
-| Day | Task |
-|---|---|
-| Mon | Light review: Skim error log. Note top 3 weaknesses. |
-| Tue | Speaking: 2 full mock runs (record both) |
-| Wed | Rest / light vocabulary review only |
-| Thu | Prepare mock conditions: find a quiet room, no interruptions |
-| Fri | Rest |
-| **Sat** | **FULL MOCK EXAM #1** — Listening (40 min) + Reading (60 min) = 100 min. Strict conditions. |
-| **Sun** | **FULL MOCK EXAM #1** — Writing (60 min) + Speaking mock (record, 14 min). |
-
-**After Week 15:** Score all 4 sections. Enter in `08_Mock_Exam_Tracker.md`. Identify your two weakest sections.
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Sep 21 | Vocab: STEM collocations 61–80. Listening: predicción — la habilidad más importante |
+| [ ] Mar | Sep 22 | Listening: Secciones 1 y 2 — práctica cronometrada + trampa de la corrección |
+| [ ] Mié | Sep 23 | Vocab: STEM collocations 81–100. Listening: Sección 3 — múltiples opiniones, ¿quién dijo qué? |
+| [ ] Jue | Sep 24 | Listening: **Sección 4** (monólogo académico, la más difícil) — 2 prácticas |
+| [ ] Vie | Sep 25 | Listening: trampas de ortografía, números, fechas, singular/plural. Ejercicio de dictado (10 min) |
+| [ ] **Sáb** | Sep 26 | **Listening: test completo — 4 secciones, 40 min + 10 min de transferencia** + Writing: 1 Task 1 (mantenimiento) |
+| [ ] Dom | Sep 27 | Revisar Listening. ¿En qué sección perdiste más? ¿Fue comprensión o trampa? Registrar |
 
 ---
 
-## PHASE 4 — Integration & Exam Simulation
+### SEMANA 11 — Listening consolidación + Speaking Parte 1 (Sep 28 – Oct 4)
 
-### WEEK 16 — Targeted Revision: Mock #1 Gaps (Aug 27 – Sep 2)
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Sep 28 | Vocab: repaso colocaciones 1–100. Listening: sesión enfocada en Sección 4 — 3 prácticas |
+| [ ] Mar | Sep 29 | Listening: dictado (15 min) sobre un TED Talk o BBC 6 Minute English |
+| [ ] Mié | Sep 30 | Speaking Parte 1: la fórmula IFER — respuestas completas pero naturales |
+| [ ] Jue | Oct 1 | Speaking: practicar Parte 1 en 5 temas, **grabándote**. Escuchar de vuelta |
+| [ ] Vie | Oct 2 | Speaking: reemplazar palabras básicas en el habla (tabla del módulo). Repetir 3 respuestas de ayer mejoradas |
+| [ ] **Sáb** | Oct 3 | **Listening: test completo #2 (cronometrado).** Comparar con el del 26 de septiembre |
+| [ ] Dom | Oct 4 | Speaking: grabar 10 respuestas de Parte 1. Autoevaluar con el checklist |
 
-Spend this week entirely on whatever Mock #1 revealed as your weakest points. No new material. Only targeted repair.
-
----
-
-### WEEK 17 — Full Mock Exam #2 (Sep 3–9)
-
-Same format as Week 15. Compare scores to Mock #1. Track improvement in `08_Mock_Exam_Tracker.md`.
-
----
-
-### WEEK 18 — Final Vocabulary Push + Writing Polish (Sep 10–16)
-
-| Day | Task |
-|---|---|
-| Mon–Fri | 10 min vocab (review all AWL + collocations), 20 min Writing or Speaking |
-| Sat | Full Writing timed (60 min) + detailed self-assessment |
-| Sun | Speaking full mock (record) |
+**Hito:** segunda banda medida de Listening + primera grabación de Speaking para comparar más adelante.
 
 ---
 
-### WEEK 19 — Full Mock Exam #3 (Sep 17–23)
+### SEMANA 12 — Speaking Parte 2: el long turn (Oct 5–11)
 
-Full exam under strict exam conditions. This is your dress rehearsal.
-
----
-
-### WEEK 20 — Final Week (Sep 24–30 / into October)
-
-| Day | Task |
-|---|---|
-| Mon | Light: Review your error log. Read only the patterns, not every entry. |
-| Tue | Light: Review Writing templates and Task 1 language |
-| Wed | Speaking: 1 relaxed practice run |
-| Thu | Rest. Prepare logistics: ID, test center location, what to bring. |
-| Fri | Rest. |
-| **Exam week** | **IELTS Academic** |
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Oct 5 | Speaking Parte 2: la cue card — 1 min de preparación, 2 min de habla. Estructura |
+| [ ] Mar | Oct 6 | Speaking Parte 2: 2 cue cards cronometradas (grabar). Temas 6 y 7 — los de ingeniería |
+| [ ] Mié | Oct 7 | Speaking: revisar grabaciones. ¿Dónde pausaste? ¿Qué palabras repetiste? |
+| [ ] Jue | Oct 8 | Speaking Parte 2: 3 cue cards más (grabar). Verificar que llegas a 1:30 mínimo |
+| [ ] Vie | Oct 9 | Vocab: repaso general AWL + colocaciones. Writing: 1 Task 2 (mantenimiento, 40 min) |
+| [ ] **Sáb** | Oct 10 | **Reading: test completo cronometrado (60 min).** Comparar con el del 19 de septiembre |
+| [ ] Dom | Oct 11 | Speaking: 3 cue cards finales. Análisis de errores del Reading |
 
 ---
 
-## Tracking your progress
+### SEMANA 13 — Speaking Parte 3 + mock de Speaking (Oct 12–18)
 
-After each mock exam, update `08_Mock_Exam_Tracker.md` with:
-- Scores per section
-- Question types where you lost marks
-- One specific thing to fix before the next mock
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Oct 12 | Speaking Parte 3: la fórmula OEL. Preguntas abstractas — opinar con precisión |
+| [ ] Mar | Oct 13 | Speaking Parte 3: hedging ("to some extent...", "it could be argued that..."). Practicar 5 preguntas |
+| [ ] Mié | Oct 14 | Speaking Parte 3: grabarte en 5 temas abstractos (tecnología, educación, ambiente) |
+| [ ] Jue | Oct 15 | Speaking: sinónimos en el habla — evitar repetición. Reescribir mentalmente 5 respuestas de ayer |
+| [ ] Vie | Oct 16 | **Speaking: mock completo Parte 1+2+3 (grabar, 14 min).** Comparar con la grabación del 4 de octubre |
+| [ ] Sáb | Oct 17 | Writing: sesión completa Task 1 + Task 2 (60 min). Autoevaluación detallada |
+| [ ] Dom | Oct 18 | Speaking: escuchar el mock del viernes. Puntuarte en los 4 criterios. Registrar en `07_Error_Log.md` |
 
-The error log (`07_Error_Log.md`) is more valuable than any study material. The mistakes you make repeatedly are the ones that determine your final band.
+**Hito:** los 4 módulos cubiertos. A partir de aquí solo simulación y reparación.
+
+---
+
+## FASE 4 — Simulación y reparación
+
+### SEMANA 14 — MOCK COMPLETO #1 (Oct 19–25)
+
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Oct 19 | Repaso ligero: leer `07_Error_Log.md` completo. Anotar tus 3 debilidades principales |
+| [ ] Mar | Oct 20 | Repaso: plantillas de Writing + lenguaje de Task 1 |
+| [ ] Mié | Oct 21 | Solo vocabulario (repaso general). Descanso cognitivo |
+| [ ] Jue | Oct 22 | Preparar condiciones de examen: cuarto silencioso, sin interrupciones, cronómetro |
+| [ ] Vie | Oct 23 | Descanso |
+| [ ] **Sáb** | Oct 24 | **MOCK #1 — Listening (40 min) + Reading (60 min) = 100 min. Condiciones estrictas** |
+| [ ] **Dom** | Oct 25 | **MOCK #1 — Writing (60 min) + Speaking mock grabado (14 min)** |
+
+**Después del mock:** puntuar las 4 secciones y registrar todo en `08_Mock_Exam_Tracker.md`. Identificar las dos secciones más débiles.
+
+---
+
+### SEMANA 15 — Reparación dirigida + MOCK COMPLETO #2 (Oct 26 – Nov 1)
+
+*Esta semana es 100% reactiva al Mock #1. Nada de material nuevo — solo reparación de lo que falló.*
+
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Oct 26 | Reparación de la sección más débil del Mock #1 (30 min enfocados) |
+| [ ] Mar | Oct 27 | Reparación de la segunda sección más débil |
+| [ ] Mié | Oct 28 | Writing: reescribir el peor párrafo del Mock #1 a nivel Band 7.5 |
+| [ ] Jue | Oct 29 | Repaso de trampas: la lista maestra de Reading y Listening |
+| [ ] Vie | Oct 30 | Descanso / vocabulario ligero |
+| [ ] **Sáb** | Oct 31 | **MOCK #2 — Listening + Reading (100 min), condiciones de examen** |
+| [ ] **Dom** | Nov 1 | **MOCK #2 — Writing (60 min) + Speaking (grabado).** Comparar con Mock #1 en `08_Mock_Exam_Tracker.md` |
+
+---
+
+### SEMANA DE EXAMEN (Nov 2–7)
+
+| Día | Fecha | Tarea |
+|---|---|---|
+| [ ] Lun | Nov 2 | Ligero: leer solo los **patrones** de tu error log, no cada entrada |
+| [ ] Mar | Nov 3 | Ligero: plantillas de Writing y lenguaje de Task 1. Nada más |
+| [ ] Mié | Nov 4 | Speaking: 1 práctica relajada. Sin autocrítica |
+| [ ] Jue | Nov 5 | Descanso. Logística: documento de identidad, ubicación del centro, qué llevar |
+| [ ] Vie | Nov 6 | Descanso total. Dormir bien |
+| [ ] **Sáb** | **Nov 7** | **IELTS ACADEMIC** |
+
+> El Speaking suele agendarse en un día distinto (antes o después del escrito). Confirmar la fecha al reservar y ajustar esta semana.
+
+---
+
+## Reglas del cronograma comprimido
+
+1. **El sábado es sagrado.** Es el día de práctica cronometrada. Si tienes que saltarte un día, que sea un lunes, nunca un sábado.
+2. **10 minutos de vocabulario primero, siempre.** Es lo único que corre en paralelo todas las semanas y es tu palanca principal según el diagnóstico inicial.
+3. **Cada práctica cronometrada se registra.** Si no está en `07_Error_Log.md`, no ocurrió. El error log vacío fue lo que hizo invisible el atraso de junio y julio.
+4. **Si te atrasas 2 días o menos**, comprime dentro de la misma semana. **Si te atrasas más de 3 días**, sacrifica el contenido del lunes/martes y ve directo al sábado cronometrado — la práctica bajo tiempo vale más que la teoría.
+
+---
+
+## Tracking
+
+Después de cada mock, actualizar `08_Mock_Exam_Tracker.md` con:
+- Puntajes por sección
+- Tipos de pregunta donde perdiste marcas
+- Una cosa específica que corregir antes del siguiente mock
+
+`07_Error_Log.md` es más valioso que cualquier material de estudio. Los errores que repites son los que determinan tu banda final.

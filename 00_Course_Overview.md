@@ -1,8 +1,10 @@
 # IELTS Preparation Course — Target: 7.5–8.0
 **Student:** Electronic Engineer, B2 level  
-**Start:** May 14, 2026 | **Exam target:** October 2026  
+**Start:** May 14, 2026 | **Exam target:** Saturday, November 7, 2026  
 **Programs:** RADMEP, EMIMEP, SSIS (Erasmus Mundus)  
-**Weekly time:** Mon–Fri 30 min/day · Sat–Sun 60 min/day ≈ 3.5 h/week · ~70 h total
+**Weekly time:** Mon–Fri 30 min/day · Sat–Sun 60 min/day ≈ 3.5 h/week
+
+> **Schedule rebased on August 5, 2026.** Phase 1 (exam format) is complete — all four section modules have been read. The remaining 13 weeks are laid out day by day in `01_Week_by_Week_Schedule.md`, which is now the authoritative calendar. The week numbers below describe the *content sequence*; the schedule file has the real dates.
 
 ---
 
