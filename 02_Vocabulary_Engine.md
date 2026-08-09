@@ -33,26 +33,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 1 | **analyse** | verb | to examine something in detail | *Researchers analysed the data from three separate experiments.* | [ ] |
-| 2 | **approach** | noun/verb | a way of dealing with something | *A different approach to renewable energy is needed.* | [ ] |
-| 3 | **assess** | verb | to evaluate or judge | *The committee assessed the environmental impact of the project.* | [ ] |
-| 4 | **assume** | verb | to accept something as true without proof | *The model assumes that all variables remain constant.* | [ ] |
-| 5 | **authority** | noun | power or official control; an expert source | *Government authorities have introduced new regulations.* | [ ] |
-| 6 | **available** | adjective | able to be obtained or used | *Limited resources are available for renewable development.* | [ ] |
-| 7 | **benefit** | noun/verb | an advantage; to gain an advantage | *The primary benefit of solar energy is its sustainability.* | [ ] |
-| 8 | **concept** | noun | an abstract idea | *The concept of smart grids has transformed power distribution.* | [ ] |
-| 9 | **consistent** | adjective | always the same; not contradictory | *The results were consistent across all test conditions.* | [ ] |
-| 10 | **constitutional** | adjective | relating to rules or fundamental principles | *Constitutional frameworks govern research ethics.* | [ ] |
-| 11 | **context** | noun | the circumstances surrounding something | *These findings must be understood in their historical context.* | [ ] |
-| 12 | **contract** | noun/verb | a formal agreement; to decrease | *The circuit contracts when exposed to low temperatures.* | [ ] |
-| 13 | **create** | verb | to produce or cause something | *New technologies create both opportunities and challenges.* | [ ] |
-| 14 | **data** | noun | facts and statistics (plural in academic English) | *The data suggest a strong correlation between the variables.* | [ ] |
-| 15 | **define** | verb | to state the exact meaning of | *It is important to clearly define the scope of the study.* | [ ] |
-| 16 | **derive** | verb | to obtain from a source | *This formula is derived from the second law of thermodynamics.* | [ ] |
-| 17 | **distribute** | verb | to spread or supply over an area | *Electricity is distributed through a network of substations.* | [ ] |
-| 18 | **economy** | noun | the system of production and trade | *A green economy prioritises low-carbon energy sources.* | [ ] |
-| 19 | **environment** | noun | surroundings; the natural world | *The impact on the environment must be carefully monitored.* | [ ] |
-| 20 | **establish** | verb | to set up; to show something is true | *The study established a clear link between X and Y.* | [ ] |
+| 1 | **analyse** | verb | to examine something in detail | *Researchers analysed the data from three separate experiments.* | [X] |
+| 2 | **approach** | noun/verb | a way of dealing with something | *A different approach to renewable energy is needed.* | [X] |
+| 3 | **assess** | verb | to evaluate or judge | *The committee assessed the environmental impact of the project.* | [~] |
+| 4 | **assume** | verb | to accept something as true without proof | *The model assumes that all variables remain constant.* | [X] |
+| 5 | **authority** | noun | power or official control; an expert source | *Government authorities have introduced new regulations.* | [X] |
+| 6 | **available** | adjective | able to be obtained or used | *Limited resources are available for renewable development.* | [X] |
+| 7 | **benefit** | noun/verb | an advantage; to gain an advantage | *The primary benefit of solar energy is its sustainability.* | [X] |
+| 8 | **concept** | noun | an abstract idea | *The concept of smart grids has transformed power distribution.* | [X] |
+| 9 | **consistent** | adjective | always the same; not contradictory | *The results were consistent across all test conditions.* | [X] |
+| 10 | **constitutional** | adjective | relating to rules or fundamental principles | *Constitutional frameworks govern research ethics.* | [X] |
+| 11 | **context** | noun | the circumstances surrounding something | *These findings must be understood in their historical context.* | [X] |
+| 12 | **contract** | noun/verb | a formal agreement; to decrease | *The circuit contracts when exposed to low temperatures.* | [X] |
+| 13 | **create** | verb | to produce or cause something | *New technologies create both opportunities and challenges.* | [X] |
+| 14 | **data** | noun | facts and statistics (plural in academic English) | *The data suggest a strong correlation between the variables.* | [X] |
+| 15 | **define** | verb | to state the exact meaning of | *It is important to clearly define the scope of the study.* | [X] |
+| 16 | **derive** | verb | to obtain from a source | *This formula is derived from the second law of thermodynamics.* | [X] |
+| 17 | **distribute** | verb | to spread or supply over an area | *Electricity is distributed through a network of substations.* | [X] |
+| 18 | **economy** | noun | the system of production and trade | *A green economy prioritises low-carbon energy sources.* | [X] |
+| 19 | **environment** | noun | surroundings; the natural world | *The impact on the environment must be carefully monitored.* | [X] |
+| 20 | **establish** | verb | to set up; to show something is true | *The study established a clear link between X and Y.* | [X] |
 
 **Batch 1 self-check:** Cover the "Meaning" column. Can you define each word? Cover "Example Sentence" — can you write your own?
 
