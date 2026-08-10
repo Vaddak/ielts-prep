@@ -1,12 +1,12 @@
 # Week-by-Week Schedule
-**30 min/day Mon–Fri | 60 min Sat–Sun**
+**30 min/day Mon–Fri (ampliado a 45–60 min desde el 10 de agosto para recuperar atraso) | 60 min Sat–Sun**
 **Examen objetivo: sábado 7 de noviembre de 2026**
 
 > Use `[ ]` → `[x]` to check off each day as you complete it.
 
 ---
 
-## 👉 RETOMAR AQUÍ — próxima sesión: lunes 10 de agosto, mañana
+## 👉 RETOMAR AQUÍ — sesión de hoy: lunes 10 de agosto
 
 **Última sesión:** domingo 9 de agosto (recuperó Jue 6 + Vie 7).
 
@@ -14,13 +14,16 @@
 
 | # | Min | Tarea |
 |---|---|---|
+| 0 | 5 | **Leer `10_Grammar_Quick_Reference.md`, sección 4** — los 4 patrones de interferencia del español detectados ayer. Es lo que va a reaparecer hoy bajo cronómetro |
 | 1 | 5 | **Reauditar el Batch 1** (`02_Vocabulary_Engine.md:36`). Quedó 19/20 en `[X]`, pero la intro del mismo día no usó ninguna. Prueba real, palabra por palabra: *¿la escribiría sola en un ensayo?* Si no → `[~]`. Esas son las que hay que activar |
 | 2 | 10 | **Intro prompt 2** (colegios separados vs. mixtos), 10 min cronometrados. Objetivo único: usar **literalmente** la plantilla `While some argue [A], this essay contends that [B]` + meter ≥2 palabras del Batch 1 |
 | 3 | 10 | Vocab: **AWL 21–40** (`02_Vocabulary_Engine.md:65`) |
 | 4 | 10 | **Intro prompt 3** (tecnología y trato cara a cara — ojo, es tipo *advantages/disadvantages*, la posición se plantea distinto) |
 | 5 | 20 | **Body 1** — leer la fórmula Claim → Explain → Example (`03_Writing_Module.md:84`) y escribir uno completo sobre el prompt 1, 15 min cronometrados |
 
-**Antes de escribir, releer las 3 correcciones de `07_Error_Log.md`** (adjetivos sin plural · *the need **to*** · cerrar la estructura que empiezas). Son de ayer y van a reaparecer.
+**Al terminar cada texto escrito, correr el checklist de 60 segundos** del final de la sección 4 de `10_Grammar_Quick_Reference.md`. Cuatro preguntas, un minuto. Es la corrección más barata que existe.
+
+**Si el tiempo se acaba antes del paso 5:** el paso 5 es el que no se sacrifica. Los prompts 2 y 3 repiten una habilidad que ya está en Band 7 (Task Achievement); Body 1 no existe todavía y es el bloque más grande del ensayo del sábado 15. Si hay que cortar, se corta el paso 4.
 
 **Nota sobre AWL 41–60:** el cronograma las asignaba al lunes, pero como el Batch 2 se corrió, van al **martes 11** (que no tenía vocabulario asignado). Así no se pierde ningún batch.
 
