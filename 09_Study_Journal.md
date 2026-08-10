@@ -64,7 +64,7 @@ No tiene que ser largo. Tres líneas son suficientes. Lo importante es la consis
 
 **Qué aprendí o practiqué:**
 - **Speaking:** leído y con notas tomadas. **Cierra la Fase 1** — los 4 módulos del examen ya están cubiertos.
-- **Vocabulario:** AWL Batch 1, palabras 1–20 (*analyse* → *establish*). ⚠️ Pendiente marcar `[~]`/`[x]` en la tabla.
+- **Vocabulario:** AWL Batch 1, palabras 1–20 (*analyse* → *establish*), marcadas 19 `[X]` + 1 `[~]`. ⚠️ Autoevaluación probablemente optimista: la introducción escrita ese mismo día no usó **ninguna** de las 20. Reauditar con el criterio real (*¿la escribiría sola en un ensayo?*).
 - **Writing:** estructura de 4 párrafos + fórmula de Introducción (2 oraciones: paráfrasis + posición).
 - **Primera introducción cronometrada** (prompt 1 — salud pública / instalaciones deportivas): 53 palabras en 8:55, dentro del rango de 40–60 y bajo tiempo.
 

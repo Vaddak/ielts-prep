@@ -14,7 +14,7 @@
 
 | # | Min | Tarea |
 |---|---|---|
-| 1 | 2 | **Marcar el Batch 1** en `02_Vocabulary_Engine.md:36` — poner `[~]`/`[x]` en las palabras 1–20. Quedó pendiente. Criterio: `[x]` solo si la puedes **usar** en una oración, no si solo la entiendes |
+| 1 | 5 | **Reauditar el Batch 1** (`02_Vocabulary_Engine.md:36`). Quedó 19/20 en `[X]`, pero la intro del mismo día no usó ninguna. Prueba real, palabra por palabra: *¿la escribiría sola en un ensayo?* Si no → `[~]`. Esas son las que hay que activar |
 | 2 | 10 | **Intro prompt 2** (colegios separados vs. mixtos), 10 min cronometrados. Objetivo único: usar **literalmente** la plantilla `While some argue [A], this essay contends that [B]` + meter ≥2 palabras del Batch 1 |
 | 3 | 10 | Vocab: **AWL 21–40** (`02_Vocabulary_Engine.md:65`) |
 | 4 | 10 | **Intro prompt 3** (tecnología y trato cara a cara — ojo, es tipo *advantages/disadvantages*, la posición se plantea distinto) |
