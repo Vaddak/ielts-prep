@@ -84,4 +84,35 @@ Lo que funcionó: parafraseó sin copiar, sin frases de relleno, posición propi
 
 **Cómo me sentí:** Nerviosa al empezar, pero fluyó. Jueves y viernes recuperados en una sola sesión.
 
+### 2026-08-10 — Semana 4, Lunes (sesión de recuperación ampliada)
+**Módulo:** Gramática (§4) + Vocabulary Batch 1 reauditado + Writing Task 2 (intro prompt 2)
+**Tiempo:** en curso — pasos 0, 1 y 2 completados
+
+**Decisión de la semana:** ampliar las sesiones de lunes a viernes de 30 a 45–60 min para recuperar el atraso acumulado del sábado 8 y domingo 9. Registrado en `01_Week_by_Week_Schedule.md`.
+
+**Qué aprendí o practiqué:**
+- **Gramática:** nueva sección 4 de `10_Grammar_Quick_Reference.md`, construida solo con los errores reales del 9 de agosto — adjetivos invariables, preposiciones fijas, correlativas y paralelismo, artículos. Incluye un checklist de 60 segundos para antes de entregar.
+- **Vocabulario:** Batch 1 reauditado con el criterio real (*¿la escribiría sola en un ensayo?*).
+- **Segunda intro cronometrada** (prompt 2 — colegios separados vs. mixtos): 42 palabras, ~1–2 min de los 10 disponibles.
+
+**Evaluación de la introducción (~Band 6.5):**
+| Criterio | Banda | vs. 09-ago |
+|---|---|---|
+| Task Achievement | 7 | = |
+| Coherence & Cohesion | 7 | ↑ 6.5 |
+| Lexical Resource | 5.5 | ↓ 6 |
+| Grammatical Range | 6 | ↑ 5.5 |
+
+**Lo que funcionó:** la plantilla `While some argue [A], others think [B]. This essay contends that [C]` salió limpia y con las dos visiones bien separadas — correcto para un *Discuss both views*. **Dos de los cuatro patrones de la sección 4 desaparecieron**: ni un adjetivo en plural, y no abrió ninguna correlativa que no pudiera cerrar. El checklist funcionó ahí. *separate institutions* fue una paráfrasis genuina.
+
+**Dificultades:** el techo se movió de gramática a **léxico**. Apareció ***laboral***, palabra que no existe en inglés — segunda ocurrencia de vocabulario derivado del español tras *motive*, así que ya es patrón con sección propia (§4.5, con falsos amigos y sustantivos incontables). También reincidió el artículo sobrante (*the real academic life*) y salió un superlativo donde iba comparativo (*most* vs *more*).
+
+**Sobre el tiempo:** terminó en ~1–2 min de 10. La velocidad es un activo real para el examen, pero sobraron 8 minutos y tres de los cinco errores se habrían cazado con los 60 segundos de revisión. Próxima tarea: escribir rápido igual, y **usar el minuto completo de relectura**.
+
+**Palabras nuevas:** *working life / professional life* (≠ *laboral*), *co-educational*, *single-sex*, *setting*, *to reflect / to resemble*, *to maintain (that)*.
+
+**Cómo me sentí:** —
+
+**Pendiente de esta sesión:** paso 3 (AWL 21–40) · paso 4 (intro prompt 3) · paso 5 (**Body 1 completo** — el que no se sacrifica).
+
 ---

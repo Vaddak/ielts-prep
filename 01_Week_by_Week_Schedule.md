@@ -14,12 +14,19 @@
 
 | # | Min | Tarea |
 |---|---|---|
-| 0 | 5 | **Leer `10_Grammar_Quick_Reference.md`, sección 4** — los 4 patrones de interferencia del español detectados ayer. Es lo que va a reaparecer hoy bajo cronómetro |
-| 1 | 5 | **Reauditar el Batch 1** (`02_Vocabulary_Engine.md:36`). Quedó 19/20 en `[X]`, pero la intro del mismo día no usó ninguna. Prueba real, palabra por palabra: *¿la escribiría sola en un ensayo?* Si no → `[~]`. Esas son las que hay que activar |
-| 2 | 10 | **Intro prompt 2** (colegios separados vs. mixtos), 10 min cronometrados. Objetivo único: usar **literalmente** la plantilla `While some argue [A], this essay contends that [B]` + meter ≥2 palabras del Batch 1 |
-| 3 | 10 | Vocab: **AWL 21–40** (`02_Vocabulary_Engine.md:65`) |
-| 4 | 10 | **Intro prompt 3** (tecnología y trato cara a cara — ojo, es tipo *advantages/disadvantages*, la posición se plantea distinto) |
-| 5 | 20 | **Body 1** — leer la fórmula Claim → Explain → Example (`03_Writing_Module.md:84`) y escribir uno completo sobre el prompt 1, 15 min cronometrados |
+| [x] 0 | 5 | ~~Leer `10_Grammar_Quick_Reference.md`, sección 4~~ ✅ |
+| [x] 1 | 5 | ~~Reauditar el Batch 1~~ ✅ |
+| [x] 2 | 10 | ~~**Intro prompt 2** (colegios separados vs. mixtos)~~ ✅ **~Band 6.5** (TA 7 · CC 7 · LR 5.5 · GR 6). Errores en `07_Error_Log.md` |
+| [ ] 3 | 10 | Vocab: **AWL 21–40** (`02_Vocabulary_Engine.md:65`) ← **VAS AQUÍ** |
+| [ ] 4 | 10 | **Intro prompt 3** (tecnología y trato cara a cara — ojo, es tipo *advantages/disadvantages*, la posición se plantea distinto) |
+| [ ] 5 | 20 | **Body 1** — leer la fórmula Claim → Explain → Example (`03_Writing_Module.md:84`) y escribir uno completo sobre el prompt 1, 15 min cronometrados |
+
+**El objetivo cambió de criterio.** En las dos intros Task Achievement salió 7: la estructura ya está resuelta y no necesita más trabajo. **El techo ahora es Lexical Resource** (5.5). Para los pasos 4 y 5:
+
+1. **Elige las 2 palabras del batch ANTES de empezar a escribir**, no durante. Anótalas al lado de la hoja.
+2. **Si una palabra se te parece demasiado al español, desconfía** (§4.5). Bajo duda, usa la palabra simple que sabes que existe: *working life* es Band 7, *laboral* es Band 5.
+3. **Cero artículos delante de conceptos generales.** *Technology has transformed society*, no *The technology... the society*. Es tu error reincidente: 2 de 2 tareas.
+4. **Usa los 60 segundos completos de relectura.** Escribes en 2 min de 10 — te sobra tiempo de sobra y tres de los cinco errores de hoy eran cazables.
 
 **Al terminar cada texto escrito, correr el checklist de 60 segundos** del final de la sección 4 de `10_Grammar_Quick_Reference.md`. Cuatro preguntas, un minuto. Es la corrección más barata que existe.
 

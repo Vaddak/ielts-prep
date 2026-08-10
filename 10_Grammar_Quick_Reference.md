@@ -288,13 +288,113 @@ Sesenta segundos de este checklist valen más que diez minutos de repasar teorí
 
 ---
 
+## 4.5 Falsos amigos y palabras que no existen en inglés
+
+**Tus errores:** *motive* usado como verbo (2026-08-09) · ***laboral*** (2026-08-10)
+
+Este es el error más caro de todos, porque no se ve como un error gramatical: se ve como **vocabulario traducido**. Cuando un examinador encuentra *laboral* en un texto, la señal que recibe no es "se equivocó en una palabra", es "esta persona está pensando en español y traduciendo". Eso golpea Lexical Resource directamente.
+
+### Los que más te van a aparecer en Task 2
+
+| Español | ❌ NO es | ✅ Es |
+|---|---|---|
+| laboral / vida laboral | ~~*laboral*~~ | **working life · professional life · the workplace** |
+| actualmente | ~~*actually*~~ | **currently · at present · nowadays** |
+| en realidad / de hecho | — | *actually* (¡este sí!) |
+| eventualmente (posiblemente) | ~~*eventually*~~ | **possibly · occasionally** |
+| finalmente / con el tiempo | — | *eventually* (¡este sí!) |
+| realizar (llevar a cabo) | ~~*realize*~~ | **carry out · perform · conduct** |
+| darse cuenta | — | *realise* (¡este sí!) |
+| asistir a (una clase) | ~~*assist*~~ | **attend** |
+| ayudar | — | *assist* (¡este sí!) |
+| atender (a un cliente) | ~~*attend*~~ | **serve · deal with** |
+| sensible (emocional) | ~~*sensible*~~ | **sensitive** |
+| sensato | — | *sensible* (¡este sí!) |
+| carrera (universitaria) | ~~*career*~~ | **degree · degree programme** |
+| trayectoria profesional | — | *career* (¡este sí!) |
+| comprensivo (que entiende) | ~~*comprehensive*~~ | **understanding** |
+| exhaustivo / completo | — | *comprehensive* (¡este sí!) |
+| librería | ~~*library*~~ | **bookshop** |
+| biblioteca | — | *library* (¡este sí!) |
+| soportar (tolerar) | ~~*support*~~ | **tolerate · withstand · put up with** |
+| apoyar | — | *support* (¡este sí!) |
+| discutir (pelear) | ~~*discuss*~~ | **argue · quarrel** |
+| tratar / abordar un tema | — | *discuss* (¡este sí!) |
+| éxito | ~~*exit*~~ | **success** |
+| pretender (aspirar a) | ~~*pretend*~~ | **intend · aim · seek to** |
+| fingir | — | *pretend* (¡este sí!) |
+| resumir | ~~*resume*~~ | **summarise** |
+| reanudar | — | *resume* (¡este sí!) |
+| largo | ~~*large*~~ | **long** |
+| grande | — | *large* (¡este sí!) |
+| tópico (cliché) | ~~*topic*~~ | **cliché · stereotype** |
+| tema | — | *topic* (¡este sí!) |
+| noticia | ~~*notice*~~ | **news** |
+| advertir (avisar) | ~~*advertise*~~ | **warn** |
+| anunciar / publicitar | — | *advertise* (¡este sí!) |
+
+### Falsos amigos de ingeniería (los tuyos)
+
+| Español | ❌ NO es | ✅ Es |
+|---|---|---|
+| conductor (de vehículo) | ~~*conductor*~~ | **driver** |
+| conductor (eléctrico) | — | *conductor* (¡este sí!) |
+| batería (de coche) | ~~*battery*~~ ok, pero | **battery** ✓ correcto |
+| fábrica | ~~*fabric*~~ (= tela) | **factory · plant** |
+| máquina / maquinaria | — | *machine · machinery* ✓ |
+| planta (industrial) | — | *plant* ✓ |
+| consumo | — | *consumption* ✓ (no *consume* como sustantivo) |
+| rendimiento | ~~*performance*~~ ok | **performance · efficiency · output** según el contexto |
+| ingenio (creatividad) | ~~*ingenuity*~~ ✓ correcto | *ingenuity* ✓ |
+| ingenuidad | ~~*ingenuity*~~ | **naivety** |
+
+---
+
+### El otro lado del mismo error: sustantivos incontables
+
+El mismo instinto que produce *laboral* produce plurales que no existen. En inglés estos sustantivos **nunca llevan `-s`** y **nunca van con `a/an`**, aunque en español sí:
+
+| ❌ Nunca | ✅ Siempre |
+|---|---|
+| ~~informations~~ / ~~an information~~ | **information** |
+| ~~advices~~ / ~~an advice~~ | **advice** *(o: a piece of advice)* |
+| ~~researches~~ / ~~a research~~ | **research** *(o: a study)* |
+| ~~evidences~~ | **evidence** |
+| ~~knowledges~~ | **knowledge** |
+| ~~equipments~~ | **equipment** |
+| ~~staffs~~ | **staff** |
+| ~~progresses~~ | **progress** |
+| ~~feedbacks~~ | **feedback** |
+| ~~softwares~~ | **software** |
+| ~~trainings~~ | **training** |
+| ~~machineries~~ | **machinery** |
+| ~~pollutions~~ | **pollution** |
+| ~~transports~~ | **transport** |
+
+> ❌ *Recent researches provide many evidences.*
+> ✅ *Recent **research** provides considerable **evidence**.*
+
+**Ojo con `data`:** ya es plural en inglés académico. *The data **suggest**...* (no *suggests*). El singular es *datum*, que casi no se usa.
+
+---
+
+### La regla práctica bajo cronómetro
+
+**Si una palabra en inglés se te parece demasiado al español, desconfía.** No es que siempre esté mal — *environment*, *significant*, *context* se parecen y son correctas. Pero si la estás construyendo en el momento por analogía (*laboral* ← "laboral"), casi seguro no existe.
+
+**Tu red de seguridad:** cuando dudes, usa la palabra simple que sabes que existe. *working life* es Band 7. *laboral* es Band 5, porque no es inglés.
+
+---
+
 ## Registro de patrones
 
 Cada vez que un error nuevo se repita **dos veces** en `07_Error_Log.md`, añádelo aquí como sección. Este archivo debe crecer solo con tus errores reales, no con gramática genérica — así sigue siendo corto y sigue valiendo la pena releerlo antes de escribir.
 
 | Patrón | Detectado | Estado |
 |---|---|---|
-| Adjetivo en plural | 2026-08-09 | En vigilancia |
+| Adjetivo en plural | 2026-08-09 | ✅ No reapareció el 10-ago |
 | `the need of` en vez de `the need to` | 2026-08-09 | En vigilancia |
-| Correlativa abierta sin cerrar | 2026-08-09 | En vigilancia |
-| Artículo sobrante / conector faltante en lista | 2026-08-09 | En vigilancia |
+| Correlativa abierta sin cerrar | 2026-08-09 | ✅ Evitada correctamente el 10-ago |
+| Artículo sobrante delante de sustantivo abstracto | 2026-08-09 · **2026-08-10** | ⚠️ **REINCIDENTE** — prioridad 1 |
+| Falso amigo / palabra derivada del español | 2026-08-09 (*motive*) · **2026-08-10** (*laboral*) | ⚠️ **REINCIDENTE** — prioridad 2 → §4.5 |
+| Superlativo donde va comparativo (*most* vs *more*) | 2026-08-10 | Nuevo |
