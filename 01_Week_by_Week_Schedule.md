@@ -6,15 +6,37 @@
 
 ---
 
-## Estado actual — 5 de agosto de 2026
+## 👉 RETOMAR AQUÍ — próxima sesión: lunes 10 de agosto, mañana
 
-**Completado (Fase 1):**
+**Última sesión:** domingo 9 de agosto (recuperó Jue 6 + Vie 7).
+
+**Arrancar con esto, en este orden (~60 min):**
+
+| # | Min | Tarea |
+|---|---|---|
+| 1 | 2 | **Marcar el Batch 1** en `02_Vocabulary_Engine.md:36` — poner `[~]`/`[x]` en las palabras 1–20. Quedó pendiente. Criterio: `[x]` solo si la puedes **usar** en una oración, no si solo la entiendes |
+| 2 | 10 | **Intro prompt 2** (colegios separados vs. mixtos), 10 min cronometrados. Objetivo único: usar **literalmente** la plantilla `While some argue [A], this essay contends that [B]` + meter ≥2 palabras del Batch 1 |
+| 3 | 10 | Vocab: **AWL 21–40** (`02_Vocabulary_Engine.md:65`) |
+| 4 | 10 | **Intro prompt 3** (tecnología y trato cara a cara — ojo, es tipo *advantages/disadvantages*, la posición se plantea distinto) |
+| 5 | 20 | **Body 1** — leer la fórmula Claim → Explain → Example (`03_Writing_Module.md:84`) y escribir uno completo sobre el prompt 1, 15 min cronometrados |
+
+**Antes de escribir, releer las 3 correcciones de `07_Error_Log.md`** (adjetivos sin plural · *the need **to*** · cerrar la estructura que empiezas). Son de ayer y van a reaparecer.
+
+**Nota sobre AWL 41–60:** el cronograma las asignaba al lunes, pero como el Batch 2 se corrió, van al **martes 11** (que no tenía vocabulario asignado). Así no se pierde ningún batch.
+
+---
+
+## Estado — Fase 1 CERRADA ✅ (9 de agosto de 2026)
+
 - [x] Course Overview leído
 - [x] Módulo de Listening leído
 - [x] Módulo de Reading leído
 - [x] Módulo de Writing leído
+- [x] Módulo de Speaking leído *(Ago 9)*
 
-**Pendiente de la Fase 1:** módulo de Speaking (se integra en la Semana 3 abajo).
+**Fase 1 completa: los 4 módulos del examen están cubiertos.** A partir de aquí todo es práctica.
+
+**Primera medición de Writing:** intro Task 2, ~Band 6 (TA 7 · CC 6.5 · LR 6 · GR 5.5). La estructura no es el problema; los errores de gramática puntuales sí.
 
 **Nota sobre el rebase:** el calendario original apuntaba a octubre con 20 semanas. Al mover el examen a noviembre quedan 13 semanas desde hoy para 18 semanas de contenido. La compresión aplicada:
 - Writing mantiene 5 bloques (tu banda más baja — máxima prioridad)
@@ -33,9 +55,9 @@
 
 | Día | Fecha | Tarea |
 |---|---|---|
-| [ ] Jue | Ago 6 | Leer módulo de Speaking (`06_Speaking_Module.md`) — cierra la Fase 1 |
-| [ ] Vie | Ago 7 | Vocab: AWL 1–20. Writing: la estructura de 4 párrafos + fórmula de Introducción (`03_Writing_Module.md`) |
-| [ ] Sáb | Ago 8 | Vocab: AWL 21–40. Writing: escribir 3 introducciones distintas (prompts 1, 2 y 3 del módulo), 10 min cada una |
+| [x] Jue | Ago 6 | ~~Leer módulo de Speaking (`06_Speaking_Module.md`) — cierra la Fase 1~~ ✅ *(recuperado el Ago 9)* |
+| [x] Vie | Ago 7 | ~~Vocab: AWL 1–20. Writing: la estructura de 4 párrafos + fórmula de Introducción~~ ✅ *(recuperado el Ago 9)* |
+| [~] Sáb | Ago 8 | Vocab: AWL 21–40. Writing: 3 introducciones (prompts 1, 2 y 3), 10 min c/u — **✅ prompt 1 hecho (Band ~6). Faltan prompts 2 y 3 + AWL 21–40** |
 | [ ] Dom | Ago 9 | Writing: Body 1 — fórmula Claim → Explain → Example. Escribir un Body 1 completo (15 min) |
 
 ---
