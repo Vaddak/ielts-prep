@@ -62,26 +62,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 21 | **estimate** | verb/noun | to calculate approximately | *Engineers estimated the cost at €2 million.* | [ ] |
-| 22 | **evident** | adjective | clearly seen or understood | *It is evident that automation will reshape the labour market.* | [ ] |
-| 23 | **export** | verb/noun | to send goods abroad; goods sent abroad | *The country exports a significant proportion of its energy surplus.* | [ ] |
-| 24 | **factor** | noun | an element that contributes to a result | *A key factor in signal loss is interference from other devices.* | [ ] |
-| 25 | **feature** | noun/verb | a distinctive aspect; to include as important | *A notable feature of this design is its energy efficiency.* | [ ] |
-| 26 | **final** | adjective | last; conclusive | *The final stage of the process involves quality control.* | [ ] |
-| 27 | **focus** | verb/noun | to concentrate on; a central point of attention | *This paper focuses on the limitations of current battery technology.* | [ ] |
-| 28 | **function** | noun/verb | the purpose of something; to operate | *The sensor functions normally within a temperature range of 0–85°C.* | [ ] |
-| 29 | **identify** | verb | to recognise or name | *The engineers identified three critical failure points.* | [ ] |
-| 30 | **impact** | noun/verb | a strong effect | *The impact of climate change on grid stability is considerable.* | [ ] |
-| 31 | **indicate** | verb | to show or suggest | *The graph indicates a steady increase in demand.* | [ ] |
-| 32 | **individual** | adjective/noun | single; one person | *Each individual component was tested separately.* | [ ] |
-| 33 | **interpret** | verb | to explain or understand the meaning of | *The results can be interpreted in several ways.* | [ ] |
-| 34 | **involve** | verb | to include as a necessary part | *The process involves three distinct phases.* | [ ] |
-| 35 | **issue** | noun | an important topic; a problem | *Power outages remain a critical issue in developing regions.* | [ ] |
-| 36 | **labour** | noun | work; the workforce | *Automation reduces the need for manual labour.* | [ ] |
-| 37 | **legal** | adjective | relating to the law | *Legal frameworks must adapt to new energy technologies.* | [ ] |
-| 38 | **legislate** | verb | to make laws | *Governments must legislate to reduce carbon emissions.* | [ ] |
-| 39 | **major** | adjective | most important; significant | *A major challenge in wireless transmission is signal attenuation.* | [ ] |
-| 40 | **method** | noun | a way of doing something | *A novel method of energy storage was proposed.* | [ ] |
+| 21 | **estimate** | verb/noun | to calculate approximately | *Engineers estimated the cost at €2 million.* | [X] |
+| 22 | **evident** | adjective | clearly seen or understood | *It is evident that automation will reshape the labour market.* | [X] |
+| 23 | **export** | verb/noun | to send goods abroad; goods sent abroad | *The country exports a significant proportion of its energy surplus.* | [X] |
+| 24 | **factor** | noun | an element that contributes to a result | *A key factor in signal loss is interference from other devices.* | [X] |
+| 25 | **feature** | noun/verb | a distinctive aspect; to include as important | *A notable feature of this design is its energy efficiency.* | [X] |
+| 26 | **final** | adjective | last; conclusive | *The final stage of the process involves quality control.* | [X] |
+| 27 | **focus** | verb/noun | to concentrate on; a central point of attention | *This paper focuses on the limitations of current battery technology.* | [X] |
+| 28 | **function** | noun/verb | the purpose of something; to operate | *The sensor functions normally within a temperature range of 0–85°C.* | [X] |
+| 29 | **identify** | verb | to recognise or name | *The engineers identified three critical failure points.* | [X] |
+| 30 | **impact** | noun/verb | a strong effect | *The impact of climate change on grid stability is considerable.* | [X] |
+| 31 | **indicate** | verb | to show or suggest | *The graph indicates a steady increase in demand.* | [X] |
+| 32 | **individual** | adjective/noun | single; one person | *Each individual component was tested separately.* | [X] |
+| 33 | **interpret** | verb | to explain or understand the meaning of | *The results can be interpreted in several ways.* | [X] |
+| 34 | **involve** | verb | to include as a necessary part | *The process involves three distinct phases.* | [X] |
+| 35 | **issue** | noun | an important topic; a problem | *Power outages remain a critical issue in developing regions.* | [X] |
+| 36 | **labour** | noun | work; the workforce | *Automation reduces the need for manual labour.* | [X] |
+| 37 | **legal** | adjective | relating to the law | *Legal frameworks must adapt to new energy technologies.* | [X] |
+| 38 | **legislate** | verb | to make laws | *Governments must legislate to reduce carbon emissions.* | [X] |
+| 39 | **major** | adjective | most important; significant | *A major challenge in wireless transmission is signal attenuation.* | [X] |
+| 40 | **method** | noun | a way of doing something | *A novel method of energy storage was proposed.* | [X] |
 
 ---
 
