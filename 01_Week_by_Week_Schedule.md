@@ -6,24 +6,30 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — próxima sesión: martes 11 de agosto
+## 👉 RETOMAR AQUÍ — martes 11 de agosto, lo que queda
 
-**Última sesión:** lunes 10 de agosto — **completa**. Batch 2, intro 2 reescrita y **primer Body 1**. El paso 4 (intro prompt 3) se saltó a propósito para asegurar el Body 1.
-
-**Arrancar con esto, en este orden (~50 min):**
+**Hecho hoy:** Body 1 reescrito a **~Band 7** (TA 7 · CC 7.5 · LR 7 · GR 7). Nueve de diez errores resueltos. Par original/reescrita guardado en `09_Study_Journal.md` como referencia para el Body 2 del jueves.
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 10 | Vocab: **AWL 41–60** (`02_Vocabulary_Engine.md`, Batch 3). Al terminar, **elegir 2 palabras y anotarlas al margen** — el ritual que funcionó ayer |
-| [ ] 2 | 10 | Releer tu Body 1 del 10-ago junto a la versión Band 7.5. Localizar los **dos** fallos de arquitectura: dónde se desvía del claim, y dónde el cierre concede en vez de reafirmar |
-| [ ] 3 | 20 | **Reescribir ese mismo Body 1**, 15 min cronometrados. Mismo claim, misma idea — arreglando solo la arquitectura |
-| [ ] 4 | 10 | Registrar en `07_Error_Log.md` y `09_Study_Journal.md` |
+| [x] 2 | 10 | ~~Releer el Body 1 junto a la versión Band 7.5~~ ✅ |
+| [x] 3 | 20 | ~~Reescribir el Body 1~~ ✅ **~Band 7** |
+| [x] 4 | 10 | ~~Registrar en `07_Error_Log.md` y `09_Study_Journal.md`~~ ✅ |
+| [ ] 1 | 10 | Vocab: **AWL 41–60** (`02_Vocabulary_Engine.md`, Batch 3) ← **ÚNICO PENDIENTE**. Al terminar, **elegir 2 palabras y anotarlas al margen** — el ritual que funcionó el lunes |
 
-**Por qué reescribir en vez de escribir uno nuevo:** la tarea del martes en el cronograma es *"¿qué hace que un argumento sea Band 7? Profundidad, no longitud"*. Tu Body 1 falló exactamente ahí — 104 palabras correctas que se desviaron a mitad de camino. Reescribir el mismo párrafo enseña profundidad mejor que empezar otro desde cero.
+**Miércoles 12:** AWL 61–80 + los 4 tipos de pregunta de Task 2 + la fórmula de **Body 2 y Conclusión** (venía corrida del lunes).
 
 ---
 
-**El techo se movió otra vez — ahora es ARQUITECTURA DEL PÁRRAFO.**
+### ⚠️ Lo que la reescritura de hoy NO demuestra
+
+Se hizo **sin cronómetro y con la lista de errores a la vista**. Eso prueba que reconoces el nivel 7 y sabes llegar a él — requisito previo para producirlo, y no es poco. Pero el examen mide otra cosa: **producirlo en primera escritura, en 40 minutos, sin lista y sin segunda pasada**.
+
+Esa medición es el **sábado 15**. Conviene tenerlo claro para que el resultado no sorprenda: es normal que la primera escritura del sábado quede por debajo del 7 de hoy. Lo que importa es la distancia entre las dos, y que se acorte con cada tarea.
+
+---
+
+**El techo sigue siendo ARQUITECTURA DEL PÁRRAFO.**
 
 En dos días cayeron dos cuellos de botella: la gramática de interferencia (adjetivos, correlativas) y la activación del vocabulario (0 → 4 palabras). Lo que queda es sostener un argumento durante 100 palabras.
 
@@ -85,8 +91,8 @@ En dos días cayeron dos cuellos de botella: la gramática de interferencia (adj
 | Día | Fecha | Tarea |
 |---|---|---|
 | [x] Lun | Ago 10 | ~~Vocab: AWL 41–60. Writing: fórmula de Body 2 y Conclusión~~ → **hecho en su lugar:** Batch 2 (21–40), intro 2 reescrita (~6.5) y **primer Body 1** (~6). AWL 41–60 pasa al martes; Body 2 y Conclusión al miércoles |
-| [ ] Mar | Ago 11 | Vocab: AWL 41–60. Writing: ¿qué hace que un argumento sea Band 7? Profundidad, no longitud → **reescribir el Body 1 del 10-ago** arreglando la arquitectura (ver bloque RETOMAR arriba) |
-| [ ] Mié | Ago 12 | Vocab: AWL 61–80. Writing: los 4 tipos de pregunta (opinion, discussion, problem-solution, advantages-disadvantages) |
+| [~] Mar | Ago 11 | Vocab: AWL 41–60. Writing: profundidad, no longitud → **✅ Body 1 reescrito a ~Band 7** (9/10 errores resueltos). Pendiente solo AWL 41–60 |
+| [ ] Mié | Ago 12 | Vocab: AWL 61–80. Writing: los 4 tipos de pregunta (opinion, discussion, problem-solution, advantages-disadvantages) + **fórmula de Body 2 y Conclusión** (corrida del lunes 10) |
 | [ ] Jue | Ago 13 | Writing: escribir un Body 2 completo (15 min) sobre el prompt 1 |
 | [ ] Vie | Ago 14 | Vocab: AWL 81–100. Writing: repasar el ensayo modelo anotado del módulo, identificar cada movimiento |
 | [ ] **Sáb** | Ago 15 | **Writing: primer Task 2 completo, 40 min cronometrados** (prompt 1 — salud pública / instalaciones deportivas). Guardarlo como baseline |

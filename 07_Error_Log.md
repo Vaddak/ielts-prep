@@ -80,6 +80,8 @@ After every timed practice or mock exam:
 | 2026-08-10 | **T2 Body 1** (prompt 1) | Grammatical Range | *while offering **also** gymnastics* | Orden del adverbio: *while **also offering** gymnastics* |
 | 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *sport facilities* | *sport**s** facilities* (convención IELTS) |
 | 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *more* ×3 y *most* ×2 en 104 palabras — **detectado por ella sola** ✅ | *the most present* → *the most heavily represented* · *the predominant*. *more facilities* → *additional* · *a greater number of* |
+| 2026-08-11 | **Body 1 reescrito** | Lexical Resource | ⚠️ ***sport** facilities* — sin la `s`. **Error ya registrado el 10-ago que sobrevivió a la reescritura** | ***sports** facilities*. El enunciado mismo lo escribe así. Reincidente: entra al checklist de 60 s |
+| 2026-08-11 | **Body 1 reescrito** | Task Achievement | La 3ª oración sigue derivando: habla de **cómo planificar** instalaciones, no de **por qué la variedad aumenta la participación** (el claim). Mejoró mucho con *therefore* + *match genuine local demand*, pero no está resuelto del todo | Redirigir al claim: *porque cada disciplina atrae a un perfil distinto, una oferta variada capta gente que una sola actividad dejaría fuera*. Prueba por oración: *¿esto desarrolla mi punto, o abre otro?* |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
@@ -93,9 +95,10 @@ After every timed practice or mock exam:
 - [x] ⚠️ **Artículo sobrante delante de sustantivo abstracto general** — 2026-08-09, 2026-08-10 ×2 (**3/3 tareas**) → **prioridad 1, sin excepción**
 - [x] ⚠️ **Falso amigo / palabra derivada del español** (*motive*, *laboral*, *offer*) — **3/3 tareas** → **prioridad 2**
 - [x] ✅ **Vocabulario del batch semanal sin activar** — 0 → 1 → **4** palabras. **Patrón roto el 10-ago** con el Body 1. El fix que funcionó: elegir las palabras y anotarlas **antes** de escribir
-- [x] **Empalme de comas** (dos oraciones independientes unidas por coma) — 1ª ocurrencia, Body 1 del 10-ago. En vigilancia
-- [x] **Párrafo que se desvía del claim** — 1ª ocurrencia. La 3ª oración del Body 1 abrió tema nuevo en vez de desarrollar el punto
-- [x] **Repetición de *more* / *most*** — detectada por ella misma ✅ Señal de que ya relee como examinadora
+- [x] ✅ **Empalme de comas** — 1ª ocurrencia, Body 1 del 10-ago · **resuelto el 11-ago** con cláusula relativa (*which*)
+- [x] ⚠️ **Párrafo que se desvía del claim** — Body 1 del 10-ago · **parcialmente resuelto el 11-ago**: mejoró con *therefore*, pero la 3ª oración sigue hablando de cómo planificar en vez de por qué la variedad funciona. **Sigue siendo el techo**
+- [x] **Repetición de *more* / *most*** — detectada por ella misma ✅ · reducida el 11-ago (*more* ×1, *most* ×2). Señal de que ya relee como examinadora
+- [x] ⚠️ ***sport* por *sports*** — 10-ago, **11-ago** (2/2). Sobrevivió a una reescritura hecha con la lista de errores delante → señal de que los errores de una sola letra no se ven al releer por sentido. Verificación aparte
 
 ---
 
@@ -166,6 +169,9 @@ Words I didn't know or used incorrectly:
 | 2026-08-10 | T2 Intro, prompt 2 (colegios mixtos) | 7 | 7 | 5.5 | 6 | ~6.5 |
 | 2026-08-10 | T2 Intro prompt 2, **v2 reescrita** | 7 | 7 | 6 | 6.5 | ~6.5 |
 | 2026-08-10 | **T2 Body 1**, prompt 1 (salud pública) | 6.5 | 6 | 6 | 6 | ~6 |
+| 2026-08-11 | **Body 1 reescrito** *(sin cronómetro, con lista de errores)* | 7 | 7.5 | 7 | 7 | **~7** |
+
+> ⚠️ **La fila del 11-ago no es comparable con las anteriores.** Las demás son primera escritura bajo cronómetro; esa es una reescritura sin tiempo y con los errores a la vista. Demuestra que **reconoce** el nivel 7 y sabe llegar a él — requisito previo para producirlo, pero no lo mismo. La primera medición real en condiciones de examen es el **sábado 15**.
 
 **Lectura al cierre del 10 de agosto:**
 

@@ -155,3 +155,47 @@ Tercera interferencia del español en 3 tareas: *offer* por "oferta". Y el artí
 **Cómo me sentí:** —
 
 ---
+
+### 2026-08-11 — Semana 4, Martes: reescritura del Body 1 a Band 7.5
+**Módulo:** Writing Task 2 — reescritura del Body 1 (sin cronómetro, con la lista de errores a la vista)
+**Tiempo:** ~30 min
+
+**Qué aprendí o practiqué:** reescritura completa del Body 1 del 10 de agosto aplicando las dos reglas nuevas de arquitectura (*cada oración sirve al claim* · *el cierre reafirma, no concede*) y los errores registrados.
+
+---
+
+#### Versión original (10-ago, 104 palabras, 9:19 cronometrados) — ~Band 6
+
+> One significant advantage of providing more sport facilities is having a wider activities offer, this can increase the number of people from different ages that could get involved. For example, soccer may have the attention of the youth only, while offering also gymnastics could motivate older individuals to join. Identifying which population segments are the most present in each physical activity or which are the most common outdoor hobbies provides the detailed scheme for each sport setting.
+> Consequently, a first step to catch and impact the vast majority of people around is considering a broader spectrum of physical activities that obviously, requires more space.
+
+#### Versión reescrita (11-ago, 99 palabras, sin cronómetro) — ~Band 7
+
+> One significant advantage of providing more sport facilities is that they allow a wider range of activities to be offered, which can increase participation across different age groups. Football, for instance, may appeal primarily to young people, whereas gymnastics or swimming could motivate older individuals to take up regular exercise. Identifying which population segments are most active in each discipline therefore allows authorities to design facilities that match genuine local demand. Consequently, a broader spectrum of physical activity — rather than simply a greater number of venues — is the factor most likely to have a lasting impact on public health.
+
+| Criterio | Original | Reescrita |
+|---|---|---|
+| Task Achievement | 6.5 | **7** |
+| Coherence & Cohesion | 6 | **7.5** |
+| Lexical Resource | 6 | **7** |
+| Grammatical Range | 6 | **7** |
+
+---
+
+**Lo que funcionó — 9 de 10 errores resueltos.** Empalme de comas → cláusula relativa (*which*) · *a wider activities offer* → *a wider range of* · *people from different ages that* → *participation across different age groups* · *the youth only* → *young people* · *while offering also* → *whereas* · *to join* → *to take up regular exercise* · *are the most present* → *are most active* · *provides the detailed scheme* → *allows authorities to design facilities* · *catch and impact* → reformulado.
+
+**El hallazgo del día: no parchó, reestructuró.** *people from different ages that* no se arregló preposición por preposición — se convirtió en *participation across different age groups*, que esquiva el problema entero. Ese es el movimiento de un escritor de Band 7, no de un corrector. Además fue a buscar *take up* a su propio banco de Vocabulary Gaps, donde estaba sin usar desde el 9 de agosto: el error log empezó a funcionar como fuente, no solo como registro.
+
+**El mejor movimiento — el cierre.** Antes concedía una debilidad propia y se desarmaba (*…that obviously, requires more space*). Ahora la convierte en un contraste que refuerza el claim: *a broader spectrum of physical activity **— rather than simply a greater number of venues —** is the factor most likely to have a lasting impact on public health*. Reafirma, precisa el argumento y engancha con *public health*, que es el tema del enunciado. Eso es exactamente lo que pide Band 7.5.
+
+**Dificultades / lo que quedó:**
+1. ***sport facilities*** sigue sin la `s` — error ya registrado el 10-ago que sobrevivió a la reescritura. El enunciado mismo dice *sports facilities*.
+2. **La 3ª oración aún deriva un poco.** Mejoró mucho con *therefore* y *match genuine local demand*, pero sigue hablando de **cómo planificar** en vez de **por qué la variedad aumenta la participación**. Versión alineada al claim: *porque cada disciplina atrae a un perfil distinto, una oferta variada capta gente que una sola actividad dejaría fuera*.
+
+**⚠️ Nota metodológica importante:** esta reescritura fue **sin cronómetro y con la lista de errores al lado**. Demuestra que reconoce el nivel 7.5 y sabe llegar a él — que es el requisito previo para producirlo. Pero **no mide lo mismo que el examen**: producir esto en primera escritura, en 40 minutos, sin lista. Esa medición es el **sábado 15**. El 7 de hoy y el 7 del sábado son cosas distintas.
+
+**Palabras nuevas / consolidadas:** *to be offered* (pasiva), *participation across age groups*, *to appeal primarily to*, *genuine local demand*, *a lasting impact on*, *rather than simply* (estructura de contraste).
+
+**Cómo me sentí:** —
+
+---
