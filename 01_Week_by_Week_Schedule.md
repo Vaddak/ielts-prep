@@ -6,33 +6,41 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — sesión de hoy: lunes 10 de agosto
+## 👉 RETOMAR AQUÍ — próxima sesión: martes 11 de agosto
 
-**Última sesión:** domingo 9 de agosto (recuperó Jue 6 + Vie 7).
+**Última sesión:** lunes 10 de agosto — **completa**. Batch 2, intro 2 reescrita y **primer Body 1**. El paso 4 (intro prompt 3) se saltó a propósito para asegurar el Body 1.
 
-**Arrancar con esto, en este orden (~60 min):**
+**Arrancar con esto, en este orden (~50 min):**
 
 | # | Min | Tarea |
 |---|---|---|
-| [x] 0 | 5 | ~~Leer `10_Grammar_Quick_Reference.md`, sección 4~~ ✅ |
-| [x] 1 | 5 | ~~Reauditar el Batch 1~~ ✅ |
-| [x] 2 | 10 | ~~**Intro prompt 2** (colegios separados vs. mixtos)~~ ✅ **~Band 6.5** (TA 7 · CC 7 · LR 5.5 · GR 6). Errores en `07_Error_Log.md` |
-| [ ] 3 | 10 | Vocab: **AWL 21–40** (`02_Vocabulary_Engine.md:65`) ← **VAS AQUÍ** |
-| [ ] 4 | 10 | **Intro prompt 3** (tecnología y trato cara a cara — ojo, es tipo *advantages/disadvantages*, la posición se plantea distinto) |
-| [ ] 5 | 20 | **Body 1** — leer la fórmula Claim → Explain → Example (`03_Writing_Module.md:84`) y escribir uno completo sobre el prompt 1, 15 min cronometrados |
+| [ ] 1 | 10 | Vocab: **AWL 41–60** (`02_Vocabulary_Engine.md`, Batch 3). Al terminar, **elegir 2 palabras y anotarlas al margen** — el ritual que funcionó ayer |
+| [ ] 2 | 10 | Releer tu Body 1 del 10-ago junto a la versión Band 7.5. Localizar los **dos** fallos de arquitectura: dónde se desvía del claim, y dónde el cierre concede en vez de reafirmar |
+| [ ] 3 | 20 | **Reescribir ese mismo Body 1**, 15 min cronometrados. Mismo claim, misma idea — arreglando solo la arquitectura |
+| [ ] 4 | 10 | Registrar en `07_Error_Log.md` y `09_Study_Journal.md` |
 
-**El objetivo cambió de criterio.** En las dos intros Task Achievement salió 7: la estructura ya está resuelta y no necesita más trabajo. **El techo ahora es Lexical Resource** (5.5). Para los pasos 4 y 5:
+**Por qué reescribir en vez de escribir uno nuevo:** la tarea del martes en el cronograma es *"¿qué hace que un argumento sea Band 7? Profundidad, no longitud"*. Tu Body 1 falló exactamente ahí — 104 palabras correctas que se desviaron a mitad de camino. Reescribir el mismo párrafo enseña profundidad mejor que empezar otro desde cero.
 
-1. **Elige las 2 palabras del batch ANTES de empezar a escribir**, no durante. Anótalas al lado de la hoja.
-2. **Si una palabra se te parece demasiado al español, desconfía** (§4.5). Bajo duda, usa la palabra simple que sabes que existe: *working life* es Band 7, *laboral* es Band 5.
-3. **Cero artículos delante de conceptos generales.** *Technology has transformed society*, no *The technology... the society*. Es tu error reincidente: 2 de 2 tareas.
-4. **Usa los 60 segundos completos de relectura.** Escribes en 2 min de 10 — te sobra tiempo de sobra y tres de los cinco errores de hoy eran cazables.
+---
 
-**Al terminar cada texto escrito, correr el checklist de 60 segundos** del final de la sección 4 de `10_Grammar_Quick_Reference.md`. Cuatro preguntas, un minuto. Es la corrección más barata que existe.
+**El techo se movió otra vez — ahora es ARQUITECTURA DEL PÁRRAFO.**
 
-**Si el tiempo se acaba antes del paso 5:** el paso 5 es el que no se sacrifica. Los prompts 2 y 3 repiten una habilidad que ya está en Band 7 (Task Achievement); Body 1 no existe todavía y es el bloque más grande del ensayo del sábado 15. Si hay que cortar, se corta el paso 4.
+En dos días cayeron dos cuellos de botella: la gramática de interferencia (adjetivos, correlativas) y la activación del vocabulario (0 → 4 palabras). Lo que queda es sostener un argumento durante 100 palabras.
 
-**Nota sobre AWL 41–60:** el cronograma las asignaba al lunes, pero como el Batch 2 se corrió, van al **martes 11** (que no tenía vocabulario asignado). Así no se pierde ningún batch.
+**Las dos reglas nuevas:**
+
+1. **Cada oración del párrafo debe servir al claim.** Si introduce un tema nuevo, va en otro párrafo. Prueba rápida: leer cada oración y preguntar *"¿esto desarrolla mi punto, o abre otro?"*
+2. **El cierre reafirma, nunca concede.** Si mencionas una limitación de tu propia propuesta en el LINK, te desarmas solo. Las limitaciones van en Body 2.
+
+**Las tres reglas que siguen vigentes:**
+
+3. **Elige las 2 palabras del batch ANTES de escribir.** Ritual confirmado: pasaste de 0 a 4 palabras activadas el mismo día que lo aplicaste.
+4. **Si una palabra se parece demasiado al español, desconfía** (§4.5). Van 3 de 3 tareas: *motive*, *laboral*, *offer*.
+5. **Cero artículos delante de conceptos generales.** 3 de 3 tareas. Sigue siendo prioridad 1.
+
+**Al terminar cada texto, correr el checklist de 60 segundos** de `10_Grammar_Quick_Reference.md` §4. Y ojo con algo de ayer: al releer, **quita y precisa — no agregues**. La frase que añadiste al final fue la que debilitó el párrafo.
+
+**Nota sobre el calendario:** las AWL 41–60 estaban asignadas al lunes, pero como el Batch 2 se corrió, van al martes 11. Ningún batch se pierde. Del cronograma original de la Semana 4 queda pendiente la fórmula de **Body 2 y Conclusión** — se integra el miércoles 12.
 
 ---
 
@@ -76,8 +84,8 @@
 
 | Día | Fecha | Tarea |
 |---|---|---|
-| [ ] Lun | Ago 10 | Vocab: AWL 41–60. Writing: fórmula de Body 2 y Conclusión |
-| [ ] Mar | Ago 11 | Writing: ¿qué hace que un argumento sea Band 7? Profundidad, no longitud. Desarrollar 1 argumento de 3 a 6 oraciones |
+| [x] Lun | Ago 10 | ~~Vocab: AWL 41–60. Writing: fórmula de Body 2 y Conclusión~~ → **hecho en su lugar:** Batch 2 (21–40), intro 2 reescrita (~6.5) y **primer Body 1** (~6). AWL 41–60 pasa al martes; Body 2 y Conclusión al miércoles |
+| [ ] Mar | Ago 11 | Vocab: AWL 41–60. Writing: ¿qué hace que un argumento sea Band 7? Profundidad, no longitud → **reescribir el Body 1 del 10-ago** arreglando la arquitectura (ver bloque RETOMAR arriba) |
 | [ ] Mié | Ago 12 | Vocab: AWL 61–80. Writing: los 4 tipos de pregunta (opinion, discussion, problem-solution, advantages-disadvantages) |
 | [ ] Jue | Ago 13 | Writing: escribir un Body 2 completo (15 min) sobre el prompt 1 |
 | [ ] Vie | Ago 14 | Vocab: AWL 81–100. Writing: repasar el ensayo modelo anotado del módulo, identificar cada movimiento |

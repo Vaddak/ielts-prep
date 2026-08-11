@@ -116,3 +116,42 @@ Lo que funcionó: parafraseó sin copiar, sin frases de relleno, posición propi
 **Pendiente de esta sesión:** paso 3 (AWL 21–40) · paso 4 (intro prompt 3) · paso 5 (**Body 1 completo** — el que no se sacrifica).
 
 ---
+
+### 2026-08-10 (tarde) — Cierre de la sesión: Batch 2 + primer Body 1
+**Módulo:** Vocabulary Batch 2 (AWL 21–40) + Writing Task 2 (intro 2 v2 + **Body 1**)
+**Tiempo:** ~40 min
+
+**Decisión:** se saltó el paso 4 (intro prompt 3) para asegurar el paso 5. Criterio, ya escrito en el cronograma: Task Achievement lleva dos tareas en 7, así que una tercera intro entrena algo resuelto; el Body 1 no existía y es el bloque más grande del ensayo del sábado 15.
+
+**Qué aprendí o practiqué:**
+- **Vocabulario:** AWL Batch 2 (21–40) marcado. Incluye ***labour***, justo la palabra que faltaba cuando salió *laboral* el 9 de agosto.
+- **Intro 2 reescrita por iniciativa propia** (~6.5): corrigió *laboral* → *working*, *most* → *more*, y eliminó el artículo sobrante. **Mató el patrón prioridad 1.** Quedó *separated* → *separate* y *mixed schools* sin parafrasear.
+- **Primer Body 1 cronometrado** (prompt 1 — salud pública): 104 palabras en 9:19, dentro del rango 90–110.
+
+**Evaluación del Body 1 (~Band 6):** TA 6.5 · CC 6 · LR 6 · GR 6.
+
+**🎉 Lo más importante del día — patrón roto:**
+
+| Tarea | Palabras del batch activadas |
+|---|---|
+| 09-ago intro 1 | 0 |
+| 10-ago intro 2 | 1 |
+| **10-ago Body 1** | **4** (*identifying*, *individuals*, *involved*, *impact*) |
+
+Era el patrón nº 3 del top 5 y cayó. **El fix que funcionó: elegir las palabras y anotarlas al margen ANTES de escribir**, no buscarlas durante. Ritual a conservar en toda tarea escrita.
+
+**Dificultades:** el techo se movió de vocabulario a **arquitectura del párrafo**. Dos hallazgos del Body 1:
+1. La 3ª oración abrió un tema nuevo (cómo planificar instalaciones) en vez de desarrollar el claim — en Claim → Explain → Example, ahí iba el EXPLAIN.
+2. La frase añadida al releer **concede una desventaja propia** (*requires more space*) justo al cerrar, sin responderla. El LINK reafirma, no concede.
+
+Tercera interferencia del español en 3 tareas: *offer* por "oferta". Y el artículo sobrante salió 3/3.
+
+**Autoobservación destacable:** detectó sola la repetición de *more*/*most* antes de que se la señalaran. Está empezando a releerse como examinadora.
+
+**Sobre el tiempo:** 9:19 de 15 min, y usó parte del sobrante para releer y añadir una frase. El instinto de releer es correcto y hay que conservarlo — pero la frase añadida fue la que debilitó el párrafo. Releer sirve para **quitar y precisar**, no tanto para agregar.
+
+**Palabras nuevas:** *a wider range of*, *to appeal to*, *to reach / to engage*, *whereas*, *age groups*, *the predominant*.
+
+**Cómo me sentí:** —
+
+---
