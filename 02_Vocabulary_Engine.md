@@ -135,7 +135,7 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 77 | **construct** | verb | to build or form | *A theoretical framework was constructed to guide the analysis.* | [X] |
 | 78 | **contribute** | verb | to give or add to something | *Renewable sources contribute approximately 30% of total output.* | [X] |
 | 79 | **convene** | verb | to bring people together for a meeting | *An international panel was convened to address the issue.* | [ ] |
-| 80 | **coordinate** | verb | to organise different elements to work together | *Teams across three countries coordinated the field study.* | [ ] |
+| 80 | **coordinate** | verb | to organise different elements to work together | *Teams across three countries coordinated the field study.* | [X] |
 
 ---
 
