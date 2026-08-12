@@ -252,3 +252,20 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 **Hito de la semana:** con esto quedan escritos **los cuatro bloques del ensayo** — introducción, Body 1, Body 2 y conclusión — tres días antes del Task 2 completo del sábado.
 
 ---
+
+### 2026-08-13 — Semana 4, Jueves: consolidación
+**Módulo:** Writing Task 2 — los 4 tipos de pregunta + copia del Body 2 corregido
+**Tiempo:** en curso · **quinto día consecutivo**
+
+**Qué aprendí o practiqué:**
+- **Los 4 tipos de pregunta de Task 2**, ampliados y guardados en `03_Writing_Module.md`: qué cambia en Body 2 y en la posición según el tipo, las dos trampas específicas (*to what extent* no obliga a estar 100% de acuerdo · *adv–disadv* exige veredicto), y cómo cambia la conclusión en cada uno.
+- **El error más caro identificado:** tratar un Discussion como un Opinion topa Task Achievement en Band 5 por bien que se escriba. Y presentar la visión contraria débil a propósito (*straw man*) también penaliza.
+- **Copiado a mano** el Body 2 y la conclusión corregidos.
+
+**Decisión sobre el error log:** las versiones originales con errores **se conservan**. El archivo no sirve si solo guarda los textos buenos — lo valioso es ver el patrón repitiéndose entre tareas.
+
+**Pendiente para retomar en casa:** reescribir las ideas del Body 2 de memoria (la mitad que entrena de verdad) · AWL 81–100 con el ritual nuevo de **solo 2 palabras** · leer §4.6.
+
+**Cómo me sentí:** —
+
+---

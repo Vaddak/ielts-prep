@@ -42,6 +42,48 @@ Task 2 is worth **twice as much as Task 1** in your final Writing score. Always 
 
 ---
 
+### Qué cambia según el tipo — y qué no
+
+*(Añadido el 12 de agosto de 2026)*
+
+**La estructura de 4 párrafos no cambia nunca.** Lo único que cambia es **qué va en Body 2** y **cómo se plantea la posición**.
+
+| Tipo | Cómo lo reconoces | Body 2 es… | Tu posición |
+|---|---|---|---|
+| **Opinion** | *To what extent do you agree or disagree?* | Tu **segundo argumento** a favor de lo mismo | Clara y de un solo lado, desde la intro |
+| **Discussion** | *Discuss both views and give your own opinion* | **La visión contraria**, presentada con justicia | Ambas visiones + la tuya explícita |
+| **Problem–Solution** | *What problems does this cause? What measures…?* | **Las soluciones** (Body 1 = los problemas) | No opinas: identificas y propones |
+| **Adv–Disadv** | *Do the advantages outweigh the disadvantages?* | **Las desventajas** | Un **veredicto**: ¿qué lado pesa más? |
+
+#### El error que cuesta más banda
+
+**Tratar un Discussion como un Opinion.** Si el enunciado dice *discuss both views* y solo defiendes tu lado, **topas en Band 5 en Task Achievement** por bien que escribas: no respondiste lo que se preguntó.
+
+El inverso también cuenta: en un Opinion, dedicar el Body 2 a la visión contraria diluye la posición que el enunciado te pedía sostener.
+
+En un Discussion, presentar la visión contraria **débil a propósito** para que gane la tuya también penaliza — se llama *straw man* y el examinador lo detecta. Hay que argumentarla de buena fe.
+
+#### Las dos trampas específicas
+
+**1. *To what extent* no obliga a estar 100% de acuerdo.**
+Vale *largely agree*, *agree with reservations*, *only partially*. Una posición matizada y bien defendida puntúa más que un "sí" absoluto. Lo que no vale es quedarse en la mitad sin decidir.
+
+**2. Advantages–Disadvantages exige un veredicto.**
+La pregunta pide una **balanza**, no una lista. Describir ventajas y desventajas sin decir cuál pesa más es no responder. La conclusión tiene que sentenciar.
+
+#### Cómo cambia la conclusión
+
+| Tipo | La conclusión debe… |
+|---|---|
+| Opinion | Reafirmar tu posición, más matizada que en la intro |
+| **Discussion** | **Reconocer ambos lados y decir explícitamente qué piensas** |
+| Problem–Solution | Resumir cuál solución es más viable |
+| Adv–Disadv | Dar el veredicto: qué lado pesa más y por qué |
+
+> ⚠️ **Punto débil detectado el 12-ago:** en un Discussion la opinión propia quedó difusa en la conclusión. En este tipo tu posición tiene que ser **imposible de no ver** — es literalmente lo que pide el enunciado (*give your own opinion*).
+
+---
+
 ### The 4-Paragraph Structure (use this every time)
 
 ```

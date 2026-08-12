@@ -12,16 +12,34 @@
 
 **🏆 Hito: los cuatro bloques del ensayo ya están escritos** — introducción, Body 1, Body 2 y conclusión — tres días antes del Task 2 completo del sábado. La tarea del jueves (escribir un Body 2) se adelantó al miércoles.
 
-**Jueves (~40 min) — día de consolidación, no de material nuevo:**
+**Jueves — lo que falta para cerrar (~20 min). Retomar en casa:**
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 10 | Vocab: **AWL 81–100** (Batch 5). Ritual nuevo: elegir **solo 2** palabras al margen — no más |
-| [ ] 2 | 5 | Leer `10_Grammar_Quick_Reference.md` **§4.6** (ortografía y el bucle de la duda) — es de hoy |
-| [ ] 3 | 10 | Copiar a mano el Body 2 corregido y la conclusión corregida. Luego **cerrarlos y reescribir las ideas de memoria**, con tus propias palabras |
-| [ ] 4 | 15 | Writing: los **4 tipos de pregunta** de Task 2 (`03_Writing_Module.md:34`) — quedó pendiente del miércoles |
+| [x] 4 | 15 | ~~Los **4 tipos de pregunta** de Task 2~~ ✅ — ampliados en `03_Writing_Module.md` con las trampas por tipo y cómo cambia la conclusión |
+| [x] 3a | 10 | ~~Copiar a mano el Body 2 y la conclusión corregidos~~ ✅ |
+| [ ] 3b | 5 | **Cerrar la hoja y reescribir las IDEAS de memoria**, con tus propias palabras. No intentes recordar mi redacción — recuerda el *argumento* y vuelve a construirlo ← **la mitad que entrena de verdad** |
+| [ ] 1 | 10 | Vocab: **AWL 81–100** (Batch 5). Ritual nuevo: **solo 2 palabras** al margen, no 8 |
+| [ ] 2 | 5 | Leer `10_Grammar_Quick_Reference.md` **§4.6** — ortografía y el bucle de la duda |
 
-**Por qué el paso 3 no es solo copiar:** copiar a mano fija los patrones, pero copiar no es producir. Reescribir las **ideas** de memoria —sin mirar, con tus palabras— es lo que entrena lo que el examen mide de verdad.
+**Viernes 14:** AWL 101–120 + repasar el ensayo modelo anotado del módulo (`03_Writing_Module.md`, final), identificando cada movimiento. Día ligero a propósito, antes del sábado.
+
+---
+
+### 📌 Cómo leer el resultado del sábado 15
+
+El Task 2 del sábado es el **prompt 1** (salud pública) — el mismo del que ya tienes escritos los cuatro bloques. **No va a medir tu banda real:** vas a reconstruir material trabajado, no a generar en frío.
+
+Y está bien que así sea. Para un **primer ensayo completo** el objetivo no es la banda, es:
+1. Sobrevivir 40 minutos seguidos
+2. Montar los cuatro bloques en orden
+3. Practicar el reparto **25 min escribir / 15 min corregir**
+
+Hacerlo sobre terreno conocido deja atención libre para el reloj y la corrección, que es lo que hay que entrenar.
+
+**La primera banda fría de verdad es el sábado 22** (prompt 4 — brecha entre ricos y pobres), que además es *Problem–Solution*, otro tipo de pregunta.
+
+> **Anotar las dos cifras por separado en `08_Mock_Exam_Tracker.md` y no compararlas entre sí.** Si el 15 sale 7 y el 22 sale 6, no hubo retroceso: son pruebas distintas.
 
 ---
 
