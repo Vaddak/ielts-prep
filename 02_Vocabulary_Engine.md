@@ -89,26 +89,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 41 | **occur** | verb | to happen | *Voltage fluctuations occur frequently in older grid systems.* | [ ] |
-| 42 | **percent** | noun | parts per hundred | *Output increased by 12 percent following the upgrade.* | [ ] |
-| 43 | **period** | noun | a length of time | *During the test period, no anomalies were recorded.* | [ ] |
-| 44 | **policy** | noun | a set of rules or guidelines | *Energy policy must balance economic and environmental goals.* | [ ] |
-| 45 | **principle** | noun | a fundamental rule or belief | *The principle of least resistance governs current flow.* | [ ] |
-| 46 | **proceed** | verb | to continue or move forward | *The experiment proceeded without interruption.* | [ ] |
-| 47 | **process** | noun/verb | a series of actions; to analyse data | *The manufacturing process requires precise temperature control.* | [ ] |
-| 48 | **require** | verb | to need something | *This method requires advanced computational resources.* | [ ] |
-| 49 | **research** | noun/verb | systematic investigation | *Extensive research has been conducted on fuel cell efficiency.* | [ ] |
-| 50 | **respond** | verb | to react to something | *The system responds to input within milliseconds.* | [ ] |
-| 51 | **role** | noun | a function or position | *Engineers play a central role in sustainable development.* | [ ] |
-| 52 | **section** | noun | a distinct part | *The final section of the report addresses cost-benefit analysis.* | [ ] |
-| 53 | **significant** | adjective | important; large enough to notice | *There was a significant reduction in energy consumption.* | [ ] |
-| 54 | **similar** | adjective | almost the same | *The two prototypes produced similar results under load.* | [ ] |
-| 55 | **source** | noun | the origin of something | *Solar radiation is the primary source of renewable energy.* | [ ] |
-| 56 | **specific** | adjective | clearly defined; particular | *The study examined specific failure modes in MEMS devices.* | [ ] |
-| 57 | **structure** | noun/verb | the arrangement of parts; to organise | *The structure of the argument must be logical and clear.* | [ ] |
-| 58 | **theory** | noun | a set of principles explaining something | *Game theory has applications in network design.* | [ ] |
-| 59 | **vary** | verb | to change or differ | *Results vary depending on ambient temperature.* | [ ] |
-| 60 | **sector** | noun | a distinct area of activity | *The energy sector is undergoing rapid transformation.* | [ ] |
+| 41 | **occur** | verb | to happen | *Voltage fluctuations occur frequently in older grid systems.* | [X] |
+| 42 | **percent** | noun | parts per hundred | *Output increased by 12 percent following the upgrade.* | [X] |
+| 43 | **period** | noun | a length of time | *During the test period, no anomalies were recorded.* | [X] |
+| 44 | **policy** | noun | a set of rules or guidelines | *Energy policy must balance economic and environmental goals.* | [X] |
+| 45 | **principle** | noun | a fundamental rule or belief | *The principle of least resistance governs current flow.* | [X] |
+| 46 | **proceed** | verb | to continue or move forward | *The experiment proceeded without interruption.* | [X] |
+| 47 | **process** | noun/verb | a series of actions; to analyse data | *The manufacturing process requires precise temperature control.* | [X] |
+| 48 | **require** | verb | to need something | *This method requires advanced computational resources.* | [X] |
+| 49 | **research** | noun/verb | systematic investigation | *Extensive research has been conducted on fuel cell efficiency.* | [X] |
+| 50 | **respond** | verb | to react to something | *The system responds to input within milliseconds.* | [X] |
+| 51 | **role** | noun | a function or position | *Engineers play a central role in sustainable development.* | [X] |
+| 52 | **section** | noun | a distinct part | *The final section of the report addresses cost-benefit analysis.* | [X] |
+| 53 | **significant** | adjective | important; large enough to notice | *There was a significant reduction in energy consumption.* | [X] |
+| 54 | **similar** | adjective | almost the same | *The two prototypes produced similar results under load.* | [X] |
+| 55 | **source** | noun | the origin of something | *Solar radiation is the primary source of renewable energy.* | [X] |
+| 56 | **specific** | adjective | clearly defined; particular | *The study examined specific failure modes in MEMS devices.* | [X] |
+| 57 | **structure** | noun/verb | the arrangement of parts; to organise | *The structure of the argument must be logical and clear.* | [X] |
+| 58 | **theory** | noun | a set of principles explaining something | *Game theory has applications in network design.* | [X] |
+| 59 | **vary** | verb | to change or differ | *Results vary depending on ambient temperature.* | [X] |
+| 60 | **sector** | noun | a distinct area of activity | *The energy sector is undergoing rapid transformation.* | [X] |
 
 ---
 
