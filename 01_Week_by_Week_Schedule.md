@@ -6,18 +6,21 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 11 de agosto, lo que queda
+## 👉 RETOMAR AQUÍ — próxima sesión: miércoles 12 de agosto
 
-**Hecho hoy:** Body 1 reescrito a **~Band 7** (TA 7 · CC 7.5 · LR 7 · GR 7). Nueve de diez errores resueltos. Par original/reescrita guardado en `09_Study_Journal.md` como referencia para el Body 2 del jueves.
+**Martes 11 — COMPLETO ✅.** Body 1 reescrito a **~Band 7** (TA 7 · CC 7.5 · LR 7 · GR 7), nueve de diez errores resueltos, y AWL 41–60 estudiadas. Par original/reescrita guardado en `09_Study_Journal.md` como referencia para el Body 2.
+
+**Tres días seguidos sin fallar. La racha es el activo — protegerla.**
+
+**Miércoles (~45 min). Es el día más cargado de la semana:**
 
 | # | Min | Tarea |
 |---|---|---|
-| [x] 2 | 10 | ~~Releer el Body 1 junto a la versión Band 7.5~~ ✅ |
-| [x] 3 | 20 | ~~Reescribir el Body 1~~ ✅ **~Band 7** |
-| [x] 4 | 10 | ~~Registrar en `07_Error_Log.md` y `09_Study_Journal.md`~~ ✅ |
-| [ ] 1 | 10 | Vocab: **AWL 41–60** (`02_Vocabulary_Engine.md`, Batch 3) ← **ÚNICO PENDIENTE**. Al terminar, **elegir 2 palabras y anotarlas al margen** — el ritual que funcionó el lunes |
+| [ ] 1 | 10 | Vocab: **AWL 61–80** (`02_Vocabulary_Engine.md`, Batch 4). Ritual: elegir 2 palabras y anotarlas al margen |
+| [ ] 2 | 10 | Writing: los **4 tipos de pregunta** de Task 2 — opinion · discussion · problem-solution · advantages-disadvantages (`03_Writing_Module.md:34`). Qué cambia en la posición y en el Body 2 según el tipo |
+| [ ] 3 | 25 | Writing: fórmulas de **Body 2 y Conclusión** (`03_Writing_Module.md:112`). **Venía corrida desde el lunes 10 y es imprescindible antes del jueves** — el jueves escribes un Body 2 completo |
 
-**Miércoles 12:** AWL 61–80 + los 4 tipos de pregunta de Task 2 + la fórmula de **Body 2 y Conclusión** (venía corrida del lunes).
+**Por qué el paso 3 no se puede saltar otra vez:** el jueves 13 la tarea es escribir un Body 2 cronometrado, y el sábado 15 el ensayo completo. Sin la fórmula de Body 2 y Conclusión llegas al sábado con la mitad de la estructura sin ver. Ya se corrió una vez; si hay que recortar el miércoles, se recorta el paso 2, no el 3.
 
 ---
 
@@ -91,7 +94,7 @@ En dos días cayeron dos cuellos de botella: la gramática de interferencia (adj
 | Día | Fecha | Tarea |
 |---|---|---|
 | [x] Lun | Ago 10 | ~~Vocab: AWL 41–60. Writing: fórmula de Body 2 y Conclusión~~ → **hecho en su lugar:** Batch 2 (21–40), intro 2 reescrita (~6.5) y **primer Body 1** (~6). AWL 41–60 pasa al martes; Body 2 y Conclusión al miércoles |
-| [~] Mar | Ago 11 | Vocab: AWL 41–60. Writing: profundidad, no longitud → **✅ Body 1 reescrito a ~Band 7** (9/10 errores resueltos). Pendiente solo AWL 41–60 |
+| [x] Mar | Ago 11 | ~~Vocab: AWL 41–60. Writing: profundidad, no longitud~~ ✅ **completo** — Body 1 reescrito a ~Band 7 (9/10 errores resueltos) + AWL 41–60 |
 | [ ] Mié | Ago 12 | Vocab: AWL 61–80. Writing: los 4 tipos de pregunta (opinion, discussion, problem-solution, advantages-disadvantages) + **fórmula de Body 2 y Conclusión** (corrida del lunes 10) |
 | [ ] Jue | Ago 13 | Writing: escribir un Body 2 completo (15 min) sobre el prompt 1 |
 | [ ] Vie | Ago 14 | Vocab: AWL 81–100. Writing: repasar el ensayo modelo anotado del módulo, identificar cada movimiento |

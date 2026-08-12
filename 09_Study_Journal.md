@@ -199,3 +199,5 @@ Tercera interferencia del español en 3 tareas: *offer* por "oferta". Y el artí
 **Cómo me sentí:** —
 
 ---
+
+**Cierre del martes 11:** AWL 41–60 (Batch 3) estudiadas con el ritual de anotar 2 palabras al margen. **Sesión completa** — tercer día consecutivo sin fallar.
