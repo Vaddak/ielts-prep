@@ -386,15 +386,80 @@ El mismo instinto que produce *laboral* produce plurales que no existen. En ingl
 
 ---
 
+## 4.6 Ortografía bajo cronómetro — el bucle de la duda
+
+**Tus errores (2026-08-12):** *lonelliness* · *proffessional* · *atract* · *settlings*
+
+**Tu propia observación, y es el diagnóstico exacto:**
+
+> *"Peleé mucho con palabras como attract y loneliness porque juré que me estaba equivocando y les quitaba o les ponía."*
+
+Eso no es un error bobo. Es un fenómeno conocido y tiene un nombre informal: **el bucle de la duda ortográfica**. Miras una palabra que escribiste bien, te suena rara porque la estás mirando fijo, la "corriges", ahora sí está mal, y ya no tienes referencia para volver atrás.
+
+### Por qué pasa
+
+Casi todas las palabras que te hacen dudar tienen una cosa en común: **una consonante doble en un sitio y simple en otro**. *attract* (doble t, una c). *professional* (una f, doble s). *loneliness* (una n, doble s al final). El cerebro sabe que "hay algo doble ahí", pero no cuál — y bajo cronómetro empieza a probar.
+
+### La regla
+
+**Tu primer instinto es correcto la mayoría de las veces.** Si escribiste una palabra y luego dudaste, **no la toques en el momento**. Subráyala, sigue escribiendo, y revísala al final con cabeza fría. Cambiarla en caliente es cómo una palabra bien escrita se vuelve una mal escrita.
+
+Si al final sigues dudando: **usa otra palabra**. *attract* → *draw in*, *bring in*. *professional* → *trained*, *qualified*. Una palabra más simple bien escrita puntúa más que una ambiciosa mal escrita.
+
+### Tus palabras — memorizar estas cuatro
+
+| ❌ | ✅ | Truco |
+|---|---|---|
+| ~~atract~~ | **attract** | doble **t**, una sola **c** — como *attention* |
+| ~~lonelliness~~ | **loneliness** | *lonely* + *ness*, y la **y** se vuelve **i**: lone·li·ness. Una sola **l** en medio |
+| ~~proffessional~~ | **professional** | una **f**, doble **s** — como *profession* |
+| ~~settlings~~ | **settings** | de *setting* (entorno). *Settlement* es otra cosa (acuerdo, asentamiento) |
+
+### Dobles consonantes de alta frecuencia en IELTS
+
+Estas aparecen constantemente en Task 2. Vale la pena mirarlas una vez y no volver a dudar:
+
+| Doble | |
+|---|---|
+| a**cc**ommodate · a**cc**ess · a**cc**urate | doble c |
+| ne**c**e**ss**ary · succe**ss**ful · profe**ss**ional · a**ss**ess · a**ss**istance | una c/f, doble s |
+| a**tt**ract · co**mm**it**t**ed · occu**rr**ence · refe**rr**ed | doble t / m / r |
+| begi**nn**ing · reco**mm**end · i**mm**ediately · oppo**rt**unity · po**ss**ess | |
+
+### Y las que NO llevan doble (aunque lo parezca)
+
+| ❌ | ✅ |
+|---|---|
+| ~~developpment~~ | **development** |
+| ~~disapear~~ | **disappear** (dis + appear → doble p) |
+| ~~arguement~~ | **argument** (sin e) |
+| ~~definately~~ | **definitely** |
+| ~~untill~~ | **until** (una l) |
+| ~~acrros~~ | **across** (una c, doble s) |
+| ~~enviroment~~ | **environment** (con la n de *iron*) |
+| ~~goverment~~ | **government** (con la n de *govern*) |
+
+### La pasada extra de 10 segundos
+
+Después del checklist de 60 segundos por sentido, haz una pasada corta buscando **solo** ortografía y terminaciones — plurales, `-s` de tercera persona, dobles consonantes. Son categorías que la revisión por sentido **no ve**, porque el cerebro lee lo que quisiste escribir, no lo que escribiste.
+
+Prueba de esto: *sport facilities* sobrevivió a una reescritura completa hecha **con la lista de errores delante**, el 11 de agosto. No fue descuido — fue que ese tipo de error es invisible al releer por significado.
+
+---
+
 ## Registro de patrones
 
 Cada vez que un error nuevo se repita **dos veces** en `07_Error_Log.md`, añádelo aquí como sección. Este archivo debe crecer solo con tus errores reales, no con gramática genérica — así sigue siendo corto y sigue valiendo la pena releerlo antes de escribir.
 
 | Patrón | Detectado | Estado |
 |---|---|---|
-| Adjetivo en plural | 2026-08-09 | ✅ No reapareció el 10-ago |
+| Adjetivo en plural | 2026-08-09 | ✅ No reapareció |
 | `the need of` en vez de `the need to` | 2026-08-09 | En vigilancia |
-| Correlativa abierta sin cerrar | 2026-08-09 | ✅ Evitada correctamente el 10-ago |
-| Artículo sobrante delante de sustantivo abstracto | 2026-08-09 · **2026-08-10** | ⚠️ **REINCIDENTE** — prioridad 1 |
-| Falso amigo / palabra derivada del español | 2026-08-09 (*motive*) · **2026-08-10** (*laboral*) | ⚠️ **REINCIDENTE** — prioridad 2 → §4.5 |
-| Superlativo donde va comparativo (*most* vs *more*) | 2026-08-10 | Nuevo |
+| Correlativa abierta sin cerrar | 2026-08-09 · **2026-08-12** | 🔴 **VOLVIÓ tras darse por resuelta.** 2 de 2 veces que la usó, la rompió → **regla: no usar `not only… but also` en el examen.** Alternativa: *Beyond X, Y must also…* |
+| Artículo (sobrante **o faltante**) ante sustantivo abstracto | 2026-08-09 · 08-10 · 08-11 · **08-12** | ⚠️ **4/4 tareas** — prioridad 1. Ojo: falla en las dos direcciones (*of population* le faltaba, *a complete wellbeing* le sobraba) |
+| Falso amigo / palabra derivada del español | 08-09 (*motive*) · 08-10 (*laboral*) · 08-11 (*offer*) · **08-12** (*assistant*, *consequent with*, *persons*) | ⚠️ **4/4 tareas** — prioridad 2 → §4.5 |
+| Superlativo donde va comparativo (*most* vs *more*) | 2026-08-10 | ✅ No reapareció |
+| *sport* por *sports* | 08-10 · 08-11 · **08-12** | ⚠️ 3/3 → pasada extra de terminaciones (§4.6) |
+| Concordancia sujeto–verbo | **2026-08-12** | Nuevo: *data show**s*** (data es plural) · *depression, anxiety and loneliness **affects*** (sujeto compuesto) |
+| Ortografía: bucle de la duda con dobles consonantes | **2026-08-12** | Nuevo → §4.6. Detectado y descrito por ella misma ✅ |
+| **Vocabulario forzado** (meter palabras del batch donde no encajan) | **2026-08-12** | Nuevo. Efecto secundario de haber resuelto la activación: 8 palabras metidas, 2 mal usadas. **Objetivo nuevo: 2–3 bien, no 8 aproximadas** |

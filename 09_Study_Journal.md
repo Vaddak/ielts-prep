@@ -201,3 +201,54 @@ Tercera interferencia del español en 3 tareas: *offer* por "oferta". Y el artí
 ---
 
 **Cierre del martes 11:** AWL 41–60 (Batch 3) estudiadas con el ritual de anotar 2 palabras al margen. **Sesión completa** — tercer día consecutivo sin fallar.
+
+---
+
+### 2026-08-12 — Semana 4, Miércoles: Batch 4 + Body 2 + primera Conclusión
+**Módulo:** Vocabulary Batch 4 (AWL 61–80) + Writing Task 2 (Body 2 y Conclusión, fórmulas + práctica)
+**Tiempo:** ~45 min · **cuarto día consecutivo**
+
+**Qué aprendí o practiqué:**
+- **Vocabulario:** AWL Batch 4 (61–80) completo.
+- **Fórmulas de Body 2 y Conclusión** — qué cambia según el tipo de pregunta, transiciones de contraste, y las 3 reglas absolutas de la conclusión (cero ideas nuevas, cero ejemplos nuevos, opinión explícita).
+- **Primer Body 2 + primera Conclusión cronometrados** (prompt 1, salud pública): 66 + 30 palabras en ~3:16 de 15 min.
+
+**Evaluación (~Band 5.5):** TA 5.5 · CC 6 · LR 5.5 · GR 5.
+
+**Lo que funcionó:**
+- **Eligió el argumento correcto.** El enunciado pide *other measures are required* y se fue a salud mental: lectura legítima, incluso sofisticada, y presentada de buena fe. Nada de argumento de paja — eso es justo lo que premia Task Achievement en un *Discuss both views*.
+- **La transición salió limpia:** *However, a significant drawback of this approach is…*
+- **La plantilla de conclusión también:** *In conclusion, while [otro lado], it is clear that [posición].*
+
+**🔴 El hallazgo del día — vocabulario forzado:**
+
+| Tarea | Palabras del batch activadas |
+|---|---|
+| 09-ago intro | 0 |
+| 10-ago intro | 1 |
+| 10-ago Body 1 | 4 |
+| **12-ago Body 2** | **8** |
+
+El ritual funcionó **demasiado** bien. Dos palabras quedaron mal usadas: *a significant **drawback**… is the **contribution** that mental health has* (un drawback no es una contribution — la oración dice lo contrario de lo que quería) y *consequent with*, calco directo de "consecuente con".
+
+**El problema anterior está resuelto y creó el siguiente.** Objetivo nuevo: **2–3 palabras bien usadas, no 8 aproximadas.** Si hay que torcer la frase para meter la palabra, la palabra sobra.
+
+**Dificultades — el patrón más caro, ahora nº1 del top 5:** usó **~4 minutos de 15**. Diez errores en 96 palabras, y casi todos cazables sin saber más inglés: *lonelliness*, *proffessional*, *atract*, *a accelerated*, *data shows*, *…loneliness affects*, *assistant* por *assistance*, *of ∅ population*, *caring of*, *sport settlings*.
+
+Volvió además el `not only… but also` sin cerrar, dado por resuelto desde el 09-ago. **Van 2 de 2 usos rotos → queda prohibido en el examen.**
+
+**🌟 Autodiagnóstico destacado — el bucle de la duda ortográfica.** Ella misma lo describió:
+
+> *"Peleé mucho con palabras como attract y loneliness porque juré que me estaba equivocando y les quitaba o les ponía."*
+
+Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene sección propia ahora (§4.6): casi todas esas palabras tienen una consonante doble en un sitio y simple en otro, el cerebro sabe que "hay algo doble" pero no dónde, y bajo cronómetro empieza a probar. **Regla: el primer instinto suele ser el correcto — subrayar, seguir, y revisar al final con cabeza fría.** Nunca cambiar en caliente.
+
+**Sobre la caída de banda:** no es retroceso. Contenido más difícil (defender la visión contraria), primera conclusión de su vida, y ~4 min de 15. La comparación honesta es primera escritura contra primera escritura, y ahí el cuello de botella no es el inglés — es el tiempo de revisión sin usar.
+
+**Palabras nuevas / correcciones:** *to overlook*, *professional assistance* (≠ *assistant*), *psychological support*, *a greater number of people* (≠ *persons*), *to care **for***, *deterioration*, *bodily systems*, *contingent on* / *depends on* (≠ *consequent with*).
+
+**Cómo me sentí:** —
+
+**Hito de la semana:** con esto quedan escritos **los cuatro bloques del ensayo** — introducción, Body 1, Body 2 y conclusión — tres días antes del Task 2 completo del sábado.
+
+---

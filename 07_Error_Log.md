@@ -81,6 +81,18 @@ After every timed practice or mock exam:
 | 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *sport facilities* | *sport**s** facilities* (convención IELTS) |
 | 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *more* ×3 y *most* ×2 en 104 palabras — **detectado por ella sola** ✅ | *the most present* → *the most heavily represented* · *the predominant*. *more facilities* → *additional* · *a greater number of* |
 | 2026-08-11 | **Body 1 reescrito** | Lexical Resource | ⚠️ ***sport** facilities* — sin la `s`. **Error ya registrado el 10-ago que sobrevivió a la reescritura** | ***sports** facilities*. El enunciado mismo lo escribe así. Reincidente: entra al checklist de 60 s |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Task Achievement | ⚠️ **Claim malformado:** *a significant **drawback**… is the **contribution** that mental health has* — un drawback no puede ser una contribution. La oración dice lo contrario de lo que quería decir | *…is that it **overlooks** the role of mental health in overall wellbeing*. El claim debe **nombrar la desventaja**, no describir un beneficio |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Task Achievement | Faltan el **EXAMPLE** y el **LINK**. Estructura real: Claim → Explain → propuesta. Por eso quedó en 66 palabras de 90–110 | La 3ª oración debe ser evidencia concreta, y la 4ª reafirmar el claim del Body 2 |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Lexical Resource | 🔴 **VOCABULARIO FORZADO — hallazgo principal.** 8 palabras de los batches metidas; 2 mal usadas (*contribution*, *consequent with*). *consequent with* no existe (calco de "consecuente con") | **Objetivo nuevo: 2–3 palabras bien usadas, no 8 aproximadas.** Si hay que torcer la frase para meter la palabra, la palabra sobra |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Grammatical Range | 🔴 *In order to **not only** allowing…* — correlativa abierta sin cerrar **otra vez**, y con gerundio en vez de infinitivo. Estaba dada por resuelta desde el 09-ago | **Regla firme: no usar `not only… but also` en el examen.** 2 de 2 usos rotos. Alternativa: *Beyond providing areas for exercise, facilities must also offer…* |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Grammatical Range | *Data … show**s*** | ***data* es plural** en inglés académico: *data **show***. Está en el Batch 1, palabra 14, con ese ejemplo exacto |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Grammatical Range | *depression, anxiety and loneliness **affects*** | Sujeto compuesto → ***affect*** |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Grammatical Range | ***a** accelerated* · *the general wellbeing of ∅ population* | ***an** accelerated* · *of **the** population*. ⚠️ Artículo — **4/4 tareas**, y ahora falla en las dos direcciones |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Lexical Resource | *professional **assistant*** — *assistant* es una persona, no un servicio | *professional **assistance*** · *psychological **support***. ⚠️ 4ª interferencia del español |
+| 2026-08-12 | **T2 Body 2** (prompt 1) | Lexical Resource | Ortografía: *lonelliness* · *proffessional* · *atract* · *settlings* | loneliness · professional · attract · settings. **Causa identificada por ella misma: el bucle de la duda** — escribió bien, dudó, "corrigió" y quedó mal → §4.6 |
+| 2026-08-12 | **T2 Conclusión** | Task Achievement | Una sola oración de 30 palabras (van **2**, de 40–60), y la posición queda difusa: *having a complete wellbeing is also consequent with caring of mental health* | En un *Discuss both views* la opinión propia debe ser **explícita** en la conclusión. Es lo que pide el enunciado literalmente |
+| 2026-08-12 | **T2 Conclusión** | Lexical Resource | *a bigger number of **persons*** · *caring **of*** · *having **a** complete wellbeing* | *a greater number of **people*** · *caring **for*** · *achieving complete wellbeing* |
+| 2026-08-12 | **T2 Conclusión** | Lexical Resource | *sport **settlings*** | *sport**s** facilities*. ⚠️ *sport*/*sports* — 3/3 tareas |
 | 2026-08-11 | **Body 1 reescrito** | Task Achievement | La 3ª oración sigue derivando: habla de **cómo planificar** instalaciones, no de **por qué la variedad aumenta la participación** (el claim). Mejoró mucho con *therefore* + *match genuine local demand*, pero no está resuelto del todo | Redirigir al claim: *porque cada disciplina atrae a un perfil distinto, una oferta variada capta gente que una sola actividad dejaría fuera*. Prueba por oración: *¿esto desarrolla mi punto, o abre otro?* |
 
 **Common Writing Patterns:**
@@ -145,13 +157,27 @@ Words I didn't know or used incorrectly:
 
 *(Update this after each mock exam — these are your priority fixes)*
 
-**Estado: 2026-08-10 (cierre) · base = 4 tareas escritas (3 intros T2 + 1 Body 1)**
+**Estado: 2026-08-12 · base = 6 tareas escritas (3 intros + Body 1 + reescritura + Body 2/Conclusión)**
 
-1. ⚠️ **Artículo sobrante delante de sustantivo abstracto general** — **3/3 tareas**, sin una sola excepción. *the education*, *the real academic life*, *the detailed scheme* → sin artículo cuando hablas en general. → `10_Grammar_Quick_Reference.md` §4.4
-2. ⚠️ **Falso amigo / palabra derivada del español** — **3/3 tareas**. *motive*, *laboral*, *offer*. El más caro: golpea Lexical Resource y delata traducción mental. Regla bajo cronómetro: **si la palabra se parece demasiado al español, desconfía y usa la simple que sabes que existe**. → §4.5
-3. **Imprecisión léxica bajo cronómetro** — *related to*, *space*, *catch*, *most*. La estructura sale bien pero la palabra elegida es la aproximada, no la exacta. Fix: los 60 segundos de revisión
-4. 🆕 **Arquitectura del párrafo** (nuevo, desde el primer Body 1) — el párrafo se desvía del claim a mitad de camino, y el cierre concede en vez de reafirmar. Este es **el techo actual**, por encima del vocabulario
-5. **Preposición fija tras sustantivo abstracto** — 1 ocurrencia (*the need of*). En vigilancia. → §4.2
+1. 🔴 **NO USAR EL TIEMPO DE REVISIÓN** — el patrón más caro de todos, y transversal a los otros cuatro. Escribe en 1–4 min tareas de 10–15. El 12-ago: **10 errores en 96 palabras, casi todos cazables sin saber más inglés**. Regla para el sábado: **25 min escribir, 15 min corregir**. No añadir — quitar, precisar, revisar
+2. ⚠️ **Artículo ante sustantivo abstracto** — **4/4 tareas**, y ahora falla en **las dos direcciones**: sobra (*a complete wellbeing*) y falta (*of ∅ population*). → §4.4
+3. ⚠️ **Falso amigo / palabra derivada del español** — **4/4 tareas**. *motive*, *laboral*, *offer*, *assistant*, *consequent with*, *persons*. → §4.5
+4. 🆕 **Vocabulario forzado** (nuevo, 12-ago) — reemplaza al antiguo "vocabulario sin activar", ya resuelto. Metió 8 palabras del batch y 2 quedaron mal usadas. **Objetivo: 2–3 bien, no 8 aproximadas.** Si hay que torcer la frase para meter la palabra, la palabra sobra
+5. **Arquitectura del párrafo** — el claim no dice lo que quiere decir (*drawback… is the contribution*), y faltan EXAMPLE y LINK. Sigue siendo el techo estructural. Prueba por oración: *¿esto desarrolla mi punto, o abre otro?*
+
+**Vigilancia (no en el top 5, pero registrados):**
+- 🔴 **`not only… but also`** — 2 de 2 usos rotos (09-ago, 12-ago). **Prohibida en el examen.** Alternativa: *Beyond X, Y must also…*
+- ⚠️ ***sport* por *sports*** — 3/3 tareas. Pasada extra de terminaciones
+- **Concordancia sujeto–verbo** — *data shows*, *…and loneliness affects* (12-ago)
+- **Ortografía / bucle de la duda** — §4.6. **Detectado y descrito por ella misma** ✅
+
+**Lo que YA está resuelto (no gastar tiempo aquí):**
+- ✅ Adjetivos en plural — no reapareció
+- ✅ Estructura de la introducción — TA 7 en las tres intros. La plantilla funciona
+- ✅ **Activación del vocabulario** — 0 → 1 → 4 → 8 palabras. Roto el 10-ago. **Ahora el problema es el opuesto** (ver punto 4)
+- ✅ Superlativo por comparativo — no reapareció
+- ✅ Empalme de comas — resuelto el 11-ago
+- ✅ **Elegir el argumento correcto para Body 2** — el 12-ago eligió salud mental como "otra medida": lectura legítima del enunciado y presentada de buena fe, no un argumento de paja. Eso es exactamente lo que premia TA en un *Discuss both views*
 
 **Lo que YA está resuelto (no gastar tiempo aquí):**
 - ✅ Adjetivos en plural — no reapareció el 10-ago
@@ -170,6 +196,14 @@ Words I didn't know or used incorrectly:
 | 2026-08-10 | T2 Intro prompt 2, **v2 reescrita** | 7 | 7 | 6 | 6.5 | ~6.5 |
 | 2026-08-10 | **T2 Body 1**, prompt 1 (salud pública) | 6.5 | 6 | 6 | 6 | ~6 |
 | 2026-08-11 | **Body 1 reescrito** *(sin cronómetro, con lista de errores)* | 7 | 7.5 | 7 | 7 | **~7** |
+| 2026-08-12 | **T2 Body 2 + Conclusión**, prompt 1 *(cronometrado, 1ª escritura)* | 5.5 | 6 | 5.5 | 5 | **~5.5** |
+
+**Sobre la caída del 12-ago — leerla bien:** el número bajó respecto al Body 1 (6) por tres razones concretas, todas explicables y ninguna preocupante:
+1. **Contenido más difícil.** Defender la visión contraria es más exigente que defender la propia. Y eligió un argumento genuino (salud mental como "otra medida"), no uno de paja — eso es lo correcto aunque cueste banda al principio.
+2. **Primera conclusión de su vida.** Nunca había escrito una.
+3. **~4 minutos de 15.** El 80% de los errores del texto eran cazables sin saber más inglés.
+
+**La comparación honesta** no es Body 1 (6) contra esto (5.5) — es *primera escritura contra primera escritura*, y ahí el problema no es el inglés, es el tiempo de revisión sin usar.
 
 > ⚠️ **La fila del 11-ago no es comparable con las anteriores.** Las demás son primera escritura bajo cronómetro; esa es una reescritura sin tiempo y con los errores a la vista. Demuestra que **reconoce** el nivel 7 y sabe llegar a él — requisito previo para producirlo, pero no lo mismo. La primera medición real en condiciones de examen es el **sábado 15**.
 

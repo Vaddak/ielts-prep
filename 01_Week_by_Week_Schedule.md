@@ -6,21 +6,43 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — próxima sesión: miércoles 12 de agosto
+## 👉 RETOMAR AQUÍ — próxima sesión: jueves 13 de agosto
 
-**Martes 11 — COMPLETO ✅.** Body 1 reescrito a **~Band 7** (TA 7 · CC 7.5 · LR 7 · GR 7), nueve de diez errores resueltos, y AWL 41–60 estudiadas. Par original/reescrita guardado en `09_Study_Journal.md` como referencia para el Body 2.
+**Miércoles 12 — COMPLETO ✅.** Batch 4, fórmulas de Body 2 y Conclusión, y **primer Body 2 + primera Conclusión** cronometrados (~Band 5.5). **Cuarto día consecutivo.**
 
-**Tres días seguidos sin fallar. La racha es el activo — protegerla.**
+**🏆 Hito: los cuatro bloques del ensayo ya están escritos** — introducción, Body 1, Body 2 y conclusión — tres días antes del Task 2 completo del sábado. La tarea del jueves (escribir un Body 2) se adelantó al miércoles.
 
-**Miércoles (~45 min). Es el día más cargado de la semana:**
+**Jueves (~40 min) — día de consolidación, no de material nuevo:**
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 10 | Vocab: **AWL 61–80** (`02_Vocabulary_Engine.md`, Batch 4). Ritual: elegir 2 palabras y anotarlas al margen |
-| [ ] 2 | 10 | Writing: los **4 tipos de pregunta** de Task 2 — opinion · discussion · problem-solution · advantages-disadvantages (`03_Writing_Module.md:34`). Qué cambia en la posición y en el Body 2 según el tipo |
-| [ ] 3 | 25 | Writing: fórmulas de **Body 2 y Conclusión** (`03_Writing_Module.md:112`). **Venía corrida desde el lunes 10 y es imprescindible antes del jueves** — el jueves escribes un Body 2 completo |
+| [ ] 1 | 10 | Vocab: **AWL 81–100** (Batch 5). Ritual nuevo: elegir **solo 2** palabras al margen — no más |
+| [ ] 2 | 5 | Leer `10_Grammar_Quick_Reference.md` **§4.6** (ortografía y el bucle de la duda) — es de hoy |
+| [ ] 3 | 10 | Copiar a mano el Body 2 corregido y la conclusión corregida. Luego **cerrarlos y reescribir las ideas de memoria**, con tus propias palabras |
+| [ ] 4 | 15 | Writing: los **4 tipos de pregunta** de Task 2 (`03_Writing_Module.md:34`) — quedó pendiente del miércoles |
 
-**Por qué el paso 3 no se puede saltar otra vez:** el jueves 13 la tarea es escribir un Body 2 cronometrado, y el sábado 15 el ensayo completo. Sin la fórmula de Body 2 y Conclusión llegas al sábado con la mitad de la estructura sin ver. Ya se corrió una vez; si hay que recortar el miércoles, se recorta el paso 2, no el 3.
+**Por qué el paso 3 no es solo copiar:** copiar a mano fija los patrones, pero copiar no es producir. Reescribir las **ideas** de memoria —sin mirar, con tus palabras— es lo que entrena lo que el examen mide de verdad.
+
+---
+
+### ⚠️ La instrucción nº1 para el sábado
+
+**25 minutos escribir · 15 minutos corregir.**
+
+En seis tareas seguidas se ha escrito en 1–4 minutos lo presupuestado para 10–15, y se ha entregado sin usar el resto. El 12 de agosto eso costó **10 errores en 96 palabras, casi todos cazables sin saber más inglés**.
+
+En el examen son 40 minutos para el ensayo. Terminar en 15 y entregar es regalar 25 minutos de banda.
+
+**Corregir es quitar y precisar, no añadir.** La única vez que se añadió al releer (10-ago), la frase añadida fue la que debilitó el párrafo.
+
+**Orden de la corrección:**
+1. Checklist de 60 s por sentido (§4, las 4 preguntas)
+2. Pasada de 10 s **solo** ortografía y terminaciones — plurales, `-s`, dobles consonantes
+3. ¿La conclusión dice explícitamente qué pienso?
+
+---
+
+**El techo sigue siendo ARQUITECTURA DEL PÁRRAFO.**
 
 ---
 
@@ -95,8 +117,8 @@ En dos días cayeron dos cuellos de botella: la gramática de interferencia (adj
 |---|---|---|
 | [x] Lun | Ago 10 | ~~Vocab: AWL 41–60. Writing: fórmula de Body 2 y Conclusión~~ → **hecho en su lugar:** Batch 2 (21–40), intro 2 reescrita (~6.5) y **primer Body 1** (~6). AWL 41–60 pasa al martes; Body 2 y Conclusión al miércoles |
 | [x] Mar | Ago 11 | ~~Vocab: AWL 41–60. Writing: profundidad, no longitud~~ ✅ **completo** — Body 1 reescrito a ~Band 7 (9/10 errores resueltos) + AWL 41–60 |
-| [ ] Mié | Ago 12 | Vocab: AWL 61–80. Writing: los 4 tipos de pregunta (opinion, discussion, problem-solution, advantages-disadvantages) + **fórmula de Body 2 y Conclusión** (corrida del lunes 10) |
-| [ ] Jue | Ago 13 | Writing: escribir un Body 2 completo (15 min) sobre el prompt 1 |
+| [x] Mié | Ago 12 | ~~Vocab: AWL 61–80 + fórmula de Body 2 y Conclusión~~ ✅ **completo** — y **se adelantó el Body 2 del jueves** (~Band 5.5). Los 4 tipos de pregunta pasan al jueves |
+| [ ] Jue | Ago 13 | ~~Escribir un Body 2 completo~~ *(hecho el 12)* → **consolidación:** AWL 81–100 · §4.6 ortografía · copiar y reescribir de memoria el Body 2 corregido · los 4 tipos de pregunta |
 | [ ] Vie | Ago 14 | Vocab: AWL 81–100. Writing: repasar el ensayo modelo anotado del módulo, identificar cada movimiento |
 | [ ] **Sáb** | Ago 15 | **Writing: primer Task 2 completo, 40 min cronometrados** (prompt 1 — salud pública / instalaciones deportivas). Guardarlo como baseline |
 | [ ] Dom | Ago 16 | Autoevaluar el ensayo con el checklist de Task 2. Registrar errores en `07_Error_Log.md` |
