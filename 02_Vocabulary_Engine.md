@@ -116,24 +116,24 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 61 | **achieve** | verb | to successfully reach a goal | *The project achieved its efficiency targets ahead of schedule.* | [ ] |
-| 62 | **acquire** | verb | to obtain or gain | *New skills must be acquired to work with emerging technologies.* | [ ] |
-| 63 | **administer** | verb | to manage or oversee | *A dedicated team was appointed to administer the programme.* | [ ] |
-| 64 | **affect** | verb | to have an impact on | *Humidity levels can significantly affect sensor accuracy.* | [ ] |
-| 65 | **appropriate** | adjective | suitable for the situation | *An appropriate model was selected for the simulation.* | [ ] |
-| 66 | **aspect** | noun | a particular part or feature | *One aspect of the design that requires attention is heat dissipation.* | [ ] |
-| 67 | **assist** | verb | to help | *Machine learning algorithms assist in anomaly detection.* | [ ] |
-| 68 | **category** | noun | a class or group | *Components are divided into three categories based on function.* | [ ] |
-| 69 | **chapter** | noun | a main division of a text | *Chapter 3 presents the experimental methodology.* | [ ] |
-| 70 | **commission** | verb/noun | to formally request; a formal order | *The government commissioned a study on grid resilience.* | [ ] |
-| 71 | **community** | noun | a group sharing common interests or location | *Local communities are often most affected by energy poverty.* | [ ] |
-| 72 | **complex** | adjective | consisting of many interconnected parts | *Modern power systems are highly complex.* | [ ] |
-| 73 | **compute** | verb | to calculate | *The algorithm computes the optimal path in real time.* | [ ] |
-| 74 | **conclude** | verb | to reach a judgement after reasoning | *The authors conclude that further testing is necessary.* | [ ] |
-| 75 | **conduct** | verb | to carry out | *A series of experiments was conducted to validate the model.* | [ ] |
-| 76 | **consequent** | adjective | following as a result | *The failure and its consequent power outage affected thousands.* | [ ] |
-| 77 | **construct** | verb | to build or form | *A theoretical framework was constructed to guide the analysis.* | [ ] |
-| 78 | **contribute** | verb | to give or add to something | *Renewable sources contribute approximately 30% of total output.* | [ ] |
+| 61 | **achieve** | verb | to successfully reach a goal | *The project achieved its efficiency targets ahead of schedule.* | [X] |
+| 62 | **acquire** | verb | to obtain or gain | *New skills must be acquired to work with emerging technologies.* | [X] |
+| 63 | **administer** | verb | to manage or oversee | *A dedicated team was appointed to administer the programme.* | [X] |
+| 64 | **affect** | verb | to have an impact on | *Humidity levels can significantly affect sensor accuracy.* | [X] |
+| 65 | **appropriate** | adjective | suitable for the situation | *An appropriate model was selected for the simulation.* | [X] |
+| 66 | **aspect** | noun | a particular part or feature | *One aspect of the design that requires attention is heat dissipation.* | [X] |
+| 67 | **assist** | verb | to help | *Machine learning algorithms assist in anomaly detection.* | [X] |
+| 68 | **category** | noun | a class or group | *Components are divided into three categories based on function.* | [X] |
+| 69 | **chapter** | noun | a main division of a text | *Chapter 3 presents the experimental methodology.* | [X] |
+| 70 | **commission** | verb/noun | to formally request; a formal order | *The government commissioned a study on grid resilience.* | [~] |
+| 71 | **community** | noun | a group sharing common interests or location | *Local communities are often most affected by energy poverty.* | [X] |
+| 72 | **complex** | adjective | consisting of many interconnected parts | *Modern power systems are highly complex.* | [X] |
+| 73 | **compute** | verb | to calculate | *The algorithm computes the optimal path in real time.* | [X] |
+| 74 | **conclude** | verb | to reach a judgement after reasoning | *The authors conclude that further testing is necessary.* | [X] |
+| 75 | **conduct** | verb | to carry out | *A series of experiments was conducted to validate the model.* | [X] |
+| 76 | **consequent** | adjective | following as a result | *The failure and its consequent power outage affected thousands.* | [X] |
+| 77 | **construct** | verb | to build or form | *A theoretical framework was constructed to guide the analysis.* | [X] |
+| 78 | **contribute** | verb | to give or add to something | *Renewable sources contribute approximately 30% of total output.* | [X] |
 | 79 | **convene** | verb | to bring people together for a meeting | *An international panel was convened to address the issue.* | [ ] |
 | 80 | **coordinate** | verb | to organise different elements to work together | *Teams across three countries coordinated the field study.* | [ ] |
 
