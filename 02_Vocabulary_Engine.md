@@ -143,26 +143,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 81 | **core** | adjective/noun | central; the most important part | *The core principle of the design is redundancy.* | [ ] |
-| 82 | **corporate** | adjective | relating to a large company | *Corporate investment in renewables has accelerated sharply.* | [ ] |
-| 83 | **correspond** | verb | to match or be equivalent to | *The measured values correspond closely to the predicted ones.* | [ ] |
-| 84 | **criteria** | noun (plural) | standards used to judge something | *The proposals were evaluated against four technical criteria.* | [ ] |
-| 85 | **deduce** | verb | to reach a conclusion by reasoning | *From the waveform, we can deduce the source of the interference.* | [ ] |
-| 86 | **demonstrate** | verb | to show clearly with evidence | *The trial demonstrated a 15% gain in efficiency.* | [ ] |
-| 87 | **document** | verb/noun | to record in writing; a written record | *All design changes must be carefully documented.* | [ ] |
-| 88 | **dominate** | verb | to be the most important or powerful | *Fossil fuels still dominate the global energy mix.* | [ ] |
-| 89 | **emphasis** | noun | special importance given to something | *Recent research places greater emphasis on grid flexibility.* | [ ] |
-| 90 | **ensure** | verb | to make certain | *Redundant circuits ensure the system remains operational.* | [ ] |
-| 91 | **exclude** | verb | to leave out | *Outlying data points were excluded from the final analysis.* | [ ] |
-| 92 | **framework** | noun | a supporting structure of ideas or rules | *A regulatory framework for AI is urgently needed.* | [ ] |
-| 93 | **fund** | verb/noun | to provide money for; money provided | *The research was funded by the European Commission.* | [ ] |
-| 94 | **illustrate** | verb | to make clear with an example | *Figure 2 illustrates the relationship between load and temperature.* | [ ] |
-| 95 | **implicit** | adjective | suggested but not stated directly | *The model contains an implicit assumption about linearity.* | [ ] |
-| 96 | **imply** | verb | to suggest without stating directly | *These results imply that the current standard is inadequate.* | [ ] |
-| 97 | **initial** | adjective | first; at the beginning | *Initial testing revealed no significant defects.* | [ ] |
-| 98 | **instance** | noun | a particular example or case | *In this instance, manual override proved necessary.* | [ ] |
-| 99 | **interact** | verb | to act on or influence each other | *The two subsystems interact in unpredictable ways.* | [ ] |
-| 100 | **justify** | verb | to give good reasons for | *The additional cost is justified by the gain in reliability.* | [ ] |
+| 81 | **core** | adjective/noun | central; the most important part | *The core principle of the design is redundancy.* | [X] |
+| 82 | **corporate** | adjective | relating to a large company | *Corporate investment in renewables has accelerated sharply.* | [X] |
+| 83 | **correspond** | verb | to match or be equivalent to | *The measured values correspond closely to the predicted ones.* | [X] |
+| 84 | **criteria** | noun (plural) | standards used to judge something | *The proposals were evaluated against four technical criteria.* | [X] |
+| 85 | **deduce** | verb | to reach a conclusion by reasoning | *From the waveform, we can deduce the source of the interference.* | [X] |
+| 86 | **demonstrate** | verb | to show clearly with evidence | *The trial demonstrated a 15% gain in efficiency.* | [X] |
+| 87 | **document** | verb/noun | to record in writing; a written record | *All design changes must be carefully documented.* | [X] |
+| 88 | **dominate** | verb | to be the most important or powerful | *Fossil fuels still dominate the global energy mix.* | [X] |
+| 89 | **emphasis** | noun | special importance given to something | *Recent research places greater emphasis on grid flexibility.* | [X] |
+| 90 | **ensure** | verb | to make certain | *Redundant circuits ensure the system remains operational.* | [X] |
+| 91 | **exclude** | verb | to leave out | *Outlying data points were excluded from the final analysis.* | [X] |
+| 92 | **framework** | noun | a supporting structure of ideas or rules | *A regulatory framework for AI is urgently needed.* | [X] |
+| 93 | **fund** | verb/noun | to provide money for; money provided | *The research was funded by the European Commission.* | [X] |
+| 94 | **illustrate** | verb | to make clear with an example | *Figure 2 illustrates the relationship between load and temperature.* | [X] |
+| 95 | **implicit** | adjective | suggested but not stated directly | *The model contains an implicit assumption about linearity.* | [X] |
+| 96 | **imply** | verb | to suggest without stating directly | *These results imply that the current standard is inadequate.* | [X] |
+| 97 | **initial** | adjective | first; at the beginning | *Initial testing revealed no significant defects.* | [X] |
+| 98 | **instance** | noun | a particular example or case | *In this instance, manual override proved necessary.* | [X] |
+| 99 | **interact** | verb | to act on or influence each other | *The two subsystems interact in unpredictable ways.* | [X] |
+| 100 | **justify** | verb | to give good reasons for | *The additional cost is justified by the gain in reliability.* | [X] |
 
 ---
 
