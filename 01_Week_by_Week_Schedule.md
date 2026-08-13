@@ -45,6 +45,60 @@ Hacerlo sobre terreno conocido deja atención libre para el reloj y la correcci�
 
 ---
 
+## ⏱️ PLAN MINUTO A MINUTO — Sábado 15, Task 2 completo
+
+**Prompt 1:** *Many people believe that the best way to improve public health is to increase the number of sports facilities. Others believe that this would have little effect and other measures are required. **Discuss both views and give your own opinion.***
+
+**Tipo:** Discussion → Body 2 = la visión contraria · la opinión propia va **explícita** en la conclusión.
+**Objetivo:** 270–300 palabras · **40 minutos exactos** · cronómetro a la vista.
+
+### 0:00 – 0:05 · PLANIFICAR (no escribir todavía)
+
+- [ ] Leer el enunciado dos veces. Confirmar el tipo
+- [ ] Decidir la posición **y no cambiarla más**
+- [ ] Anotar al margen, en palabras sueltas, los 4 bloques: paráfrasis · claim Body 1 · claim Body 2 · posición final
+- [ ] **Elegir 2 palabras del batch y anotarlas** ← el ritual. Solo 2
+
+*Cinco minutos aquí ahorran quince después. Nunca has planificado antes de escribir — esta vez sí.*
+
+### 0:05 – 0:25 · ESCRIBIR (20 min, de corrido)
+
+| Bloque | Min | Palabras |
+|---|---|---|
+| Introducción | 4 | 40–60 |
+| Body 1 — a favor de las instalaciones | 6 | 90–110 |
+| Body 2 — la visión contraria | 6 | 90–110 |
+| Conclusión | 4 | 40–60 |
+
+**No corrijas mientras escribes.** Si dudas de una palabra, subráyala y sigue. Escribes rápido: eso es una ventaja, úsala para llegar aquí con tiempo de sobra.
+
+### 0:25 – 0:40 · CORREGIR (15 min) ← **lo que se ha estado saltando**
+
+Las 4 pasadas del checklist de `10_Grammar_Quick_Reference.md` (al final de §4):
+
+| Min | Pasada |
+|---|---|
+| 5 | **Sentido** — claims, arquitectura, ¿la conclusión dice mi opinión? |
+| 5 | **Gramática** — artículos · falsos amigos · adjetivos · concordancia |
+| 3 | **Ortografía y terminaciones** — plurales, `-s`, dobles consonantes, palabras "corregidas" en caliente |
+| 2 | **Repetición y conteo** |
+
+> **Corregir es quitar y precisar, no añadir.**
+
+### Al terminar
+
+- [ ] Registrar en `07_Error_Log.md` por criterio
+- [ ] Entrada en `09_Study_Journal.md`
+- [ ] Guardar el ensayo — es la línea base de Writing
+
+### Los 3 errores que van a intentar aparecer
+
+1. **Artículo ante concepto general** — 4/4 tareas. *public health*, *physical activity*, *mental health*: **sin `the`**
+2. **Palabra derivada del español** — 4/4. Ante la duda, la simple que sabes que existe
+3. **Entregar antes de tiempo.** Si terminas de escribir en el minuto 20, **no entregues**: te quedan 20 de corrección y ahí está la banda
+
+---
+
 ### ⚠️ La instrucción nº1 para el sábado
 
 **25 minutos escribir · 15 minutos corregir.**

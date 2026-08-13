@@ -275,16 +275,7 @@ En español a veces se enumera sin conector. En inglés la lista **siempre** cie
 
 ---
 
-## Checklist de 60 segundos — antes de entregar cualquier tarea escrita
-
-Repasa el texto **buscando solo estas cuatro cosas**, en este orden:
-
-- [ ] **¿Algún adjetivo con `-s`?** → quitarla
-- [ ] **¿Algún `of` después de `need`, `ability`, `capacity`, `decision`?** → probablemente va `to`
-- [ ] **¿Abrí `not only` / `both` / `either`?** → ¿la cerré? ¿los dos lados son del mismo tipo?
-- [ ] **¿Algún `the` delante de un sustantivo abstracto general?** → probablemente sobra
-
-Sesenta segundos de este checklist valen más que diez minutos de repasar teoría. Son literalmente los cuatro errores que ya cometiste.
+> 📋 **El checklist completo de revisión está al final de esta sección**, después de §4.6 — incluye también los falsos amigos y la pasada de ortografía.
 
 ---
 
@@ -444,6 +435,47 @@ Estas aparecen constantemente en Task 2. Vale la pena mirarlas una vez y no volv
 Después del checklist de 60 segundos por sentido, haz una pasada corta buscando **solo** ortografía y terminaciones — plurales, `-s` de tercera persona, dobles consonantes. Son categorías que la revisión por sentido **no ve**, porque el cerebro lee lo que quisiste escribir, no lo que escribiste.
 
 Prueba de esto: *sport facilities* sobrevivió a una reescritura completa hecha **con la lista de errores delante**, el 11 de agosto. No fue descuido — fue que ese tipo de error es invisible al releer por significado.
+
+---
+
+## ✅ CHECKLIST DE REVISIÓN — antes de entregar cualquier tarea escrita
+
+*Esta es la lista completa. Cubre las seis subsecciones de arriba, en el orden en que conviene revisarlas.*
+
+### Pasada 1 — SENTIDO (¿dice lo que quiero decir?)
+
+- [ ] ¿Mi **claim** dice realmente lo que quiero decir? *(el 12-ago: "un **drawback** es la **contribution** que…" decía lo contrario)*
+- [ ] ¿Cada oración **desarrolla** el claim, o alguna abre un tema nuevo?
+- [ ] ¿El **cierre reafirma** el claim, o concede una debilidad propia?
+- [ ] ¿La **conclusión dice explícitamente qué pienso?** *(obligatorio en un Discussion)*
+
+### Pasada 2 — GRAMÁTICA (los patrones §4.1–4.5)
+
+- [ ] **Artículos** → ⚠️ *tu nº1, 4/4 tareas.* ¿Algún `the`/`a` delante de un concepto general? ¿Falta alguno delante de un grupo específico?
+- [ ] **Falsos amigos** → ⚠️ *tu nº2, 4/4 tareas.* ¿Alguna palabra se parece sospechosamente al español? Ante la duda, usa la simple que sabes que existe
+- [ ] **Adjetivos** → ¿alguno con `-s`? Quitarla
+- [ ] **`not only`** → 🔴 **prohibida en el examen.** Si aparece, reemplazar por *Beyond X, Y must also…*
+- [ ] **Preposiciones fijas** → *the need **to*** + verbo · *the need **for*** + sustantivo · *impact **on*** · *increase **in***
+- [ ] **Concordancia** → *data **show*** (plural) · sujeto compuesto → verbo en plural
+
+### Pasada 3 — ORTOGRAFÍA Y TERMINACIONES (§4.6)
+
+*Categoría aparte porque la revisión por sentido **no la ve**: el cerebro lee lo que quisiste escribir.*
+
+- [ ] **Plurales** → *sport**s** facilities* ⚠️ *3/3 tareas*
+- [ ] **`-s` de tercera persona**
+- [ ] **Dobles consonantes** → attract · loneliness · professional · necessary · successful
+- [ ] ¿Alguna palabra que "corregí" en caliente porque dudé? **Devolverla a la primera versión** — el primer instinto suele ser el correcto
+
+### Pasada 4 — REPETICIÓN Y EXTENSIÓN
+
+- [ ] ¿Alguna palabra de contenido **más de dos veces**? *(ojo con* more/most, important, people*)*
+- [ ] ¿Metí **2–3** palabras del batch, bien usadas? **No 8 forzadas**
+- [ ] Conteo: Task 2 → 270–300 · Task 1 → 170–190
+
+---
+
+> **La regla que resume todo:** corregir es **quitar y precisar**, no añadir. La única vez que se añadió una frase al releer (10-ago), esa frase fue la que debilitó el párrafo.
 
 ---
 
