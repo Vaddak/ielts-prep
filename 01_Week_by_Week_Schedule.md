@@ -18,9 +18,11 @@
 |---|---|---|
 | [x] 4 | 15 | ~~Los **4 tipos de pregunta** de Task 2~~ ✅ — ampliados en `03_Writing_Module.md` con las trampas por tipo y cómo cambia la conclusión |
 | [x] 3a | 10 | ~~Copiar a mano el Body 2 y la conclusión corregidos~~ ✅ |
-| [ ] 3b | 5 | **Cerrar la hoja y reescribir las IDEAS de memoria**, con tus propias palabras. No intentes recordar mi redacción — recuerda el *argumento* y vuelve a construirlo ← **la mitad que entrena de verdad** |
-| [ ] 1 | 10 | Vocab: **AWL 81–100** (Batch 5). Ritual nuevo: **solo 2 palabras** al margen, no 8 |
-| [ ] 2 | 5 | Leer `10_Grammar_Quick_Reference.md` **§4.6** — ortografía y el bucle de la duda |
+| [x] 1 | 10 | ~~Vocab: **AWL 81–100** (Batch 5)~~ ✅ |
+| [x] 2 | 5 | ~~Leer §4.5 falsos amigos y §4.6 ortografía~~ ✅ |
+| [ ] 3b | 5 | **Cerrar la hoja y reescribir las IDEAS de memoria**, con tus propias palabras. No intentes recordar mi redacción — recuerda el *argumento* y vuelve a construirlo ← **ÚNICO PENDIENTE del jueves** |
+
+**Único atraso acumulado de toda la semana:** la **intro del prompt 3** (tecnología y trato cara a cara), saltada a propósito el 10 de agosto para asegurar el Body 1. Fue la decisión correcta y sigue siendo opcional — pero es de tipo *advantages–disadvantages*, el único de los cuatro tipos que aún no se ha practicado nunca.
 
 **Viernes 14:** AWL 101–120 + repasar el ensayo modelo anotado del módulo (`03_Writing_Module.md`, final), identificando cada movimiento. Día ligero a propósito, antes del sábado.
 
