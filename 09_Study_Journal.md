@@ -269,3 +269,38 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 **Cómo me sentí:** —
 
 ---
+
+### 2026-08-14 — Semana 4, Viernes: víspera del ensayo
+**Módulo:** Vocabulary Batch 6 (AWL 101–120) + autopsia del ensayo modelo
+**Tiempo:** ~25 min · **séptimo día consecutivo**
+
+**Qué aprendí o practiqué:**
+- **Vocabulario:** AWL Batch 6 (101–120). Con esto van **120 de las 200 palabras**, un batch por delante del plan original.
+- **Autopsia del ensayo modelo** (`03_Writing_Module.md:424`), hecha de forma activa: tapar las notas, etiquetar qué hace cada oración, y comparar después.
+
+**Los tres movimientos estudiados:**
+1. **La paráfrasis de la intro** — *technology has made life more convenient* → *rapid advances in digital technology have fundamentally altered the way people live and work, offering unprecedented levels of convenience*. Ni una palabra copiada. Punto débil propio: todavía deja términos literales del enunciado (*mixed schools*, *sport facilities*).
+2. **El cierre del Body 1** — *This acceleration of productivity represents a clear and measurable improvement in quality of life.* Reafirma, no concede. Es exactamente el movimiento que falló el 10-ago.
+3. **La apertura del Body 2** — *Nevertheless, the proliferation of…*: conector de contraste y directo al claim contrario. Este sí salió bien el 12-ago (*However, a significant drawback…*).
+
+**Diferencia registrada:** el ensayo modelo es tipo **Opinion**; el del sábado es **Discussion**. Los bodies funcionan igual, la conclusión no — el modelo reafirma una posición ya declarada, y la del sábado debe reconocer ambas visiones **y** dejar la opinión propia explícita. Es justo donde falló la conclusión del miércoles.
+
+**Cómo me sentí:** —
+
+---
+
+## 🎯 SEMANA 4 — CIERRE
+
+**Siete días consecutivos.** Tras junio y julio en blanco, la semana se completó entera.
+
+**Lo conseguido:**
+- Los **cuatro bloques del ensayo** escritos y corregidos antes del sábado
+- **120/200 palabras AWL**, un batch por delante del plan
+- **Tres cuellos de botella caídos:** gramática de interferencia (adjetivos, correlativas), activación del vocabulario (0 → 4 palabras), y arquitectura del párrafo (Body 1 reescrito de 6 a ~7)
+- El `07_Error_Log.md` pasó de estar **vacío** a ser el archivo que dirige cada sesión
+
+**Lo que sigue abierto:**
+- **Artículos** ante concepto general — 4/4 tareas, prioridad 1
+- **Interferencia del español** — 4/4 tareas, prioridad 2
+- **No usar el tiempo de revisión** — el más caro, y el que se pone a prueba el sábado
+

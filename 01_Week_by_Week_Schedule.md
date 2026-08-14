@@ -12,27 +12,31 @@
 
 **🏆 Hito: los cuatro bloques del ensayo ya están escritos** — introducción, Body 1, Body 2 y conclusión — tres días antes del Task 2 completo del sábado. La tarea del jueves (escribir un Body 2) se adelantó al miércoles.
 
-**Jueves 13 — COMPLETO ✅.** Los 4 tipos de pregunta, Batch 5 (AWL 81–100), §4.5 y §4.6 leídas, Body 2 copiado **y reescrito de memoria**. **Sexto día consecutivo.**
+## 🏁 SEMANA 4 COMPLETA — siete días consecutivos
 
-**Viernes 14 (~25 min) — día ligero a propósito, víspera del ensayo:**
+| Día | Estado |
+|---|---|
+| Sáb 8 · Dom 9 | ✅ Fase 1 cerrada · intro 1 · Body 1 |
+| Lun 10 | ✅ §4 gramática · Batch 1 reauditado · intro 2 · Body 1 |
+| Mar 11 | ✅ Batch 3 · Body 1 reescrito a ~Band 7 |
+| Mié 12 | ✅ Batch 4 · fórmulas Body 2 y Conclusión · Body 2 + Conclusión |
+| Jue 13 | ✅ Batch 5 · 4 tipos de pregunta · §4.5 y §4.6 · Body 2 de memoria |
+| Vie 14 | ✅ Batch 6 (AWL 101–120) · autopsia del ensayo modelo |
+| **Sáb 15** | **👉 TASK 2 COMPLETO — ver el plan minuto a minuto más abajo** |
 
-| # | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 10 | Vocab: **AWL 101–120** (Batch 6). Ritual: **solo 2 palabras** al margen |
-| [ ] 2 | 15 | **Autopsia del ensayo modelo** — final de `03_Writing_Module.md`. Ver abajo cómo hacerlo |
+**Vocabulario: 120 de 200 palabras AWL.** Un batch por delante del plan original.
 
-### Cómo hacer la autopsia del ensayo modelo (paso 2)
+**Único hueco de la semana:** la intro del prompt 3, saltada a propósito el 10-ago para asegurar el Body 1. Opcional — pero es tipo *advantages–disadvantages*, el único de los cuatro que nunca se ha practicado.
 
-Leerlo y asentir no sirve de nada. Hazlo así:
+---
 
-1. **Tapa las notas en cursiva** y lee solo el ensayo
-2. **Escribe al margen qué hace cada oración**: ¿parafrasea? ¿enuncia el claim? ¿explica el mecanismo? ¿da el ejemplo? ¿cierra?
-3. **Destapa las notas y compara** con lo que anotaste
-4. Fíjate en dos cosas concretas: **cómo la intro parafrasea sin copiar**, y **cómo la última oración de cada body reafirma** en vez de conceder
+## 👉 MAÑANA: el ensayo. Lo único que hay que recordar
 
-⚠️ **Ojo con una diferencia:** el ensayo modelo es tipo **Opinion** (*to what extent do you agree*), y el tuyo del sábado es **Discussion**. La estructura de los bodies es igual, pero **la conclusión no**: la del modelo reafirma una posición ya declarada; la tuya tiene que reconocer ambas visiones **y** dejar tu opinión explícita. No copies ese movimiento tal cual.
+**40 minutos: 5 planificar · 20 escribir · 15 corregir.**
 
-**Único hueco de la semana:** la **intro del prompt 3**, saltada a propósito el 10-ago para asegurar el Body 1. Sigue siendo opcional — pero es tipo *advantages–disadvantages*, el único de los cuatro que nunca se ha practicado.
+El plan detallado está más abajo en este mismo archivo (sección *PLAN MINUTO A MINUTO*). El checklist de las 4 pasadas está al final de la sección 4 de `10_Grammar_Quick_Reference.md`.
+
+**Si terminas de escribir en el minuto 20, NO entregues.** En seis tareas seguidas se ha escrito en una fracción del tiempo y se ha entregado sin usar el resto. Ahí está la banda que falta.
 
 **Viernes 14:** AWL 101–120 + repasar el ensayo modelo anotado del módulo (`03_Writing_Module.md`, final), identificando cada movimiento. Día ligero a propósito, antes del sábado.
 
