@@ -170,26 +170,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 101 | **layer** | noun/verb | one level or thickness among several | *The device consists of three conductive layers.* | [ ] |
-| 102 | **link** | noun/verb | a connection; to connect | *There is a clear link between insulation quality and heat loss.* | [ ] |
-| 103 | **locate** | verb | to find the position of; to place | *Sensors were located at intervals along the pipeline.* | [ ] |
-| 104 | **maximise** | verb | to increase as much as possible | *Panel angles were adjusted to maximise solar gain.* | [ ] |
-| 105 | **minor** | adjective | small; not important | *Only minor adjustments were required after calibration.* | [ ] |
-| 106 | **negate** | verb | to cancel out or make ineffective | *Transmission losses negate much of the efficiency gain.* | [ ] |
-| 107 | **outcome** | noun | a result | *The outcome of the trial exceeded expectations.* | [ ] |
-| 108 | **partner** | noun/verb | a person or organisation working with another | *The university partnered with three industrial firms.* | [ ] |
-| 109 | **philosophy** | noun | a system of beliefs or guiding principles | *The design philosophy prioritises simplicity over features.* | [ ] |
-| 110 | **physical** | adjective | relating to material things or the body | *The physical dimensions of the unit constrain its placement.* | [ ] |
-| 111 | **proportion** | noun | a part considered in relation to the whole | *A growing proportion of demand is met by wind power.* | [ ] |
-| 112 | **publish** | verb | to make available to the public | *The findings were published in a peer-reviewed journal.* | [ ] |
-| 113 | **react** | verb | to respond to something | *The control loop reacts within twenty milliseconds.* | [ ] |
-| 114 | **register** | verb/noun | to record officially; a formal record | *All voltage anomalies are registered automatically.* | [ ] |
-| 115 | **rely** | verb | to depend on | *Modern grids rely heavily on real-time monitoring.* | [ ] |
-| 116 | **remove** | verb | to take away | *Impurities are removed during the refining stage.* | [ ] |
-| 117 | **scheme** | noun | an organised plan or system | *A national subsidy scheme was introduced in 2019.* | [ ] |
-| 118 | **sequence** | noun | a particular order of events | *The startup sequence must be followed precisely.* | [ ] |
-| 119 | **shift** | noun/verb | a change; to change position | *There has been a marked shift towards decentralised generation.* | [ ] |
-| 120 | **specify** | verb | to state exactly | *The standard specifies a minimum operating temperature.* | [ ] |
+| 101 | **layer** | noun/verb | one level or thickness among several | *The device consists of three conductive layers.* | [X] |
+| 102 | **link** | noun/verb | a connection; to connect | *There is a clear link between insulation quality and heat loss.* | [X] |
+| 103 | **locate** | verb | to find the position of; to place | *Sensors were located at intervals along the pipeline.* | [X] |
+| 104 | **maximise** | verb | to increase as much as possible | *Panel angles were adjusted to maximise solar gain.* | [~] |
+| 105 | **minor** | adjective | small; not important | *Only minor adjustments were required after calibration.* | [X] |
+| 106 | **negate** | verb | to cancel out or make ineffective | *Transmission losses negate much of the efficiency gain.* | [X] |
+| 107 | **outcome** | noun | a result | *The outcome of the trial exceeded expectations.* | [~] |
+| 108 | **partner** | noun/verb | a person or organisation working with another | *The university partnered with three industrial firms.* | [x] |
+| 109 | **philosophy** | noun | a system of beliefs or guiding principles | *The design philosophy prioritises simplicity over features.* | [x] |
+| 110 | **physical** | adjective | relating to material things or the body | *The physical dimensions of the unit constrain its placement.* | [x] |
+| 111 | **proportion** | noun | a part considered in relation to the whole | *A growing proportion of demand is met by wind power.* | [x] |
+| 112 | **publish** | verb | to make available to the public | *The findings were published in a peer-reviewed journal.* | [x] |
+| 113 | **react** | verb | to respond to something | *The control loop reacts within twenty milliseconds.* | [x] |
+| 114 | **register** | verb/noun | to record officially; a formal record | *All voltage anomalies are registered automatically.* | [x] |
+| 115 | **rely** | verb | to depend on | *Modern grids rely heavily on real-time monitoring.* | [~] |
+| 116 | **remove** | verb | to take away | *Impurities are removed during the refining stage.* | [x] |
+| 117 | **scheme** | noun | an organised plan or system | *A national subsidy scheme was introduced in 2019.* | [~] |
+| 118 | **sequence** | noun | a particular order of events | *The startup sequence must be followed precisely.* | [x] |
+| 119 | **shift** | noun/verb | a change; to change position | *There has been a marked shift towards decentralised generation.* | [x] |
+| 120 | **specify** | verb | to state exactly | *The standard specifies a minimum operating temperature.* | [x] |
 
 ---
 
