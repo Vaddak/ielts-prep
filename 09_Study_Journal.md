@@ -264,7 +264,7 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 
 **Decisión sobre el error log:** las versiones originales con errores **se conservan**. El archivo no sirve si solo guarda los textos buenos — lo valioso es ver el patrón repitiéndose entre tareas.
 
-**Completado en casa:** AWL 81–100 (Batch 5) · §4.5 falsos amigos · §4.6 ortografía. **Pendiente:** reescribir las ideas del Body 2 de memoria — la mitad que entrena de verdad.
+**Jueves COMPLETO:** AWL 81–100 (Batch 5) · §4.5 falsos amigos · §4.6 ortografía · Body 2 copiado a mano **y reescrito de memoria**. Sexto día consecutivo sin fallar.
 
 **Cómo me sentí:** —
 

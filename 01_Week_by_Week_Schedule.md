@@ -12,17 +12,27 @@
 
 **🏆 Hito: los cuatro bloques del ensayo ya están escritos** — introducción, Body 1, Body 2 y conclusión — tres días antes del Task 2 completo del sábado. La tarea del jueves (escribir un Body 2) se adelantó al miércoles.
 
-**Jueves — lo que falta para cerrar (~20 min). Retomar en casa:**
+**Jueves 13 — COMPLETO ✅.** Los 4 tipos de pregunta, Batch 5 (AWL 81–100), §4.5 y §4.6 leídas, Body 2 copiado **y reescrito de memoria**. **Sexto día consecutivo.**
+
+**Viernes 14 (~25 min) — día ligero a propósito, víspera del ensayo:**
 
 | # | Min | Tarea |
 |---|---|---|
-| [x] 4 | 15 | ~~Los **4 tipos de pregunta** de Task 2~~ ✅ — ampliados en `03_Writing_Module.md` con las trampas por tipo y cómo cambia la conclusión |
-| [x] 3a | 10 | ~~Copiar a mano el Body 2 y la conclusión corregidos~~ ✅ |
-| [x] 1 | 10 | ~~Vocab: **AWL 81–100** (Batch 5)~~ ✅ |
-| [x] 2 | 5 | ~~Leer §4.5 falsos amigos y §4.6 ortografía~~ ✅ |
-| [ ] 3b | 5 | **Cerrar la hoja y reescribir las IDEAS de memoria**, con tus propias palabras. No intentes recordar mi redacción — recuerda el *argumento* y vuelve a construirlo ← **ÚNICO PENDIENTE del jueves** |
+| [ ] 1 | 10 | Vocab: **AWL 101–120** (Batch 6). Ritual: **solo 2 palabras** al margen |
+| [ ] 2 | 15 | **Autopsia del ensayo modelo** — final de `03_Writing_Module.md`. Ver abajo cómo hacerlo |
 
-**Único atraso acumulado de toda la semana:** la **intro del prompt 3** (tecnología y trato cara a cara), saltada a propósito el 10 de agosto para asegurar el Body 1. Fue la decisión correcta y sigue siendo opcional — pero es de tipo *advantages–disadvantages*, el único de los cuatro tipos que aún no se ha practicado nunca.
+### Cómo hacer la autopsia del ensayo modelo (paso 2)
+
+Leerlo y asentir no sirve de nada. Hazlo así:
+
+1. **Tapa las notas en cursiva** y lee solo el ensayo
+2. **Escribe al margen qué hace cada oración**: ¿parafrasea? ¿enuncia el claim? ¿explica el mecanismo? ¿da el ejemplo? ¿cierra?
+3. **Destapa las notas y compara** con lo que anotaste
+4. Fíjate en dos cosas concretas: **cómo la intro parafrasea sin copiar**, y **cómo la última oración de cada body reafirma** en vez de conceder
+
+⚠️ **Ojo con una diferencia:** el ensayo modelo es tipo **Opinion** (*to what extent do you agree*), y el tuyo del sábado es **Discussion**. La estructura de los bodies es igual, pero **la conclusión no**: la del modelo reafirma una posición ya declarada; la tuya tiene que reconocer ambas visiones **y** dejar tu opinión explícita. No copies ese movimiento tal cual.
+
+**Único hueco de la semana:** la **intro del prompt 3**, saltada a propósito el 10-ago para asegurar el Body 1. Sigue siendo opcional — pero es tipo *advantages–disadvantages*, el único de los cuatro que nunca se ha practicado.
 
 **Viernes 14:** AWL 101–120 + repasar el ensayo modelo anotado del módulo (`03_Writing_Module.md`, final), identificando cada movimiento. Día ligero a propósito, antes del sábado.
 
