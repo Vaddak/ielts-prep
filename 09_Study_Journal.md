@@ -304,3 +304,46 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 - **Interferencia del español** — 4/4 tareas, prioridad 2
 - **No usar el tiempo de revisión** — el más caro, y el que se pone a prueba el sábado
 
+---
+
+### 2026-08-15 — Semana 4, Sábado · 🏁 PRIMER TASK 2 COMPLETO (línea base)
+**Módulo:** Writing Task 2 completo — prompt 1 (salud pública), *Discuss both views*
+**Tiempo:** 40 minutos exactos, cronometrados
+
+**Resultado: ~Band 5.5** (TA 5.5 · CC 6 · LR 6 · GR 5.5). Registrado en `08_Mock_Exam_Tracker.md` como línea base de Writing.
+
+**El dato que manda: 182 palabras de 250 mínimas.**
+
+| Bloque | Palabras | Objetivo |
+|---|---|---|
+| Introducción | 43 | 40–60 ✅ |
+| Body 1 | 53 | 90–110 ❌ |
+| Body 2 | 53 | 90–110 ❌ |
+| Conclusión | 33 | 40–60 ⚠️ |
+
+**La causa raíz, y no fue el inglés:** las notas de la autopsia del viernes decían *"two robust sentences are enough"* para el Body 1. Se escribieron dos oraciones y salieron 53 palabras. **El Body 1 del ensayo modelo tiene cuatro** — Claim → Explain → Example → Link, ~90 palabras. Las oraciones del modelo son largas y se contaron mal.
+
+> **La plantilla funcionó. La plantilla estaba mal.** Corrección permanente: **4 oraciones por body**. Con eso el mismo ensayo pasa de 182 a ~270 palabras sin cambiar una sola frase.
+
+**🎉 Dos patrones rotos el mismo día:**
+- **Usó los 40 minutos completos.** Llevaba **seis tareas seguidas** entregando en una fracción del tiempo. Era el error nº1 de la semana
+- **Planificó antes de escribir** — primera vez en toda la preparación
+
+**Otros logros:**
+- **13 de 18 palabras del batch activadas** — *identify, impact, role, significant, require, factor, criteria, ensure, exclude, demonstrate, outcome, scheme, varied*
+- Los cuatro bloques en orden, con conectores correctos: *While · Consequently · Nevertheless · In conclusion*
+- **Opinión propia explícita en la conclusión** — el requisito del *Discuss both views*, justo donde falló la conclusión del miércoles
+- **Autodiagnóstico acertado:** subrayó *positively* y *negatively* (las dos mal) y dudó de *equally* (correcta). Está identificando sus propios errores antes de que se los señalen
+
+**Dificultades:** 15 minutos planificando en vez de 5–8, atribuidos a nervios. Y *"me quedaba pensando qué palabra usar"*: llevaba **18 palabras** en la lista de planificación. **Son 2.** Con 18 se elige en vez de escribir, y ahí se fue parte del tiempo que faltó en los bodies.
+
+**Errores por patrón:** artículo ante concepto general ×4 (5/5 tareas) · empalmes de comas ×3 · preposiciones *in/on/of* ×3 · adverbio entre verbo y objeto (4ª vez) · *destinated* (5ª interferencia del español) · *criteria* por *criterion* · *individuas*. Todo en `07_Error_Log.md`.
+
+**Palabras nuevas:** *designed for / intended for* (≠ *destinated*), *criterion* (sing.) vs *criteria* (pl.), *to negatively affect* / *to have a negative impact on*, *overall wellbeing*.
+
+**Cómo me sentí:** Nerviosa, tardó más de lo previsto planificando, pero sintió que fluía al escribir.
+
+**Lectura de la sesión:** el 5.5 no mide el inglés — mide una plantilla mal contada y unos bodies a la mitad. Lo que sí midió, y es lo que importa de una línea base, es que **aguantó 40 minutos, planificó y activó vocabulario**. Los tres hábitos que faltaban.
+
+**Una sola cosa que corregir antes del sábado 22: 4 oraciones por body.**
+

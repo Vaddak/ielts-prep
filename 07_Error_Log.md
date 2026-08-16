@@ -81,6 +81,22 @@ After every timed practice or mock exam:
 | 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *sport facilities* | *sport**s** facilities* (convención IELTS) |
 | 2026-08-10 | **T2 Body 1** (prompt 1) | Lexical Resource | *more* ×3 y *most* ×2 en 104 palabras — **detectado por ella sola** ✅ | *the most present* → *the most heavily represented* · *the predominant*. *more facilities* → *additional* · *a greater number of* |
 | 2026-08-11 | **Body 1 reescrito** | Lexical Resource | ⚠️ ***sport** facilities* — sin la `s`. **Error ya registrado el 10-ago que sobrevivió a la reescritura** | ***sports** facilities*. El enunciado mismo lo escribe así. Reincidente: entra al checklist de 60 s |
+| **2026-08-15** | 🏁 **Task 2 completo** | Task Achievement | ⚠️⚠️ **182 palabras de 250 mínimas.** Bodies de 53 palabras (objetivo 90–110) | **4 oraciones por body**: Claim → Explain → Example → Link. La nota *"two robust sentences are enough"* de la autopsia del viernes contó mal el modelo, que tiene **cuatro** |
+| 2026-08-15 | Task 2 — Intro | Grammatical Range | *impact **positively** public health* — adverbio entre verbo y objeto | ***positively impact** public health*. ⚠️ **4ª ocurrencia** del patrón (tras *also*, *best*, *obviously*). Subrayado por ella ✅ |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *impact negatively **in** wellbeing* | *negatively **affect** wellbeing* · *have a negative impact **on** wellbeing*. Subrayado por ella ✅ |
+| 2026-08-15 | Task 2 — Body 1 | Grammatical Range | *increase in **the** sleep quality* | *in **sleep quality***, sin artículo. ⚠️ Patrón nº1 |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *how important is **the** mental care* | *mental care*, sin artículo. ⚠️ Patrón nº1 |
+| 2026-08-15 | Task 2 — Conclusión | Grammatical Range | *covers **the** half of the scheme* | *covers **half** of the scheme*. ⚠️ Patrón nº1 |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *ensure **a total** wellbeing* | *ensure **overall** wellbeing*, sin artículo. ⚠️ Patrón nº1 — **4 ocurrencias en 182 palabras, 5/5 tareas** |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *how important **is the mental care*** — orden de pregunta directa en una subordinada | Pregunta indirecta → orden de afirmación: *how important **mental care is*** |
+| 2026-08-15 | Task 2 — Body 2 | Grammatical Range | *focusing only **in** this factor* | *focusing only **on*** |
+| 2026-08-15 | Task 2 — Conclusión | Grammatical Range | *consists **in** providing* | *consists **of** providing* |
+| 2026-08-15 | Task 2 — Body 1 | Coherence & Cohesion | 3 empalmes de comas: *is crucial, study shows* · *wellbeing, focusing only* · *the scheme, the other part* | Punto o conector. ⚠️ Patrón que reaparece (1ª vez el 10-ago) |
+| 2026-08-15 | Task 2 — Intro | Lexical Resource | *individu**as*** | *individual**s*** — ortografía. Cazable en la pasada de terminaciones |
+| 2026-08-15 | Task 2 — Intro | Lexical Resource | *venues **destinated** to practice physical activities* — *destinated* no existe | *venues **designed for** physical activity* · *intended for*. ⚠️ Interferencia del español (5ª tarea) |
+| 2026-08-15 | Task 2 — Body 2 | Lexical Resource | *the only **criteria*** — plural usado como singular | *the only **criterion***. Plural: *criteria* |
+| 2026-08-15 | Task 2 — Body 1 | Grammatical Range | *study shows* — falta artículo ante sustantivo contable singular | ***A** study shows* · ***Studies** show* |
+| 2026-08-15 | Task 2 — general | Lexical Resource | Vocabulario **forzado** en varios puntos: *covers the half of the scheme*, *a complete outcome consists in* | 13/18 palabras activadas es un logro, pero 18 en la lista es demasiado. **Elegir 2**, no 18 — el resto llega solo |
 | 2026-08-12 | **T2 Body 2** (prompt 1) | Task Achievement | ⚠️ **Claim malformado:** *a significant **drawback**… is the **contribution** that mental health has* — un drawback no puede ser una contribution. La oración dice lo contrario de lo que quería decir | *…is that it **overlooks** the role of mental health in overall wellbeing*. El claim debe **nombrar la desventaja**, no describir un beneficio |
 | 2026-08-12 | **T2 Body 2** (prompt 1) | Task Achievement | Faltan el **EXAMPLE** y el **LINK**. Estructura real: Claim → Explain → propuesta. Por eso quedó en 66 palabras de 90–110 | La 3ª oración debe ser evidencia concreta, y la 4ª reafirmar el claim del Body 2 |
 | 2026-08-12 | **T2 Body 2** (prompt 1) | Lexical Resource | 🔴 **VOCABULARIO FORZADO — hallazgo principal.** 8 palabras de los batches metidas; 2 mal usadas (*contribution*, *consequent with*). *consequent with* no existe (calco de "consecuente con") | **Objetivo nuevo: 2–3 palabras bien usadas, no 8 aproximadas.** Si hay que torcer la frase para meter la palabra, la palabra sobra |
@@ -157,7 +173,27 @@ Words I didn't know or used incorrectly:
 
 *(Update this after each mock exam — these are your priority fixes)*
 
-**Estado: 2026-08-12 · base = 6 tareas escritas (3 intros + Body 1 + reescritura + Body 2/Conclusión)**
+**Estado: 2026-08-15 · base = TASK 2 COMPLETO (línea base) + 7 tareas previas**
+
+> 🎯 **LA PRIORIDAD ÚNICA PARA EL SÁBADO 22: 4 oraciones por body.**
+> Claim → Explain → Example → Link. Es el cambio de mayor impacto por unidad de esfuerzo de toda la preparación: convierte 182 palabras en ~270 sin mejorar una sola frase.
+
+**Ranking tras la línea base:**
+
+1. ⚠️ **Longitud insuficiente por bodies cortos** — 🆕 y penalizado directamente. 182/250 palabras. Ver arriba
+2. ⚠️ **Artículo ante concepto general** — **5/5 tareas**, 4 ocurrencias solo el 15-ago. El más repetido y el más mecánico de arreglar. → §4.4
+3. ⚠️ **Palabra derivada del español** — **5/5 tareas**: *motive*, *laboral*, *offer*, *destinated*. Ante la duda, la simple que sabes que existe. → §4.5
+4. **Preposición equivocada tras verbo** — *in* donde va *on* / *of*. Creciendo: 3 ocurrencias el 15-ago
+5. **Adverbio entre verbo y objeto** — 4ª ocurrencia. Va **antes** del verbo
+6. **Empalme de comas** — reapareció fuerte: 3 ocurrencias el 15-ago
+
+**Nuevo en la lista de resueltos:**
+- ✅ **Entregar antes de tiempo** — patrón de 6 tareas, **roto el 15-ago**: 40 minutos completos
+- ✅ **Escribir sin planificar** — planificó por primera vez
+
+---
+
+**Estado anterior: 2026-08-12 · base = 6 tareas escritas (3 intros + Body 1 + reescritura + Body 2/Conclusión)**
 
 1. 🔴 **NO USAR EL TIEMPO DE REVISIÓN** — el patrón más caro de todos, y transversal a los otros cuatro. Escribe en 1–4 min tareas de 10–15. El 12-ago: **10 errores en 96 palabras, casi todos cazables sin saber más inglés**. Regla para el sábado: **25 min escribir, 15 min corregir**. No añadir — quitar, precisar, revisar
 2. ⚠️ **Artículo ante sustantivo abstracto** — **4/4 tareas**, y ahora falla en **las dos direcciones**: sobra (*a complete wellbeing*) y falta (*of ∅ population*). → §4.4
@@ -197,6 +233,26 @@ Words I didn't know or used incorrectly:
 | 2026-08-10 | **T2 Body 1**, prompt 1 (salud pública) | 6.5 | 6 | 6 | 6 | ~6 |
 | 2026-08-11 | **Body 1 reescrito** *(sin cronómetro, con lista de errores)* | 7 | 7.5 | 7 | 7 | **~7** |
 | 2026-08-12 | **T2 Body 2 + Conclusión**, prompt 1 *(cronometrado, 1ª escritura)* | 5.5 | 6 | 5.5 | 5 | **~5.5** |
+| **2026-08-15** | 🏁 **TASK 2 COMPLETO, 40 min** — prompt 1 *(LÍNEA BASE)* | 5.5 | 6 | 6 | 5.5 | **~5.5** |
+
+**Sobre la línea base del 15-ago — la lectura correcta:**
+
+El número no mide el inglés: **mide una plantilla mal contada.** 182 palabras de 250 mínimas, con los dos bodies exactamente a la mitad (53 de 90–110). Bajo 250 la penalización en Task Achievement es automática.
+
+La causa está identificada y es de una línea: las notas de la autopsia del viernes decían *"two robust sentences are enough"* para el Body 1. **El Body 1 del modelo tiene cuatro oraciones** (Claim → Explain → Example → Link, ~90 palabras); las del modelo son largas y se contaron mal. Se escribieron dos, salieron 53 palabras.
+
+> **Corrección permanente: 4 oraciones por body.** Con eso el mismo ensayo pasa de 182 a ~270 palabras sin mejorar una sola frase.
+
+**Lo que sí midió, y es lo importante de hoy:**
+- ✅ **40 minutos completos.** El patrón de seis tareas entregando temprano quedó roto
+- ✅ **Planificó antes de escribir** — primera vez en toda la preparación
+- ✅ **13 de 18 palabras del batch activadas**
+- ✅ Opinión propia explícita en la conclusión — requisito del *Discuss both views*
+- ✅ Autodiagnóstico acertado: subrayó *positively* y *negatively* (ambas mal) y dudó de *equally* (correcta)
+
+**Sobre los 15 min de planificación:** no fue error, fue aprendizaje. Pero 18 palabras en la lista es elegir en vez de escribir. **Son 2.** Objetivo del sábado 22: 8 min de plan, y los 7 recuperados van a los bodies.
+
+---
 
 **Sobre la caída del 12-ago — leerla bien:** el número bajó respecto al Body 1 (6) por tres razones concretas, todas explicables y ninguna preocupante:
 1. **Contenido más difícil.** Defender la visión contraria es más exigente que defender la propia. Y eligió un argumento genuino (salud mental como "otra medida"), no uno de paja — eso es lo correcto aunque cueste banda al principio.

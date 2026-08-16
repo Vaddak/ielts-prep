@@ -6,11 +6,45 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — próxima sesión: jueves 13 de agosto
+## 👉 RETOMAR AQUÍ — próxima sesión: domingo 16 de agosto
 
-**Miércoles 12 — COMPLETO ✅.** Batch 4, fórmulas de Body 2 y Conclusión, y **primer Body 2 + primera Conclusión** cronometrados (~Band 5.5). **Cuarto día consecutivo.**
+**Sábado 15 — COMPLETO ✅. Primer Task 2 cronometrado: ~Band 5.5, línea base registrada en `08_Mock_Exam_Tracker.md`. Ocho días consecutivos.**
 
-**🏆 Hito: los cuatro bloques del ensayo ya están escritos** — introducción, Body 1, Body 2 y conclusión — tres días antes del Task 2 completo del sábado. La tarea del jueves (escribir un Body 2) se adelantó al miércoles.
+### 🎯 EL HALLAZGO DEL SÁBADO — lo único que hay que recordar
+
+**182 palabras de 250 mínimas.** Los bodies salieron de 53 palabras (objetivo 90–110).
+
+**La causa no fue el inglés ni el tiempo: fue la plantilla.** Las notas de la autopsia del viernes decían *"two robust sentences are enough"*. El Body 1 del ensayo modelo tiene **cuatro** oraciones, no dos — sus frases son largas y se contaron mal.
+
+> **4 ORACIONES POR BODY:** Claim → Explain → Example → Link.
+> Convierte 182 palabras en ~270 sin mejorar una sola frase. Es el cambio de mayor impacto de toda la preparación.
+
+### Domingo 16 (~60 min) — según el cronograma: autoevaluar y registrar
+
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 15 | **Reescribir solo el Body 1 del sábado**, llevándolo de 2 a 4 oraciones. Mismo claim, misma idea — solo añadir EXPLAIN y LINK. Objetivo: 90–110 palabras |
+| [ ] 2 | 15 | Lo mismo con el **Body 2** |
+| [ ] 3 | 10 | Recontar el ensayo completo. Debe pasar de 182 a ~270 |
+| [ ] 4 | 10 | Pasada de artículos **solo**: buscar cada `the` y preguntar *"¿hablo de algo general?"* → si sí, quitarlo. Van 4 ocurrencias y **5/5 tareas** |
+| [ ] 5 | 10 | Registrar en `07_Error_Log.md` y `09_Study_Journal.md` |
+
+*No es escribir un ensayo nuevo: es demostrarte que el ensayo del sábado ya tenía dentro las 270 palabras.*
+
+### 🎉 Lo que se rompió el sábado
+
+- **Usó los 40 minutos completos** — patrón de **seis tareas** entregando temprano
+- **Planificó antes de escribir** — primera vez en toda la preparación
+- **13 de 18 palabras del batch activadas**
+- **Opinión propia explícita** en la conclusión
+
+### Para el sábado 22 (prompt 4 — primera banda fría)
+
+1. **4 oraciones por body** ← la única prioridad
+2. **8 minutos de planificación**, no 15
+3. **2 palabras en la lista, no 18.** Con 18 se elige en vez de escribir
+
+---
 
 ## 🏁 SEMANA 4 COMPLETA — siete días consecutivos
 
@@ -22,7 +56,7 @@
 | Mié 12 | ✅ Batch 4 · fórmulas Body 2 y Conclusión · Body 2 + Conclusión |
 | Jue 13 | ✅ Batch 5 · 4 tipos de pregunta · §4.5 y §4.6 · Body 2 de memoria |
 | Vie 14 | ✅ Batch 6 (AWL 101–120) · autopsia del ensayo modelo |
-| **Sáb 15** | **👉 TASK 2 COMPLETO — ver el plan minuto a minuto más abajo** |
+| **Sáb 15** | ✅ **TASK 2 COMPLETO, 40 min — ~Band 5.5. Línea base registrada.** 182 palabras: hallazgo de las 4 oraciones por body |
 
 **Vocabulario: 120 de 200 palabras AWL.** Un batch por delante del plan original.
 
