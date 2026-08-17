@@ -6,9 +6,36 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — próxima sesión: domingo 16 de agosto
+## 👉 RETOMAR AQUÍ — próxima sesión: martes 18 de agosto
 
-**Sábado 15 — COMPLETO ✅. Primer Task 2 cronometrado: ~Band 5.5, línea base registrada en `08_Mock_Exam_Tracker.md`. Ocho días consecutivos.**
+**Lunes 17 — COMPLETO ✅.** Ensayo del sábado completado y corregido: **182 → ~252 palabras**, de 5.5 a **~6**. Primera vez sobre el mínimo de 250.
+
+*(Domingo 16 sin sesión. Se recuperó el lunes.)*
+
+### Martes 18 (~50 min) — según el cronograma: precisión léxica
+
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 10 | Vocab: **AWL 121–140** (vas un batch por delante: las 101–120 se hicieron el viernes 14). **Elegir 2 palabras**, no 18 |
+| [ ] 2 | 10 | **Drill de comas**, 20 seg por texto. En el ensayo del lunes quedan **dos empalmes**: *"after practicing sports, other vital variables"* y *"total wellbeing, focusing only"*. Arreglarlos |
+| [ ] 3 | 10 | **Pasada de artículos sola.** Buscar cada `the`/`a` y preguntar *"¿es un concepto general o incontable?"* → si sí, quitarlo. Quedan *the sleep quality*, *a total wellbeing*, *a greater wellbeing*. Van **6/6 tareas** |
+| [ ] 4 | 20 | Writing (tarea del martes): reescribir 10 oraciones del ensayo sustituyendo palabras básicas por precisas — banco de palabras Technology & Engineering de `03_Writing_Module.md:146` |
+
+### 🎉 Lo del lunes 17
+
+- **El ensayo pasó de 182 a ~252 palabras.** Body 1: 53 → 87 (por cuenta propia). Body 2: 56 → 79
+- **12 errores corregidos en una pasada** — la más productiva hasta ahora
+- Las dos palabras que ella misma subrayó el sábado (*positively*, *negatively*), las dos resueltas
+- Unidad 3 de conectores cubierta, adelantada desde el 2 de septiembre
+
+### ⚠️ La lección de método del lunes
+
+El primer intento corrigió 12 errores pero dejó el total en **229**: no añadió la oración que faltaba.
+
+> **Completar** un párrafo incompleto ≠ **corregir** uno terminado.
+> **Primero se completa. Después se corrige.**
+
+*"Corregir es quitar y precisar, no añadir"* sigue siendo cierto — **pero solo en la pasada de corrección**, no cuando a un párrafo le falta un movimiento.
 
 ### 🎯 EL HALLAZGO DEL SÁBADO — lo único que hay que recordar
 

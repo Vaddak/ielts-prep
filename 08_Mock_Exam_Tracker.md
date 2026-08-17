@@ -57,6 +57,22 @@ Las notas de la autopsia del viernes registraron, para el Body 1: *"Two robust s
 - ✅ **Opinión propia explícita** en la conclusión — requisito del *Discuss both views*
 - ✅ Autodiagnóstico acertado: subrayó *positively* y *negatively* (ambas mal) y dudó de *equally* (bien)
 
+### Reparación del 17 de agosto — el mismo ensayo, completado
+
+| Bloque | 15-ago | 17-ago | Objetivo |
+|---|---|---|---|
+| Introducción | 43 | 48 | 40–60 ✅ |
+| Body 1 | 53 | **87** | 90–110 ✅ |
+| Body 2 | 53 | **79** | 90–110 ✅ |
+| Conclusión | 33 | 38 | 40–60 ⚠️ |
+| **TOTAL** | **182** | **~252** | **250 mín.** ✅ |
+
+**Bandas tras la reparación: ~6** (TA 6 · CC 6 · LR 6.5 · GR 6), desde 5.5.
+
+**Primera vez que un ensayo supera el mínimo de 250 palabras** — sin escribir nada nuevo, solo completando los bodies con los movimientos que les faltaban. Confirma el diagnóstico del sábado: **no era el inglés, era la plantilla.**
+
+> ⚠️ Esta cifra **no es comparable** con la línea base: es reparación sin cronómetro y con la lista de errores delante. La medición real en condiciones de examen es el **sábado 22**.
+
 ### Una cosa que corregir antes del sábado 22
 
 **4 oraciones por body.** Nada más. Es el cambio de mayor impacto por unidad de esfuerzo de toda la preparación hasta ahora.

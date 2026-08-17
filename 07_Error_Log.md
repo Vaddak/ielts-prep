@@ -97,6 +97,12 @@ After every timed practice or mock exam:
 | 2026-08-15 | Task 2 — Body 2 | Lexical Resource | *the only **criteria*** — plural usado como singular | *the only **criterion***. Plural: *criteria* |
 | 2026-08-15 | Task 2 — Body 1 | Grammatical Range | *study shows* — falta artículo ante sustantivo contable singular | ***A** study shows* · ***Studies** show* |
 | 2026-08-15 | Task 2 — general | Lexical Resource | Vocabulario **forzado** en varios puntos: *covers the half of the scheme*, *a complete outcome consists in* | 13/18 palabras activadas es un logro, pero 18 en la lista es demasiado. **Elegir 2**, no 18 — el resto llega solo |
+| 2026-08-17 | Ensayo corregido — Body 1 | Coherence & Cohesion | *...after practicing sports**,** other vital variables...* — empalme de comas **superviviente** | Punto. Uno de los 3 se corrigió; **dos sobrevivieron a la pasada** |
+| 2026-08-17 | Ensayo corregido — Body 2 | Coherence & Cohesion | *...total wellbeing**,** focusing only on...* — empalme de comas superviviente | Punto y coma (las dos ideas están muy ligadas) o punto |
+| 2026-08-17 | Ensayo corregido — Body 1 y 2 | Grammatical Range | *the sleep quality* · *a total wellbeing* · *a greater wellbeing* | Sin artículo ante concepto general e incontable. ⚠️ Patrón nº1 — **6/6 tareas**, ni una excepción |
+| 2026-08-17 | Ensayo corregido — Body 2 | Lexical Resource | *poor or **cero** assistance* | *poor or **no** assistance*. ⚠️ Interferencia del español, **7ª tarea**. Sustituyó *none* (mal) por *cero* (peor) |
+| 2026-08-17 | Ensayo corregido — Intro | Grammatical Range | *venues **designed for practice** physical activities* | *designed for **physical activity*** · *designed for **the practice of** physical activities*. Corrección a medias de *destinated* |
+| 2026-08-17 | Ensayo corregido — Conclusión | Lexical Resource | *cover **enough number of** facilities* | *cover **a sufficient number of** facilities* |
 | 2026-08-12 | **T2 Body 2** (prompt 1) | Task Achievement | ⚠️ **Claim malformado:** *a significant **drawback**… is the **contribution** that mental health has* — un drawback no puede ser una contribution. La oración dice lo contrario de lo que quería decir | *…is that it **overlooks** the role of mental health in overall wellbeing*. El claim debe **nombrar la desventaja**, no describir un beneficio |
 | 2026-08-12 | **T2 Body 2** (prompt 1) | Task Achievement | Faltan el **EXAMPLE** y el **LINK**. Estructura real: Claim → Explain → propuesta. Por eso quedó en 66 palabras de 90–110 | La 3ª oración debe ser evidencia concreta, y la 4ª reafirmar el claim del Body 2 |
 | 2026-08-12 | **T2 Body 2** (prompt 1) | Lexical Resource | 🔴 **VOCABULARIO FORZADO — hallazgo principal.** 8 palabras de los batches metidas; 2 mal usadas (*contribution*, *consequent with*). *consequent with* no existe (calco de "consecuente con") | **Objetivo nuevo: 2–3 palabras bien usadas, no 8 aproximadas.** Si hay que torcer la frase para meter la palabra, la palabra sobra |
@@ -234,6 +240,18 @@ Words I didn't know or used incorrectly:
 | 2026-08-11 | **Body 1 reescrito** *(sin cronómetro, con lista de errores)* | 7 | 7.5 | 7 | 7 | **~7** |
 | 2026-08-12 | **T2 Body 2 + Conclusión**, prompt 1 *(cronometrado, 1ª escritura)* | 5.5 | 6 | 5.5 | 5 | **~5.5** |
 | **2026-08-15** | 🏁 **TASK 2 COMPLETO, 40 min** — prompt 1 *(LÍNEA BASE)* | 5.5 | 6 | 6 | 5.5 | **~5.5** |
+| 2026-08-17 | **Mismo ensayo, completado y corregido** — 182 → **~252 palabras** ✅ | 6 | 6 | 6.5 | 6 | **~6** |
+
+**Sobre el 17-ago:** primera vez que un ensayo supera las **250 palabras**. No se escribió nada nuevo: se completaron los bodies (Body 1: 53 → 87 por cuenta propia; Body 2: 56 → 79 con la oración LINK que faltaba) y se corrigieron **12 errores en una sola pasada** — la más productiva hasta ahora.
+
+> ⚠️ **Esta fila no es comparable con la del 15-ago.** Aquella es primera escritura bajo cronómetro; esta es reparación sin tiempo y con la lista de errores a la vista. Mide que **reconoce y sabe arreglar**, no que produzca 252 palabras en 40 minutos. Eso se mide el **sábado 22**.
+
+**Lección de método registrada el 17-ago — dos operaciones que no se pueden mezclar:**
+
+El primer intento corrigió 12 errores pero dejó el total en **229**: se aplicó *"corregir es quitar y precisar, no añadir"* a un párrafo que estaba **incompleto**, no terminado.
+
+> **Completar** un párrafo al que le falta un movimiento ≠ **corregir** uno terminado.
+> **Primero se completa. Después se corrige.** En ese orden.
 
 **Sobre la línea base del 15-ago — la lectura correcta:**
 

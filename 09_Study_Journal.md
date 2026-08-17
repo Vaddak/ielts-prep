@@ -347,3 +347,44 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 
 **Una sola cosa que corregir antes del sábado 22: 4 oraciones por body.**
 
+
+---
+
+### 2026-08-17 — Semana 5, Lunes · Reparación del ensayo del sábado
+**Módulo:** Writing Task 2 — corrección completa del ensayo del 15 de agosto (prompt 1)
+**Tiempo:** ~45 min · **Recupera la sesión del domingo 16, que no se hizo**
+
+**🎯 EL ENSAYO SUPERÓ LAS 250 PALABRAS POR PRIMERA VEZ.**
+
+| | 15-ago | 17-ago |
+|---|---|---|
+| Introducción | 43 | 48 |
+| Body 1 | 53 | **87** |
+| Body 2 | 53 | **79** |
+| Conclusión | 33 | 38 |
+| **TOTAL** | **182** | **~252** ✅ |
+
+**Bandas: ~6** (TA 6 · CC 6 · LR 6.5 · GR 6), desde el 5.5 del sábado.
+
+**Qué se hizo, en dos operaciones distintas:**
+
+1. **Completar** — el Body 1 pasó de 2 a 4 movimientos por cuenta propia (mecanismo + dato de cortisol): 53 → 87 palabras. Al Body 2 se le añadió la oración LINK que le faltaba: 56 → 79.
+2. **Corregir** — **12 errores arreglados en una sola pasada**, la más productiva hasta ahora: *destinated* → *designed for* · *impact positively* → **positively impact** · *major* → *greater* · *keep within its* → *remain within their* · *despite of* → *despite* · *focusing only in* → *on* · *researchs* → *research* · *achive* → *achieve* · *must covers* → *must cover* · *installations* → *facilities* · *a wide offer* → *a wide range* · primer empalme de comas.
+
+**Las dos palabras que ella misma había subrayado** el sábado (*positively*, *negatively*) quedaron las dos resueltas.
+
+**Lección de método:** el primer intento del lunes corrigió 12 errores pero **dejó el total en 229** — no añadió la oración que faltaba. Se aplicó la regla *"corregir es quitar y precisar, no añadir"*, que es correcta **para una pasada de corrección** pero no para un párrafo al que le falta un movimiento.
+
+> **Son dos operaciones distintas y no se pueden mezclar:** *completar* un párrafo incompleto ≠ *corregir* uno terminado. Primero se completa, después se corrige.
+
+**Confesión útil registrada:** *"incluso en español tengo un uso excesivo de comas"*. Se revisó y **6 de 9 comas del ensayo estaban bien** — las 3 malas eran todas el mismo error (empalme de dos oraciones independientes), que en español formal también es incorrecto (*coma criminal*). No es una regla inglesa nueva: es dejar de trasladar un hábito del español.
+
+**El test adoptado:** tapar la coma, poner punto, leer las dos mitades. Si ambas funcionan solas → punto. Dos segundos por coma.
+
+**Conectores:** se cubrió la Unidad 3 de `02_Vocabulary_Engine.md:451`, adelantada desde el 2 de septiembre. Set de trabajo de 10, uno por hueco del ensayo, más la regla de puntuación que distingue adverbios (*However* → punto antes) de conjunciones (*While* → coma).
+
+**Errores que sobreviven:** 2 empalmes de comas · artículos ante concepto general (*the sleep quality*, *a total wellbeing*) — **6/6 tareas** · *cero* por *no* (interferencia del español, 7ª tarea) · *designed for practice physical activities*.
+
+**Cómo me sentí:** —
+
+**Lectura:** el sábado se identificó la causa (bodies a la mitad por una plantilla mal contada) y hoy se ejecutó la corrección. **De 182 a 252 palabras y de 5.5 a 6 en dos sesiones**, sin escribir un ensayo nuevo.
