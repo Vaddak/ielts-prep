@@ -8,7 +8,7 @@
 
 ## 👉 RETOMAR AQUÍ — próxima sesión: martes 18 de agosto
 
-**Lunes 17 — COMPLETO ✅.** Ensayo del sábado completado y corregido: **182 → ~252 palabras**, de 5.5 a **~6**. Primera vez sobre el mínimo de 250.
+**Lunes 17 — COMPLETO ✅.** Ensayo del sábado completado y corregido: **182 → 248 palabras**, de 5.5 a **~6**. ⚠️ **Aún 2 palabras bajo el mínimo de 250** — el 252 anotado antes era una estimación sin ver el texto.
 
 *(Domingo 16 sin sesión. Se recuperó el lunes.)*
 
@@ -25,11 +25,21 @@
 
 **Sin vocabulario nuevo el martes** — el batch 121–140 se adelantó al lunes. El siguiente es el miércoles.
 
-> ⏳ **Pendiente de verificar:** las correcciones de comas y léxico se aplicaron pero no se han revisado contra el texto. En la pasada del 17-ago **2 de 3 empalmes sobrevivieron** a una corrección que se dio por hecha. Vale la pena confirmarlas cuando se muestre el ensayo.
+> ✅ **VERIFICADO contra el texto (17-ago, noche).** Confirmadas: *designed for physical activities* · *sleep quality* · *total wellbeing* · *no assistance* · *a sufficient number of* · *a wide range of* · el empalme del Body 1 · la oración LINK del Body 2.
+>
+> ❌ **Sobrevivió un empalme de comas**, el del Body 2: *"...to ensure total wellbeing**,** focusing only on this factor may exclude..."* → punto o punto y coma. Se corrigió el artículo de esa misma frase pero no la coma: **se corrige lo que se mira**.
+>
+> ❌ **Queda un artículo:** *a greater wellbeing* → *greater wellbeing* (incontable). Patrón nº1, el último que queda en este ensayo.
+>
+> ⚠️ **Conteo real: 248 palabras — 2 bajo el mínimo.** Para cruzarlo con margen, añadir al final de la conclusión (que está en 39 de 40–60):
+> *In my view, neither element alone is sufficient: lasting public health depends on treating physical and mental provision as equally essential.*
+> **+21 palabras → 268**, y refuerza la opinión explícita que pide el *Discuss both views*.
+>
+> **Menores:** *benefits **like*** → *such as* · *a bigger infrastructure* → *greater infrastructure* · *the decrease **of** health* → *a decline **in** health* · falta coma tras *To achieve wellbeing in society*.
 
 ### 🎉 Lo del lunes 17
 
-- **El ensayo pasó de 182 a ~252 palabras.** Body 1: 53 → 87 (por cuenta propia). Body 2: 56 → 79
+- **El ensayo pasó de 182 a 248 palabras.** Body 1: 53 → 86 (por cuenta propia). Body 2: 56 → 76
 - **12 errores corregidos en una pasada** — la más productiva hasta ahora
 - Las dos palabras que ella misma subrayó el sábado (*positively*, *negatively*), las dos resueltas
 - Unidad 3 de conectores cubierta, adelantada desde el 2 de septiembre
@@ -286,7 +296,7 @@ En dos días cayeron dos cuellos de botella: la gramática de interferencia (adj
 
 | Día | Fecha | Tarea |
 |---|---|---|
-| [x] Lun | Ago 17 | ~~Vocab: AWL 101–120. Writing: banco de palabras — Technology & Engineering~~ ✅ **Vocab 121–140** (las 101–120 ya estaban del viernes 14) + banco Technology & Engineering. **Además:** reparación del ensayo del sábado, 182 → 252 palabras |
+| [x] Lun | Ago 17 | ~~Vocab: AWL 101–120. Writing: banco de palabras — Technology & Engineering~~ ✅ **Vocab 121–140** (las 101–120 ya estaban del viernes 14) + banco Technology & Engineering. **Además:** reparación del ensayo del sábado, 182 → 248 palabras |
 | [ ] Mar | Ago 18 | Writing: reemplazar palabras básicas por precisas — reescribir 10 oraciones de tu ensayo del sábado |
 | [ ] Mié | Ago 19 | Vocab: **AWL 141–160** *(corrido un batch)*. Writing: banco de palabras — Environment & Energy |
 | [ ] Jue | Ago 20 | Writing: parafrasear el enunciado — practicar con 5 prompts del módulo |

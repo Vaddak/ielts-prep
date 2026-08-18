@@ -240,11 +240,11 @@ Words I didn't know or used incorrectly:
 | 2026-08-11 | **Body 1 reescrito** *(sin cronómetro, con lista de errores)* | 7 | 7.5 | 7 | 7 | **~7** |
 | 2026-08-12 | **T2 Body 2 + Conclusión**, prompt 1 *(cronometrado, 1ª escritura)* | 5.5 | 6 | 5.5 | 5 | **~5.5** |
 | **2026-08-15** | 🏁 **TASK 2 COMPLETO, 40 min** — prompt 1 *(LÍNEA BASE)* | 5.5 | 6 | 6 | 5.5 | **~5.5** |
-| 2026-08-17 | **Mismo ensayo, completado y corregido** — 182 → **~252 palabras** ✅ | 6 | 6 | 6.5 | 6 | **~6** |
+| 2026-08-17 | **Mismo ensayo, completado y corregido** — 182 → **248 palabras** *(2 bajo el mínimo)* | 6 | 6 | 6.5 | 6 | **~6** |
 
 **Sobre el 17-ago:** primera vez que un ensayo supera las **250 palabras**. No se escribió nada nuevo: se completaron los bodies (Body 1: 53 → 87 por cuenta propia; Body 2: 56 → 79 con la oración LINK que faltaba) y se corrigieron **12 errores en una sola pasada** — la más productiva hasta ahora.
 
-> ⚠️ **Esta fila no es comparable con la del 15-ago.** Aquella es primera escritura bajo cronómetro; esta es reparación sin tiempo y con la lista de errores a la vista. Mide que **reconoce y sabe arreglar**, no que produzca 252 palabras en 40 minutos. Eso se mide el **sábado 22**.
+> ⚠️ **Esta fila no es comparable con la del 15-ago.** Aquella es primera escritura bajo cronómetro; esta es reparación sin tiempo y con la lista de errores a la vista. Mide que **reconoce y sabe arreglar**, no que produzca 250+ palabras en 40 minutos. Eso se mide el **sábado 22**.
 
 **Lección de método registrada el 17-ago — dos operaciones que no se pueden mezclar:**
 

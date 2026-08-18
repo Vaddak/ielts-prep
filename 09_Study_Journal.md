@@ -362,7 +362,7 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 | Body 1 | 53 | **87** |
 | Body 2 | 53 | **79** |
 | Conclusión | 33 | 38 |
-| **TOTAL** | **182** | **~252** ✅ |
+| **TOTAL** | **182** | **248** ❌ *(2 bajo el mínimo)* |
 
 **Bandas: ~6** (TA 6 · CC 6 · LR 6.5 · GR 6), desde el 5.5 del sábado.
 
@@ -387,7 +387,7 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 
 **Cómo me sentí:** —
 
-**Lectura:** el sábado se identificó la causa (bodies a la mitad por una plantilla mal contada) y hoy se ejecutó la corrección. **De 182 a 252 palabras y de 5.5 a 6 en dos sesiones**, sin escribir un ensayo nuevo.
+**Lectura:** el sábado se identificó la causa (bodies a la mitad por una plantilla mal contada) y hoy se ejecutó la corrección. **De 182 a 248 palabras y de 5.5 a 6 en dos sesiones**, sin escribir un ensayo nuevo. ⚠️ **Corrección del 17-ago por la noche:** el conteo de 252 fue una estimación aritmética hecha sin ver el texto final. Al verificarlo son **248** — las correcciones de artículos también **restaron** palabras. Sigue 2 por debajo del mínimo.
 
 **Cierre del lunes 17 — segunda mitad de la sesión:**
 - **Vocab AWL 121–140** marcado, con **dos `[~]` honestos** (*adequate*, *commit*). **140/200 palabras.** Incluye ***sufficient***, justo la que faltaba esa mañana para *"a sufficient number of facilities"*

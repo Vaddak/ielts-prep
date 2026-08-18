@@ -61,15 +61,19 @@ Las notas de la autopsia del viernes registraron, para el Body 1: *"Two robust s
 
 | Bloque | 15-ago | 17-ago | Objetivo |
 |---|---|---|---|
-| Introducción | 43 | 48 | 40–60 ✅ |
-| Body 1 | 53 | **87** | 90–110 ✅ |
-| Body 2 | 53 | **79** | 90–110 ✅ |
-| Conclusión | 33 | 38 | 40–60 ⚠️ |
-| **TOTAL** | **182** | **~252** | **250 mín.** ✅ |
+| Introducción | 43 | 47 | 40–60 ✅ |
+| Body 1 | 53 | **86** | 90–110 ✅ |
+| Body 2 | 53 | **76** | 90–110 ✅ |
+| Conclusión | 33 | 39 | 40–60 ⚠️ |
+| **TOTAL** | **182** | **248** | **250 mín.** ❌ *(faltan 2)* |
 
 **Bandas tras la reparación: ~6** (TA 6 · CC 6 · LR 6.5 · GR 6), desde 5.5.
 
-**Primera vez que un ensayo supera el mínimo de 250 palabras** — sin escribir nada nuevo, solo completando los bodies con los movimientos que les faltaban. Confirma el diagnóstico del sábado: **no era el inglés, era la plantilla.**
+**Los bodies se completaron sin escribir nada nuevo**, solo añadiendo los movimientos que les faltaban: Body 1 de 53 a 86 por cuenta propia, Body 2 de 53 a 76 con la oración LINK. Confirma el diagnóstico del sábado: **no era el inglés, era la plantilla.**
+
+⚠️ **El ensayo sigue 2 palabras bajo el mínimo.** Un cálculo previo lo dio en ~252, pero era una estimación aritmética hecha sin ver el texto final; al verificarlo son **248**. La razón: las correcciones de artículos (*the sleep quality* → *sleep quality*, *a total wellbeing* → *total wellbeing*) también **restan** palabras.
+
+> **Lección: verificar el conteo sobre el texto, no estimarlo.** Y no apuntar a 251 — un artículo que se quite vuelve a bajar del mínimo. **Apuntar a 265–280.**
 
 > ⚠️ Esta cifra **no es comparable** con la línea base: es reparación sin cronómetro y con la lista de errores delante. La medición real en condiciones de examen es el **sábado 22**.
 
