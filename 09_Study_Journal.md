@@ -394,3 +394,9 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 - **Banco de palabras Technology & Engineering** (`03_Writing_Module.md:146`) revisado
 
 **Día completo:** tarea del domingo (autoevaluación y registro) + tarea del lunes (vocabulario y banco de palabras) + la reparación del ensayo. **Domingo saldado, lunes al día.**
+
+**Extra del lunes 17 — se adelantaron dos pasos del martes:**
+- **Drill de comas aplicado:** los dos empalmes supervivientes (*"after practicing sports, other vital variables"* y *"total wellbeing, focusing only"*)
+- **Correcciones léxicas del paso 4:** *cero* → *no assistance* · *designed for practice physical activities* → *designed for physical activity* · *enough number of* → *a sufficient number of*
+
+⏳ **Sin verificar contra el texto.** En la pasada de esa misma mañana, 2 de 3 empalmes sobrevivieron a una corrección que se dio por hecha — conviene confirmarlo cuando se muestre el ensayo. El martes queda en 30 min: pasada de artículos + las 10 oraciones.

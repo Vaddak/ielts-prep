@@ -12,18 +12,20 @@
 
 *(Domingo 16 sin sesión. Se recuperó el lunes.)*
 
-### Martes 18 (~40 min) — precisión léxica
+### Martes 18 (~30 min) — precisión léxica
 
-*El banco de palabras Technology & Engineering ya se hizo el lunes, así que el martes queda enfocado en una sola cosa: limpiar el ensayo y subir Lexical Resource.*
+*El banco de palabras Technology & Engineering se hizo el lunes, y los pasos 1 y 4 también. El martes queda enfocado en una sola cosa: subir Lexical Resource.*
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 5 | **Drill de comas**, 20 seg. Quedan **dos empalmes** en el ensayo: *"after practicing sports, other vital variables"* → punto · *"total wellbeing, focusing only"* → punto y coma |
+| [x] 1 | 5 | ~~**Drill de comas.** Los dos empalmes: *"after practicing sports, other vital variables"* · *"total wellbeing, focusing only"*~~ ✅ *hecho el lunes 17* |
 | [ ] 2 | 10 | **Pasada de artículos sola.** Cada `the`/`a`: *"¿concepto general o incontable?"* → si sí, quitarlo. Quedan *the sleep quality*, *a total wellbeing*, *a greater wellbeing*. Van **6/6 tareas** — es el patrón nº1 |
 | [ ] 3 | 20 | **Tarea del martes:** reescribir 10 oraciones del ensayo cambiando palabras básicas por precisas, usando el banco Technology & Engineering de `03_Writing_Module.md:146` |
-| [ ] 4 | 5 | Arreglar de paso: *poor or **cero*** → *no assistance* · *designed for **practice** physical activities* → *designed for physical activity* · *enough number of* → ***a sufficient number of*** (palabra 121 del batch de ayer 😉) |
+| [x] 4 | 5 | ~~*cero* → *no assistance* · *designed for practice physical activities* → *designed for physical activity* · *enough number of* → *a sufficient number of*~~ ✅ *hecho el lunes 17* |
 
 **Sin vocabulario nuevo el martes** — el batch 121–140 se adelantó al lunes. El siguiente es el miércoles.
+
+> ⏳ **Pendiente de verificar:** las correcciones de comas y léxico se aplicaron pero no se han revisado contra el texto. En la pasada del 17-ago **2 de 3 empalmes sobrevivieron** a una corrección que se dio por hecha. Vale la pena confirmarlas cuando se muestre el ensayo.
 
 ### 🎉 Lo del lunes 17
 
