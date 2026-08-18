@@ -197,26 +197,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 121 | **sufficient** | adjective | enough | *The battery provides sufficient capacity for overnight operation.* | [ ] |
-| 122 | **survey** | noun/verb | a study of opinions or conditions | *A survey of 400 households was conducted.* | [ ] |
-| 123 | **technical** | adjective | relating to practical or scientific skill | *The technical constraints were more severe than anticipated.* | [ ] |
-| 124 | **technique** | noun | a specific method of doing something | *A novel fabrication technique reduced defect rates.* | [ ] |
-| 125 | **technology** | noun | the application of scientific knowledge | *Battery technology has advanced rapidly in the past decade.* | [ ] |
-| 126 | **valid** | adjective | logically sound; acceptable | *The conclusion is valid only under steady-state conditions.* | [ ] |
-| 127 | **volume** | noun | quantity or amount; space occupied | *The volume of data generated poses a storage challenge.* | [ ] |
-| 128 | **access** | noun/verb | the ability to reach or use | *Rural communities still lack reliable access to electricity.* | [ ] |
-| 129 | **adequate** | adjective | enough for the purpose | *The existing infrastructure is no longer adequate.* | [ ] |
-| 130 | **annual** | adjective | happening once a year | *Annual consumption rose by 4% over the period.* | [ ] |
-| 131 | **apparent** | adjective | clearly visible or understood | *It soon became apparent that the sensor was faulty.* | [ ] |
-| 132 | **approximate** | adjective/verb | almost exact; to come close to | *The approximate cost of the retrofit is €80,000.* | [ ] |
-| 133 | **attitude** | noun | a way of thinking or feeling | *Public attitudes towards nuclear power have shifted.* | [ ] |
-| 134 | **attribute** | noun/verb | a quality; to consider as caused by | *Durability is the most valued attribute in this market.* | [ ] |
-| 135 | **civil** | adjective | relating to citizens or public works | *Civil engineering projects require extensive consultation.* | [ ] |
-| 136 | **code** | noun | a system of rules or symbols | *The building code was revised to include seismic standards.* | [ ] |
-| 137 | **commit** | verb | to pledge; to dedicate resources | *The government committed €2 billion to grid modernisation.* | [ ] |
-| 138 | **communicate** | verb | to convey information | *The modules communicate over a shared data bus.* | [ ] |
-| 139 | **concentrate** | verb | to focus; to gather in one place | *Investment has concentrated in coastal regions.* | [ ] |
-| 140 | **confer** | verb | to grant; to discuss with others | *The patent confers exclusive rights for twenty years.* | [ ] |
+| 121 | **sufficient** | adjective | enough | *The battery provides sufficient capacity for overnight operation.* | [X] |
+| 122 | **survey** | noun/verb | a study of opinions or conditions | *A survey of 400 households was conducted.* | [X] |
+| 123 | **technical** | adjective | relating to practical or scientific skill | *The technical constraints were more severe than anticipated.* | [X] |
+| 124 | **technique** | noun | a specific method of doing something | *A novel fabrication technique reduced defect rates.* | [X] |
+| 125 | **technology** | noun | the application of scientific knowledge | *Battery technology has advanced rapidly in the past decade.* | [X] |
+| 126 | **valid** | adjective | logically sound; acceptable | *The conclusion is valid only under steady-state conditions.* | [X] |
+| 127 | **volume** | noun | quantity or amount; space occupied | *The volume of data generated poses a storage challenge.* | [X] |
+| 128 | **access** | noun/verb | the ability to reach or use | *Rural communities still lack reliable access to electricity.* | [X] |
+| 129 | **adequate** | adjective | enough for the purpose | *The existing infrastructure is no longer adequate.* | [~] |
+| 130 | **annual** | adjective | happening once a year | *Annual consumption rose by 4% over the period.* | [X] |
+| 131 | **apparent** | adjective | clearly visible or understood | *It soon became apparent that the sensor was faulty.* | [X] |
+| 132 | **approximate** | adjective/verb | almost exact; to come close to | *The approximate cost of the retrofit is €80,000.* | [X] |
+| 133 | **attitude** | noun | a way of thinking or feeling | *Public attitudes towards nuclear power have shifted.* | [X] |
+| 134 | **attribute** | noun/verb | a quality; to consider as caused by | *Durability is the most valued attribute in this market.* | [X] |
+| 135 | **civil** | adjective | relating to citizens or public works | *Civil engineering projects require extensive consultation.* | [X] |
+| 136 | **code** | noun | a system of rules or symbols | *The building code was revised to include seismic standards.* | [X] |
+| 137 | **commit** | verb | to pledge; to dedicate resources | *The government committed €2 billion to grid modernisation.* | [~] |
+| 138 | **communicate** | verb | to convey information | *The modules communicate over a shared data bus.* | [x] |
+| 139 | **concentrate** | verb | to focus; to gather in one place | *Investment has concentrated in coastal regions.* | [x] |
+| 140 | **confer** | verb | to grant; to discuss with others | *The patent confers exclusive rights for twenty years.* | [x] |
 
 ---
 
