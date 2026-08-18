@@ -12,14 +12,18 @@
 
 *(Domingo 16 sin sesión. Se recuperó el lunes.)*
 
-### Martes 18 (~50 min) — según el cronograma: precisión léxica
+### Martes 18 (~40 min) — precisión léxica
+
+*El banco de palabras Technology & Engineering ya se hizo el lunes, así que el martes queda enfocado en una sola cosa: limpiar el ensayo y subir Lexical Resource.*
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 10 | Vocab: **AWL 121–140** (vas un batch por delante: las 101–120 se hicieron el viernes 14). **Elegir 2 palabras**, no 18 |
-| [ ] 2 | 10 | **Drill de comas**, 20 seg por texto. En el ensayo del lunes quedan **dos empalmes**: *"after practicing sports, other vital variables"* y *"total wellbeing, focusing only"*. Arreglarlos |
-| [ ] 3 | 10 | **Pasada de artículos sola.** Buscar cada `the`/`a` y preguntar *"¿es un concepto general o incontable?"* → si sí, quitarlo. Quedan *the sleep quality*, *a total wellbeing*, *a greater wellbeing*. Van **6/6 tareas** |
-| [ ] 4 | 20 | Writing (tarea del martes): reescribir 10 oraciones del ensayo sustituyendo palabras básicas por precisas — banco de palabras Technology & Engineering de `03_Writing_Module.md:146` |
+| [ ] 1 | 5 | **Drill de comas**, 20 seg. Quedan **dos empalmes** en el ensayo: *"after practicing sports, other vital variables"* → punto · *"total wellbeing, focusing only"* → punto y coma |
+| [ ] 2 | 10 | **Pasada de artículos sola.** Cada `the`/`a`: *"¿concepto general o incontable?"* → si sí, quitarlo. Quedan *the sleep quality*, *a total wellbeing*, *a greater wellbeing*. Van **6/6 tareas** — es el patrón nº1 |
+| [ ] 3 | 20 | **Tarea del martes:** reescribir 10 oraciones del ensayo cambiando palabras básicas por precisas, usando el banco Technology & Engineering de `03_Writing_Module.md:146` |
+| [ ] 4 | 5 | Arreglar de paso: *poor or **cero*** → *no assistance* · *designed for **practice** physical activities* → *designed for physical activity* · *enough number of* → ***a sufficient number of*** (palabra 121 del batch de ayer 😉) |
+
+**Sin vocabulario nuevo el martes** — el batch 121–140 se adelantó al lunes. El siguiente es el miércoles.
 
 ### 🎉 Lo del lunes 17
 
@@ -280,11 +284,11 @@ En dos días cayeron dos cuellos de botella: la gramática de interferencia (adj
 
 | Día | Fecha | Tarea |
 |---|---|---|
-| [ ] Lun | Ago 17 | Vocab: AWL 101–120. Writing: banco de palabras — Technology & Engineering |
+| [x] Lun | Ago 17 | ~~Vocab: AWL 101–120. Writing: banco de palabras — Technology & Engineering~~ ✅ **Vocab 121–140** (las 101–120 ya estaban del viernes 14) + banco Technology & Engineering. **Además:** reparación del ensayo del sábado, 182 → 252 palabras |
 | [ ] Mar | Ago 18 | Writing: reemplazar palabras básicas por precisas — reescribir 10 oraciones de tu ensayo del sábado |
-| [ ] Mié | Ago 19 | Vocab: AWL 121–140. Writing: banco de palabras — Environment & Energy |
+| [ ] Mié | Ago 19 | Vocab: **AWL 141–160** *(corrido un batch)*. Writing: banco de palabras — Environment & Energy |
 | [ ] Jue | Ago 20 | Writing: parafrasear el enunciado — practicar con 5 prompts del módulo |
-| [ ] Vie | Ago 21 | Vocab: AWL 141–160. Writing: banco de palabras — Education & Research + Society & Work |
+| [ ] Vie | Ago 21 | Vocab: **AWL 161–180** *(corrido un batch)*. Writing: banco de palabras — Education & Research + Society & Work |
 | [ ] **Sáb** | Ago 22 | **Writing: Task 2 completo, 40 min** (prompt 4 — brecha entre ricos y pobres) |
 | [ ] Dom | Ago 23 | Autoevaluar solo el criterio **Lexical Resource**. Comparar con el ensayo del 15 de agosto |
 
