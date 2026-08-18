@@ -117,6 +117,15 @@ After every timed practice or mock exam:
 | 2026-08-12 | **T2 Conclusión** | Lexical Resource | *sport **settlings*** | *sport**s** facilities*. ⚠️ *sport*/*sports* — 3/3 tareas |
 | 2026-08-11 | **Body 1 reescrito** | Task Achievement | La 3ª oración sigue derivando: habla de **cómo planificar** instalaciones, no de **por qué la variedad aumenta la participación** (el claim). Mejoró mucho con *therefore* + *match genuine local demand*, pero no está resuelto del todo | Redirigir al claim: *porque cada disciplina atrae a un perfil distinto, una oferta variada capta gente que una sola actividad dejaría fuera*. Prueba por oración: *¿esto desarrolla mi punto, o abre otro?* |
 
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Task Achievement | ⚠️ **La conclusión ya no dice qué piensa.** El 15-ago sí tenía opinión explícita; se perdió en las dos reparaciones | *In my view…* · *are, **in my view**, equally essential*. En un *Discuss both views* lo pide el enunciado. **Reparar puede borrar aciertos: verificar también lo que ya estaba bien** |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Lexical Resource | ***proffessionals*** en el Body 1 — **y *professionals* bien escrita en la conclusión.** Misma palabra, mismo ensayo, dos grafías | Bucle de la duda (§4.6). No es desconocimiento: la escribió bien 12 líneas después. **Primer instinto → subrayar → seguir → revisar al final** |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Grammatical Range | 🆕 **Coma perdida al reescribir:** *…in general wellness ∅ some others identify…* La cláusula con *While* la necesita. **El lunes estaba bien** | Patrón nuevo: **reescribir sobre limpio introduce errores nuevos**. La última pasada debe hacerse sobre la versión FINAL, no sobre la anterior |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Lexical Resource | Tres ***like*** supervivientes: *factors like* · *benefits like* · *variables like* (el de *Conditions* sí se corrigió) | ***such as***. *like* es informal en registro académico |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Grammatical Range | *prepared **to** each community needs* | *prepared **for** each community**'s** needs* — preposición + posesivo |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Grammatical Range | *the decrease **of** health* · *all **the** bodily systems* | *a decline **in** health* · *all bodily systems*. Artículos: **7/7 tareas** |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Lexical Resource | ***In the same space*** — calco de "en el mismo espacio" | *At the same time* · *Equally*. 6ª interferencia del español |
+| 2026-08-18 | **Ensayo v3** (prompt 1) | Coherence & Cohesion | Faltan comas tras frase introductoria: *…in society ∅ the whole scheme…* · *In the same space ∅ psychological…* | Coma tras cualquier frase introductoria larga |
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

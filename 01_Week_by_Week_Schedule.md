@@ -6,86 +6,60 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — próxima sesión: martes 18 de agosto
+## 👉 RETOMAR AQUÍ — martes 18, en casa
 
-**Lunes 17 — COMPLETO ✅.** Ensayo del sábado completado y corregido: **182 → 248 palabras**, de 5.5 a **~6**. ⚠️ **Aún 2 palabras bajo el mínimo de 250** — el 252 anotado antes era una estimación sin ver el texto.
+**🎯 EL ENSAYO CRUZÓ LAS 250: 263 palabras, ~Band 6.5.** Texto completo guardado en `11_Writing_Baseline_Essays.md`.
 
-*(Domingo 16 sin sesión. Se recuperó el lunes.)*
+| | 15-ago | 17-ago | **18-ago** |
+|---|---|---|---|
+| Palabras | 182 ❌ | 248 ❌ | **263** ✅ |
+| Banda | ~5.5 | ~6 | **~6.5** |
 
-### Martes 18 (~30 min) — precisión léxica
+Lo logró **expandiendo el Body 1 y la conclusión por cuenta propia**, sin usar la oración de relleno propuesta. Y **murió el empalme de comas** del Body 2 tras tres supervivencias.
 
-*El banco de palabras Technology & Engineering se hizo el lunes, y los pasos 1 y 4 también. El martes queda enfocado en una sola cosa: subir Lexical Resource.*
+### Lo que queda del ensayo (~5 min), por orden de valor
 
-| # | Min | Tarea |
-|---|---|---|
-| [x] 1 | 5 | ~~**Drill de comas.** Los dos empalmes: *"after practicing sports, other vital variables"* · *"total wellbeing, focusing only"*~~ ✅ *hecho el lunes 17* |
-| [ ] 2 | 10 | **Pasada de artículos sola.** Cada `the`/`a`: *"¿concepto general o incontable?"* → si sí, quitarlo. Quedan *the sleep quality*, *a total wellbeing*, *a greater wellbeing*. Van **6/6 tareas** — es el patrón nº1 |
-| [ ] 3 | 20 | **Tarea del martes:** reescribir 10 oraciones del ensayo cambiando palabras básicas por precisas, usando el banco Technology & Engineering de `03_Writing_Module.md:146` |
-| [x] 4 | 5 | ~~*cero* → *no assistance* · *designed for practice physical activities* → *designed for physical activity* · *enough number of* → *a sufficient number of*~~ ✅ *hecho el lunes 17* |
+| # | Corrección |
+|---|---|
+| [ ] 1 | **La opinión explícita en la conclusión** ← la única que cambia banda. *In my view…* · *are, **in my view**, equally essential* |
+| [ ] 2 | ***proffessionals*** → **professionals** (Body 1) |
+| [ ] 3 | Coma: *…in general wellness**,** some others…* |
+| [ ] 4 | Los tres ***like*** → ***such as***: *factors like* · *benefits like* · *variables like* |
+| [ ] 5 | *prepared **to** each community needs* → *prepared **for** each community**'s** needs* |
+| [ ] 6 | Menores: *the decrease **of** health* → *a decline **in** health* · *all **the** bodily systems* → *all bodily systems* · *In the same space* → *At the same time* |
 
-**Sin vocabulario nuevo el martes** — el batch 121–140 se adelantó al lunes. El siguiente es el miércoles.
-
-> ✅ **VERIFICADO contra el texto (17-ago, noche).** Confirmadas: *designed for physical activities* · *sleep quality* · *total wellbeing* · *no assistance* · *a sufficient number of* · *a wide range of* · el empalme del Body 1 · la oración LINK del Body 2.
->
-> ❌ **Sobrevivió un empalme de comas**, el del Body 2: *"...to ensure total wellbeing**,** focusing only on this factor may exclude..."* → punto o punto y coma. Se corrigió el artículo de esa misma frase pero no la coma: **se corrige lo que se mira**.
->
-> ❌ **Queda un artículo:** *a greater wellbeing* → *greater wellbeing* (incontable). Patrón nº1, el último que queda en este ensayo.
->
-> ⚠️ **Conteo real: 248 palabras — 2 bajo el mínimo.** Para cruzarlo con margen, añadir al final de la conclusión (que está en 39 de 40–60):
-> *In my view, neither element alone is sufficient: lasting public health depends on treating physical and mental provision as equally essential.*
-> **+21 palabras → 268**, y refuerza la opinión explícita que pide el *Discuss both views*.
->
-> **Menores:** *benefits **like*** → *such as* · *a bigger infrastructure* → *greater infrastructure* · *the decrease **of** health* → *a decline **in** health* · falta coma tras *To achieve wellbeing in society*.
-
-### 🎉 Lo del lunes 17
-
-- **El ensayo pasó de 182 a 248 palabras.** Body 1: 53 → 86 (por cuenta propia). Body 2: 56 → 76
-- **12 errores corregidos en una pasada** — la más productiva hasta ahora
-- Las dos palabras que ella misma subrayó el sábado (*positively*, *negatively*), las dos resueltas
-- Unidad 3 de conectores cubierta, adelantada desde el 2 de septiembre
-
-### ⚠️ La lección de método del lunes
-
-El primer intento corrigió 12 errores pero dejó el total en **229**: no añadió la oración que faltaba.
-
-> **Completar** un párrafo incompleto ≠ **corregir** uno terminado.
-> **Primero se completa. Después se corrige.**
-
-*"Corregir es quitar y precisar, no añadir"* sigue siendo cierto — **pero solo en la pasada de corrección**, no cuando a un párrafo le falta un movimiento.
-
-### 🎯 EL HALLAZGO DEL SÁBADO — lo único que hay que recordar
-
-**182 palabras de 250 mínimas.** Los bodies salieron de 53 palabras (objetivo 90–110).
-
-**La causa no fue el inglés ni el tiempo: fue la plantilla.** Las notas de la autopsia del viernes decían *"two robust sentences are enough"*. El Body 1 del ensayo modelo tiene **cuatro** oraciones, no dos — sus frases son largas y se contaron mal.
-
-> **4 ORACIONES POR BODY:** Claim → Explain → Example → Link.
-> Convierte 182 palabras en ~270 sin mejorar una sola frase. Es el cambio de mayor impacto de toda la preparación.
-
-### Domingo 16 (~60 min) — según el cronograma: autoevaluar y registrar
+### Después, la sesión del martes (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 15 | **Reescribir solo el Body 1 del sábado**, llevándolo de 2 a 4 oraciones. Mismo claim, misma idea — solo añadir EXPLAIN y LINK. Objetivo: 90–110 palabras |
-| [ ] 2 | 15 | Lo mismo con el **Body 2** |
-| [ ] 3 | 10 | Recontar el ensayo completo. Debe pasar de 182 a ~270 |
-| [ ] 4 | 10 | Pasada de artículos **solo**: buscar cada `the` y preguntar *"¿hablo de algo general?"* → si sí, quitarlo. Van 4 ocurrencias y **5/5 tareas** |
-| [ ] 5 | 10 | Registrar en `07_Error_Log.md` y `09_Study_Journal.md` |
+| [ ] A | 10 | **Pasada de artículos sola.** Cada `the`/`a`: *"¿concepto general o incontable?"* → si sí, quitarlo. Van **7/7 tareas** |
+| [ ] B | 20 | **Reescribir 10 oraciones** del ensayo cambiando palabras básicas por precisas, con el banco Technology & Engineering (`03_Writing_Module.md:146`) |
 
-*No es escribir un ensayo nuevo: es demostrarte que el ensayo del sábado ya tenía dentro las 270 palabras.*
+**Sin vocabulario nuevo el martes** — el batch 121–140 se adelantó al lunes. **140/200.** El siguiente es el miércoles.
 
-### 🎉 Lo que se rompió el sábado
+---
 
-- **Usó los 40 minutos completos** — patrón de **seis tareas** entregando temprano
-- **Planificó antes de escribir** — primera vez en toda la preparación
-- **13 de 18 palabras del batch activadas**
-- **Opinión propia explícita** en la conclusión
+### ⚠️ Dos lecciones de método del 18-ago
 
-### Para el sábado 22 (prompt 4 — primera banda fría)
+**1. Reparar puede borrar aciertos.** La conclusión del 15-ago tenía la opinión propia explícita. Las dos reparaciones la eliminaron sin querer.
+> **Al reparar, verificar también lo que ya estaba bien.**
 
-1. **4 oraciones por body** ← la única prioridad
+**2. Reescribir sobre limpio introduce errores nuevos.** La coma de la cláusula con *While* estaba bien el lunes y se perdió hoy.
+> **La última pasada se hace sobre la versión FINAL, no sobre la anterior.**
+
+**Y el caso de *proffessionals*:** mal escrita en el Body 1, perfecta en la conclusión — misma palabra, doce líneas después. No es desconocimiento, es el bucle de la duda (§4.6). **Primer instinto → subrayar → seguir → revisar al final.**
+
+---
+
+### 🎯 Para el sábado 22 — prompt 4, primera banda fría
+
+*Tipo **Problem–Solution**, distinto a los dos anteriores: Body 1 = los problemas, Body 2 = las soluciones, y no se opina — se identifica y se propone.*
+
+1. **4 oraciones por body** ← la prioridad de siempre
 2. **8 minutos de planificación**, no 15
 3. **2 palabras en la lista, no 18.** Con 18 se elige en vez de escribir
+4. 🆕 **El claim debe nombrar el tema del enunciado en la primera oración.** El Body 1 del prompt 1 abría con *"el papel de la actividad física es crucial"* cuando la pregunta era sobre **instalaciones** — la conexión solo llegaba al final
+5. 🆕 **Contar palabras al terminar.** 250 mínimo, apuntar a 270–300
 
 ---
 

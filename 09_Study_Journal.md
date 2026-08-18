@@ -400,3 +400,39 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 - **Correcciones léxicas del paso 4:** *cero* → *no assistance* · *designed for practice physical activities* → *designed for physical activity* · *enough number of* → *a sufficient number of*
 
 ⏳ **Sin verificar contra el texto.** En la pasada de esa misma mañana, 2 de 3 empalmes sobrevivieron a una corrección que se dio por hecha — conviene confirmarlo cuando se muestre el ensayo. El martes queda en 30 min: pasada de artículos + las 10 oraciones.
+
+### 2026-08-18 — Semana 5, Martes: el ensayo cruza las 250
+**Módulo:** Writing Task 2 — segunda reparación del ensayo del 15 de agosto
+**Tiempo:** ~40 min
+
+**🎯 263 PALABRAS.** Cruzó el mínimo con 13 de margen — y lo hizo **por cuenta propia**, expandiendo el Body 1 (86 → 92) y la conclusión (39 → 46), sin usar la oración de relleno que se le había propuesto. El texto sigue siendo suyo.
+
+| Bloque | 15-ago | 17-ago | 18-ago |
+|---|---|---|---|
+| Introducción | 43 | 48 | 48 |
+| Body 1 | 53 | 86 | **92** |
+| Body 2 | 53 | 76 | 77 |
+| Conclusión | 33 | 39 | **46** |
+| **TOTAL** | **182** | 248 | **263** ✅ |
+| **Banda** | ~5.5 | ~6 | **~6.5** |
+
+**Texto completo guardado en `11_Writing_Baseline_Essays.md`** — archivo nuevo. El ensayo solo existía en papel; ahora hay evidencia detrás de las bandas del tracker y algo contra qué comparar los mocks de octubre.
+
+**🎉 Murió el empalme de comas del Body 2**, tras **tres supervivencias**. Con él cayeron el artículo (*a greater wellbeing* → *greater wellbeing*), la conclusión partida en dos oraciones, y la repetición de *wellbeing* — de 5 a 4, usando *wellness* y *fitness*. El cambio *physical activity* → *fitness* en el Body 2 fue fino.
+
+**Dificultades — dos hallazgos de método, más valiosos que las correcciones:**
+
+1. **Reparar puede borrar aciertos.** La conclusión del 15-ago tenía la opinión propia explícita. Las dos reparaciones la eliminaron sin querer. En un *Discuss both views* eso es justo lo que pide el enunciado. → **Al reparar, verificar también lo que ya estaba bien.**
+2. **Reescribir sobre limpio introduce errores nuevos.** La coma de la cláusula con *While* estaba correcta el lunes y se perdió hoy. → **La última pasada se hace sobre la versión FINAL, no sobre la anterior.**
+
+**Y el caso más instructivo:** ***proffessionals*** mal escrita en el Body 1 — y ***professionals*** perfecta en la conclusión. Misma palabra, mismo ensayo, doce líneas de distancia. No es desconocimiento: es el bucle de la duda de §4.6, y es una de sus cuatro palabras memorizadas. **Primer instinto → subrayar → seguir → revisar al final.**
+
+**Sobre las verificaciones:** el empalme de comas necesitó tres pasadas para morir, no por difícil sino porque las dos primeras veces se dio por corregido sin mirar el texto. **Se corrige lo que se mira.**
+
+**Palabras nuevas / usadas:** *wellness*, *fitness*, *substantial proportion*, *unsupported*, *physical provision*, *specialized attention*.
+
+**Cómo me sentí:** —
+
+**Pendiente:** opinión explícita en la conclusión · *proffessionals* · coma tras *general wellness* · tres *like* → *such as* · *prepared for each community's needs*. Luego: pasada de artículos y las 10 oraciones con el banco Technology & Engineering.
+
+---
