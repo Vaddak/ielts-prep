@@ -438,6 +438,105 @@ Prueba de esto: *sport facilities* sobrevivió a una reescritura completa hecha 
 
 ---
 
+## 4.7 CÓMO encontrar los artículos — el procedimiento
+
+*§4.4 dice **qué** está mal. Esta sección dice **cómo encontrarlo**. Añadida el 19 de agosto de 2026, tras 8 tareas seguidas con el mismo error.*
+
+> **Por qué hace falta un procedimiento y no basta la regla:** el artículo es el error nº1, **8 de 8 tareas**, pese a que la regla se conoce perfectamente. No es un problema de conocimiento sino de **visibilidad**: al leer por sentido, los artículos se procesan sin verse. La solución es dejar de leer y empezar a escanear.
+
+### La idea
+
+**No estás leyendo. Estás escaneando.** Recorres el texto buscando tres palabras: `the`, `a`, `an`. Cada vez que encuentras una, te detienes y decides. Después sigues.
+
+Si te sorprendes entendiendo lo que dice la frase, vas mal.
+
+### Los 3 pasos, para cada artículo
+
+**Paso 1 — Localiza el sustantivo.** El artículo siempre introduce uno (puede haber adjetivos en medio).
+*the **sleep quality*** → *quality* · *a bigger **infrastructure*** → *infrastructure*
+
+**Paso 2 — ¿Es incontable?** Si lo es, **nunca lleva `a/an`**.
+
+> *health · wellbeing · research · infrastructure · education · technology · information · evidence · advice · progress · knowledge · pollution · equipment · assistance · training · machinery*
+
+**Paso 3 — Si va con `the`, hazte LA pregunta:**
+
+> # ¿Podría señalar cuál?
+
+- **No** → hablas en general → **quita el artículo**
+- **Sí** → es específico → **`the` está bien**
+
+---
+
+### Ejemplo resuelto 1
+
+> *This essay contends that **a** mixed space is most related to **the** real academic and laboral life.* *(intro, 10-ago)*
+
+| Artículo | Sustantivo | ¿Incontable? | ¿Podría señalar cuál? | Veredicto |
+|---|---|---|---|---|
+| *a* mixed space | *space* | No | — (categoría general con `a`) | ✅ correcto |
+| *the* real academic… life | *life* | Sí | **No** — la vida académica en general | ❌ quitar |
+
+> ✅ *…is more closely related to **real academic and professional life**.*
+
+### Ejemplo resuelto 2 — el que engaña
+
+> *…the contribution that mental health has in **the** general wellbeing of **∅** population.* *(intro, 09-ago)*
+
+| Artículo | Sustantivo | ¿Podría señalar cuál? | Veredicto |
+|---|---|---|---|
+| *the* general wellbeing | *wellbeing* (incontable) | **No** — el bienestar en general | ❌ **sobra** |
+| *∅* population | *population* | **Sí** — la de esa sociedad, grupo concreto | ❌ **FALTA** |
+
+> ✅ *…the role mental health plays in **general wellbeing** across **the** population.*
+
+> ⚠️ **El patrón falla en las DOS direcciones:** pone artículo donde sobra y lo quita donde falta. Por eso el escaneo cubre los tres artículos **y también los sustantivos que van sin ninguno**, preguntando si les falta.
+
+---
+
+### Cuándo `the` SÍ es correcto
+
+Para no quitarlos todos:
+
+| Caso | Ejemplo |
+|---|---|
+| Ya se mencionó antes | *Governments built new facilities. **The** facilities were free.* |
+| Único o identificable | ***the** government · **the** environment · **the** population · **the** labour market* |
+| Lo especifica lo que viene detrás | ***the** decline **in health among low-income groups*** |
+| Superlativos | ***the** most effective solution* |
+
+> **Regla corta: si la frase te dice cuál, va `the`. Si no te lo dice, no va.**
+
+---
+
+### Cómo ejecutarla
+
+1. Hoja aparte
+2. Escribe cada artículo dudoso con las 2–3 palabras que lo rodean
+3. Al lado: **SOBRA / FALTA / BIEN**
+4. **No corrijas el texto todavía** — primero la lista completa, después decides
+
+**Escribirlos es lo que los hace visibles.** Pensarlos no basta: se escapan igual que al leer.
+
+---
+
+### Historial del patrón
+
+| Tarea | Fecha | Ocurrencias |
+|---|---|---|
+| Intro prompt 1 | 09-ago | *the education* |
+| Intro prompt 2 | 10-ago | *the real academic and laboral life* |
+| Body 1 | 10-ago | *the detailed scheme* |
+| Body 2 + conclusión | 12-ago | *a complete wellbeing* · *of ∅ population* |
+| Task 2 completo | 15-ago | ×4 |
+| Ensayo v2 | 17-ago | *the sleep quality* · *a total wellbeing* |
+| Ensayo v3 | 18-ago | *all the bodily systems* · *a bigger infrastructure* · *the decrease of health* |
+| Ensayo v6 | 18-ago | *a greater infrastructure* — **apareció dentro de una corrección** |
+
+**8 de 8 tareas.** Es el único patrón que no ha cedido ante ninguna otra técnica.
+
+---
+
 ## ✅ CHECKLIST DE REVISIÓN — antes de entregar cualquier tarea escrita
 
 *Esta es la lista completa. Cubre las seis subsecciones de arriba, en el orden en que conviene revisarlas.*
@@ -451,7 +550,7 @@ Prueba de esto: *sport facilities* sobrevivió a una reescritura completa hecha 
 
 ### Pasada 2 — GRAMÁTICA (los patrones §4.1–4.5)
 
-- [ ] **Artículos** → ⚠️ *tu nº1, 4/4 tareas.* ¿Algún `the`/`a` delante de un concepto general? ¿Falta alguno delante de un grupo específico?
+- [ ] **Artículos** → ⚠️ *tu nº1, **8/8 tareas**.* Escanea `the`/`a`/`an` uno por uno con el procedimiento de **§4.7**: *¿podría señalar cuál?* Revisa también los sustantivos **sin** artículo por si les falta
 - [ ] **Falsos amigos** → ⚠️ *tu nº2, 4/4 tareas.* ¿Alguna palabra se parece sospechosamente al español? Ante la duda, usa la simple que sabes que existe
 - [ ] **Adjetivos** → ¿alguno con `-s`? Quitarla
 - [ ] **`not only`** → 🔴 **prohibida en el examen.** Si aparece, reemplazar por *Beyond X, Y must also…*
