@@ -15,6 +15,51 @@
 | v1 — primera escritura cronometrada, 40 min | 2026-08-15 | **182** ❌ | ~5.5 |
 | v2 — reparación | 2026-08-17 | **248** ❌ | ~6 |
 | v3 — segunda reparación | 2026-08-18 | **263** ✅ | ~6.5 |
+| **v7 — FINAL, sin errores** | **2026-08-18** | **272** ✅ | **~7** |
+
+---
+
+## ✅ v7 — VERSIÓN FINAL · 272 palabras · ~Band 7
+
+*(TA 7 · CC 7 · LR 7 · GR 7) — verificada frase por frase: **sin errores gramaticales, léxicos ni de puntuación**.*
+
+> **[INTRODUCCIÓN — 52]** While many individuals express the importance of increasing the number of venues designed for physical activity as a means of improving general wellness, others identify different alternatives and aspects that will also positively impact public health. This essay contends that factors such as mental health are equally fundamental to achieve greater wellbeing.
+
+> **[BODY 1 — 89]** The role physical activity plays in all bodily systems is crucial. Noticeable improvements appear within a few weeks of including at least ten minutes of exercise per day. Multiple studies show diverse benefits such as a significant increase in sleep quality after practicing sports. Other vital variables such as blood pressure and cortisol levels remain within normal ranges. Consequently, in order to have more people interested in practicing sports despite their age, a varied programme is required, demanding greater infrastructure, more facilities and professionals prepared for each community's needs.
+
+> **[BODY 2 — 77]** Nevertheless, fitness is not the only element to ensure total wellbeing. Focusing only on this factor may exclude the importance of mental health. Conditions such as depression, anxiety and stress negatively affect general wellbeing. Data collected from psychological research in universities demonstrate a decline in health in individuals with psychological issues and poor or no assistance. Therefore, a strategy that addresses physical provision alone leaves a substantial proportion of the population unsupported, however many facilities are built.
+
+> **[CONCLUSIÓN — 54]** In conclusion, to achieve wellbeing with specific outcomes in society, any effective strategy must cover a sufficient number of facilities with a wide range of activities for all ages and physical conditions. Moreover, affordable and local psychological assistance is, in my opinion, mandatory to address the principal aspects of healthcare and help people holistically.
+
+---
+
+### El recorrido: siete versiones en cuatro días
+
+| Operación | Qué se hizo | Resultado |
+|---|---|---|
+| **1. Diagnosticar** | Encontrar por qué salieron 182 palabras → plantilla mal contada, bodies a la mitad | 4 oraciones por body |
+| **2. Completar** | Añadir los movimientos que faltaban a Body 1 y conclusión | 182 → 263 |
+| **3. Corregir** | 12 errores en una pasada, luego los reincidentes | Empalme de comas, artículos |
+| **4. Pulir** | Precisión léxica hasta el cero | 263 → 272, ~7 |
+
+**Son cuatro operaciones distintas y no son intercambiables.** Aplicar *"corregir es quitar, no añadir"* a un párrafo incompleto lo dejó en 229; completar sin corregir habría dejado los 12 errores.
+
+### Lo que quedaría por hacer para un 7.5 — estructural, no de edición
+
+1. **El claim del Body 1 no nombra el tema del enunciado.** Abre con *"The role physical activity plays… is crucial"*: argumenta que el ejercicio es bueno, cuando la pregunta es sobre **instalaciones**. La conexión llega en la última oración.
+2. **Falta un ejemplo concreto.** *"Multiple studies show"* es vago: sin dato, sin país, sin cifra. Band 7.5 pide evidencia específica.
+3. **Poca variedad sintáctica.** Casi todas las oraciones son declarativas de longitud parecida.
+
+Los tres son de **planificación**, no de corrección. Se resuelven antes de escribir, no después.
+
+### Las cuatro lecciones de método
+
+1. **Se corrige lo que se mira.** El empalme de comas del Body 2 necesitó **tres pasadas** para morir; las dos primeras se dieron por hechas sin verificar contra el texto.
+2. **Cuando una corrección tiene dos cambios en la misma frase, solo entra el resaltado.** Pasó con *prepared **for** each community**'s** needs* (entró la preposición, no el posesivo) y con *a **greater** infrastructure* (entró el adjetivo, no el artículo).
+3. **Editar introduce errores nuevos.** Tres días seguidos: se perdió la coma del *While*, la oración nueva de la conclusión llegó con cinco fallos, y la corrección *criterion → factor* creó una repetición.
+4. **Reparar puede borrar aciertos.** La conclusión del 15-ago tenía la opinión propia explícita; las reparaciones la eliminaron sin querer.
+
+> **Corolario para el examen:** toda frase añadida o reescrita necesita su propia revisión — no hereda la del texto anterior. Y la última pasada se hace sobre la versión **final**, no sobre la anterior.
 
 ---
 
