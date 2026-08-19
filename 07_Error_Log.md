@@ -126,6 +126,8 @@ After every timed practice or mock exam:
 | 2026-08-18 | **Ensayo v3** (prompt 1) | Lexical Resource | ***In the same space*** — calco de "en el mismo espacio" | *At the same time* · *Equally*. 6ª interferencia del español |
 | 2026-08-18 | **Ensayo v3** (prompt 1) | Coherence & Cohesion | Faltan comas tras frase introductoria: *…in society ∅ the whole scheme…* · *In the same space ∅ psychological…* | Coma tras cualquier frase introductoria larga |
 
+| 2026-08-19 | **Pasada de artículos** sobre la v3 (autoevaluación) | Grammatical Range | 🔴 **Punto ciego identificado: `a/an` + incontable.** Encontró *all the bodily systems* (zona gris, no era error) pero **no vio *a bigger infrastructure***, el único error indiscutible. El escaneo fue solo a los `the` | **Dos barridos separados** (§4.7): 1º solo `the` → *¿podría señalar cuál?* · 2º solo `a`/`an` → *¿es incontable?* Buscar las tres palabras a la vez deja pasar los `a` |
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
@@ -135,7 +137,7 @@ After every timed practice or mock exam:
 - [x] **Adjetivo en plural por interferencia del español** (*accesibles facilities*) — 2026-08-09 · ✅ no reapareció el 10-ago
 - [x] **Preposición incorrecta tras un sustantivo** (*the need of* en vez de *the need to*) — 2026-08-09
 - [x] **Estructura compleja iniciada pero no cerrada** (*not only... but also* sin paralelismo) — 2026-08-09 · ✅ evitada el 10-ago
-- [x] ⚠️ **Artículo sobrante delante de sustantivo abstracto general** — 2026-08-09, 2026-08-10 ×2 (**3/3 tareas**) → **prioridad 1, sin excepción**
+- [x] 🔴 **Artículos — 8/8 tareas, prioridad 1 absoluta.** Falla en las dos direcciones (sobra y falta). **Punto ciego confirmado el 19-ago: `a/an` + incontable** (*a greater infrastructure*), no el `the` de más. → procedimiento de dos barridos en §4.7
 - [x] ⚠️ **Falso amigo / palabra derivada del español** (*motive*, *laboral*, *offer*) — **3/3 tareas** → **prioridad 2**
 - [x] ✅ **Vocabulario del batch semanal sin activar** — 0 → 1 → **4** palabras. **Patrón roto el 10-ago** con el Body 1. El fix que funcionó: elegir las palabras y anotarlas **antes** de escribir
 - [x] ✅ **Empalme de comas** — 1ª ocurrencia, Body 1 del 10-ago · **resuelto el 11-ago** con cláusula relativa (*which*)

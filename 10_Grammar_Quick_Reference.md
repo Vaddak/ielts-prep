@@ -509,7 +509,36 @@ Para no quitarlos todos:
 
 ---
 
-### Cómo ejecutarla
+### Cómo ejecutarla — DOS BARRIDOS SEPARADOS
+
+*Corregido el 19-ago tras la primera pasada real: buscar `the`, `a` y `an` a la vez dejó pasar el único error indiscutible del texto.*
+
+> **Barrido 1 — solo `the`**
+> Pregunta: ***¿podría señalar cuál?*** → No = quitar.
+
+> **Barrido 2 — solo `a` / `an`**
+> Pregunta: ***¿el sustantivo es incontable?*** → Sí = quitar. Sin excepciones.
+
+**Por qué separados:** son dos preguntas distintas. Al buscar las tres palabras a la vez, el cerebro aplica la pregunta del barrido 1 a todo, y los `a` delante de incontables pasan sin filtro.
+
+#### ⚠️ El punto ciego confirmado: `a/an` + incontable
+
+§4.4 explica el error de poner *the* de más, porque el español pone *el/la*. Pero el error **más resistente** es el otro:
+
+| ❌ Imposible | ✅ |
+|---|---|
+| ~~a wellbeing~~ | wellbeing |
+| ~~an infrastructure~~ | infrastructure |
+| ~~a research~~ | research · *a study* |
+| ~~an assistance~~ | assistance · *support* |
+| ~~an information~~ | information · *a piece of information* |
+| ~~an advice~~ | advice · *a piece of advice* |
+| ~~an evidence~~ | evidence |
+| ~~a progress~~ | progress |
+
+**La prueba de la vida real (19-ago):** en el ensayo v3 estaba *demanding **a** bigger infrastructure*. Al corregir *bigger* → *greater*, quedó *demanding **a** greater infrastructure*. **El artículo sobrevivió a una corrección hecha sobre esa misma frase**, y tampoco apareció en la pasada de artículos posterior — porque el escaneo iba a los `the`.
+
+### Cómo anotarlo
 
 1. Hoja aparte
 2. Escribe cada artículo dudoso con las 2–3 palabras que lo rodean
@@ -517,6 +546,16 @@ Para no quitarlos todos:
 4. **No corrijas el texto todavía** — primero la lista completa, después decides
 
 **Escribirlos es lo que los hace visibles.** Pensarlos no basta: se escapan igual que al leer.
+
+### Zona gris — no todo `the` es error
+
+Al hacer la pasada aparecen casos que **no** son errores. Ejemplo real:
+
+> *The role physical activity plays in **all the** bodily systems…*
+
+*All the X* es gramatical: se usa para un conjunto definido y ya conocido. *All X* es el genérico. En un texto donde no se introdujo antes ningún conjunto concreto, *all bodily systems* es más natural en registro académico — pero *all the* **no sería marcado como error**, como mucho como menos idiomático.
+
+> **Si dudas y el caso es defendible, déjalo.** El objetivo de la pasada es cazar lo indiscutible, no perseguir preferencias de estilo bajo cronómetro.
 
 ---
 
