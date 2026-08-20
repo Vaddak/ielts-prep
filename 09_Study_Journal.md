@@ -468,3 +468,30 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 **Cómo me sentí:** —
 
 ---
+**Cierre del miércoles 19 — Batch 8 + Environment & Energy:**
+
+- **AWL 141–160 (Batch 8)** completo → **160/200 palabras**, un día por delante del plan.
+- **Banco Environment & Energy:** 6 frases con dato concreto, orientadas a cubrir el punto débil del ensayo (*"Multiple studies show"* sin cifra ni fuente). Escribió frases utilizables, no listas — como se pidió.
+
+**✅ La frase modelo:**
+> *Solar panel costs have fallen by **roughly ninety per cent** over the last ten years due to research and improvements in materials.*
+
+Cifra + hedging + marco temporal + causa. **Aplicó el hedging sin que se le recordara.** Usable tal cual en un ensayo.
+
+**🔴 El hallazgo — 4ª ocurrencia de *need* + preposición, y la 2ª del mismo día:**
+
+| Fecha | |
+|---|---|
+| 09-ago | *the need **of** generate* |
+| 19-ago mañana | *the need **of** updated trainings* |
+| 19-ago tarde | *the need **for** reduce* |
+
+**need TO + verbo · need FOR + sustantivo. *need of* no existe.** Promovido a bloque destacado en §4.2, con la prueba: tras *need*, ¿la siguiente palabra es verbo o sustantivo?
+
+**Otros:** *The investment* (artículo, nº1) · *had increased* → *has* · *consists in* → *of* (calco) · *proportion are* / *industries that promotes* (dos concordancias en una frase) · *gasses* → *gases* · *researching* → *research* · *First-world countries* → *developed countries* (registro).
+
+**Frase descartada:** *"An alternative to reduce plastic waste up to 90% consists in blending the material…"* — cifra sin mecanismo entendible. **Una afirmación vaga con número suena menos creíble que una sin número.**
+
+**Miércoles completo. Décimo día consecutivo.**
+
+---

@@ -137,6 +137,15 @@ After every timed practice or mock exam:
 | 2026-08-19 | **Banco Society & Work** | ✅ **ACIERTO estructural** | **Emparejó cada problema con su solución fila por fila**, en vez de listar dos bloques inconexos | Es exactamente lo que pide un Problem–Solution: soluciones que responden a los problemas planteados. Ventaja real sobre el candidato medio, que da soluciones genéricas |
 | 2026-08-19 | **Banco Society & Work** | ✅ **ACIERTO de contenido** | *Income inequality forces some professionals to abandon their areas and move to others better paid* | **Fuga de cerebros interna** — desigualdad regional que vacía de profesionales las zonas pobres. Argumento poco frecuente y propio |
 
+| 2026-08-19 | **Banco Environment & Energy** — 6 frases con dato concreto | Grammatical Range | 🔴 *due to the **need for reduce** fossil fuel use* — **4ª ocurrencia en 11 días, la 2ª del mismo día** | **need TO + verbo · need FOR + sustantivo.** *need of* no existe. Prueba: tras *need*, ¿verbo o sustantivo? → §4.2, promovido a bloque destacado |
+| 2026-08-19 | **Banco Environment & Energy** | Grammatical Range | ***The** investment* · *renewable energ**ies*** · *ha**d** increased* · *fossil fuel**s** use* | *Investment* sin artículo (nº1) · *renewable energy* (incontable) · *ha**s** increased* (presente perfecto, no pluscuamperfecto) · *fossil fuel use* (el sustantivo modificador va en singular) |
+| 2026-08-19 | **Banco Environment & Energy** | Lexical Resource | *consists **in*** — calco de "consiste en" | *consists **of*** · *involves* (§4.5) |
+| 2026-08-19 | **Banco Environment & Energy** | Grammatical Range | *A significant proportion… **are** caused* · *industries that **promotes*** — dos concordancias en una frase | *is* caused (*proportion* singular) · industries that *promote* |
+| 2026-08-19 | **Banco Environment & Energy** | Lexical Resource | *ga**ss**es* · *due to **researching*** · *Researching **in*** · *the first step **to mitigate*** | *gases* (*gasses* es verbo) · *research* (incontable) · *research **into*** · *a first step **towards mitigating*** |
+| 2026-08-19 | **Banco Environment & Energy** | Task Achievement | *First-world countries* — término anticuado, registro informal | *developed countries* · *high-income countries* |
+| 2026-08-19 | **Banco Environment & Energy** | ✅ **ACIERTO — la frase modelo** | *Solar panel costs have fallen by **roughly ninety per cent** over the last ten years due to research and improvements in materials.* | Cifra + hedging + marco temporal + causa. **Aplicó el hedging sin que se le recordara.** Es la respuesta directa al *"Multiple studies show"* sin dato del ensayo. Usable tal cual |
+| 2026-08-19 | **Banco Environment & Energy** | ⚠️ Descartar | *An alternative to reduce plastic waste up to 90% consists in blending the material to create useful new tools* | Cifra sin mecanismo entendible: no se sabe qué material ni qué herramientas. **Una afirmación vaga con número suena menos creíble que una sin número** |
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

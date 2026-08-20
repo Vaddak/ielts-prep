@@ -177,8 +177,17 @@ Esto no tiene lógica deducible: cada sustantivo abstracto exige una preposició
 | the **potential for** | *the potential **for** further growth* |
 | **responsibility for** | *responsibility **for** the outcome* |
 
-> **Truco con *need*:** *need **to*** + verbo · *need **for*** + sustantivo.
-> *the need **to** invest* / *the need **for** investment*
+> ## 🔴 *NEED* — memorizar hoy. Cuatro ocurrencias en once días.
+>
+> | | |
+> |---|---|
+> | **need TO** + **verbo** | *the need **to** reduce fossil fuel use* |
+> | **need FOR** + **sustantivo** | *the need **for** a reduction in fossil fuel use* |
+>
+> **La prueba:** después de *need*, mira la siguiente palabra. **¿Verbo? → `to`. ¿Sustantivo? → `for`.**
+> ***need of* no existe nunca.**
+>
+> **Historial:** *the need **of** generate* (09-ago) · *the need **of** updated trainings* (19-ago, mañana) · *the need **for** reduce* (19-ago, tarde). **Dos veces el mismo día.** Es el patrón más terco después de los artículos.
 
 ### Los que van con IN, ON, OF
 

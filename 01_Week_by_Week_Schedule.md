@@ -6,60 +6,77 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 18, en casa
+## 👉 RETOMAR AQUÍ — en casa, y jueves 20
 
-**🎯 EL ENSAYO CRUZÓ LAS 250: 263 palabras, ~Band 6.5.** Texto completo guardado en `11_Writing_Baseline_Essays.md`.
+**Miércoles 19 — COMPLETO ✅. Décimo día consecutivo.** Pasada de artículos autoevaluada · banco Society & Work (14 pares problema/solución para el prompt del sábado) · §4.7 reescrita · **Batch 8 → 160/200** · banco Environment & Energy.
 
-| | 15-ago | 17-ago | **18-ago** |
-|---|---|---|---|
-| Palabras | 182 ❌ | 248 ❌ | **263** ✅ |
-| Banda | ~5.5 | ~6 | **~6.5** |
+### En casa — correcciones pendientes (~10 min)
 
-Lo logró **expandiendo el Body 1 y la conclusión por cuenta propia**, sin usar la oración de relleno propuesta. Y **murió el empalme de comas** del Body 2 tras tres supervivencias.
+**Society & Work (14 oraciones):**
+- 🔴 *the need **of** updated trainings* → *the need **for** updated **training***
+- *shorter working hours **gives as result*** → ***result in***
+- *co**n**ection* → *connection* · *pa**y**ed* → *paid* · *appropi**ate*** → *appropriate*
+- *all **the** conditions* · *all **the** different areas* → sin artículo
+- *urbanisation negatively **impact*** → *impact**s*** · *traffic **everyday*** → *every day*
+- *improves **life quality*** → *quality of life* · *is **trapped** by* → *is **constrained** by* · ***highly** linked with* → ***closely** linked to*
+- ➕ Añadir el par de ***demographic shift***: *An ageing population places growing pressure on pension systems while the working-age population shrinks* ↔ *Supporting later retirement and skilled migration can offset demographic decline*
 
-### Lo que queda del ensayo (~5 min), por orden de valor
+**Environment & Energy (6 frases):**
+- 🔴 *the need **for** reduce* → *the need **to** reduce*
+- ***The** investment* → *Investment* · *renewable energ**ies*** → *renewable energy* · *ha**d** increased* → *ha**s*** · *fossil fuel**s** use* → *fossil fuel use*
+- *consists **in*** → *consists **of***
+- *proportion… **are** caused* → *is* · *industries that **promotes*** → *promote* · *ga**ss**es* → *gases*
+- *due to **researching*** → *research* · *Researching **in*** → *Research **into*** · *the first step **to mitigate*** → *a first step **towards mitigating***
+- *First-world countries* → *developed countries*
+- ⚠️ **Descartar la frase 2** (plástico/90%): cifra sin mecanismo entendible
 
-| # | Corrección |
-|---|---|
-| [ ] 1 | **La opinión explícita en la conclusión** ← la única que cambia banda. *In my view…* · *are, **in my view**, equally essential* |
-| [ ] 2 | ***proffessionals*** → **professionals** (Body 1) |
-| [ ] 3 | Coma: *…in general wellness**,** some others…* |
-| [ ] 4 | Los tres ***like*** → ***such as***: *factors like* · *benefits like* · *variables like* |
-| [ ] 5 | *prepared **to** each community needs* → *prepared **for** each community**'s** needs* |
-| [ ] 6 | Menores: *the decrease **of** health* → *a decline **in** health* · *all **the** bodily systems* → *all bodily systems* · *In the same space* → *At the same time* |
+---
 
-### Después, la sesión del martes (~30 min)
+### Jueves 20 (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] A | 10 | **Pasada de artículos sola.** Cada `the`/`a`: *"¿concepto general o incontable?"* → si sí, quitarlo. Van **7/7 tareas** |
-| [ ] B | 20 | **Reescribir 10 oraciones** del ensayo cambiando palabras básicas por precisas, con el banco Technology & Engineering (`03_Writing_Module.md:146`) |
+| [ ] 1 | 10 | **Memorizar el bloque *NEED*** de §4.2. Cuatro ocurrencias en once días, dos el mismo día. *need **to*** + verbo · *need **for*** + sustantivo |
+| [ ] 2 | 20 | **Parafrasear el enunciado** — 5 prompts de `03_Writing_Module.md`. Solo la paráfrasis, no el ensayo. Es el punto donde aún se cuelan términos literales del enunciado |
 
-**Sin vocabulario nuevo el martes** — el batch 121–140 se adelantó al lunes. **140/200.** El siguiente es el miércoles.
+### Viernes 21 (~25 min) — víspera
+
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 10 | **AWL 161–180** (Batch 9) → 180/200 |
+| [ ] 2 | 15 | 🆕 **LEER el error log antes de escribir.** Solo el *Top 5* y la lista de *Common Writing Patterns*. No las 60 filas |
+
+> ### 🆕 La lección del 19 de agosto
+>
+> *the need of updated trainings* contenía **dos patrones registrados hacía diez días**. En el ejercicio de Society & Work apareció el perfil completo de errores en primera pasada.
+>
+> El ensayo del 18 llegó a Band 7 **tras siete versiones**. El sábado hay **una**.
+>
+> **El error log no sirve solo para llenarlo después. Hay que leerlo ANTES de escribir.** Queda incorporado como paso 0 del sábado.
 
 ---
 
-### ⚠️ Dos lecciones de método del 18-ago
+## ⏱️ SÁBADO 22 — Task 2, primera banda fría
 
-**1. Reparar puede borrar aciertos.** La conclusión del 15-ago tenía la opinión propia explícita. Las dos reparaciones la eliminaron sin querer.
-> **Al reparar, verificar también lo que ya estaba bien.**
+**Prompt 4:** *In many countries, the gap between the rich and the poor is widening. **What problems does this cause and what measures can be taken to address the situation?***
 
-**2. Reescribir sobre limpio introduce errores nuevos.** La coma de la cláusula con *While* estaba bien el lunes y se perdió hoy.
-> **La última pasada se hace sobre la versión FINAL, no sobre la anterior.**
+**Tipo: Problem–Solution.** Body 1 = problemas · Body 2 = soluciones · **no se opina**, se identifica y se propone. La conclusión resume cuál medida es más viable.
 
-**Y el caso de *proffessionals*:** mal escrita en el Body 1, perfecta en la conclusión — misma palabra, doce líneas después. No es desconocimiento, es el bucle de la duda (§4.6). **Primer instinto → subrayar → seguir → revisar al final.**
+**Ya tienes el contenido:** 7 pares problema–solución del banco Society & Work, más el demográfico.
 
----
+| Min | |
+|---|---|
+| **0:00–0:03** | 🆕 **PASO 0 — leer el Top 5 del error log.** Tres minutos. Es lo que evita repetir lo ya registrado |
+| **0:03–0:11** | **Planificar en PALABRAS SUELTAS**, no oraciones. *"urbanización → transporte"*, no la frase entera. Elegir **2** palabras del batch, no 18 |
+| **0:11–0:31** | **Escribir**: intro 4 min · Body 1 6 · Body 2 6 · conclusión 4. **4 ORACIONES POR BODY** |
+| **0:31–0:40** | **Corregir**: sentido → `the` → `a/an` → ortografía y terminaciones → conteo |
 
-### 🎯 Para el sábado 22 — prompt 4, primera banda fría
-
-*Tipo **Problem–Solution**, distinto a los dos anteriores: Body 1 = los problemas, Body 2 = las soluciones, y no se opina — se identifica y se propone.*
-
-1. **4 oraciones por body** ← la prioridad de siempre
-2. **8 minutos de planificación**, no 15
-3. **2 palabras en la lista, no 18.** Con 18 se elige en vez de escribir
-4. 🆕 **El claim debe nombrar el tema del enunciado en la primera oración.** El Body 1 del prompt 1 abría con *"el papel de la actividad física es crucial"* cuando la pregunta era sobre **instalaciones** — la conexión solo llegaba al final
-5. 🆕 **Contar palabras al terminar.** 250 mínimo, apuntar a 270–300
+**Las 5 prioridades:**
+1. **4 oraciones por body** — convierte 182 palabras en 270
+2. **Contar al terminar.** 250 mínimo, apuntar a 270–300
+3. **El claim nombra el tema del enunciado en la primera oración** (el del prompt 1 hablaba de ejercicio cuando preguntaban por instalaciones)
+4. **Un dato concreto por body.** Nada de *"Multiple studies show"* sin cifra
+5. **Dos barridos de artículos separados** (§4.7): primero `the`, luego `a/an`
 
 ---
 
