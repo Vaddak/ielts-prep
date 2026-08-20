@@ -224,26 +224,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 141 | **contrast** | noun/verb | a clear difference | *The contrast between the two approaches is striking.* | [ ] |
-| 142 | **cycle** | noun | a repeating series of events | *Each charge cycle marginally degrades the cell.* | [ ] |
-| 143 | **debate** | noun/verb | a discussion of opposing views | *The debate over energy policy remains unresolved.* | [ ] |
-| 144 | **despite** | preposition | in spite of | *Despite the setbacks, the project met its deadline.* | [ ] |
-| 145 | **dimension** | noun | a measurable extent; an aspect | *The ethical dimension of automation is often overlooked.* | [ ] |
-| 146 | **domestic** | adjective | relating to the home or to one country | *Domestic energy consumption peaks in the evening.* | [ ] |
-| 147 | **emerge** | verb | to appear or become known | *A clear pattern emerged from the long-term data.* | [ ] |
-| 148 | **error** | noun | a mistake | *Measurement error was reduced to under 2%.* | [ ] |
-| 149 | **ethnic** | adjective | relating to a cultural or national group | *The study accounted for ethnic and regional variation.* | [ ] |
-| 150 | **goal** | noun | an aim or objective | *The primary goal is carbon neutrality by 2040.* | [ ] |
-| 151 | **grant** | noun/verb | money for a purpose; to give formally | *The team secured a research grant from the EU.* | [ ] |
+| 141 | **contrast** | noun/verb | a clear difference | *The contrast between the two approaches is striking.* | [X] |
+| 142 | **cycle** | noun | a repeating series of events | *Each charge cycle marginally degrades the cell.* | [X] |
+| 143 | **debate** | noun/verb | a discussion of opposing views | *The debate over energy policy remains unresolved.* | [X] |
+| 144 | **despite** | preposition | in spite of | *Despite the setbacks, the project met its deadline.* | [X] |
+| 145 | **dimension** | noun | a measurable extent; an aspect | *The ethical dimension of automation is often overlooked.* | [X] |
+| 146 | **domestic** | adjective | relating to the home or to one country | *Domestic energy consumption peaks in the evening.* | [X] |
+| 147 | **emerge** | verb | to appear or become known | *A clear pattern emerged from the long-term data.* | [X] |
+| 148 | **error** | noun | a mistake | *Measurement error was reduced to under 2%.* | [X] |
+| 149 | **ethnic** | adjective | relating to a cultural or national group | *The study accounted for ethnic and regional variation.* | [X] |
+| 150 | **goal** | noun | an aim or objective | *The primary goal is carbon neutrality by 2040.* | [X] |
+| 151 | **grant** | noun/verb | money for a purpose; to give formally | *The team secured a research grant from the EU.* | [X] |
 | 152 | **hence** | adverb | for this reason | *Demand is rising; hence additional capacity is required.* | [ ] |
-| 153 | **hypothesis** | noun | a proposed explanation to be tested | *The hypothesis was confirmed under laboratory conditions.* | [ ] |
-| 154 | **implement** | verb | to put into effect | *The new protocol was implemented across all sites.* | [ ] |
-| 155 | **implication** | noun | a likely consequence | *The implications for grid stability are considerable.* | [ ] |
-| 156 | **impose** | verb | to force something on someone | *Stricter emission limits were imposed in 2021.* | [ ] |
-| 157 | **integrate** | verb | to combine into a whole | *Renewable sources must be integrated into existing grids.* | [ ] |
-| 158 | **internal** | adjective | inside | *Internal resistance increases as the cell ages.* | [ ] |
-| 159 | **investigate** | verb | to examine systematically | *The team investigated the cause of the failure.* | [ ] |
-| 160 | **job** | noun | paid work; a task | *Automation is reshaping the nature of skilled jobs.* | [ ] |
+| 153 | **hypothesis** | noun | a proposed explanation to be tested | *The hypothesis was confirmed under laboratory conditions.* | [x] |
+| 154 | **implement** | verb | to put into effect | *The new protocol was implemented across all sites.* | [x] |
+| 155 | **implication** | noun | a likely consequence | *The implications for grid stability are considerable.* | [x] |
+| 156 | **impose** | verb | to force something on someone | *Stricter emission limits were imposed in 2021.* | [x] |
+| 157 | **integrate** | verb | to combine into a whole | *Renewable sources must be integrated into existing grids.* | [x] |
+| 158 | **internal** | adjective | inside | *Internal resistance increases as the cell ages.* | [x] |
+| 159 | **investigate** | verb | to examine systematically | *The team investigated the cause of the failure.* | [x] |
+| 160 | **job** | noun | paid work; a task | *Automation is reshaping the nature of skilled jobs.* | [x] |
 
 ---
 
