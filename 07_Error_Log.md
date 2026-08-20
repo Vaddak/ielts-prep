@@ -128,6 +128,15 @@ After every timed practice or mock exam:
 
 | 2026-08-19 | **Pasada de artículos** sobre la v3 (autoevaluación) | Grammatical Range | 🔴 **Punto ciego identificado: `a/an` + incontable.** Encontró *all the bodily systems* (zona gris, no era error) pero **no vio *a bigger infrastructure***, el único error indiscutible. El escaneo fue solo a los `the` | **Dos barridos separados** (§4.7): 1º solo `the` → *¿podría señalar cuál?* · 2º solo `a`/`an` → *¿es incontable?* Buscar las tres palabras a la vez deja pasar los `a` |
 
+| 2026-08-19 | **Banco Society & Work** — 14 oraciones problema/solución (prep. prompt 4) | Grammatical Range | 🔴 *the need **of** updated **trainings*** — **DOS patrones ya registrados en cuatro palabras**: *the need of* (error del 09-ago, §4.2) y *trainings* incontable (§4.5) | *the need **for** updated **training***. → **El error log hay que leerlo ANTES de escribir, no solo llenarlo después** |
+| 2026-08-19 | **Banco Society & Work** | Lexical Resource | *shorter working hours **gives as result*** — calco de "da como resultado" | *shorter working hours **result in***. También concordancia: *hours* → *result*, no *gives* |
+| 2026-08-19 | **Banco Society & Work** | Lexical Resource | Ortografía: *conection* · *payed* · *appropiate* | connection (doble n) · paid · appropriate (§4.6) |
+| 2026-08-19 | **Banco Society & Work** | Grammatical Range | *all **the** conditions* · *all **the** different areas* | Sin artículo. Patrón nº1 |
+| 2026-08-19 | **Banco Society & Work** | Grammatical Range | *Unplanned urbanisation negatively **impact*** · *traffic **everyday*** | *impact**s*** · *every day* (dos palabras como adverbio; *everyday* es adjetivo) |
+| 2026-08-19 | **Banco Society & Work** | Lexical Resource | *improves **life quality*** · *is **trapped** by* · ***highly** linked with* | *quality of life* · *is **constrained** by* · ***closely** linked to* |
+| 2026-08-19 | **Banco Society & Work** | ✅ **ACIERTO estructural** | **Emparejó cada problema con su solución fila por fila**, en vez de listar dos bloques inconexos | Es exactamente lo que pide un Problem–Solution: soluciones que responden a los problemas planteados. Ventaja real sobre el candidato medio, que da soluciones genéricas |
+| 2026-08-19 | **Banco Society & Work** | ✅ **ACIERTO de contenido** | *Income inequality forces some professionals to abandon their areas and move to others better paid* | **Fuga de cerebros interna** — desigualdad regional que vacía de profesionales las zonas pobres. Argumento poco frecuente y propio |
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

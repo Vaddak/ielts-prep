@@ -436,3 +436,35 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 **Pendiente:** opinión explícita en la conclusión · *proffessionals* · coma tras *general wellness* · tres *like* → *such as* · *prepared for each community's needs*. Luego: pasada de artículos y las 10 oraciones con el banco Technology & Engineering.
 
 ---
+
+### 2026-08-19 — Semana 5, Miércoles: cierre del martes + preparación del prompt 4
+**Módulo:** Pasada de artículos (autoevaluación) + banco Society & Work + §4.7
+**Tiempo:** ~40 min · **décimo día consecutivo**
+
+**1. Primera pasada de artículos autoevaluada (v3).** Encontró *all the bodily systems* —y **dudó con razón**: *all the X* es gramatical para un conjunto definido, así que era zona gris, no error. Pero **no vio *a bigger infrastructure***, el único error indiscutible.
+
+> **Punto ciego identificado:** el escaneo fue solo a los `the`. Su error más resistente es el otro: **`a/an` delante de incontable**. Ese mismo artículo había sobrevivido el día anterior a una corrección hecha sobre esa misma frase.
+>
+> **§4.7 corregida: dos barridos separados.** 1º solo `the` → *¿podría señalar cuál?* · 2º solo `a`/`an` → *¿es incontable?*
+
+**2. Banco Society & Work — 14 oraciones problema/solución** para el prompt 4 del sábado.
+
+**✅ Dos aciertos que superan el ejercicio pedido:**
+- **Emparejó cada problema con su solución fila por fila.** El ejercicio era clasificar términos en dos columnas; construyó pares acoplados. Es exactamente lo que pide un Problem–Solution, y es donde el candidato medio falla (soluciones genéricas que no responden a nada).
+- **Contenido concreto, no de manual:** *income inequality forces some professionals to abandon their areas and move to others better paid* → fuga de cerebros interna. Argumento propio y poco frecuente.
+
+**Dificultades — el hallazgo del día.** Este ejercicio, en primera pasada y sin pulir, mostró su perfil completo de errores en miniatura: *the need **of** updated **trainings*** (dos patrones ya registrados hace diez días), *gives as result* (calco), *conection/payed/appropiate* (ortografía), artículos, concordancia.
+
+> El ensayo del 18 llegó a Band 7 **tras siete versiones**. Esto es la escritura en primera pasada. El sábado hay **una**.
+>
+> **Conclusión: el error log hay que leerlo ANTES de escribir, no solo llenarlo después.**
+
+**Sobre el tiempo:** escribió catorce oraciones completas y se demoró. Correcto para un ejercicio de vocabulario, pero el sábado la planificación va en **palabras sueltas** — *"urbanización → transporte"*, no la oración entera. Ahí se fueron los 15 minutos del 15 de agosto.
+
+**Autocrítica registrada:** *"fui lo menos creativa posible"*. El IELTS no premia creatividad sino ideas relevantes y desarrolladas — y las suyas lo son. La creatividad estuvo en el emparejamiento.
+
+**Palabras nuevas / correcciones:** *closely linked to*, *result in*, *constrained by*, *quality of life*, *long working hours*, *commutes*, *job losses / redundancies*, *demographic shift* (par añadido: presión sobre pensiones ↔ jubilación tardía y migración cualificada).
+
+**Cómo me sentí:** —
+
+---
