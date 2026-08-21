@@ -350,6 +350,44 @@ Este es el error más caro de todos, porque no se ve como un error gramatical: s
 
 ---
 
+### El "en" español no es el "in" inglés
+
+*Añadido el 19-ago, a partir de *consists in* y la pregunta sobre *consists on*.*
+
+**Primero, lo importante: *consist **on** no existe.*** Ningún caso. Si sale, es interferencia.
+
+| Forma | Significado | Ejemplo |
+|---|---|---|
+| **consist OF** | estar **compuesto de** partes | *The circuit consists **of** three resistors and a capacitor.* |
+| **consist IN** | **residir en**, ser la esencia de (formal, raro) | *The difficulty consists **in** reconciling both objectives.* |
+| ~~consist ON~~ | — | ❌ no existe |
+
+> **La salida segura: usa *involves*.** *The proposal **involves** raising the minimum wage.*
+> Evita tener que decidir entre *of* e *in* bajo cronómetro, y nunca suena arcaico.
+>
+> **La prueba:** ¿enumero partes? → `of`. ¿Digo en qué radica algo? → `involves`.
+
+#### El patrón de fondo
+
+El *en* español se reparte entre varias preposiciones inglesas — y a veces entre ninguna:
+
+| Español | ❌ NO es | ✅ Es |
+|---|---|---|
+| consistir **en** | ~~consist in/on~~ | **consist of** · **involve** |
+| pensar **en** | ~~think in~~ | **think about / of** |
+| confiar **en** | ~~confide in~~ (otro sentido) | **rely on** |
+| basarse **en** | ~~based in~~ | **based on** |
+| centrarse **en** | ~~focus in~~ | **focus on** |
+| insistir **en** | ~~insist in~~ | **insist on** |
+| influir **en** | ~~influence in~~ | **influence** (sin preposición) |
+| convertirse **en** | ~~convert in~~ | **turn into** · **become** |
+| entrar **en** | ~~enter in~~ | **enter** (sin preposición) |
+| depender **de** | ~~depend of~~ | **depend on** |
+
+**Sí coinciden** (estas no dan problema): *participate **in*** · *invest **in*** · *believe **in*** · *specialise **in*** · *succeed **in***
+
+---
+
 ### El otro lado del mismo error: sustantivos incontables
 
 El mismo instinto que produce *laboral* produce plurales que no existen. En inglés estos sustantivos **nunca llevan `-s`** y **nunca van con `a/an`**, aunque en español sí:
