@@ -6,39 +6,44 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — viernes 21: recuperar jueves + viernes
+## 👉 RETOMAR AQUÍ — SÁBADO 22: el ensayo. El plan está justo abajo ⬇️
 
-**Miércoles 19 — COMPLETO ✅. Décimo día consecutivo.**
-**Correcciones en casa — HECHAS ✅** (14 oraciones de Society & Work + 6 de Environment & Energy).
+**Viernes 21 — COMPLETO ✅. Jueves recuperado. Semana 5 al día.**
 
-### Viernes 21 (~50 min) — jueves y viernes juntos, en orden de utilidad para mañana
+| | |
+|---|---|
+| Top 5 del error log | ✅ leído — es el paso 0 de mañana |
+| 5 paráfrasis | ✅ prompts 1, 2, 3, 5 y 6. **El 4 intacto a propósito** |
+| Bloque NEED | ✅ memorizado |
+| AWL 161–180 | ✅ **180/200** |
+| Correcciones en casa | ✅ 20 oraciones |
 
-| # | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 15 | **Leer el *Top 5* del error log** + la lista de *Common Writing Patterns*. No las 60 filas. **Es el paso 0 de mañana** |
-| [ ] 2 | 20 | **Parafrasear 5 enunciados** (`03_Writing_Module.md:405`). Solo la paráfrasis, no el ensayo. Es lo que se usa en el minuto 1 de mañana |
-| [ ] 3 | 5 | **Bloque NEED** de §4.2 — dos reglas, no hace falta más |
-| [ ] 4 | 10 | **AWL 161–180** (Batch 9) → 180/200 ✂️ **línea de corte** |
+### Lo que se aprendió hoy y hay que aplicar mañana
 
-**El paso 4 es sacrificable.** Esas 20 palabras no van a aparecer en el ensayo de mañana, y llegar descansada sí cuenta. El viernes está diseñado como día ligero antes del sábado.
+**1. Parafrasear el CONTENIDO, no el marco.** Hoy salió *Many people believe* → *Many individuals affirm* ✅ pero *improve public health* y *other measures are required* quedaron literales. El examinador mira los términos de contenido.
 
-### El bloque NEED, condensado
+Para mañana: *the gap between the rich and the poor* → *the widening disparity in income* · *problems* → *consequences* · *measures* → *interventions*.
 
-> ***need TO*** + verbo → *the need **to** reduce emissions*
-> ***need FOR*** + sustantivo → *the need **for** better training*
-> ***need of*** → **no existe**
+**2. `the` + adjetivo solo** (§4.4, ampliada hoy):
+> *the rich · the poor · the unemployed* → **sí** llevan `the`
+> *wealthy families · poor households* → **sin** `the`
+> *poverty · inequality · education · society* → **sin** `the`
 
-Prueba bajo cronómetro: tras *need*, ¿la siguiente palabra es verbo o sustantivo?
+**3. Incontables sin `-s`** (§4.8, nueva hoy): *poverty · wealth · inequality · education · unemployment · housing · infrastructure · assistance · funding · taxation*. Test: si no admite *a/an*, no admite `-s`.
 
-**4 ocurrencias en 11 días**, dos el mismo miércoles: *the need of generate* (09-ago) · *the need of updated trainings* (19-ago mañana) · *the need for reduce* (19-ago tarde).
+**4. NEED:** *need **to*** + verbo · *need **for*** + sustantivo · *need of* no existe (pero *in need of* sí).
 
-> ### 🆕 La lección del 19 de agosto
+**5. `consist`:** usa ***involves***. Te quita la decisión *of/in* bajo cronómetro.
+
+### 🎉 La victoria del viernes
+
+*mixed schools* → ***mixed academic environments***. Ese término quedó sin parafrasear **dos veces** el 10 de agosto. Hoy salió solo, sin recordatorio.
+
+> ### 🆕 La lección del 19 de agosto — el paso 0 de mañana
 >
-> *the need of updated trainings* contenía **dos patrones registrados hacía diez días**. En el ejercicio de Society & Work apareció el perfil completo de errores en primera pasada.
+> El ensayo del 18 llegó a Band 7 **tras siete versiones**. Mañana hay **una**.
 >
-> El ensayo del 18 llegó a Band 7 **tras siete versiones**. El sábado hay **una**.
->
-> **El error log no sirve solo para llenarlo después. Hay que leerlo ANTES de escribir.** Queda incorporado como paso 0 del sábado.
+> **El error log no sirve solo para llenarlo después. Hay que leerlo ANTES de escribir.**
 
 ---
 

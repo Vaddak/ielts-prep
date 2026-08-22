@@ -274,6 +274,51 @@ Cuando hablas de algo **en general** —y en Task 2 casi siempre hablas en gener
 > *Technology has transformed society.* (en general)
 > ***The** technology used in this study was developed in 2019.* (esa específica)
 
+### ⚠️ La excepción que confunde: adjetivo solo = SÍ lleva `the`
+
+Esto parece contradecir la regla de arriba, y no lo hace. La diferencia es **si después del adjetivo hay un sustantivo**.
+
+> **¿Le sigue un sustantivo al adjetivo?**
+> **NO** → lleva `the` · **SÍ** → sin `the`
+
+| Sin sustantivo → `the` ✅ | Con sustantivo → sin `the` ✅ |
+|---|---|
+| **the rich** | rich **people** |
+| **the poor** | poor **households** |
+| **the wealthy** | wealthy **families** |
+| **the unemployed** | unemployed **workers** |
+| **the elderly** | elderly **patients** |
+| **the most vulnerable** | vulnerable **groups** |
+
+**Por qué:** en *the rich*, el adjetivo **hace de sustantivo** — no hay otra palabra que cargue el significado, y el inglés necesita `the` para convertirlo en grupo social. En *wealthy families* ya está el sustantivo, así que el adjetivo vuelve a su papel y el `the` sale.
+
+**El truco:** si mentalmente puedes añadir *"people"* sin cambiar el sentido → lleva `the`.
+- *the rich* = *the rich (people)* ✅
+- *wealthy families* ≠ *wealthy families people* ❌
+
+### Por qué esto cuesta: el español pone artículo en los dos casos
+
+| Español | Inglés | |
+|---|---|---|
+| **los** ricos | **the** rich | ✅ coinciden |
+| **las** familias ricas | wealthy families | ❌ difieren |
+| **la** pobreza | poverty | ❌ difieren |
+| **los** gobiernos | governments | ❌ difieren |
+
+**El adjetivo solo es el único caso donde el español y el inglés coinciden.** En todo lo demás genérico, el inglés quita el artículo y el español lo mantiene. Por eso *the rich* suena bien (y lo es) y *the wealthy families* también suena bien (y no lo es).
+
+### Práctica
+
+| Español | Inglés |
+|---|---|
+| Los ricos evaden impuestos | **The rich** avoid taxes |
+| Las familias ricas evaden impuestos | **Wealthy families** avoid taxes |
+| Los pobres tienen menos acceso | **The poor** have less access |
+| Los hogares pobres tienen menos acceso | **Poor households** have less access |
+| La brecha entre ricos y pobres | The gap between **the rich** and **the poor** |
+| La desigualdad afecta la educación | **Inequality** affects **education** |
+| Los desempleados necesitan apoyo | **The unemployed** need support |
+
 ### Listas: el último elemento lleva "and"
 
 En español a veces se enumera sin conector. En inglés la lista **siempre** cierra con `and` (o `or`).
@@ -623,6 +668,96 @@ Al hacer la pasada aparecen casos que **no** son errores. Ejemplo real:
 
 ---
 
+## 4.8 Sustantivos incontables: los que NUNCA llevan `-s`
+
+**Origen:** *trainings* (19-ago) · *researchs* (19-ago) · *renewable energies* (19-ago) · *technologies* y *innovations* (21-ago). **Cinco ocurrencias**, todas por la misma causa: el español pluraliza y el inglés no.
+
+### El test de 3 segundos
+
+> **¿Puedes decir `a` / `an` delante?**
+> **NO** → tampoco puedes ponerle `-s` al final.
+
+*~~an~~ information* ❌ → *~~informations~~* ❌ · *~~a~~ poverty* ❌ → *~~poverties~~* ❌
+
+Es el mismo test de §4.4: si no admite artículo indefinido, es incontable y va **siempre en singular**.
+
+### Grupo 1 — Nunca, en ningún contexto
+
+| ❌ | ✅ |
+|---|---|
+| informations | **information** |
+| advices | **advice** |
+| researchs / researches | **research** |
+| trainings | **training** |
+| evidences | **evidence** |
+| knowledges | **knowledge** |
+| equipments | **equipment** |
+| feedbacks | **feedback** |
+| progresses | **progress** |
+
+### Grupo 2 — Los de temas sociales y económicos
+
+Todos en **singular**, y como además son abstractos, también van **sin `the`** (§4.4):
+
+**poverty · wealth · inequality · education · employment · unemployment · health · housing · welfare · infrastructure · assistance · funding · taxation · growth · social mobility · access**
+
+> ❌ *The poverties in developing countries* → ✅ *Poverty in developing countries*
+> ❌ *better educations* → ✅ *better education*
+> ❌ *the unemployments rise* → ✅ *unemployment rises*
+
+### Grupo 3 — Existen en plural, pero con otro significado
+
+| Palabra | Singular (concepto general) | Plural (cosas concretas) |
+|---|---|---|
+| **technology** | *the use of technology in the workplace* | *renewable technologies* = tipos distintos |
+| **energy** | *renewable energy* | *energies* = casi solo en física |
+| **innovation** | *technological innovation* | *innovations* = inventos contables |
+| **industry** | *industry pollutes* (el sector) | *industries* = sectores concretos ✅ |
+
+**Regla práctica:** concepto general → singular. Solo plural si son **cosas concretas y numerables**.
+
+### Cuando SÍ necesitas contar: añade un contador
+
+No se pluraliza el incontable; se le antepone una palabra contable.
+
+| Quieres decir | ❌ | ✅ |
+|---|---|---|
+| varias informaciones | informations | **pieces of** information |
+| varios consejos | advices | **pieces of** advice |
+| varias capacitaciones | trainings | **training programmes** · **training courses** |
+| varias investigaciones | researches | **studies** · **research projects** |
+| varias pruebas | evidences | **pieces of** evidence |
+
+> ❌ *the need for updated **trainings*** → ✅ *the need for updated **training*** · *the need for updated **training programmes***
+> ❌ *due to psychological **researchs*** → ✅ *due to psychological **research*** · *due to **studies** in psychology*
+
+### La raíz: el español los pluraliza
+
+| Español | Inglés |
+|---|---|
+| las informaciones | information |
+| los consejos | advice |
+| las capacitaciones | training |
+| las investigaciones | research |
+| las energías renovables | renewable energy |
+| las desigualdades | inequality |
+| los conocimientos | knowledge |
+
+### Concordancia del verbo
+
+Los incontables llevan **verbo en singular**:
+
+- ✅ *Research **shows** that...* (no *show*)
+- ✅ *Evidence **suggests** that...*
+- ✅ *Inequality **affects** education.*
+
+**⚠️ Excepción: `data` es PLURAL** en inglés académico.
+
+- ✅ *The data **suggest** a link.*
+- ✅ *Data collected from psychological research **demonstrate**...* ← escrito correctamente el 17-ago, sin ayuda. **No "corregirlo" a singular.**
+
+---
+
 ## ✅ CHECKLIST DE REVISIÓN — antes de entregar cualquier tarea escrita
 
 *Esta es la lista completa. Cubre las seis subsecciones de arriba, en el orden en que conviene revisarlas.*
@@ -642,6 +777,8 @@ Al hacer la pasada aparecen casos que **no** son errores. Ejemplo real:
 - [ ] **`not only`** → 🔴 **prohibida en el examen.** Si aparece, reemplazar por *Beyond X, Y must also…*
 - [ ] **Preposiciones fijas** → *the need **to*** + verbo · *the need **for*** + sustantivo · *impact **on*** · *increase **in***
 - [ ] **Concordancia** → *data **show*** (plural) · sujeto compuesto → verbo en plural
+- [ ] **Incontables con `-s`** → ⚠️ *5 ocurrencias.* ¿Algún *trainings · researchs · energies · technologies · informations*? Test: si no admite *a/an*, no admite `-s` (**§4.8**)
+- [ ] **`the` + adjetivo solo** → *the rich · the poor · the unemployed* **sí** llevan `the`; *wealthy families · poor households* **no** (**§4.4**)
 
 ### Pasada 3 — ORTOGRAFÍA Y TERMINACIONES (§4.6)
 

@@ -495,3 +495,45 @@ Cifra + hedging + marco temporal + causa. **Aplicó el hedging sin que se le rec
 **Miércoles completo. Décimo día consecutivo.**
 
 ---
+
+---
+
+### 2026-08-21 — Semana 5, Viernes: recuperación de jueves + víspera del ensayo
+**Módulo:** Error log · paráfrasis · gramática (`the`, `need`, `consist`, incontables) · Batch 9
+**Tiempo:** ~60 min · **Recupera el jueves 20.** Correcciones en casa hechas antes (20 oraciones).
+
+**Todo completado:**
+1. **Top 5 del error log leído** — el nuevo paso 0 del sábado
+2. **5 paráfrasis** (prompts 1, 2, 3, 5, 6). **El 4 se dejó intacto a propósito** para no contaminar la medición en frío de mañana
+3. **Bloque NEED** memorizado
+4. **AWL 161–180 (Batch 9) → 180/200**, con *overall* en `[~]`
+
+**🎉 La victoria del día:** *mixed schools* → ***mixed academic environments***. Ese término exacto quedó sin parafrasear **dos veces** el 10 de agosto y hoy salió solo. El error log funcionando en la dirección correcta.
+
+Otras buenas: *employees* → *coworkers* · *argue* → *defend* · *the most important factor* → *the principal factor* · *continue to advance* → *the rapid advance in* (verbo → sustantivo).
+
+**🔴 El hallazgo — parafrasea el marco, no el contenido:**
+
+| Original | Su versión | |
+|---|---|---|
+| Many people believe that | Many individuals affirm that | ✅ |
+| increase the number of sports facilities | increasing the number of sport facilities | ❌ |
+| improve public health | improve public health | ❌ |
+| Others believe that | Others believe that | ❌ |
+| other measures are required | other measures are required | ❌ |
+
+Cambia **quién lo dice**, no **lo que dice**. El examinador mira los términos de contenido (*sports facilities*, *public health*), no *"many people believe"*. En el prompt 6 la segunda oración quedó copiada palabra por palabra.
+
+**Error de significado (Task Achievement):** *Some people **think about** separate schools* — *think about* = reflexionar sobre, no opinar. Para opinar: **think THAT** + oración, o cambiar el verbo (*maintain that*, *believe that*).
+
+**🆕 Patrón nuevo registrado — incontables pluralizados:** *technologies*, *innovations*, sumados a *trainings*, *researchs*, *renewable energies*. **Cinco ocurrencias.** Nueva **§4.8** con el test (*si no admite `a/an`, no admite `-s`*), los tres grupos, los contadores (*pieces of information*, *training programmes*) y la concordancia — incluida la excepción de *data*, que ella ya usa bien.
+
+**También añadido a §4.4:** la distinción adjetivo-solo vs adjetivo+sustantivo (*the rich* ✅ / *wealthy families* sin `the`), que fue justo lo que la enredó. La raíz es la misma de siempre: el español pone artículo en los dos casos y el inglés solo en uno.
+
+**Precisión:** *has **deeply replaced*** por *has reduced the need for* — parafrasear no es subir la intensidad. Y *deeply* no colocaciona con *replaced*.
+
+**Ortografía:** *sport facilities* (3ª vez) · *extend* por *extent* (copiado del enunciado y mal escrito) · *oportunities* · *face to face* sin guiones.
+
+**Cómo me sentí:** —
+
+**Estado para mañana:** 180/200 palabras AWL · cuatro bloques de gramática nuevos anotados · error log leído · Semana 5 al día.
