@@ -251,26 +251,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 161 | **label** | verb/noun | to mark with a name; a descriptive mark | *Each terminal is clearly labelled to prevent errors.* | [ ] |
-| 162 | **mechanism** | noun | a process or system that produces a result | *The precise mechanism of degradation is not fully understood.* | [ ] |
-| 163 | **obvious** | adjective | easily seen or understood | *The most obvious solution is not always the most efficient.* | [ ] |
-| 164 | **occupy** | verb | to fill space or time; to inhabit | *The installation occupies roughly 200 square metres.* | [ ] |
-| 165 | **option** | noun | a choice | *Three storage options were evaluated.* | [ ] |
-| 166 | **output** | noun | the amount produced | *Output fell sharply during the maintenance period.* | [ ] |
-| 167 | **overall** | adjective/adverb | considering everything; in general | *Overall efficiency improved by eight percentage points.* | [ ] |
-| 168 | **parallel** | adjective/noun | side by side; a similarity | *The cells are connected in parallel to increase current.* | [ ] |
-| 169 | **parameter** | noun | a factor that defines a system or limits it | *Several parameters were adjusted during the simulation.* | [ ] |
-| 170 | **phase** | noun | a distinct stage | *The first phase of construction is now complete.* | [ ] |
-| 171 | **predict** | verb | to say what will happen | *The model predicts a 20% rise in peak demand.* | [ ] |
-| 172 | **principal** | adjective | main; most important | *The principal advantage is the absence of moving parts.* | [ ] |
-| 173 | **prior** | adjective | earlier; before | *No prior knowledge of the system was assumed.* | [ ] |
-| 174 | **professional** | adjective/noun | relating to skilled paid work | *Professional certification is required for this role.* | [ ] |
-| 175 | **project** | noun/verb | a planned undertaking; to forecast | *Demand is projected to double within fifteen years.* | [ ] |
-| 176 | **promote** | verb | to encourage or support | *Subsidies were introduced to promote domestic solar.* | [ ] |
-| 177 | **regime** | noun | a system of rules or operating conditions | *The device behaves differently in the high-frequency regime.* | [ ] |
-| 178 | **resolve** | verb | to solve; to decide firmly | *The interference issue was resolved through shielding.* | [ ] |
-| 179 | **retain** | verb | to keep | *The material retains its properties above 200°C.* | [ ] |
-| 180 | **series** | noun | a number of similar things in order | *The resistors are connected in series.* | [ ] |
+| 161 | **label** | verb/noun | to mark with a name; a descriptive mark | *Each terminal is clearly labelled to prevent errors.* | [X] |
+| 162 | **mechanism** | noun | a process or system that produces a result | *The precise mechanism of degradation is not fully understood.* | [X] |
+| 163 | **obvious** | adjective | easily seen or understood | *The most obvious solution is not always the most efficient.* | [X] |
+| 164 | **occupy** | verb | to fill space or time; to inhabit | *The installation occupies roughly 200 square metres.* | [X] |
+| 165 | **option** | noun | a choice | *Three storage options were evaluated.* | [X] |
+| 166 | **output** | noun | the amount produced | *Output fell sharply during the maintenance period.* | [X] |
+| 167 | **overall** | adjective/adverb | considering everything; in general | *Overall efficiency improved by eight percentage points.* | [~] |
+| 168 | **parallel** | adjective/noun | side by side; a similarity | *The cells are connected in parallel to increase current.* | [X] |
+| 169 | **parameter** | noun | a factor that defines a system or limits it | *Several parameters were adjusted during the simulation.* | [X] |
+| 170 | **phase** | noun | a distinct stage | *The first phase of construction is now complete.* | [X] |
+| 171 | **predict** | verb | to say what will happen | *The model predicts a 20% rise in peak demand.* | [X] |
+| 172 | **principal** | adjective | main; most important | *The principal advantage is the absence of moving parts.* | [X] |
+| 173 | **prior** | adjective | earlier; before | *No prior knowledge of the system was assumed.* | [X] |
+| 174 | **professional** | adjective/noun | relating to skilled paid work | *Professional certification is required for this role.* | [X] |
+| 175 | **project** | noun/verb | a planned undertaking; to forecast | *Demand is projected to double within fifteen years.* | [X] |
+| 176 | **promote** | verb | to encourage or support | *Subsidies were introduced to promote domestic solar.* | [X] |
+| 177 | **regime** | noun | a system of rules or operating conditions | *The device behaves differently in the high-frequency regime.* | [X] |
+| 178 | **resolve** | verb | to solve; to decide firmly | *The interference issue was resolved through shielding.* | [X] |
+| 179 | **retain** | verb | to keep | *The material retains its properties above 200°C.* | [X] |
+| 180 | **series** | noun | a number of similar things in order | *The resistors are connected in series.* | [X] |
 
 ---
 
