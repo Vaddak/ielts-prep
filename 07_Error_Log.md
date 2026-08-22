@@ -145,6 +145,22 @@ After every timed practice or mock exam:
 | 2026-08-19 | **Banco Environment & Energy** | Task Achievement | *First-world countries* — término anticuado, registro informal | *developed countries* · *high-income countries* |
 | 2026-08-19 | **Banco Environment & Energy** | ✅ **ACIERTO — la frase modelo** | *Solar panel costs have fallen by **roughly ninety per cent** over the last ten years due to research and improvements in materials.* | Cifra + hedging + marco temporal + causa. **Aplicó el hedging sin que se le recordara.** Es la respuesta directa al *"Multiple studies show"* sin dato del ensayo. Usable tal cual |
 | 2026-08-19 | **Banco Environment & Energy** | ⚠️ Descartar | *An alternative to reduce plastic waste up to 90% consists in blending the material to create useful new tools* | Cifra sin mecanismo entendible: no se sabe qué material ni qué herramientas. **Una afirmación vaga con número suena menos creíble que una sin número** |
+| **2026-08-22** | 🧊 **Task 2 EN FRÍO** — Intro | Grammatical Range | *socioeconomic life conditions... **is** highly notable* | Sujeto plural → ***are***. Concordancia a distancia: el verbo quedó lejos del sujeto |
+| 2026-08-22 | Task 2 frío — Body 1 | Lexical Resource | ***the wealthy** of a reduced part of the population* — quería decir "la riqueza", no "los ricos" | ***the wealth** of a small proportion*. *the wealthy* = las personas ricas (§4.4, visto la víspera); *wealth* = la riqueza, incontable |
+| 2026-08-22 | Task 2 frío — Body 1 | Grammatical Range | *per cent **of population*** — **falta** artículo | *of **the** population*. Aquí sí va: es una población concreta |
+| 2026-08-22 | Task 2 frío — Body 1 | Grammatical Range | *almost all **the** society* — **sobra** artículo | *all of society* · *society as a whole* |
+| 2026-08-22 | Task 2 frío — Conclusión | Grammatical Range | ***the** access to minimal services* · *over **the** time* | *access to...* · *over time*. ⚠️ Artículos: 4 ocurrencias, **9/9 tareas** |
+| 2026-08-22 | Task 2 frío — Conclusión | Lexical Resource | 🔴 *are **in the obligation of provide*** — calco estructural de "estar en la obligación de" | *are **obliged to provide*** · *have **an obligation to provide*** |
+| 2026-08-22 | Task 2 frío — Body 2 | Lexical Resource | 🔴 *must be the first one **in being attended*** — calco de "ser atendido" | *must be the first **to be addressed***. *attend* ≠ atender un asunto |
+| 2026-08-22 | Task 2 frío — Body 1 | Lexical Resource | 🔴 ***having as results** poor access* — calco de "teniendo como resultado" | ***resulting in** poor access* · *which results in* |
+| 2026-08-22 | Task 2 frío — Conclusión | Lexical Resource | *qualificated services* — palabra que no existe | *qualified services*. ⚠️ Interferencia del español, tarea nº6 |
+| 2026-08-22 | Task 2 frío — Body 2 | Lexical Resource | *receive **allowance** from government* | *receive **funding** · **subsidies***. *allowance* = mesada, o cuota permitida |
+| 2026-08-22 | Task 2 frío — Body 2 | Lexical Resource | *education institutions* | *education**al** institutions* |
+| 2026-08-22 | Task 2 frío — Body 2 | Coherence & Cohesion | *Therefore* abre el párrafo y *Consequently* la oración siguiente — dos marcadores de consecuencia seguidos, y el 2º no marca consecuencia | La 1ª medida se introduce con *First* · *One effective measure would be*. Y *Also* al inicio de oración → *Furthermore* |
+| 2026-08-22 | Task 2 frío — Body 1 | Task Achievement | 55 de 89 palabras demuestran que la brecha existe — pero el enunciado **ya lo afirma** como premisa | La pregunta es *what problems does this cause*. Los problemas llegaron en la última línea; deberían ser el párrafo entero |
+| 2026-08-22 | Task 2 frío — Body 2 | Task Achievement | 69 palabras (objetivo 90–110) y medidas genéricas | Había **7 pares problema–solución** preparados el 19-ago sin usar, incluida la fuga de cerebros interna. **Consultar el banco durante la planificación** |
+| 2026-08-22 | Task 2 frío — general | Grammatical Range | 🔴 **Escribir y corregir en paralelo** — autodiagnosticado | Los ~12 errores eran cazables en la pasada final, que no existió. **Minutos 11–31 escribir sin mirar atrás; 31–40 corregir.** Si dudas de una palabra, subráyala y sigue |
+| 2026-08-22 | Task 2 frío — varios | Lexical Resource | Ortografía: *goverment* · *reallity* · *american* | *government* · *reality* · *American* (gentilicio en mayúscula) |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
@@ -281,6 +297,10 @@ El primer intento corrigió 12 errores pero dejó el total en **229**: se aplic�
 
 > **Completar** un párrafo al que le falta un movimiento ≠ **corregir** uno terminado.
 > **Primero se completa. Después se corrige.** En ese orden.
+
+| **2026-08-22** | 🧊 **TASK 2 EN FRÍO** — prompt 4, *Problem–Solution*, 252 palabras, **sin corregir** | 6 | 6 | 5.5 | 5.5 | **~5.5–6** |
+
+**Sobre la banda fría del 22-ago:** misma banda global que el 15, pero **no el mismo logro**. El 15 fue un prompt cuyos cuatro bloques ya estaban escritos; el 22 fue tema desconocido, tipo de pregunta nuevo y **cero minutos de corrección** — y aun así 252 palabras frente a 182. La habilidad subió aunque el número no se moviera.
 
 **Sobre la línea base del 15-ago — la lectura correcta:**
 

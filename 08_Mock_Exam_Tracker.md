@@ -85,6 +85,57 @@ Las notas de la autopsia del viernes registraron, para el Body 1: *"Two robust s
 
 ---
 
+## 🧊 PRIMERA BANDA FRÍA — Task 2, 22 de agosto de 2026
+
+**Prompt 4** (brecha ricos/pobres) · ***Problem–Solution*** · 40 min cronometrados.
+**Tema nunca trabajado · tipo de pregunta nunca practicado · una sola pasada · sin tiempo de corrección.**
+
+| Criterio | 15-ago (conocido) | **22-ago (frío)** |
+|---|---|---|
+| Task Achievement | 5.5 | **6** |
+| Coherence & Cohesion | 6.0 | **6** |
+| Lexical Resource | 6.0 | **5.5** |
+| Grammatical Range | 5.5 | **5.5** |
+| **Global** | **~5.5** | **~5.5–6** |
+
+### Longitud
+
+| Bloque | 15-ago | **22-ago** | Objetivo |
+|---|---|---|---|
+| Introducción | 43 | 41 | 40–60 ✅ |
+| Body 1 | 53 | **89** | 90–110 ✅ |
+| Body 2 | 53 | **69** | 90–110 ⚠️ |
+| Conclusión | 33 | 53 | 40–60 ✅ |
+| **TOTAL** | **182** | **252** ✅ | **250 mín.** |
+
+> **Misma banda, pero no el mismo logro.** El 15 fue sobre un prompt cuyos cuatro bloques ya estaban escritos. El 22 fue tema desconocido, tipo nuevo y **cero minutos de corrección** — y aun así 70 palabras más y por encima del mínimo. La habilidad subió aunque el número no.
+
+### 🔴 El hallazgo — escribir y corregir en paralelo
+
+Autodiagnóstico textual: *"me quedé mucho tiempo pensando en qué escribir y **en paralelo** cuidaba que lo que escribía estuviera bien"*.
+
+El plan dice explícitamente *"no corrijas mientras escribes; si dudas de una palabra, subráyala y sigue"*. Al mezclar las dos operaciones **se perdió por los dos lados**: la escritura fue más lenta (Body 2 quedó en 69 palabras) **y** no quedó tiempo para la pasada de corrección. Los ~12 errores de gramática eran, en su mayoría, cazables sin saber más inglés.
+
+> **Generar y corregir usan la cabeza de forma distinta. Mezclarlos cuesta el doble y rinde la mitad.**
+> Minutos 11–31: escribir sin mirar atrás. Minutos 31–40: corregir. En ese orden y sin solaparse.
+
+### Lo que funcionó
+
+- ✅ **252 palabras en frío y sin corregir** — el 15, con material conocido, fueron 182
+- ✅ **Dato concreto con mecanismo:** *"an average American family of four cannot buy medical insurance with only one regular salary"*
+- ✅ **Cifra con marco temporal:** *"surveys over the last ten years"*
+- ✅ ***the wealthy · the rich · the poor*** — los tres artículos correctos, aprendidos la víspera
+- ✅ Léxico preciso: *vulnerable communities · income inequality · inflated prices*
+- ✅ Autodiagnóstico acertado sobre el Body 2 superficial y sobre la causa
+
+### Las tres cosas a corregir, en orden
+
+1. **Separar escribir de corregir.** Es la de mayor impacto: recupera 9 minutos y ~12 errores
+2. **Body 1 debe dar los PROBLEMAS, no demostrar la premisa.** El enunciado ya afirma que la brecha se ensancha; 55 de 89 palabras se fueron en re-argumentarlo y los problemas llegaron en la última línea
+3. **Consultar el banco de palabras en la planificación.** Había 7 pares problema–solución preparados el 19-ago, incluida la fuga de cerebros interna — su mejor argumento propio. Ninguno entró; las medidas del Body 2 salieron genéricas
+
+---
+
 ## Band Score Reference
 
 | Raw Score (Listening/Reading out of 40) | Band |

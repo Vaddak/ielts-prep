@@ -6,44 +6,39 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — SÁBADO 22: el ensayo. El plan está justo abajo ⬇️
+## 👉 RETOMAR AQUÍ — domingo 23 de agosto
 
-**Viernes 21 — COMPLETO ✅. Jueves recuperado. Semana 5 al día.**
+**Sábado 22 — COMPLETO ✅. Doce días consecutivos.**
+🧊 **Primera banda fría: ~5.5–6** · **252 palabras sin corregir** · registrada en `08_Mock_Exam_Tracker.md`.
 
-| | |
-|---|---|
-| Top 5 del error log | ✅ leído — es el paso 0 de mañana |
-| 5 paráfrasis | ✅ prompts 1, 2, 3, 5 y 6. **El 4 intacto a propósito** |
-| Bloque NEED | ✅ memorizado |
-| AWL 161–180 | ✅ **180/200** |
-| Correcciones en casa | ✅ 20 oraciones |
+### Domingo 23 (~60 min) — según el cronograma: autoevaluar Lexical Resource
 
-### Lo que se aprendió hoy y hay que aplicar mañana
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 20 | **Corregir el ensayo del sábado** con la lista del error log. Es la pasada que no hubo tiempo de hacer — hazla ahora y comprueba cuántos de los ~12 errores cazas sola |
+| [ ] 2 | 15 | **Reescribir el Body 1** para que dé los **problemas**, no para demostrar que la brecha existe (el enunciado ya lo afirma). Los problemas están en tu última línea: úsalos como claim |
+| [ ] 3 | 15 | **Reescribir el Body 2** usando los **pares del banco Society & Work** del 19-ago — sobre todo la fuga de cerebros interna. Objetivo: 69 → 90–110 |
+| [ ] 4 | 10 | **Autoevaluar solo Lexical Resource** y comparar con el ensayo del 15 de agosto |
 
-**1. Parafrasear el CONTENIDO, no el marco.** Hoy salió *Many people believe* → *Many individuals affirm* ✅ pero *improve public health* y *other measures are required* quedaron literales. El examinador mira los términos de contenido.
+### 🔴 La única prioridad para el próximo ensayo cronometrado
 
-Para mañana: *the gap between the rich and the poor* → *the widening disparity in income* · *problems* → *consequences* · *measures* → *interventions*.
+> **Separar escribir de corregir.**
+> Minutos 11–31: **escribir sin mirar atrás.** Si dudas de una palabra, **subráyala y sigue**.
+> Minutos 31–40: **ahí sí**, y solo ahí.
 
-**2. `the` + adjetivo solo** (§4.4, ampliada hoy):
-> *the rich · the poor · the unemployed* → **sí** llevan `the`
-> *wealthy families · poor households* → **sin** `the`
-> *poverty · inequality · education · society* → **sin** `the`
+Autodiagnóstico del sábado: *"pensando en qué escribir y **en paralelo** cuidaba que lo que escribía estuviera bien"*. Mezclar las dos operaciones costó **las dos**: Body 2 en 69 palabras **y** cero minutos de corrección.
 
-**3. Incontables sin `-s`** (§4.8, nueva hoy): *poverty · wealth · inequality · education · unemployment · housing · infrastructure · assistance · funding · taxation*. Test: si no admite *a/an*, no admite `-s`.
+### Las otras dos, para el sábado 29
 
-**4. NEED:** *need **to*** + verbo · *need **for*** + sustantivo · *need of* no existe (pero *in need of* sí).
+1. **En *Problem–Solution*, la premisa es un dato dado.** No la demuestres: el Body 1 da los **problemas** desde la primera oración
+2. **Consultar el banco de palabras durante la planificación.** Los 7 pares del 19-ago no entraron y las medidas salieron genéricas
 
-**5. `consist`:** usa ***involves***. Te quita la decisión *of/in* bajo cronómetro.
+### 🎉 Lo del sábado
 
-### 🎉 La victoria del viernes
-
-*mixed schools* → ***mixed academic environments***. Ese término quedó sin parafrasear **dos veces** el 10 de agosto. Hoy salió solo, sin recordatorio.
-
-> ### 🆕 La lección del 19 de agosto — el paso 0 de mañana
->
-> El ensayo del 18 llegó a Band 7 **tras siete versiones**. Mañana hay **una**.
->
-> **El error log no sirve solo para llenarlo después. Hay que leerlo ANTES de escribir.**
+- **252 palabras en frío y sin corregir** (182 el 15-ago, con material conocido)
+- **Dato concreto con mecanismo** — lo que faltó en el ensayo anterior
+- ***the wealthy · the rich · the poor*** correctos, un día después de estudiar §4.4
+- **Autodiagnóstico acertado** de la causa y del Body 2 superficial
 
 ---
 

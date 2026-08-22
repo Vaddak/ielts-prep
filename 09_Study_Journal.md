@@ -537,3 +537,49 @@ Cambia **quién lo dice**, no **lo que dice**. El examinador mira los términos 
 **Cómo me sentí:** —
 
 **Estado para mañana:** 180/200 palabras AWL · cuatro bloques de gramática nuevos anotados · error log leído · Semana 5 al día.
+
+---
+
+### 2026-08-22 — Semana 5, Sábado · 🧊 PRIMERA BANDA FRÍA
+**Módulo:** Writing Task 2 completo — prompt 4 (brecha ricos/pobres), *Problem–Solution*
+**Tiempo:** 40 minutos exactos. **Doce días consecutivos.**
+
+**Resultado: ~Band 5.5–6** (TA 6 · CC 6 · LR 5.5 · GR 5.5). En `08_Mock_Exam_Tracker.md`.
+
+**🎉 252 palabras en frío, sin corregir.** Tema nunca trabajado, tipo de pregunta nunca practicado, una sola pasada. El 15 de agosto, sobre un prompt cuyos cuatro bloques ya estaban escritos, fueron 182.
+
+| Bloque | 15-ago | 22-ago |
+|---|---|---|
+| Introducción | 43 | 41 |
+| Body 1 | 53 | **89** |
+| Body 2 | 53 | **69** |
+| Conclusión | 33 | 53 |
+| **TOTAL** | **182** | **252** ✅ |
+
+> **Misma banda global, distinto logro.** La habilidad subió aunque el número no se moviera: 70 palabras más, en frío y sin pasada de corrección.
+
+**🔴 El hallazgo, autodiagnosticado:** *"me quedé mucho tiempo pensando en qué escribir y **en paralelo** cuidaba que lo que escribía estuviera bien"*.
+
+El plan dice *"no corrijas mientras escribes"*. Al mezclar generación y corrección **se perdió por los dos lados**: escritura más lenta (Body 2 en 69 palabras) y sin tiempo para la pasada final. Los ~12 errores de gramática eran mayoritariamente cazables sin saber más inglés.
+
+> **Generar y corregir usan la cabeza de forma distinta. Mezclarlos cuesta el doble y rinde la mitad.**
+
+**Lo que funcionó:**
+- **Dato concreto con mecanismo:** *"an average American family of four cannot buy medical insurance with only one regular salary"* — específico y explicativo, justo lo que faltó el 15
+- **Cifra con marco temporal:** *"surveys over the last ten years"*
+- ***the wealthy · the rich · the poor*** — los tres artículos correctos. §4.4 aplicada al día siguiente de estudiarla
+- Léxico preciso: *vulnerable communities · income inequality · inflated prices*
+- Paráfrasis del enunciado sin copiar
+
+**Dificultades:**
+1. **Body 1 re-argumenta la premisa.** El enunciado ya afirma que la brecha se ensancha; 55 de 89 palabras se fueron demostrándolo, y los problemas aparecieron solo en la última línea. En *Problem–Solution*, la premisa es un dato dado.
+2. **El banco de palabras no entró.** Había 7 pares problema–solución preparados el 19-ago, incluida la fuga de cerebros interna — su mejor argumento propio. Las medidas del Body 2 salieron genéricas.
+3. **Cuatro calcos estructurales:** *in the obligation of provide* · *the first one in being attended* · *having as results* · *qualificated*.
+4. **Artículos: 4 ocurrencias, 9/9 tareas.** Dos sobran, uno falta.
+5. ***the wealthy*** usado por ***the wealth*** — confusión de §4.4, estudiada la víspera: *the wealthy* = las personas ricas; *wealth* = la riqueza.
+
+**Palabras nuevas:** *to be obliged to*, *to be addressed*, *resulting in*, *qualified*, *funding / subsidies* (≠ *allowance*), *educational institutions*, *society as a whole*.
+
+**Cómo me sentí:** —
+
+**La única prioridad para el próximo ensayo:** separar escribir de corregir. Minutos 11–31 escribir sin mirar atrás, subrayando las dudas; 31–40 corregir. Recupera 9 minutos y ~12 errores.
