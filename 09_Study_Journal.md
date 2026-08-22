@@ -391,7 +391,7 @@ Escribió bien, dudó, "corrigió", y quedó mal. Es un fenómeno real y tiene s
 
 **Cierre del lunes 17 — segunda mitad de la sesión:**
 - **Vocab AWL 121–140** marcado, con **dos `[~]` honestos** (*adequate*, *commit*). **140/200 palabras.** Incluye ***sufficient***, justo la que faltaba esa mañana para *"a sufficient number of facilities"*
-- **Banco de palabras Technology & Engineering** (`03_Writing_Module.md:146`) revisado
+- **Banco de palabras Technology & Engineering** (`03_Writing_Module.md:188`) revisado
 
 **Día completo:** tarea del domingo (autoevaluación y registro) + tarea del lunes (vocabulario y banco de palabras) + la reparación del ensayo. **Domingo saldado, lunes al día.**
 

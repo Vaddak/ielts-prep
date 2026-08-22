@@ -16,7 +16,7 @@
 | # | Min | Tarea |
 |---|---|---|
 | [ ] 1 | 15 | **Leer el *Top 5* del error log** + la lista de *Common Writing Patterns*. No las 60 filas. **Es el paso 0 de mañana** |
-| [ ] 2 | 20 | **Parafrasear 5 enunciados** (`03_Writing_Module.md:363`). Solo la paráfrasis, no el ensayo. Es lo que se usa en el minuto 1 de mañana |
+| [ ] 2 | 20 | **Parafrasear 5 enunciados** (`03_Writing_Module.md:405`). Solo la paráfrasis, no el ensayo. Es lo que se usa en el minuto 1 de mañana |
 | [ ] 3 | 5 | **Bloque NEED** de §4.2 — dos reglas, no hace falta más |
 | [ ] 4 | 10 | **AWL 161–180** (Batch 9) → 180/200 ✂️ **línea de corte** |
 
