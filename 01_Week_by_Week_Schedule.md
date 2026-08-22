@@ -6,45 +6,31 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — en casa, y jueves 20
+## 👉 RETOMAR AQUÍ — viernes 21: recuperar jueves + viernes
 
-**Miércoles 19 — COMPLETO ✅. Décimo día consecutivo.** Pasada de artículos autoevaluada · banco Society & Work (14 pares problema/solución para el prompt del sábado) · §4.7 reescrita · **Batch 8 → 160/200** · banco Environment & Energy.
+**Miércoles 19 — COMPLETO ✅. Décimo día consecutivo.**
+**Correcciones en casa — HECHAS ✅** (14 oraciones de Society & Work + 6 de Environment & Energy).
 
-### En casa — correcciones pendientes (~10 min)
-
-**Society & Work (14 oraciones):**
-- 🔴 *the need **of** updated trainings* → *the need **for** updated **training***
-- *shorter working hours **gives as result*** → ***result in***
-- *co**n**ection* → *connection* · *pa**y**ed* → *paid* · *appropi**ate*** → *appropriate*
-- *all **the** conditions* · *all **the** different areas* → sin artículo
-- *urbanisation negatively **impact*** → *impact**s*** · *traffic **everyday*** → *every day*
-- *improves **life quality*** → *quality of life* · *is **trapped** by* → *is **constrained** by* · ***highly** linked with* → ***closely** linked to*
-- ➕ Añadir el par de ***demographic shift***: *An ageing population places growing pressure on pension systems while the working-age population shrinks* ↔ *Supporting later retirement and skilled migration can offset demographic decline*
-
-**Environment & Energy (6 frases):**
-- 🔴 *the need **for** reduce* → *the need **to** reduce*
-- ***The** investment* → *Investment* · *renewable energ**ies*** → *renewable energy* · *ha**d** increased* → *ha**s*** · *fossil fuel**s** use* → *fossil fuel use*
-- *consists **in*** → *consists **of***
-- *proportion… **are** caused* → *is* · *industries that **promotes*** → *promote* · *ga**ss**es* → *gases*
-- *due to **researching*** → *research* · *Researching **in*** → *Research **into*** · *the first step **to mitigate*** → *a first step **towards mitigating***
-- *First-world countries* → *developed countries*
-- ⚠️ **Descartar la frase 2** (plástico/90%): cifra sin mecanismo entendible
-
----
-
-### Jueves 20 (~30 min)
+### Viernes 21 (~50 min) — jueves y viernes juntos, en orden de utilidad para mañana
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 10 | **Memorizar el bloque *NEED*** de §4.2. Cuatro ocurrencias en once días, dos el mismo día. *need **to*** + verbo · *need **for*** + sustantivo |
-| [ ] 2 | 20 | **Parafrasear el enunciado** — 5 prompts de `03_Writing_Module.md`. Solo la paráfrasis, no el ensayo. Es el punto donde aún se cuelan términos literales del enunciado |
+| [ ] 1 | 15 | **Leer el *Top 5* del error log** + la lista de *Common Writing Patterns*. No las 60 filas. **Es el paso 0 de mañana** |
+| [ ] 2 | 20 | **Parafrasear 5 enunciados** (`03_Writing_Module.md:363`). Solo la paráfrasis, no el ensayo. Es lo que se usa en el minuto 1 de mañana |
+| [ ] 3 | 5 | **Bloque NEED** de §4.2 — dos reglas, no hace falta más |
+| [ ] 4 | 10 | **AWL 161–180** (Batch 9) → 180/200 ✂️ **línea de corte** |
 
-### Viernes 21 (~25 min) — víspera
+**El paso 4 es sacrificable.** Esas 20 palabras no van a aparecer en el ensayo de mañana, y llegar descansada sí cuenta. El viernes está diseñado como día ligero antes del sábado.
 
-| # | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 10 | **AWL 161–180** (Batch 9) → 180/200 |
-| [ ] 2 | 15 | 🆕 **LEER el error log antes de escribir.** Solo el *Top 5* y la lista de *Common Writing Patterns*. No las 60 filas |
+### El bloque NEED, condensado
+
+> ***need TO*** + verbo → *the need **to** reduce emissions*
+> ***need FOR*** + sustantivo → *the need **for** better training*
+> ***need of*** → **no existe**
+
+Prueba bajo cronómetro: tras *need*, ¿la siguiente palabra es verbo o sustantivo?
+
+**4 ocurrencias en 11 días**, dos el mismo miércoles: *the need of generate* (09-ago) · *the need of updated trainings* (19-ago mañana) · *the need for reduce* (19-ago tarde).
 
 > ### 🆕 La lección del 19 de agosto
 >
