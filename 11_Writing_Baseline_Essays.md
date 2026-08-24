@@ -63,6 +63,66 @@ Los tres son de **planificación**, no de corrección. Se resuelven antes de esc
 
 ---
 
+---
+
+# ENSAYO 2 — Prompt 4 (brecha ricos/pobres) · *Problem–Solution*
+
+**Enunciado:** *In many countries, the gap between the rich and the poor is widening. **What problems does this cause and what measures can be taken to address the situation?***
+
+**🧊 Primera banda fría de la preparación:** tema nunca trabajado, tipo de pregunta nunca practicado.
+
+| Versión | Fecha | Palabras | Banda |
+|---|---|---|---|
+| v1 — cronometrada, 40 min, **sin pasada de corrección** | 2026-08-22 | 252 | ~5.5–6 |
+| **v5 — FINAL** | **2026-08-24** | **275** | **~7** |
+
+## ✅ v5 — FINAL · 275 palabras · ~Band 7
+
+*(TA 7 · CC 7 · LR 7 · GR 6.5)*
+
+> **[INTRODUCCIÓN — 43]** Around the world, differences in living conditions across population groups are increasingly stark. This essay contends that the Government and the private sector can create and promote measures to improve the quality of life of those with low incomes and reduce this gap.
+
+> **[BODY 1 — 112]** This widening gap produces two immediate consequences for vulnerable socioeconomic groups: restricted access to healthcare and to higher education. Data collected from surveys over the last ten years demonstrate that an average American family of four cannot afford medical insurance with only one regular salary. Access to higher education depends on expensive tuition fees and scholarships are not sufficient to cover enough students. As a consequence, a growing number of American students are enrolled in European universities. Taken together, these pressures mean that income inequality and inflated prices are the reality for almost all of society, entrenching disadvantages across generations, since neither health nor education can easily be recovered later in life.
+
+> **[BODY 2 — 70]** Therefore, new measures are needed to tackle this situation and guarantee basic and essential services for everyone. The medical sector must be the first to be addressed in order to have a sufficient budget and provide critical services for free. In addition, higher education institutions require funding from the government to enable a greater number of students from low-income families to become professionals and have a career without incurring debt.
+
+> **[CONCLUSIÓN — 51]** In conclusion, while the gap between the poor and the rich is large, the government and the private sector are obliged to provide solutions that allow vulnerable communities access to basic, good-quality services that help them to achieve a better quality of life and contribute to reducing this gap over time.
+
+### 🎯 El aprendizaje grande: la corrección estructural SÍ entra
+
+La v1 gastaba ~90 de 89 palabras del Body 1 **demostrando la premisa** que el enunciado ya daba (*"the gap is widening"*), y los problemas aparecían en la última línea.
+
+En **una sola pasada** el párrafo pasó a abrir con los problemas:
+
+> *This widening gap produces two immediate consequences for vulnerable socioeconomic groups: restricted access to healthcare and to higher education.*
+
+Misma evidencia, orden invertido. **En *Problem–Solution* la premisa es un dato dado: no se demuestra, se parte de ella.**
+
+> ⚠️ **Corrección de una afirmación anterior:** el 24-ago se dijo que "las correcciones de lengua entran y las de arquitectura no". Se desmintió en el intento siguiente. Eran tres casos, no un patrón.
+
+### 🎉 Entró la fuga de cerebros
+
+*As a consequence, a growing number of American students are enrolled in European universities.* — su mejor argumento propio, preparado el 19-ago en el banco Society & Work y sin usar hasta ahora.
+
+### 🔴 Patrón confirmado: dos arreglos en una frase, entra uno
+
+| Frase | Entró | No entró |
+|---|---|---|
+| *prepared **to** each community **needs*** | la preposición | el posesivo |
+| *a **bigger** infrastructure* | el adjetivo | el artículo |
+| *basic and **qualified** services* | *minimal* → *basic* | *qualified* |
+
+> **Si una frase necesita dos arreglos, reescríbela entera. No la parchees.**
+
+Y un segundo fallo distinto: *of **the** American students* fue **marcada en rosa dos veces** y sobrevivió las dos. Detectar y ejecutar son pasos separados — **corrige en el momento de marcar**.
+
+### Otros errores registrados
+
+*the wealthy* por *the wealth* (§4.4, señalado el 22-ago, sobrevivió una pasada) · *allowance* por *funding* (estaba en las palabras nuevas del 22-ago) · *minimal services* (= deliberadamente pobres) · *qualified services* (*qualified* describe personas) · *take on* por *tackle* · artículos **10/10 tareas** · *goverment · reallity · establisments · adquiring · european · disadvantges · socioeconomical*.
+
+
+---
+
 ## v3 — 18 de agosto de 2026 · 263 palabras · ~Band 6.5
 
 *(TA 6.5 · CC 7 · LR 6 · GR 6)*
