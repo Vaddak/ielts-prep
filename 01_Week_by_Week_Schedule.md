@@ -6,39 +6,52 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — domingo 23 de agosto
+## 👉 RETOMAR AQUÍ — martes 25 de agosto
 
-**Sábado 22 — COMPLETO ✅. Doce días consecutivos.**
-🧊 **Primera banda fría: ~5.5–6** · **252 palabras sin corregir** · registrada en `08_Mock_Exam_Tracker.md`.
+**Lunes 24 — COMPLETO ✅.** Ensayo del prompt 4 cerrado en **~Band 7** (252 → 275 palabras) · **Task 1 arrancado**.
+*(Domingo 23 sin sesión — primer día en trece.)*
 
-### Domingo 23 (~60 min) — según el cronograma: autoevaluar Lexical Resource
+### Antes de empezar mañana
+- [ ] Leer ***Language of Trends*** en `03_Writing_Module.md`, sección TASK 1 — los verbos de mañana: *rise · fall · fluctuate · plateau · level off · surge · plummet*
+
+### Martes 25 (~30 min) — **el Overview**
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 20 | **Corregir el ensayo del sábado** con la lista del error log. Es la pasada que no hubo tiempo de hacer — hazla ahora y comprueba cuántos de los ~12 errores cazas sola |
-| [ ] 2 | 15 | **Reescribir el Body 1** para que dé los **problemas**, no para demostrar que la brecha existe (el enunciado ya lo afirma). Los problemas están en tu última línea: úsalos como claim |
-| [ ] 3 | 15 | **Reescribir el Body 2** usando los **pares del banco Society & Work** del 19-ago — sobre todo la fuga de cerebros interna. Objetivo: 69 → 90–110 |
-| [ ] 4 | 10 | **Autoevaluar solo Lexical Resource** y comparar con el ensayo del 15 de agosto |
+| [ ] 1 | 10 | Releer la fórmula del **Overview** en `03_Writing_Module.md`. Las tres reglas: abre con *Overall,* · **cero números y fechas** · cubre todo el gráfico |
+| [ ] 2 | 20 | **Escribir 3 Overviews** sobre tres gráficos distintos. Solo el Overview, no el Task 1 completo |
 
-### 🔴 La única prioridad para el próximo ensayo cronometrado
+> ### ⭐ Por qué el Overview y no otra cosa
+> **Sin Overview, el techo es Band 5** — por perfecto que esté el resto. Es la única regla de Task 1 que funciona como un tope duro.
 
-> **Separar escribir de corregir.**
-> Minutos 11–31: **escribir sin mirar atrás.** Si dudas de una palabra, **subráyala y sigue**.
-> Minutos 31–40: **ahí sí**, y solo ahí.
+### Resto de la Semana 6
 
-Autodiagnóstico del sábado: *"pensando en qué escribir y **en paralelo** cuidaba que lo que escribía estuviera bien"*. Mezclar las dos operaciones costó **las dos**: Body 2 en 69 palabras **y** cero minutos de corrección.
+| Día | |
+|---|---|
+| Mié 26 | **AWL 181–200** (Batch 10 → **200/200**) · line graphs: lenguaje de tendencias |
+| Jue 27 | Bar charts y tablas: lenguaje de comparación |
+| Vie 28 | Repaso AWL 1–100 (flashcards) · pie charts |
+| **Sáb 29** | **Task 1 completo, 20 min cronometrados** (line graph) + checklist |
+| Dom 30 | Task 1 sobre bar chart (20 min) |
 
-### Las otras dos, para el sábado 29
+### 🔴 Lo que se lleva de Task 2 a Task 1
 
-1. **En *Problem–Solution*, la premisa es un dato dado.** No la demuestres: el Body 1 da los **problemas** desde la primera oración
-2. **Consultar el banco de palabras durante la planificación.** Los 7 pares del 19-ago no entraron y las medidas salieron genéricas
+**No se traslada** (buena noticia): argumentación, posición, arquitectura de claims, evidencia. Task 1 es descriptivo.
 
-### 🎉 Lo del sábado
+**Sí se traslada, vigilar:**
+1. **Artículos** — 10/10 tareas. Dos barridos separados (§4.7)
+2. **Ortografía** — §4.6
+3. 🆕 **Si una frase necesita dos arreglos, reescríbela entera.** No parchear
+4. 🆕 **Corregir en el momento de marcar**, no dejarlo para después
 
-- **252 palabras en frío y sin corregir** (182 el 15-ago, con material conocido)
-- **Dato concreto con mecanismo** — lo que faltó en el ensayo anterior
-- ***the wealthy · the rich · the poor*** correctos, un día después de estudiar §4.4
-- **Autodiagnóstico acertado** de la causa y del Body 2 superficial
+### ⚠️ La regla que hunde bandas en Task 1
+
+> **Describes lo que VES. Nunca explicas POR QUÉ, ni opinas.**
+>
+> ❌ *Sales fell **because of the crisis*** · ❌ *The company **should** invest more*
+> ✅ *Sales fell sharply, reaching their lowest point of the period*
+>
+> En Task 2 opinar es obligatorio; en Task 1 está prohibido. **Son juegos distintos.**
 
 ---
 

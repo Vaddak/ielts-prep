@@ -583,3 +583,31 @@ El plan dice *"no corrijas mientras escribes"*. Al mezclar generación y correcc
 **Cómo me sentí:** —
 
 **La única prioridad para el próximo ensayo:** separar escribir de corregir. Minutos 11–31 escribir sin mirar atrás, subrayando las dudas; 31–40 corregir. Recupera 9 minutos y ~12 errores.
+
+### 2026-08-24 — Semana 6, Lunes: cierre del ensayo 2 + arranque de Task 1
+**Módulo:** Writing Task 2 (reparación del ensayo del 22-ago) + **Writing Task 1: introducción**
+**Tiempo:** ~60 min · *(domingo 23 sin sesión — primer día en trece)*
+
+**🎯 El ensayo del prompt 4 cerró en ~Band 7** — 252 → 275 palabras, de 5.5–6 a 7. Es el **primer 7 en un ensayo escrito en frío**, sobre tema y tipo de pregunta nunca practicados. Texto completo en `11_Writing_Baseline_Essays.md`.
+
+**El aprendizaje grande — la corrección estructural entra.** El Body 1 pasó de gastar todo su espacio demostrando la premisa que el enunciado ya daba, a abrir con los dos problemas y usar la evidencia como soporte. **En una sola pasada.** Se retiró la afirmación de que "las correcciones de arquitectura no entran": eran tres casos, no un patrón.
+
+**Entró la fuga de cerebros** — el mejor argumento propio, preparado el 19-ago y sin usar hasta hoy.
+
+**🔴 Patrón confirmado (3 casos):** cuando una frase necesita **dos** arreglos, entra uno. *community's needs* · *greater infrastructure* · *qualified services*. → **Si hay dos, reescribe la frase entera.**
+
+**Y un fallo distinto:** *of **the** American students* fue **marcada en rosa dos veces** y sobrevivió las dos. Detectar y ejecutar son pasos separados → **corregir en el momento de marcar**.
+
+---
+
+**🆕 ARRANCÓ WRITING TASK 1** — tres semanas sin tocarlo, un tercio de la nota de Writing.
+
+Cubierto: qué es (20 min, 150+ palabras) · la regla que hunde bandas (**describir, nunca explicar el porqué ni opinar**) · la estructura de 3 párrafos · el papel del **Overview** (sin él, techo Band 5; 2–3 oraciones, cero números, cubre todo el gráfico).
+
+**Por qué es la vía rápida:** Task 1 no tiene argumentación, ni posición, ni claims que alinear — nada de lo que ha costado en Task 2. Lo que sí se traslada es seguir una estructura fija (punto fuerte) y los dos patrones a vigilar: artículos y ortografía. Y leer gráficos es terreno propio siendo ingeniera.
+
+**Pendiente:** leer *Language of Trends* en `03_Writing_Module.md` antes de mañana.
+
+**Cómo me sentí:** —
+
+---
