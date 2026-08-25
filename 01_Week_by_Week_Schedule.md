@@ -22,6 +22,77 @@
 | [ ] 1 | 10 | Releer la fórmula del **Overview** en `03_Writing_Module.md`. Las tres reglas: abre con *Overall,* · **cero números y fechas** · cubre todo el gráfico |
 | [ ] 2 | 20 | **Escribir 3 Overviews** sobre tres gráficos distintos. Solo el Overview, no el Task 1 completo |
 
+<details open>
+<summary><b>📊 LOS TRES GRÁFICOS — ejercicio de hoy (todo lo necesario está aquí)</b></summary>
+
+**Cómo se hace:** ~6 min por gráfico. Lee los datos, identifica **qué es lo más llamativo**, y escribe **2–3 oraciones**. Nada más. No escribas introducción ni párrafos de detalle.
+
+**La fórmula** (está en `03_Writing_Module.md` línea 308):
+> *Overall, it is clear that [la tendencia más llamativa]. While [segundo rasgo notable], [contraste u observación adicional].*
+
+**Las tres reglas — revísalas al terminar cada uno:**
+1. Abre con ***Overall,*** (o *In general,*)
+2. **CERO números y CERO fechas.** Ni un solo dígito. Los números van en los párrafos de detalle, no aquí
+3. **Cubre todo el gráfico** — si hay cuatro líneas, las cuatro tienen que quedar representadas (aunque sea agrupadas: *“the remaining three…”*)
+
+---
+
+### Gráfico 1 — LINE GRAPH
+*Household electricity consumption in four countries, 2000–2020 (kWh per household, annual average)*
+
+| Año | Canada | Japan | Brazil | India |
+|---|---|---|---|---|
+| 2000 | 11,000 | 7,800 | 1,900 | 400 |
+| 2005 | 11,400 | 8,100 | 2,100 | 600 |
+| 2010 | 11,200 | 8,000 | 2,600 | 900 |
+| 2015 | 10,600 | 7,300 | 3,100 | 1,300 |
+| 2020 | 10,100 | 6,900 | 3,400 | 1,800 |
+
+*Pista de lectura (no la copies, es para verificar):* dos países ricos bajan tras un pico temprano; dos países en desarrollo suben de forma sostenida; **India multiplica su consumo pero sigue siendo el más bajo con diferencia**. Ese último contraste es lo que separa un Overview de banda 6 de uno de banda 7+.
+
+---
+
+### Gráfico 2 — BAR CHART
+*Percentage of graduates employed in their field of study, six months after graduation, by discipline (2024)*
+
+| Disciplina | % empleados en su campo |
+|---|---|
+| Engineering | 82 |
+| Health Sciences | 79 |
+| Computer Science | 76 |
+| Business | 58 |
+| Social Sciences | 41 |
+| Humanities | 34 |
+
+*Pista:* aquí no hay tiempo — no hay tendencias. Un Overview de gráfico estático describe **el rango y la agrupación**: qué está arriba, qué abajo, y que hay una brecha clara entre bloques. ⚠️ **Describe el patrón, no lo expliques.** Nada de *“because technical degrees are more in demand”* — eso es Task 2 y en Task 1 baja la nota.
+
+---
+
+### Gráfico 3 — PIE CHARTS (dos, comparados)
+*Sources of electricity generation in Germany, 2010 vs 2023 (% of total)*
+
+| Fuente | 2010 | 2023 |
+|---|---|---|
+| Coal | 42 | 26 |
+| Nuclear | 22 | 0 |
+| Natural gas | 14 | 17 |
+| Renewables | 17 | 52 |
+| Other | 5 | 5 |
+
+*Pista:* con dos gráficos circulares el Overview tiene que señalar **el cambio**, no solo el estado. Hay un dato que es categóricamente distinto a los demás: una fuente **desaparece por completo**. Eso merece su propia mención. Y ojo: *renewables* pasa de minoría a mayoría — hay una **inversión de posiciones**, y esa palabra (*overtake*, *replace*, *reverse*) es la que da puntos.
+
+---
+
+### Al terminar los tres
+- [ ] ¿Los tres abren con *Overall,* o *In general,*?
+- [ ] ¿Hay **algún** número o fecha? → fuera
+- [ ] ¿Cada Overview representa **todas** las categorías del gráfico?
+- [ ] ¿Escribí en algún punto *por qué* pasa algo? → fuera, eso es Task 2
+- [ ] **Dos barridos de artículos** (§4.7): primero solo `the`, luego solo `a`/`an`
+- [ ] Anotar en `07_Error_Log.md` lo que salga
+
+</details>
+
 > ### 🖥️ El examen es **en computador** — confirmado hoy, 25 de agosto
 >
 > Estaba sin contemplar en todo el curso. Sección completa en `00_Course_Overview.md`.
