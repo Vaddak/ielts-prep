@@ -8,6 +8,60 @@
 
 ---
 
+## 🖥️ Formato del examen: **IELTS en computador (CD IELTS)**
+
+> **Confirmado el 25 de agosto de 2026.** El examen se presenta **en computador**, no en papel. Esto cambia técnica en tres de los cuatro bloques y estaba **sin contemplar** en todo el curso hasta hoy.
+
+**Lo que NO cambia:** el contenido, los criterios de corrección, los tiempos por tarea, las bandas, y el Speaking (sigue siendo con examinador).
+
+### Lo que se gana
+
+| | |
+|---|---|
+| **Writing** | **Contador de palabras automático en pantalla.** El desastre de las 182 palabras del 15-ago no puede repetirse |
+| **Writing** | Cortar, pegar, deshacer, insertar en medio de un párrafo. Editar deja de ser caro → refuerza dos reglas ya registradas: *“reescribe la frase entera”* y *“reparar borra lo que estaba bien”* (Ctrl+Z lo recupera) |
+| **Reading** | Texto a la izquierda, preguntas a la derecha. Herramientas de resaltado y notas. **Sin hoja de respuestas que llenar** |
+| **Resultados** | 3–5 días en vez de 13 — relevante para los plazos Erasmus Mundus |
+
+### Lo que se pierde
+
+| | |
+|---|---|
+| **Listening** | **Solo 2 minutos al final para revisar**, no los 10 de transferencia del papel. Cambio de técnica real → ver `05_Listening_Module.md` |
+| **Writing** | **Cero corrector ortográfico.** Ver abajo — es el punto crítico |
+
+### 🔴 La regla que nace de esto
+
+> ## **No hay corrector ortográfico. Ni autocorrector. Ni subrayado rojo.**
+>
+> El editor del examen es plano a propósito.
+>
+> Esto golpea directo el **§4.6 — el bucle de la duda ortográfica**. Si se practica en Word o Google Docs, **la línea roja resuelve el bucle** y se llega al examen entrenada con una muleta que ese día no existe: creer que la ortografía está resuelta cuando lo resuelto era el software.
+>
+> **Regla, desde el 25 de agosto:** todo lo que se escriba tecleando va en un **editor sin corrector** — Bloc de notas de Windows. Nada de Word, nada de Docs, nada de escribir directo en el navegador.
+
+### Velocidad de tecleo — el dato que decide
+
+| Velocidad en inglés | Efecto |
+|---|---|
+| A mano | ~20–25 ppm sostenidas (referencia) |
+| **Tecleando 35–45 ppm** | **se ganan 8–10 min por tarea** |
+| Tecleando < 30 ppm | igual o peor que a mano → hay que entrenar tecleo |
+
+A 40 ppm, un ensayo de 275 palabras son **~7 minutos de tecleo puro**. Los otros 33 son pensar y corregir — justo donde se perdió el tiempo el 22-ago (*“me quedé mucho tiempo pensando en qué escribir”*). El computador no arregla eso, pero da margen para atacarlo.
+
+**Medición pendiente:** 5 min copiando el ensayo del prompt 4 en Bloc de notas → palabras ÷ 5 = ppm reales.
+
+### Cómo cambia la práctica
+
+- **Ensayos cronometrados → tecleados**, en Bloc de notas, sin corrector
+- **Correcciones, gramática y vocabulario → pueden seguir a mano** (para memorizar rinde más)
+- **Listening → respuestas directas mientras se oye**, sin etapa de transferencia
+
+---
+
+---
+
 ## Why 7.5–8 is achievable from B2
 
 Your B2 base means you already have the hardest thing: functional English. The gap to 7.5–8 is not "learning English" — it is learning **how IELTS thinks**:

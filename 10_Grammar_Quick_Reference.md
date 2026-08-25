@@ -473,6 +473,18 @@ El mismo instinto que produce *laboral* produce plurales que no existen. En ingl
 
 **Tus errores (2026-08-12):** *lonelliness* · *proffessional* · *atract* · *settlings*
 
+> ## 🔴 El examen es **en computador** — y no tiene corrector ortográfico
+>
+> *(Confirmado el 25 de agosto de 2026.)* El editor del CD IELTS es plano: **sin autocorrector, sin subrayado rojo, sin sugerencias.**
+>
+> Esto convierte esta sección en una de las más caras del examen. Y crea un riesgo nuevo:
+>
+> **Si practicas tecleando en Word o Google Docs, la línea roja te resuelve el bucle de la duda por ti** — y llegas al examen habiendo entrenado con una muleta que ese día no existe.
+>
+> **Regla:** todo lo tecleado va en **Bloc de notas de Windows**. Sin excepciones.
+>
+> **Lo bueno:** en computador *sí* puedes marcar la palabra dudosa sin ensuciar la hoja — escíbela entre `**asteriscos**` o en MAYÚSCULAS, sigue escribiendo, y en la pasada final la arreglas y quitas la marca. Es exactamente la regla de “no la toques en el momento”, pero ahora sí tienes dónde anotarla.
+
 **Tu propia observación, y es el diagnóstico exacto:**
 
 > *"Peleé mucho con palabras como attract y loneliness porque juré que me estaba equivocando y les quitaba o les ponía."*

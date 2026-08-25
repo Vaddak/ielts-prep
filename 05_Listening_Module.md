@@ -14,7 +14,23 @@ The Listening test plays **one recording** — you cannot pause or replay it. Qu
 | **Section 3** | Academic discussion | 2–4 people | Hard |
 | **Section 4** | Academic lecture | 1 person (monologue) | Hardest |
 
-**After the recording ends:** you have 10 minutes to transfer your answers to the answer sheet. Use this time to check spelling and re-read your answers.
+> ### 🔴 EN COMPUTADOR: **2 minutos, no 10** — confirmado 25-ago-2026
+>
+> En **papel**, al terminar la grabación hay **10 minutos** para pasar las respuestas a la hoja: tiempo de sobra para revisar ortografía, plurales y límites de palabras.
+>
+> En **computador** escribes directo en la casilla mientras oyes, y al final hay **2 minutos** para revisar. Y ya.
+>
+> **Consecuencias para la técnica — entrenar desde el primer día:**
+>
+> 1. **La respuesta se escribe bien a la primera.** No hay etapa de limpieza. Ortografía, plural y límite de palabras se resuelven *en el momento de teclear*
+> 2. **Las Trampas 3, 4 y 6** (ortografía, límite de palabras, plural/singular) suben de precio — en papel se cazaban en la transferencia
+> 3. **Nunca dejar una casilla vacía** pensando “la lleno al final”. Adivinar en el momento
+> 4. **Los 2 minutos se gastan en las que quedaron marcadas**, no en releerlo todo
+> 5. **Tampoco hay corrector ortográfico aquí.** Una palabra mal escrita es respuesta incorrecta
+>
+> **En la práctica:** cronometrar 2 minutos al final, no 10, aunque se practique en papel.
+
+**On paper:** you have 10 minutes to transfer your answers to the answer sheet. **On computer (this exam): only 2 minutes** to review — answers are typed directly as you listen.
 
 ---
 

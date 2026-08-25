@@ -18,8 +18,20 @@
 
 | # | Min | Tarea |
 |---|---|---|
+| [ ] 0 | 5 | 🆕 **Medir velocidad de tecleo.** Bloc de notas, 5 min, copiar el ensayo del prompt 4 de `11_Writing_Baseline_Essays.md`. Palabras ÷ 5 = ppm |
 | [ ] 1 | 10 | Releer la fórmula del **Overview** en `03_Writing_Module.md`. Las tres reglas: abre con *Overall,* · **cero números y fechas** · cubre todo el gráfico |
 | [ ] 2 | 20 | **Escribir 3 Overviews** sobre tres gráficos distintos. Solo el Overview, no el Task 1 completo |
+
+> ### 🖥️ El examen es **en computador** — confirmado hoy, 25 de agosto
+>
+> Estaba sin contemplar en todo el curso. Sección completa en `00_Course_Overview.md`.
+>
+> **Las tres cosas que cambian el día a día:**
+> 1. **Ensayos cronometrados → tecleados, en Bloc de notas.** Nada de Word ni Docs: **el examen no tiene corrector ortográfico** y entrenar con la línea roja es entrenar con una muleta que ese día no existe (§4.6)
+> 2. **Listening: 2 minutos de revisión al final, no 10.** La respuesta se escribe bien a la primera (`05_Listening_Module.md`)
+> 3. **Contador de palabras automático** — el problema de las 182 palabras queda cerrado para siempre
+>
+> Correcciones, gramática y vocabulario **siguen a mano**: para memorizar rinden más.
 
 > ### ⭐ Por qué el Overview y no otra cosa
 > **Sin Overview, el techo es Band 5** — por perfecto que esté el resto. Es la única regla de Task 1 que funciona como un tope duro.

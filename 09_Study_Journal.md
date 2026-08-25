@@ -611,3 +611,35 @@ Cubierto: qué es (20 min, 150+ palabras) · la regla que hunde bandas (**descri
 **Cómo me sentí:** —
 
 ---
+
+---
+
+## 2026-08-25 — martes · Formato del examen: **es en computador**
+
+**Módulo:** Logística del examen (afecta Writing, Listening y Reading)
+
+### Qué pasó
+Ella preguntó: *“presentaré el ielts que es en computador y ahí ganaría tiempo de escritura, tenemos contemplado eso?”*
+
+**No estaba contemplado.** Búsqueda en los doce archivos del repo: cero menciones al formato. Tres semanas de corrección de ensayos en papel sin haber preguntado en qué formato se presenta. Hueco mío, detectado por ella.
+
+### Lo que cambia
+
+**A favor:** contador de palabras automático (cierra el problema de las 182 palabras) · editar es barato, lo que refuerza “reescribe la frase entera” y hace recuperable “reparar borra lo que estaba bien” · Reading sin hoja de respuestas · resultados en 3–5 días.
+
+**En contra:** Listening con **2 minutos** de revisión, no 10 · **cero corrector ortográfico**.
+
+### El punto crítico
+El riesgo no es la falta de corrector — es **practicar con uno**. Word y Google Docs resolverían el bucle de la duda (§4.6) por ella y llegaría al examen creyendo que la ortografía está resuelta cuando lo resuelto era el software. Regla nueva: **todo lo tecleado va en Bloc de notas**.
+
+Contrapartida a favor: en computador **sí** se puede marcar la palabra dudosa (`**asteriscos**` o MAYÚSCULAS) sin ensuciar la hoja, y arreglarla en la pasada final. La regla de “no la toques en el momento” por fin tiene dónde anotarse.
+
+### Pendiente
+**Medir ppm en inglés.** A 35–45 ppm se ganan 8–10 min por tarea; por debajo de 30 el computador no da ventaja. A 40 ppm, 275 palabras son ~7 min de tecleo — los otros 33 son pensar y corregir, que es exactamente donde se perdió el tiempo el 22-ago.
+
+### Archivos tocados
+`00_Course_Overview.md` (sección nueva) · `10_Grammar_Quick_Reference.md` (§4.6) · `05_Listening_Module.md` (2 min vs 10) · `01_Week_by_Week_Schedule.md`
+
+### Cómo se sintió
+Pregunta suya, hueco real, encontrado a **74 días** del examen y no en el simulacro de octubre. Ese es el tipo de pregunta que cambia un plan a tiempo.
+
