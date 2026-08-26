@@ -8,6 +8,8 @@
 
 ## 👉 RETOMAR AQUÍ — miércoles 26 de agosto
 
+> 🏁 **AWL COMPLETO: 200/200** — cerrado el 26 de agosto. De 80 palabras y celdas vacías a las 200 del núcleo académico, en tres semanas.
+
 **Martes 25 — COMPLETO ✅.** Velocidad de tecleo medida · fórmula del Overview · **3 Overviews escritos**.
 
 ⌨️ **~33 ppm** (275 palabras en 8:24, transcribiendo). Componiendo será ~20–22 → **280 palabras en ~13 min**, cómodo dentro de la ventana de 20. **No hay razón para corregir en paralelo: sobran ~11 minutos dentro de la fase de escritura.**
@@ -16,8 +18,24 @@
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 10 | **AWL 181–200** (Batch 10) → **200/200** 🏁 |
-| [ ] 2 | 20 | **Line graphs: lenguaje de tendencias** — *rise · fall · fluctuate · plateau · level off · surge · plummet* + grados (*sharply · steadily · gradually · slightly*) |
+| [x] 1 | 10 | **AWL 181–200** (Batch 10) → **200/200** 🏁 ✅ |
+| [x] 2 | 20 | **Line graphs: lenguaje de tendencias** ✅ |
+| [ ] 3 | 10 | 🆕 **Drill de activación** — reescribir las 7 frases de abajo con el lenguaje de tendencias |
+
+> ### ⚡ Drill de activación — por qué existe
+> El martes tenía la sección de tendencias disponible y aun así escribió *decreased till zero* y *showed rise*. **Leída ≠ activa.** Estas siete son sus propias frases del 25-ago.
+>
+> | # | Como quedó | Pista |
+> |---|---|---|
+> | 1 | *Nuclear energy **decreased till zero*** | Idea de **desaparecer del todo**, sin usar el dígito |
+> | 2 | *Renewables **showed rise*** | Falta una palabra · hay versión mejor con infinitivo |
+> | 3 | *India had **a declined demand*** | Participio → **sustantivo** + preposición correcta |
+> | 4 | *The change is **lightly remarkable*** | Se contradicen. Mirar los **grados** |
+> | 5 | *Canada and Japan **increased this number** slowly* | ¿Quién sube, el país o el consumo? Cambiar sujeto + grado |
+> | 6 | *Brazil's consumption **went up all the period*** | Falta preposición · *went up* es banda 5 |
+> | **7** | *India showed the largest increase.* | **Añadir la tensión:** sube más **pero sigue siendo la más baja**. *yet* / *despite*. Esta sola vale la diferencia entre 6 y 7 |
+>
+> Tecleadas, en Bloc de notas, máx. 10 min.
 
 ### 🔴 Lo del martes que hay que corregir
 

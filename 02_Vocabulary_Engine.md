@@ -284,7 +284,7 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 184 | **subsequent** | adjective | coming after | *Subsequent trials confirmed the initial finding.* | [x] |
 | 185 | **sum** | noun/verb | a total; to add up | *The sum of the individual losses exceeds the estimate.* | [x] |
 | 186 | **summary** | noun | a short account of the main points | *In summary, the proposed method is both cheaper and faster.* | [x] |
-| 187 | **undertake** | verb | to begin or commit to a task | *A comprehensive review was undertaken in 2020.* | [~] |
+| 187 | **undertake** | verb | to begin or commit to a task | *A comprehensive review was undertaken in 2020.* | [x] |
 | 188 | **alternative** | noun/adjective | another option | *Hydrogen represents a viable alternative for heavy transport.* | [x] |
 | 189 | **circumstance** | noun | a condition or situation | *Under normal circumstances, the system requires no intervention.* | [x] |
 | 190 | **comment** | noun/verb | a remark; to give an opinion | *The authors comment briefly on the limitations of their method.* | [x] |
@@ -296,8 +296,10 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 196 | **constrain** | verb | to limit or restrict | *Cost constrains the choice of materials.* | [x] |
 | 197 | **convert** | verb | to change from one form to another | *Inverters convert direct current into alternating current.* | [x] |
 | 198 | **coincide** | verb | to happen at the same time | *Peak demand coincides with the lowest solar output.* | [x] |
-| 199 | **convince** | verb | to persuade someone that something is true | *The evidence is not yet strong enough to convince regulators.* | [x ] |
+| 199 | **convince** | verb | to persuade someone that something is true | *The evidence is not yet strong enough to convince regulators.* | [x] |
 | 200 | **cooperate** | verb | to work together | *Member states must cooperate on cross-border transmission.* | [x] |
+
+**🏁 MILESTONE ALCANZADO — 26 de agosto de 2026: 200/200.** Los diez batches completos.
 
 **Milestone:** with Batch 10 complete you have the top 200 AWL words. Review protocol: Weeks 6–7 include two full flashcard passes (AWL 1–100 on Aug 28, AWL 101–200 on Aug 31).
 
