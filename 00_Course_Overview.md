@@ -206,6 +206,8 @@ Writing is where most B2 candidates leave the most points. Two tasks:
 
 ## Files in This Course
 
+> **`12_Task1_Archive.md`** (26-ago) — respuestas de Task 1 y banco de gráficos. Equivalente de `11_Writing_Baseline_Essays.md` para Task 1. **Ninguna tarea escrita se cierra sin su texto guardado.**
+
 | File | Content |
 |---|---|
 | `00_Course_Overview.md` | This file — the master plan |

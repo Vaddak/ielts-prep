@@ -37,6 +37,11 @@
 >
 > Tecleadas, en Bloc de notas, máx. 10 min.
 
+> ### 🔴 Regla nueva — 26 de agosto
+> Los tres Overviews del martes **se perdieron**: se guardó el análisis, no el texto. Mismo hueco que `11_Writing_Baseline_Essays.md` cerró para Task 2, reabierto en Task 1.
+>
+> **Ninguna tarea escrita se cierra sin su texto guardado.** Task 2 → `11_Writing_Baseline_Essays.md` · **Task 1 → `12_Task1_Archive.md`** (nuevo; trae los tres gráficos con datos completos).
+
 ### 🔴 Lo del martes que hay que corregir
 
 **El Overview responde *"¿qué es lo más llamativo?"*, no *"¿qué pasó?"*.**
