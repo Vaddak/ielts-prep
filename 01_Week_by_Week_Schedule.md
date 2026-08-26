@@ -6,135 +6,51 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 25 de agosto
+## 👉 RETOMAR AQUÍ — miércoles 26 de agosto
 
-**Lunes 24 — COMPLETO ✅.** Ensayo del prompt 4 cerrado en **~Band 7** (252 → 275 palabras) · **Task 1 arrancado**.
-*(Domingo 23 sin sesión — primer día en trece.)*
+**Martes 25 — COMPLETO ✅.** Velocidad de tecleo medida · fórmula del Overview · **3 Overviews escritos**.
 
-### Antes de empezar mañana
-- [ ] Leer ***Language of Trends*** en `03_Writing_Module.md`, sección TASK 1 — los verbos de mañana: *rise · fall · fluctuate · plateau · level off · surge · plummet*
+⌨️ **~33 ppm** (275 palabras en 8:24, transcribiendo). Componiendo será ~20–22 → **280 palabras en ~13 min**, cómodo dentro de la ventana de 20. **No hay razón para corregir en paralelo: sobran ~11 minutos dentro de la fase de escritura.**
 
-### Martes 25 (~30 min) — **el Overview**
+### Miércoles 26 (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 0 | 5 | 🆕 **Medir velocidad de tecleo.** Bloc de notas, 5 min, copiar el ensayo del prompt 4 de `11_Writing_Baseline_Essays.md`. Palabras ÷ 5 = ppm |
-| [ ] 1 | 10 | Releer la fórmula del **Overview** en `03_Writing_Module.md`. Las tres reglas: abre con *Overall,* · **cero números y fechas** · cubre todo el gráfico |
-| [ ] 2 | 20 | **Escribir 3 Overviews** sobre tres gráficos distintos. Solo el Overview, no el Task 1 completo |
+| [ ] 1 | 10 | **AWL 181–200** (Batch 10) → **200/200** 🏁 |
+| [ ] 2 | 20 | **Line graphs: lenguaje de tendencias** — *rise · fall · fluctuate · plateau · level off · surge · plummet* + grados (*sharply · steadily · gradually · slightly*) |
 
-<details open>
-<summary><b>📊 LOS TRES GRÁFICOS — ejercicio de hoy (todo lo necesario está aquí)</b></summary>
+### 🔴 Lo del martes que hay que corregir
 
-**Cómo se hace:** ~6 min por gráfico. Lee los datos, identifica **qué es lo más llamativo**, y escribe **2–3 oraciones**. Nada más. No escribas introducción ni párrafos de detalle.
+**El Overview responde *"¿qué es lo más llamativo?"*, no *"¿qué pasó?"*.**
 
-**La fórmula** (está en `03_Writing_Module.md` línea 308):
-> *Overall, it is clear that [la tendencia más llamativa]. While [segundo rasgo notable], [contraste u observación adicional].*
+En 2 de 3 faltó el titular: India sube más **pero sigue siendo la más baja**; las renovables **adelantan al carbón y pasan a ser la fuente principal**. Antes de escribir: *si tuviera que decir UNA cosa de este gráfico, ¿cuál sería?*
 
-**Las tres reglas — revísalas al terminar cada uno:**
-1. Abre con ***Overall,*** (o *In general,*)
-2. **CERO números y CERO fechas.** Ni un solo dígito. Los números van en los párrafos de detalle, no aquí
-3. **Cubre todo el gráfico** — si hay cuatro líneas, las cuatro tienen que quedar representadas (aunque sea agrupadas: *“the remaining three…”*)
+Palabras que dan puntos: ***overtake · replace · reverse · yet still · to become the dominant***.
 
----
-
-### Gráfico 1 — LINE GRAPH
-*Household electricity consumption in four countries, 2000–2020 (kWh per household, annual average)*
-
-| Año | Canada | Japan | Brazil | India |
-|---|---|---|---|---|
-| 2000 | 11,000 | 7,800 | 1,900 | 400 |
-| 2005 | 11,400 | 8,100 | 2,100 | 600 |
-| 2010 | 11,200 | 8,000 | 2,600 | 900 |
-| 2015 | 10,600 | 7,300 | 3,100 | 1,300 |
-| 2020 | 10,100 | 6,900 | 3,400 | 1,800 |
-
-*Pista de lectura (no la copies, es para verificar):* dos países ricos bajan tras un pico temprano; dos países en desarrollo suben de forma sostenida; **India multiplica su consumo pero sigue siendo el más bajo con diferencia**. Ese último contraste es lo que separa un Overview de banda 6 de uno de banda 7+.
-
----
-
-### Gráfico 2 — BAR CHART
-*Percentage of graduates employed in their field of study, six months after graduation, by discipline (2024)*
-
-| Disciplina | % empleados en su campo |
-|---|---|
-| Engineering | 82 |
-| Health Sciences | 79 |
-| Computer Science | 76 |
-| Business | 58 |
-| Social Sciences | 41 |
-| Humanities | 34 |
-
-*Pista:* aquí no hay tiempo — no hay tendencias. Un Overview de gráfico estático describe **el rango y la agrupación**: qué está arriba, qué abajo, y que hay una brecha clara entre bloques. ⚠️ **Describe el patrón, no lo expliques.** Nada de *“because technical degrees are more in demand”* — eso es Task 2 y en Task 1 baja la nota.
-
----
-
-### Gráfico 3 — PIE CHARTS (dos, comparados)
-*Sources of electricity generation in Germany, 2010 vs 2023 (% of total)*
-
-| Fuente | 2010 | 2023 |
-|---|---|---|
-| Coal | 42 | 26 |
-| Nuclear | 22 | 0 |
-| Natural gas | 14 | 17 |
-| Renewables | 17 | 52 |
-| Other | 5 | 5 |
-
-*Pista:* con dos gráficos circulares el Overview tiene que señalar **el cambio**, no solo el estado. Hay un dato que es categóricamente distinto a los demás: una fuente **desaparece por completo**. Eso merece su propia mención. Y ojo: *renewables* pasa de minoría a mayoría — hay una **inversión de posiciones**, y esa palabra (*overtake*, *replace*, *reverse*) es la que da puntos.
-
----
-
-### Al terminar los tres
-- [ ] ¿Los tres abren con *Overall,* o *In general,*?
-- [ ] ¿Hay **algún** número o fecha? → fuera
-- [ ] ¿Cada Overview representa **todas** las categorías del gráfico?
-- [ ] ¿Escribí en algún punto *por qué* pasa algo? → fuera, eso es Task 2
-- [ ] **Dos barridos de artículos** (§4.7): primero solo `the`, luego solo `a`/`an`
-- [ ] Anotar en `07_Error_Log.md` lo que salga
-
-</details>
-
-> ### 🖥️ El examen es **en computador** — confirmado hoy, 25 de agosto
->
-> Estaba sin contemplar en todo el curso. Sección completa en `00_Course_Overview.md`.
->
-> **Las tres cosas que cambian el día a día:**
-> 1. **Ensayos cronometrados → tecleados, en Bloc de notas.** Nada de Word ni Docs: **el examen no tiene corrector ortográfico** y entrenar con la línea roja es entrenar con una muleta que ese día no existe (§4.6)
-> 2. **Listening: 2 minutos de revisión al final, no 10.** La respuesta se escribe bien a la primera (`05_Listening_Module.md`)
-> 3. **Contador de palabras automático** — el problema de las 182 palabras queda cerrado para siempre
->
-> Correcciones, gramática y vocabulario **siguen a mano**: para memorizar rinden más.
-
-> ### ⭐ Por qué el Overview y no otra cosa
-> **Sin Overview, el techo es Band 5** — por perfecto que esté el resto. Es la única regla de Task 1 que funciona como un tope duro.
+**Y tres reglas más, de los errores del martes:**
+1. **Cubrir TODAS las categorías** — Business quedó fuera del bar chart. Si una categoría queda sola en el medio: *with X occupying an intermediate position*
+2. **Sin eje temporal → sin verbos de cambio.** En un bar chart estático no hay *fall* ni *rise*: hay *gap · difference · range*
+3. **§4.9 nueva:** *that* vs *than* (¿comparo? → *than*) · *double* y *half* **sin** artículo
 
 ### Resto de la Semana 6
 
 | Día | |
 |---|---|
-| Mié 26 | **AWL 181–200** (Batch 10 → **200/200**) · line graphs: lenguaje de tendencias |
 | Jue 27 | Bar charts y tablas: lenguaje de comparación |
 | Vie 28 | Repaso AWL 1–100 (flashcards) · pie charts |
 | **Sáb 29** | **Task 1 completo, 20 min cronometrados** (line graph) + checklist |
 | Dom 30 | Task 1 sobre bar chart (20 min) |
 
-### 🔴 Lo que se lleva de Task 2 a Task 1
-
-**No se traslada** (buena noticia): argumentación, posición, arquitectura de claims, evidencia. Task 1 es descriptivo.
-
-**Sí se traslada, vigilar:**
-1. **Artículos** — 10/10 tareas. Dos barridos separados (§4.7)
-2. **Ortografía** — §4.6
-3. 🆕 **Si una frase necesita dos arreglos, reescríbela entera.** No parchear
-4. 🆕 **Corregir en el momento de marcar**, no dejarlo para después
-
 ### ⚠️ La regla que hunde bandas en Task 1
 
 > **Describes lo que VES. Nunca explicas POR QUÉ, ni opinas.**
+> ❌ *Sales fell **because of the crisis*** · ✅ *Sales fell sharply, reaching their lowest point*
 >
-> ❌ *Sales fell **because of the crisis*** · ❌ *The company **should** invest more*
-> ✅ *Sales fell sharply, reaching their lowest point of the period*
->
-> En Task 2 opinar es obligatorio; en Task 1 está prohibido. **Son juegos distintos.**
+> ✅ **Se cumplió en los tres Overviews del martes.**
+
+### 📌 Pendiente sin fecha
+
+**`Topic Idea Bank`** — los 8 temas frecuentes de Task 2 con ideas propias, para no bloquearse con el contenido. Es material de Task 2, así que no urge durante la Semana 6 (Task 1). Retomar el fin de semana o cuando convenga.
 
 ---
 

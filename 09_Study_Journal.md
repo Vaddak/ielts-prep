@@ -643,3 +643,51 @@ Contrapartida a favor: en computador **sí** se puede marcar la palabra dudosa (
 ### Cómo se sintió
 Pregunta suya, hueco real, encontrado a **74 días** del examen y no en el simulacro de octubre. Ese es el tipo de pregunta que cambia un plan a tiempo.
 
+
+---
+
+### 2026-08-25 — Semana 6, Martes: el Overview de Task 1
+**Módulo:** Task 1 — fórmula del Overview + 3 Overviews (line graph · bar chart · pie charts)
+**Tiempo:** ~35 min
+
+**⌨️ Velocidad de tecleo medida: ~33 ppm** (275 palabras del ensayo del prompt 4 en 8:24).
+
+| | Palabras | Solo teclear |
+|---|---|---|
+| Task 2 | 280 | ~8.5 min |
+| Task 1 | 180 | ~5.5 min |
+| **Ambas** | 460 | **~14 min de 60** |
+
+Era **transcripción**, no composición: la velocidad real componiendo será ~20–22 ppm, o sea ~13 min para 280 palabras. **Sigue cabiendo cómodo** en la ventana de 20 minutos. Consecuencia directa para el problema del 22-ago: dentro de la fase de escritura sobran ~11 minutos, así que **no hay ninguna razón para corregir en paralelo**.
+
+Ventaja adicional del formato en computador: reescribir una frase entera no cuesta nada. La regla *"si una frase necesita dos arreglos, reescríbela entera"* pasa de cara (en papel) a gratis.
+
+**✅ Las reglas estructurales del Overview salieron en los tres:**
+
+| | *Overall/In general* | Cero dígitos | Todas las categorías | Sin explicar |
+|---|---|---|---|---|
+| Line graph | ✅ | ✅ | ✅ | ✅ |
+| Bar chart | ✅ | ✅ | ❌ falta Business | ✅ |
+| Pie charts | ✅ | ⚠️ (*half*, *zero*) | ✅ los cinco | ✅ |
+
+Buenas paráfrasis en las intros: *over two decades* · *over thirteen years* · *four different nations*. Y agrupó bien (desarrollados vs. en desarrollo).
+
+**🔴 El hallazgo — en 2 de 3 faltó el titular:**
+- **Line graph:** dijo que India tuvo el mayor aumento, pero **no que sigue siendo la más baja pese a ello**. Esa tensión era el titular
+- **Pie charts:** dijo que las renovables *"showed rise"*, no que **adelantaron al carbón y pasaron a ser la fuente principal**. La inversión era el rasgo más notable del gráfico
+
+> **El Overview responde *"¿qué es lo más llamativo?"*, no *"¿qué pasó?"*.**
+> Antes de escribir: *si tuviera que decir UNA cosa de este gráfico, ¿cuál sería?*
+> Palabras que dan puntos: *overtake · replace · reverse · yet still*.
+
+**🆕 Dos patrones nuevos del español, con sección propia (§4.9):**
+1. ***than* por *that*** — 2 ocurrencias. En español *que* es una palabra; en inglés son dos. Test: ¿comparo? → *than*. Si no → *that*
+2. ***the* double / *the* half** — 2 ocurrencias. Sin artículo: *more than **double***, *has almost **halved***. Variante nueva del patrón nº1
+
+**Otros:** ***any** of the four countries remained constant* — invierte el significado (*any* ≠ ninguno en afirmativa) · *remained constant* con objeto directo · *a declined demand* · *lightly remarkable* · un empalme de comas · dos concordancias · *The fall of...* en un gráfico **sin eje temporal** (ahí no hay subidas ni caídas: *gap*, *difference*, *range*).
+
+**Palabras nuevas:** *to overtake · to be phased out · a decline in demand · relatively slight · an intermediate position · the gap between · to occupy*.
+
+**Cómo me sentí:** —
+
+**Lectura:** las reglas duras del Overview (abrir con *Overall*, cero dígitos, cubrir todo, no explicar) se cumplieron a la primera. Lo que falta es **jerarquía** — distinguir el rasgo más llamativo del resto. Es exactamente lo que separa un Overview de 6 de uno de 7.

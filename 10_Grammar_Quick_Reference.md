@@ -770,6 +770,42 @@ Los incontables llevan **verbo en singular**:
 
 ---
 
+## 4.9 `that` vs `than` — y las fracciones sin artículo
+
+**Origen:** 25-ago, ejercicio de Overviews. Dos ocurrencias de cada uno en tres párrafos cortos.
+
+### `that` / `than`: en español es una sola palabra
+
+| Inglés | Función | Español | Ejemplo |
+|---|---|---|---|
+| **that** | conjunción / relativo | *que* | *It is clear **that** demand fell* · *the sources **that** increased* |
+| **than** | comparación | *que* | *higher **than** · more **than** double · rather **than*** |
+
+> ❌ *it is clear **than** the use has dropped* → ✅ **that**
+> ❌ *the only sources **than** showed a rise* → ✅ **that**
+
+**El test:** ¿estás **comparando** dos cosas? → `than`. ¿Cualquier otra cosa? → `that`.
+
+Ayuda memorizar los tres sitios donde `than` es casi siempre correcto: después de un **comparativo** (*higher/more/less/better than*), después de **rather**, y después de **more/less than** + cifra.
+
+### Fracciones y múltiplos: sin artículo
+
+El español pone artículo; el inglés no.
+
+| Español | ❌ | ✅ |
+|---|---|---|
+| más del doble | more than **the** double | more than **double** |
+| casi la mitad | almost **the** half | almost **half** · has almost **halved** |
+| un tercio de | **the** third of | **a third of** |
+| el triple | **the** triple | **three times as much** |
+
+> ❌ *The gap is more than **the** double.* → ✅ *The gap is more than **double**.*
+> ❌ *Coal dropped almost **the half**.* → ✅ *Coal **has almost halved**.* · *Coal fell by almost **half**.*
+
+Es la misma raíz del §4.4: **el español pone artículo donde el inglés no pone nada.**
+
+---
+
 ## ✅ CHECKLIST DE REVISIÓN — antes de entregar cualquier tarea escrita
 
 *Esta es la lista completa. Cubre las seis subsecciones de arriba, en el orden en que conviene revisarlas.*
@@ -789,6 +825,8 @@ Los incontables llevan **verbo en singular**:
 - [ ] **`not only`** → 🔴 **prohibida en el examen.** Si aparece, reemplazar por *Beyond X, Y must also…*
 - [ ] **Preposiciones fijas** → *the need **to*** + verbo · *the need **for*** + sustantivo · *impact **on*** · *increase **in***
 - [ ] **Concordancia** → *data **show*** (plural) · sujeto compuesto → verbo en plural
+- [ ] **`that` / `than`** → ¿comparo? *than*. Si no → *that* (**§4.9**)
+- [ ] **`double` / `half` / `a third`** → **sin** artículo (**§4.9**)
 - [ ] **Incontables con `-s`** → ⚠️ *5 ocurrencias.* ¿Algún *trainings · researchs · energies · technologies · informations*? Test: si no admite *a/an*, no admite `-s` (**§4.8**)
 - [ ] **`the` + adjetivo solo** → *the rich · the poor · the unemployed* **sí** llevan `the`; *wealthy families · poor households* **no** (**§4.4**)
 
