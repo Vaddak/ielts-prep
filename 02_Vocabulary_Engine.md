@@ -278,26 +278,26 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 
 | # | Word | Part of Speech | Meaning | IELTS Example Sentence | ✓ |
 |---|---|---|---|---|---|
-| 181 | **statistic** | noun | a numerical fact or measurement | *These statistics reveal a widening regional disparity.* | [ ] |
-| 182 | **status** | noun | current condition or position | *The operational status of each unit is monitored remotely.* | [ ] |
-| 183 | **stress** | noun/verb | pressure or strain; to emphasise | *Thermal stress is the leading cause of joint failure.* | [ ] |
-| 184 | **subsequent** | adjective | coming after | *Subsequent trials confirmed the initial finding.* | [ ] |
-| 185 | **sum** | noun/verb | a total; to add up | *The sum of the individual losses exceeds the estimate.* | [ ] |
-| 186 | **summary** | noun | a short account of the main points | *In summary, the proposed method is both cheaper and faster.* | [ ] |
-| 187 | **undertake** | verb | to begin or commit to a task | *A comprehensive review was undertaken in 2020.* | [ ] |
-| 188 | **alternative** | noun/adjective | another option | *Hydrogen represents a viable alternative for heavy transport.* | [ ] |
-| 189 | **circumstance** | noun | a condition or situation | *Under normal circumstances, the system requires no intervention.* | [ ] |
-| 190 | **comment** | noun/verb | a remark; to give an opinion | *The authors comment briefly on the limitations of their method.* | [ ] |
-| 191 | **compensate** | verb | to make up for; to offset | *A feedback loop compensates for temperature drift.* | [ ] |
-| 192 | **component** | noun | a part of a larger whole | *Each component was tested to twice its rated load.* | [ ] |
-| 193 | **consent** | noun/verb | permission or agreement | *Informed consent was obtained from all participants.* | [ ] |
-| 194 | **considerable** | adjective | large; significant | *A considerable proportion of energy is lost as heat.* | [ ] |
-| 195 | **constant** | adjective/noun | unchanging; a fixed value | *Pressure was held constant throughout the experiment.* | [ ] |
-| 196 | **constrain** | verb | to limit or restrict | *Cost constrains the choice of materials.* | [ ] |
-| 197 | **convert** | verb | to change from one form to another | *Inverters convert direct current into alternating current.* | [ ] |
-| 198 | **coincide** | verb | to happen at the same time | *Peak demand coincides with the lowest solar output.* | [ ] |
-| 199 | **convince** | verb | to persuade someone that something is true | *The evidence is not yet strong enough to convince regulators.* | [ ] |
-| 200 | **cooperate** | verb | to work together | *Member states must cooperate on cross-border transmission.* | [ ] |
+| 181 | **statistic** | noun | a numerical fact or measurement | *These statistics reveal a widening regional disparity.* | [x] |
+| 182 | **status** | noun | current condition or position | *The operational status of each unit is monitored remotely.* | [x] |
+| 183 | **stress** | noun/verb | pressure or strain; to emphasise | *Thermal stress is the leading cause of joint failure.* | [x] |
+| 184 | **subsequent** | adjective | coming after | *Subsequent trials confirmed the initial finding.* | [x] |
+| 185 | **sum** | noun/verb | a total; to add up | *The sum of the individual losses exceeds the estimate.* | [x] |
+| 186 | **summary** | noun | a short account of the main points | *In summary, the proposed method is both cheaper and faster.* | [x] |
+| 187 | **undertake** | verb | to begin or commit to a task | *A comprehensive review was undertaken in 2020.* | [~] |
+| 188 | **alternative** | noun/adjective | another option | *Hydrogen represents a viable alternative for heavy transport.* | [x] |
+| 189 | **circumstance** | noun | a condition or situation | *Under normal circumstances, the system requires no intervention.* | [x] |
+| 190 | **comment** | noun/verb | a remark; to give an opinion | *The authors comment briefly on the limitations of their method.* | [x] |
+| 191 | **compensate** | verb | to make up for; to offset | *A feedback loop compensates for temperature drift.* | [x] |
+| 192 | **component** | noun | a part of a larger whole | *Each component was tested to twice its rated load.* | [x] |
+| 193 | **consent** | noun/verb | permission or agreement | *Informed consent was obtained from all participants.* | [x] |
+| 194 | **considerable** | adjective | large; significant | *A considerable proportion of energy is lost as heat.* | [x] |
+| 195 | **constant** | adjective/noun | unchanging; a fixed value | *Pressure was held constant throughout the experiment.* | [x] |
+| 196 | **constrain** | verb | to limit or restrict | *Cost constrains the choice of materials.* | [x] |
+| 197 | **convert** | verb | to change from one form to another | *Inverters convert direct current into alternating current.* | [x] |
+| 198 | **coincide** | verb | to happen at the same time | *Peak demand coincides with the lowest solar output.* | [x] |
+| 199 | **convince** | verb | to persuade someone that something is true | *The evidence is not yet strong enough to convince regulators.* | [x ] |
+| 200 | **cooperate** | verb | to work together | *Member states must cooperate on cross-border transmission.* | [x] |
 
 **Milestone:** with Batch 10 complete you have the top 200 AWL words. Review protocol: Weeks 6–7 include two full flashcard passes (AWL 1–100 on Aug 28, AWL 101–200 on Aug 31).
 
