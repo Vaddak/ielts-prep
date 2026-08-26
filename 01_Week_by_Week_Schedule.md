@@ -14,6 +14,11 @@
 
 ⌨️ **~33 ppm** (275 palabras en 8:24, transcribiendo). Componiendo será ~20–22 → **280 palabras en ~13 min**, cómodo dentro de la ventana de 20. **No hay razón para corregir en paralelo: sobran ~11 minutos dentro de la fase de escritura.**
 
+> ### 👉 26-ago · SE SIGUE EN LA SESIÓN DE CASA
+> Los tres Overviews del martes están en ese chat, no en el repo.
+> **Traspaso completo en `12_Task1_Archive.md`, sección TRASPASO.** Primero pegar la v1 ahí; luego reescribir la v2.
+> Hecho hoy: ✅ AWL 200/200 · ✅ lenguaje de tendencias. Pendiente: drill / v2.
+
 ### Miércoles 26 (~30 min)
 
 | # | Min | Tarea |

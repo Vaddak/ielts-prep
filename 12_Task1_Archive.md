@@ -8,6 +8,47 @@
 
 ---
 
+## 👉 TRASPASO — 26 de agosto, para la sesión de casa
+
+**Los tres Overviews del 25-ago SÍ existen: están en el chat de casa, no en el repo.**
+
+### ① Lo primero, antes que cualquier otra cosa
+**Pegar los tres textos de la v1 en la sección `v1` de abajo.** Literales, con los errores intactos — son la línea base contra la que se mide todo lo demás. Ese chat también se comprime; si no quedan en el repo, se pierden por segunda vez.
+
+### ② Luego, elegir camino
+
+| | Qué | Min |
+|---|---|---|
+| **A** | **Drill de 7 frases** — están en `01_Week_by_Week_Schedule.md`, bloque “Drill de activación” | 10 |
+| **B** ⭐ | **Reescribir los tres Overviews como v2** y pegarlos abajo | ~20 |
+
+**Recomendado: B.** El drill vive dentro de la reescritura, y una frase corregida aislada se olvida más rápido que una que hubo que colocar en un párrafo. Además deja la comparación v1 ↔ v2, que es el dato que falta.
+
+### ③ Lo que hay que llevar puesto al reescribir
+
+**El titular — el hallazgo del martes.** El Overview responde ***¿qué es lo más llamativo?***, no *¿qué pasó?*. Antes de escribir: *si tuviera que decir UNA cosa de este gráfico, ¿cuál sería?*
+- Gráfico 1 → India sube más **pero sigue siendo la más baja** (*yet* / *despite*)
+- Gráfico 3 → las renovables **adelantan al carbón** y pasan a ser la fuente principal (*overtake* / *to become the dominant*)
+
+**Las cuatro reglas duras** (salieron ✅ el martes, mantenerlas): abrir con *Overall,* · cero dígitos y fechas · todas las categorías · **describir, nunca explicar**.
+
+**Los errores del martes, para no repetirlos:**
+| | |
+|---|---|
+| Cobertura | **Business** quedó fuera del bar chart → *with business occupying an intermediate position* |
+| Sin eje temporal | En el bar chart **no hay** *rise* ni *fall*: *gap · difference · range* |
+| §4.9 | *that* vs *than* (¿comparo? → *than*) · *double* y *half* **sin** artículo |
+| §4.7 | Dos barridos de artículos: primero solo `the`, luego solo `a`/`an` |
+| Léxico | *decreased till zero* → *phased out entirely* · *showed rise* → *showed a rise* · *a declined demand* → *a decline in demand* · *lightly remarkable* → *relatively slight* |
+
+### ④ Al cerrar
+- [ ] v1 pegada aquí · [ ] v2 pegada aquí · [ ] errores nuevos en `07_Error_Log.md` · [ ] entrada en `09_Study_Journal.md` · [ ] `RETOMAR AQUÍ` apuntando al **jueves 27: bar charts y tablas, lenguaje de comparación**
+
+### Estado del miércoles 26 al momento del traspaso
+✅ **AWL 181–200 → 200/200** 🏁 · ✅ Line graphs: lenguaje de tendencias leído · ⏳ drill / v2
+
+---
+
 ## 📁 Lo que se perdió — 25 de agosto, 3 Overviews
 
 Los párrafos completos no existen. Lo único recuperable son los **fragmentos textuales citados en `07_Error_Log.md`**:
@@ -104,6 +145,21 @@ Se perdieron los conectores, las aperturas y los cierres. **No reconstruir de me
 
 ---
 
+## ✍️ v1 — 25 de agosto · **PEGAR AQUÍ**
+
+*(Los tres textos completos, literales, con los errores intactos. Están en el chat de casa.)*
+
+### Gráfico 1 — line graph
+> _pendiente_
+
+### Gráfico 2 — bar chart
+> _pendiente_
+
+### Gráfico 3 — pie charts
+> _pendiente_
+
+---
+
 ## ✍️ v2 — pendiente
 
-*(Pegar aquí los tres Overviews reescritos, tecleados.)*
+*(Pegar aquí los tres Overviews reescritos, tecleados, en Bloc de notas.)*
