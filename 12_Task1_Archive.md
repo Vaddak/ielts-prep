@@ -160,6 +160,23 @@ Se perdieron los conectores, las aperturas y los cierres. **No reconstruir de me
 
 ---
 
-## ✍️ v2 — pendiente
+## ✍️ v2 — 27 de agosto
 
-*(Pegar aquí los tres Overviews reescritos, tecleados, en Bloc de notas.)*
+### Gráfico 1 — line graph
+>The graph above illustrates the electricity consumption in four differente nations over two decades.
+>
+>In general, only the demand in Canada fell gradually compared to the other three countries. After a decade of steady growing demand, it declined slightly. Finally, Brazil and India presented a constant growing during all the period, but despite this growth in both countries it remained  lower than the minimal demand of Japan and Canada.
+
+
+### Gráfico 2 — bar chart
+> The bar chart above shows the number of graduates employed in their field of study compared to the total number of graduates six month after graduation in six different fields.
+>
+> Overall, it is clear that applied sciences provide more employability than fields oriented to human sciences. Following this, the gap is significant if Social Sciences and Engineering percentages are compared, specially when the employability ratio in Engineering is even twice as much as Social Sciences. While Business in contrast to Engineering is not that high, this percentage still remained remarkable superior than the two human sciences.
+>
+> 
+### Gráfico 3 — pie charts
+The graph below illustrates the significance between 5 different soruces of electricity generation in Germany over third-teen years.
+
+Overall, while coal based sources decreased until almost its half of its value at the beginning of the period, the nuclear sources phased out entirely. Subsequently, natural gas and others remained steady or increased slightly, Renewables are the only source that experimented an upward trend.
+
+---
