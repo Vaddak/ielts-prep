@@ -469,6 +469,19 @@ El mismo instinto que produce *laboral* produce plurales que no existen. En ingl
 
 ---
 
+> ### 🆕 *experimented* — falso amigo nuevo (27-ago)
+>
+> ❌ *Renewables **experimented** an upward trend.* → ✅ *Renewables **experienced** an upward trend.*
+>
+> | Español | Inglés |
+> |---|---|
+> | **experimentar** (vivir, sufrir, registrar) | **experience** · *see* · *undergo* |
+> | **experimentar** (hacer un experimento) | **experiment** — solo en laboratorio |
+>
+> En Task 1 es de alta frecuencia: *the country **experienced** a sharp decline* · *demand **saw** sustained growth*.
+
+---
+
 ## 4.6 Ortografía bajo cronómetro — el bucle de la duda
 
 **Tus errores (2026-08-12):** *lonelliness* · *proffessional* · *atract* · *settlings*

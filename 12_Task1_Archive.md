@@ -180,3 +180,78 @@ The graph below illustrates the significance between 5 different soruces of elec
 Overall, while coal based sources decreased until almost its half of its value at the beginning of the period, the nuclear sources phased out entirely. Subsequently, natural gas and others remained steady or increased slightly, Renewables are the only source that experimented an upward trend.
 
 ---
+
+---
+
+## 🔍 Corrección de la v2 — 27 de agosto · **~Band 6 / 6.5**
+
+**Estructura y agrupación: ya son de banda 7.** El freno es precisión.
+
+### ✅ Lo que entró
+- **El titular del gráfico 1** — *"**despite** this growth in both countries it remained lower..."*. Era lo que faltó el 25
+- **Business cubierto** en el bar chart (omitido el 25)
+- **Agrupación *applied vs human sciences*** — patrón, no lista de seis barras. Pensamiento de banda 7
+- ***phased out entirely*** — vocabulario del miércoles, bien usado y sin dígito
+- Los tres abren bien · ninguno explica el porqué · escribió intro + overview
+
+### 🔴 Las tres que cuestan bandas
+1. **Dato incorrecto (G1):** *only Canada fell* — **Japón también cayó** (7.800→6.900). Task Achievement
+2. **Titular perdido (G3), 2º intento:** *experimented an upward trend* → las renovables **adelantaron al carbón y pasaron a ser la fuente principal**. ***overtake***
+3. **🔁 *the number* → *percentage*** — corregido el 25, volvió intacto. Patrón **detectar ≠ ejecutar**
+
+### Correcciones literales
+
+**Gráfico 1**
+
+| Como está | Como debe quedar |
+|---|---|
+| four **differente** nations | four **different** nations |
+| **the** electricity consumption | **electricity consumption** |
+| a constant **growing** | constant **growth** |
+| during **all the** period | **throughout the** period ⚠️ *(25-ago: "went up all the period")* |
+| **it** remained lower | **they** remained lower |
+| the **minimal** demand | the **lowest** level |
+
+**Gráfico 2**
+
+| Como está | Como debe quedar |
+|---|---|
+| six **month** after | six **months** after |
+| the **number** of graduates | the **percentage** of graduates |
+| **specially** when | **especially** when |
+| twice as much as Social Sciences | twice as high as **that of** Social Sciences |
+| **remarkable superior than** | **remarkably superior to** |
+| this percentage still **remained** | this percentage **is** *(sin eje temporal → sin pasado)* |
+
+**Gráfico 3**
+
+| Como está | Como debe quedar |
+|---|---|
+| **5** different **soruces** | **five** different **sources** ⚠️ dígito |
+| **third-teen** years | **thirteen** years |
+| the **significance between** | the **proportion of electricity generated from** |
+| decreased **until almost its half of its value** | fell **by almost half** ⚠️ §4.9 |
+| the nuclear sources **phased out** | nuclear power **was phased out** *(es transitivo)* |
+| **experimented** an upward trend | **experienced** an upward trend 🆕 **falso amigo** → §4.5 |
+| *...increased slightly**,** Renewables are...* | punto. ⚠️ **empalme de comas, 4ª vez** |
+
+### 🎯 Versiones de banda 7+ — **dos oraciones cada una**
+
+**1** — *Overall, consumption **fell in the two developed nations while rising steadily in the two developing ones**. The most striking feature is India: **despite** recording by far the sharpest growth, it remained the lowest consumer **throughout** the period.*
+
+**2** — *Overall, applied-science disciplines offer markedly higher employability than those in the humanities and social sciences, **with business occupying an intermediate position**. The **gap** between the top and the bottom of the chart is substantial, with engineering graduates more than **twice as likely** to be working in their field as humanities graduates.*
+
+**3** — *Overall, the German energy mix changed dramatically, with **renewables overtaking coal to become the dominant source**. Nuclear power, meanwhile, **was phased out entirely**, while gas and other sources saw little change.*
+
+> 📏 **Dos oraciones bastan.** Las de la v2 tenían tres o cuatro y metían detalle que pertenece a los párrafos de abajo.
+
+---
+
+## 👉 PARA CASA — v3
+
+1. Aplicar las correcciones literales de arriba → pegar como **v3** abajo
+2. Antes de tocar el gráfico 3, hacer **los 60 segundos** (`03_Writing_Module.md`, sección del Overview) y reescribirlo **desde cero**, no parchearlo. El titular no se arregla editando: hay que volver a decidir cuál es
+3. Pegar la **v1** en su sección — sigue pendiente, está en el chat de casa
+
+## ✍️ v3 — pendiente
+

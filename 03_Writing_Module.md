@@ -310,6 +310,29 @@ Changes made: *shows → illustrates / countries → nations / between 2000 and 
 **Example:**
 > *Overall, it is clear that Country A experienced the most dramatic increase in consumption over the period, while Country D remained relatively stable throughout. Notably, all four nations showed higher consumption in 2020 than at the start of the period.*
 
+> ## ⏱️ LOS 60 SEGUNDOS ANTES DE ESCRIBIR — el procedimiento
+>
+> **Añadido el 27 de agosto**, tras dos rondas de Overviews. Autodiagnóstico suyo:
+> > *“Fui escribiendo a medida de que iba viendo los datos, no por importancia.”*
+>
+> Escribir en **orden de lectura** en vez de **orden de importancia** produjo las dos fallas de la v2:
+> - *only Canada fell* → Canada es la **primera columna**; cuando escribió eso aún no había mirado Japón. El error factual no fue de lectura: fue de **empezar a escribir demasiado pronto**
+> - El titular perdido del pie chart → describió porción por porción, en orden. El titular no era **ninguna** porción: era la **relación** entre dos (renovables adelantando al carbón). Describiendo una por una, esa relación no aparece nunca
+>
+> Es la misma raíz del 22-ago (*“escribía y corregía en paralelo”*): **empezar a producir antes de terminar de decidir.**
+>
+> ### 60 segundos mirando. Ni una palabra escrita.
+>
+> 1. **¿Quién sube y quién baja?** (estático: ¿quién arriba, quién abajo?) → **agrupa**, no listes
+> 2. **¿Hay algún cruce, inversión o desaparición?** → si lo hay, **ese es el titular**, casi siempre
+> 3. **¿Hay alguna tensión?** *sube más pero sigue siendo el más bajo* · *el más alto pero el que menos crece*
+>
+> **La primera oración después de *Overall* responde la 2 o la 3 — nunca es la primera columna del gráfico.**
+>
+> *Ejemplo:* en el pie chart alemán las tres preguntas dan el titular en quince segundos — hay una desaparición (nuclear) **y** un cruce (renovables/carbón). Gana el cruce, porque cambia la naturaleza del gráfico.
+>
+> 📏 **Y dos oraciones bastan.** Las tres o cuatro de la v2 metían detalle que pertenece a los párrafos de abajo.
+
 **Rules for the Overview:**
 - No specific numbers or dates
 - Covers the WHOLE graph, not one detail

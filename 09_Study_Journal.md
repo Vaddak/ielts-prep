@@ -691,3 +691,34 @@ Buenas paráfrasis en las intros: *over two decades* · *over thirteen years* ·
 **Cómo me sentí:** —
 
 **Lectura:** las reglas duras del Overview (abrir con *Overall*, cero dígitos, cubrir todo, no explicar) se cumplieron a la primera. Lo que falta es **jerarquía** — distinguir el rasgo más llamativo del resto. Es exactamente lo que separa un Overview de 6 de uno de 7.
+
+---
+
+### 2026-08-27 — Semana 6, Jueves: lenguaje de comparación + Overviews v2
+**Módulo:** Task 1 — *Language of Comparison* + reescritura de los 3 Overviews
+**Tiempo:** ~35 min · **Banda: ~6 / 6.5**
+
+*(Miércoles 26 completo: AWL 181–200 → **200/200** 🏁 + lenguaje de tendencias. El drill extra no se hizo; se absorbió en la reescritura de hoy.)*
+
+**✅ Entró:** el titular del G1 (*despite... remained lower*) · Business cubierto · agrupación *applied vs human sciences* · *phased out entirely* · intro + overview sin que se lo pidieran.
+
+**🔴 Frenó:** dato incorrecto en G1 (*only Canada fell* — Japón también cayó) · titular del G3 perdido por segunda vez · *the number* → *percentage* reincidente · falso amigo nuevo (*experimented*) · empalme de comas (4ª).
+
+### 🎯 El hallazgo — tercer autodiagnóstico acertado
+
+> *"Siento que en el overview fui escribiendo a medida de que iba viendo los datos, no por importancia."*
+
+**Explica las dos fallas con una sola causa**, que es lo que lo hace un buen diagnóstico:
+- *only Canada fell* → Canada es la primera columna. Cuando lo escribió aún no había mirado Japón. El error factual no fue de lectura: fue de **empezar a escribir demasiado pronto**
+- El titular del G3 → describió porción por porción, en orden. El titular no era ninguna porción: era la **relación** entre dos. Describiendo una por una, esa relación no aparece nunca
+
+**Misma raíz que el 22-ago** (*"escribía y corregía en paralelo"*): empezar a producir antes de terminar de decidir. Los tres autodiagnósticos suyos han sido **de método, no de inglés**.
+
+**Arreglo → el procedimiento de los 60 segundos**, en `03_Writing_Module.md`: ① ¿quién sube/baja? agrupa ② ¿cruce, inversión o desaparición? → titular ③ ¿tensión? La primera oración tras *Overall* responde ② o ③, nunca es la primera columna. Y dos oraciones bastan.
+
+**Nuevo en la guía:** §4.5 — *experimented* → **experienced**.
+
+**Archivos:** `07_Error_Log.md` (12 filas) · `12_Task1_Archive.md` (v2 + corrección + modelos) · `03_Writing_Module.md` · `10_Grammar_Quick_Reference.md`
+
+**Lectura:** el 25 fallaron las reglas de contenido y sobrevivieron las duras; el 27 sobreviven la estructura y la agrupación — ya de banda 7 — y falla la precisión. **La curva va en la dirección correcta:** los problemas suben de nivel en vez de repetirse.
+

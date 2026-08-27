@@ -6,66 +6,45 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — miércoles 26 de agosto
+## 👉 RETOMAR AQUÍ — viernes 28 de agosto
 
-> 🏁 **AWL COMPLETO: 200/200** — cerrado el 26 de agosto. De 80 palabras y celdas vacías a las 200 del núcleo académico, en tres semanas.
+> 🏁 **AWL COMPLETO: 200/200** — cerrado el 26 de agosto.
 
-**Martes 25 — COMPLETO ✅.** Velocidad de tecleo medida · fórmula del Overview · **3 Overviews escritos**.
+**Miércoles 26 ✅** AWL Batch 10 → 200/200 · lenguaje de tendencias.
+**Jueves 27 ✅** lenguaje de comparación · **3 Overviews v2 — ~Band 6/6.5**.
 
-⌨️ **~33 ppm** (275 palabras en 8:24, transcribiendo). Componiendo será ~20–22 → **280 palabras en ~13 min**, cómodo dentro de la ventana de 20. **No hay razón para corregir en paralelo: sobran ~11 minutos dentro de la fase de escritura.**
+### 🔴 El hallazgo del jueves — y es suyo
 
-> ### 👉 26-ago · SE SIGUE EN LA SESIÓN DE CASA
-> Los tres Overviews del martes están en ese chat, no en el repo.
-> **Traspaso completo en `12_Task1_Archive.md`, sección TRASPASO.** Primero pegar la v1 ahí; luego reescribir la v2.
-> Hecho hoy: ✅ AWL 200/200 · ✅ lenguaje de tendencias. Pendiente: drill / v2.
+> *"Fui escribiendo a medida de que iba viendo los datos, **no por importancia**."*
 
-### Miércoles 26 (~30 min)
+Explica las dos fallas de un golpe: *only Canada fell* (Canada es la 1ª columna; aún no había mirado Japón) y el titular perdido del pie chart (describió porción por porción; el titular era la **relación** entre dos).
+
+> ### ⏱️ **60 segundos mirando. Ni una palabra escrita.**
+> ① ¿quién sube/baja? → **agrupa**, no listes
+> ② ¿hay cruce, inversión o desaparición? → **ese es el titular**
+> ③ ¿hay tensión? (*sube más pero sigue siendo el más bajo*)
+>
+> **La 1ª oración tras *Overall* responde ② o ③ — nunca es la primera columna.**
+> 📏 Y **dos oraciones bastan**.
+
+Procedimiento completo en `03_Writing_Module.md`, sección del Overview.
+
+### Pendiente de casa — `12_Task1_Archive.md`
+- [ ] **v3**: aplicar las correcciones literales a los tres Overviews
+- [ ] **G3 desde cero**, no parchear — el titular no se arregla editando
+- [ ] Pegar la **v1** (sigue en el chat de casa)
+
+### Viernes 28 (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [x] 1 | 10 | **AWL 181–200** (Batch 10) → **200/200** 🏁 ✅ |
-| [x] 2 | 20 | **Line graphs: lenguaje de tendencias** ✅ |
-| [ ] 3 | 10 | 🆕 **Drill de activación** — reescribir las 7 frases de abajo con el lenguaje de tendencias |
-
-> ### ⚡ Drill de activación — por qué existe
-> El martes tenía la sección de tendencias disponible y aun así escribió *decreased till zero* y *showed rise*. **Leída ≠ activa.** Estas siete son sus propias frases del 25-ago.
->
-> | # | Como quedó | Pista |
-> |---|---|---|
-> | 1 | *Nuclear energy **decreased till zero*** | Idea de **desaparecer del todo**, sin usar el dígito |
-> | 2 | *Renewables **showed rise*** | Falta una palabra · hay versión mejor con infinitivo |
-> | 3 | *India had **a declined demand*** | Participio → **sustantivo** + preposición correcta |
-> | 4 | *The change is **lightly remarkable*** | Se contradicen. Mirar los **grados** |
-> | 5 | *Canada and Japan **increased this number** slowly* | ¿Quién sube, el país o el consumo? Cambiar sujeto + grado |
-> | 6 | *Brazil's consumption **went up all the period*** | Falta preposición · *went up* es banda 5 |
-> | **7** | *India showed the largest increase.* | **Añadir la tensión:** sube más **pero sigue siendo la más baja**. *yet* / *despite*. Esta sola vale la diferencia entre 6 y 7 |
->
-> Tecleadas, en Bloc de notas, máx. 10 min.
-
-> ### 🔴 Regla nueva — 26 de agosto
-> Los tres Overviews del martes **se perdieron**: se guardó el análisis, no el texto. Mismo hueco que `11_Writing_Baseline_Essays.md` cerró para Task 2, reabierto en Task 1.
->
-> **Ninguna tarea escrita se cierra sin su texto guardado.** Task 2 → `11_Writing_Baseline_Essays.md` · **Task 1 → `12_Task1_Archive.md`** (nuevo; trae los tres gráficos con datos completos).
-
-### 🔴 Lo del martes que hay que corregir
-
-**El Overview responde *"¿qué es lo más llamativo?"*, no *"¿qué pasó?"*.**
-
-En 2 de 3 faltó el titular: India sube más **pero sigue siendo la más baja**; las renovables **adelantan al carbón y pasan a ser la fuente principal**. Antes de escribir: *si tuviera que decir UNA cosa de este gráfico, ¿cuál sería?*
-
-Palabras que dan puntos: ***overtake · replace · reverse · yet still · to become the dominant***.
-
-**Y tres reglas más, de los errores del martes:**
-1. **Cubrir TODAS las categorías** — Business quedó fuera del bar chart. Si una categoría queda sola en el medio: *with X occupying an intermediate position*
-2. **Sin eje temporal → sin verbos de cambio.** En un bar chart estático no hay *fall* ni *rise*: hay *gap · difference · range*
-3. **§4.9 nueva:** *that* vs *than* (¿comparo? → *than*) · *double* y *half* **sin** artículo
+| [ ] 1 | 15 | **Repaso AWL 1–100** (flashcards) |
+| [ ] 2 | 15 | **Pie charts** · releer las correcciones del G3 |
 
 ### Resto de la Semana 6
 
 | Día | |
 |---|---|
-| Jue 27 | Bar charts y tablas: lenguaje de comparación |
-| Vie 28 | Repaso AWL 1–100 (flashcards) · pie charts |
 | **Sáb 29** | **Task 1 completo, 20 min cronometrados** (line graph) + checklist |
 | Dom 30 | Task 1 sobre bar chart (20 min) |
 
