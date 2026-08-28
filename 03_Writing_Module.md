@@ -333,6 +333,35 @@ Changes made: *shows → illustrates / countries → nations / between 2000 and 
 >
 > 📏 **Y dos oraciones bastan.** Las tres o cuatro de la v2 metían detalle que pertenece a los párrafos de abajo.
 
+> ## 🎩 REGISTRO ACADÉMICO — las seis sustituciones
+>
+> **Añadido el 28 de agosto.** Observación suya:
+> > *"Es un inglés refinado que necesito practicar porque digo todo yo más casual."*
+>
+> Correcta, y es su mayor brecha léxica — pero la más mecánica de cerrar: no es saber más inglés, es un conjunto pequeño de canjes.
+>
+> | # | Casual | Académico | Ejemplo |
+> |---|---|---|---|
+> | 1 | verbo genérico + adverbio | **un verbo preciso** | *went up a lot* → **surged** |
+> | 2 | *number* · *thing* · *value* | **el sustantivo exacto** | *the number of graduates* → **the percentage / proportion / figure for** |
+> | 3 | *very* · *a lot* · *really* | **un adjetivo que ya lo contiene** | *a very big gap* → **a substantial gap** |
+> | 4 | *a lot of people* | **proporción** | **a significant proportion of** |
+> | 5 | verbo + adverbio | **nominalización** | *prices rose sharply* → **a sharp rise in prices** |
+> | 6 | *is very high compared to* | **comparativo directo** | **twice as high as** · **markedly higher than** |
+>
+> ⚠️ La regla 2 es su error reincidente (*number* por *percentage*, 3 ocurrencias). **No fue distracción: fue registro.**
+>
+> ### El drill que convierte modelo en producción
+> Copiar un modelo enseña el objetivo, no a producirlo. En cambio:
+> 1. **Tapar el modelo**
+> 2. Tomar las **propias** frases, con sus errores
+> 3. Reescribir cada una aplicando **una sola** regla
+> 4. Comparar **al final**, nunca durante
+>
+> Lo que interesa no es coincidir con el modelo: es **cuál de las seis reglas se olvidó**.
+>
+> 📌 **Hablar casual no es un defecto.** El inglés conversacional B2 es lo que permite escribir 275 palabras en 20 minutos. El registro académico se monta **encima**, no lo reemplaza.
+
 **Rules for the Overview:**
 - No specific numbers or dates
 - Covers the WHOLE graph, not one detail

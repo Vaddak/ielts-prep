@@ -722,3 +722,33 @@ Buenas paráfrasis en las intros: *over two decades* · *over thirteen years* ·
 
 **Lectura:** el 25 fallaron las reglas de contenido y sobrevivieron las duras; el 27 sobreviven la estructura y la agrupación — ya de banda 7 — y falla la precisión. **La curva va en la dirección correcta:** los problemas suben de nivel en vez de repetirse.
 
+---
+
+### 2026-08-28 — Semana 6, Viernes: v3, registro académico y víspera de la primera Task 1
+**Módulo:** Task 1 — v3 de los tres Overviews · repaso AWL 1–100 · drill de registro
+
+**v3 cerrada.** Overviews en versión de banda 7+ e introducciones corregidas.
+
+### 🔴 El hallazgo del viernes — cómo entra una corrección
+
+En la primera pasada de la v3 **corrigió los Overviews y dejó las tres introducciones intactas**. No fue descuido: los Overviews se los di **reescritos enteros**; las introducciones, como **tabla de arreglos**.
+
+> **Lo que se da reescrito entero, entra. Lo que se da como lista de cambios, se pierde.**
+> → Ante una tabla de correcciones: **no leerla, reescribir la frase entera desde cero**.
+
+Refina el hallazgo del 18-ago (*explicar vs. mostrar*): no basta con que la corrección sea literal — tiene que venir **en forma de texto sustituible**.
+
+Corolario: al copiar el modelo se coló *bocupying* por *occupying*. **Copiar introduce errores propios**, igual que editar.
+
+### 🎩 Registro — su cuarto autodiagnóstico
+
+> *"Es un inglés refinado que necesito practicar porque digo todo yo más casual."*
+
+Correcto, y explica el error reincidente *number* por *percentage*: **no fue distracción, fue registro**. *number* es la palabra casual; *percentage* la precisa.
+
+Nuevo en `03_Writing_Module.md`: **las seis sustituciones** + el drill de conversión (tapar el modelo → reescribir las propias frases con una sola regla → comparar al final). Lo que interesa no es coincidir con el modelo, sino **cuál de las seis reglas se olvidó**.
+
+Se cambió el bloque de *pie charts* del viernes por este drill: dos rondas sobre el gráfico alemán ya hechas y el lenguaje de comparación leído el jueves — releer la teoría no aportaba.
+
+**Mañana:** primera **Task 1 completa cronometrada**, 20 min, line graph.
+

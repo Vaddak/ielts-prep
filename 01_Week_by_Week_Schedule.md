@@ -6,47 +6,52 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — viernes 28 de agosto
+## 👉 RETOMAR AQUÍ — sábado 29 de agosto
 
-> 🏁 **AWL COMPLETO: 200/200** — cerrado el 26 de agosto.
+**Mié 26 ✅** AWL → **200/200** 🏁 · tendencias. **Jue 27 ✅** comparación · Overviews v2 (~6/6.5). **Vie 28 ✅** **v3 cerrada** · AWL 1–100 · drill de registro.
 
-**Miércoles 26 ✅** AWL Batch 10 → 200/200 · lenguaje de tendencias.
-**Jueves 27 ✅** lenguaje de comparación · **3 Overviews v2 — ~Band 6/6.5**.
+### 🔴 El hallazgo del viernes — cómo entra una corrección
 
-### 🔴 El hallazgo del jueves — y es suyo
+Corrigió los Overviews (dados **reescritos enteros**) y dejó intactas las introducciones (dadas como **tabla de arreglos**).
 
-> *"Fui escribiendo a medida de que iba viendo los datos, **no por importancia**."*
+> **Lo que se da reescrito entero, entra. Lo que se da como lista de cambios, se pierde.**
+> → Ante una tabla de correcciones: **no la leas — reescribe la frase entera desde cero** con los cambios adentro.
 
-Explica las dos fallas de un golpe: *only Canada fell* (Canada es la 1ª columna; aún no había mirado Japón) y el titular perdido del pie chart (describió porción por porción; el titular era la **relación** entre dos).
+Y: **copiar introduce errores propios** (*occupying* → *bocupying*). La pasada de ortografía aplica también al texto copiado.
 
-> ### ⏱️ **60 segundos mirando. Ni una palabra escrita.**
-> ① ¿quién sube/baja? → **agrupa**, no listes
-> ② ¿hay cruce, inversión o desaparición? → **ese es el titular**
-> ③ ¿hay tensión? (*sube más pero sigue siendo el más bajo*)
->
-> **La 1ª oración tras *Overall* responde ② o ③ — nunca es la primera columna.**
-> 📏 Y **dos oraciones bastan**.
+### 🎩 Registro académico — las 6 sustituciones
 
-Procedimiento completo en `03_Writing_Module.md`, sección del Overview.
+Autodiagnóstico suyo. Explica *number* por *percentage*: **fue registro, no distracción**. Tabla completa en `03_Writing_Module.md`.
 
-### Pendiente de casa — `12_Task1_Archive.md`
-- [ ] **v3**: aplicar las correcciones literales a los tres Overviews
-- [ ] **G3 desde cero**, no parchear — el titular no se arregla editando
-- [ ] Pegar la **v1** (sigue en el chat de casa)
+---
 
-### Viernes 28 (~30 min)
+## ⏱️ SÁBADO 29 — **primera Task 1 completa, cronometrada**
 
-| # | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 15 | **Repaso AWL 1–100** (flashcards) |
-| [ ] 2 | 15 | **Pie charts** · releer las correcciones del G3 |
+**20 minutos · 150+ palabras · line graph.** Primera vez con las tres partes juntas.
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** Mirar, ni una palabra escrita. ① ¿quién sube/baja? ② ¿cruce, inversión, desaparición? ③ ¿tensión? |
+| 1–3 | **Intro** — parafrasear el enunciado. **Una** oración |
+| 3–6 | **Overview** — **dos** oraciones · cero dígitos · todas las categorías |
+| 6–16 | **Dos párrafos de detalle** — aquí **sí** van los números |
+| **16–20** | 🔴 **Corregir.** No se escribe nada nuevo |
+
+**Los 4 minutos finales no son opcionales.** El 22-ago no existieron: doce errores cazables que nadie cazó.
+
+**La regla que hunde bandas:** describes lo que **VES**. Nunca por qué. Nunca opinas.
+
+**Checklist de cierre (los 4 min):** artículos en dos barridos (§4.7) · *that*/*than* y *double*/*half* sin artículo (§4.9) · ortografía y plurales (§4.6) · ¿dígitos en el Overview? · ¿falta alguna categoría?
+
+🔴 **Tecleada, en Bloc de notas, sin corrector. El texto se pega en `12_Task1_Archive.md`.**
+
+### Domingo 30
+Task 1 sobre **bar chart** (20 min), mismo reparto.
 
 ### Resto de la Semana 6
 
 | Día | |
 |---|---|
-| **Sáb 29** | **Task 1 completo, 20 min cronometrados** (line graph) + checklist |
-| Dom 30 | Task 1 sobre bar chart (20 min) |
 
 ### ⚠️ La regla que hunde bandas en Task 1
 
