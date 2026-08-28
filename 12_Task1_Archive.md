@@ -255,3 +255,19 @@ Overall, while coal based sources decreased until almost its half of its value a
 
 ## ✍️ v3 — pendiente
 
+### Gráfico 1 — line graph
+>The graph above illustrates the electricity consumption in four differente nations over two decades.
+>
+>Overall, consumption fell in the two developed nations while rising steadily in the two developing ones. The most striking feature is India: despite recording by far the sharpest growth, it remained the lowest consumer throughout.
+
+### Gráfico 2 — bar chart
+> The bar chart above shows the number of graduates employed in their field of study compared to the total number of graduates six month after graduation in six different fields.
+>
+> Overall, applied-sciences disciplines offer markedly higher employability than those in the humanities and social sciences, with business ocupying an intermediate position. The gap between the top and the bottom of the chart is substantial, with engineering graduates more than twice as likely to be working in their field as humanities graduates.
+>
+> 
+### Gráfico 3 — pie charts
+The graph below illustrates the significance between 5 different soruces of electricity generation in Germany over third-teen years.
+
+Overall, the German energy mix changed dramatically, with renewables overtaking coal to become the dominant source. Nuclear power, meanwhile, was phased out entirely, while gas and other sources saw little change.
+
