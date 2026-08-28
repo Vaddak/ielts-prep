@@ -45,6 +45,8 @@ Autodiagnóstico suyo. Explica *number* por *percentage*: **fue registro, no dis
 
 🔴 **Tecleada, en Bloc de notas, sin corrector. El texto se pega en `12_Task1_Archive.md`.**
 
+> 📊 **El gráfico, el enunciado, las pistas y el checklist están en `12_Task1_Archive.md`**, sección *SÁBADO 29*. Autocontenido: no hace falta el chat.
+
 ### Domingo 30
 Task 1 sobre **bar chart** (20 min), mismo reparto.
 

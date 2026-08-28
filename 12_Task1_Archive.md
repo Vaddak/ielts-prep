@@ -271,3 +271,83 @@ The two charts show the proportion of electricity generated from five different 
 
 Overall, the German energy mix changed dramatically, with renewables overtaking coal to become the dominant source. Nuclear power, meanwhile, was phased out entirely, while gas and other sources saw little change.
 
+---
+
+# ⏱️ SÁBADO 29 — TASK 1 Nº 1, CRONOMETRADA
+
+> **Todo lo necesario está en esta sección.** No hace falta abrir otro archivo ni consultar el chat.
+
+## El enunciado
+
+> *The graph below shows the average number of hours per week that people in four age groups spent using the internet at home in the United Kingdom between 2005 and 2025.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+| Año | 16–24 | 25–44 | 45–64 | 65+ |
+|---|---|---|---|---|
+| 2005 | 12 | 8 | 4 | 1 |
+| 2010 | 20 | 15 | 9 | 3 |
+| 2015 | 28 | 22 | 16 | 7 |
+| 2020 | 34 | 31 | 26 | 15 |
+| 2025 | 36 | 35 | 33 | 27 |
+
+## Antes de arrancar
+
+Cronómetro en **20:00**. **Bloc de notas, sin corrector.** No mirar las pistas de abajo.
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** Mirar, ni una palabra escrita. ① ¿quién sube/baja? → **agrupa** ② ¿cruce, inversión, desaparición? → **titular** ③ ¿tensión? |
+| 1–3 | **Intro** — parafrasear el enunciado. **Una** oración |
+| 3–6 | **Overview** — **dos** oraciones · **cero dígitos** · los cuatro grupos representados |
+| 6–16 | **Dos párrafos de detalle** — aquí **sí** van los números. Sugerencia: párrafo 1 los dos grupos jóvenes, párrafo 2 los dos mayores |
+| **16–20** | 🔴 **Corregir.** No se escribe nada nuevo |
+
+**La regla que hunde bandas:** describes lo que **VES**. Nunca por qué, nunca opinas. *(Este gráfico invita a explicar — no lo hagas.)*
+
+## Los 4 minutos de corrección — en este orden
+
+1. **Artículos, dos barridos** (§4.7): primero **solo `the`** — ¿podría señalar cuál? No → fuera. Luego **solo `a`/`an`** — ¿el sustantivo es incontable? Sí → fuera
+2. **§4.9** — *that*/*than* (¿comparo? → *than*) · *double*, *half*, *a third* **sin** artículo
+3. **Ortografía y terminaciones** (§4.6) — plurales, `-s`, dobles consonantes. **El primer instinto suele ser el correcto**
+4. **¿Dígitos en el Overview?** · **¿Los cuatro grupos aparecen?** · **¿Expliqué algún porqué?**
+5. **Registro** — ¿algún *number*, *thing*, *very*, *a lot*? Las 6 sustituciones están en `03_Writing_Module.md`
+
+## Al cerrar
+- [ ] Pegar el texto abajo, **literal, con los errores intactos**
+- [ ] Anotar el tiempo real y el conteo de palabras
+- [ ] ¿Se usaron los 4 minutos de corrección? **Sí / No** — anotarlo aunque la respuesta sea no
+
+---
+
+<details>
+<summary><b>👀 PISTAS — abrir SOLO después de escribir</b></summary>
+
+**El titular:** los cuatro grupos suben, pero lo llamativo es que **la brecha se cierra**. En 2005 los jóvenes usaban internet doce veces más que los mayores de 65; en 2025 los cuatro grupos casi convergen. Eso es **convergencia**, y es lo que hay que decir primero.
+
+**La tensión secundaria:** el grupo 65+ es el que **menos usa** en todo el período y a la vez el que **más crece**. Misma estructura que el caso de India — *despite* / *yet still*.
+
+**Y un detalle de banda 7:** el grupo 16–24 **se aplana** al final (34 → 36). *level off* · *plateau* · *approach saturation*.
+
+**Léxico útil:** *converge* · *narrow* (the gap narrowed) · *close the gap* · *level off* · *steadily* · *by contrast* · *the figure for*.
+
+⚠️ *the figure for the 65+ group*, **no** *the number*.
+
+</details>
+
+## ✍️ Task 1 nº 1 — texto: **PEGAR AQUÍ**
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+
+> _pendiente_
+
+---
+
+## 📌 Pendientes de casa
+- [ ] **Task 1 nº 1** (arriba) — sábado 29
+- [ ] **Task 1 nº 2**, bar chart — domingo 30
+- [ ] **Drill de registro** si no se alcanzó el viernes: tapar los modelos, reescribir las propias frases de la v2 aplicando **una sola** de las 6 reglas, comparar al final
+- [ ] **Pegar la v1 del 25-ago** — sigue en el chat de casa
+
