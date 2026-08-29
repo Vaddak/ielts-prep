@@ -160,6 +160,46 @@ Se perdieron los conectores, las aperturas y los cierres. **No reconstruir de me
 
 ---
 
+## ✍️ v1 — 25 de agosto *(primeros Overviews · escritos a mano)*
+
+*Recuperados del chat de casa el 29-ago. Se escribió también la introducción, aunque el ejercicio pedía solo el Overview.*
+
+### Gráfico 1 — line graph
+
+> The graph above illustrates the electricity consumption in four different nations over two decades.
+>
+> In general, it is clear that any of the four countries remained constant their electricity consumption. While developed countries such as Canada and Japan showed a declined demand, the other two countries increased this number and one of them did it considerably.
+>
+> It is notable that the decrease in the two most developed countries is lightly remarkable, in India the consumption represented the highest increase.
+
+### Gráfico 2 — bar chart
+
+> The data showed before illustrates the number of graduates employed compared to the total of graduates across six different fields.
+>
+> Overall, it is remarkable how the percent of graduates from science and engineering fields are more employed compared to the graduates from humanities and social sciences. The fall of the number of graduates employed from humanities compared to graduates from engineering is more than the double.
+
+### Gráfico 3 — pie charts
+
+> The graph above represents the different sources of electricity generation in Germany over thirteen years.
+>
+> Generally, it is clear than the use of sources of electricity generation based on coal has dropped almost the half and nuclear sources has decreased till zero. While renewable energy and natural gas are the only sources than showed rise, others remained constant.
+
+### 🔍 Corrección de la v1 — 25 de agosto
+
+**Las reglas duras salieron las tres a la primera:** abrir con *Overall/In general* ✅ · cero dígitos ✅ · sin explicar el porqué ✅. Solo faltó una categoría (Business, en el bar chart).
+
+**🔴 El hallazgo:** en 2 de 3 faltó **el titular**.
+- Line graph: dijo que India subió más, no que **sigue siendo la más baja pese a ello**
+- Pie charts: dijo que las renovables *"showed rise"*, no que **adelantaron al carbón y pasaron a ser la fuente principal**
+
+> El Overview responde *"¿qué es lo más llamativo?"*, no *"¿qué pasó?"*.
+
+**Patrones nuevos que salieron de aquí → §4.9:** *than* por *that* (×2) · *the double* / *the half* con artículo (×2).
+
+**Otros:** *any* por *none* (invierte el significado) · *remained constant* con objeto · *a declined demand* · *lightly remarkable* · un empalme de comas · dos concordancias · *The fall of…* en un gráfico sin eje temporal.
+
+---
+
 ## ✍️ v2 — 27 de agosto
 
 ### Gráfico 1 — line graph
@@ -349,5 +389,5 @@ Cronómetro en **20:00**. **Bloc de notas, sin corrector.** No mirar las pistas 
 - [ ] **Task 1 nº 1** (arriba) — sábado 29
 - [ ] **Task 1 nº 2**, bar chart — domingo 30
 - [ ] **Drill de registro** si no se alcanzó el viernes: tapar los modelos, reescribir las propias frases de la v2 aplicando **una sola** de las 6 reglas, comparar al final
-- [ ] **Pegar la v1 del 25-ago** — sigue en el chat de casa
+- [x] ~~**Pegar la v1 del 25-ago**~~ ✅ archivada el 29-ago, con su corrección
 
