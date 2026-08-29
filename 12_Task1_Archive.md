@@ -381,7 +381,11 @@ Cronómetro en **20:00**. **Bloc de notas, sin corrector.** No mirar las pistas 
 
 **Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
 
-> _pendiente_
+The graph below illustrates the average use of internet in hours in the United Kingdom over the last twenty years in different age groups.
+
+Overall, it is noticeble that all the age groups showed an upward trend in the internet consumption, year by year the demand of internet was increasing despite the age of the consumer. However, this growth in use was gradually rising even more for older groups of population.
+
+In the last five years of the study, the gap between the average number of hours of internet was growing with the age of the group. The youngest group in the graph increased this number only in two while the oldest group increased this number almost twice.
 
 ---
 
