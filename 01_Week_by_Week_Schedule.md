@@ -6,36 +6,51 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — lunes 31 de agosto
+## 👉 RETOMAR AQUÍ — martes 1 de septiembre
 
-**Sáb 29 ✅** Primera **Task 1 cronometrada** — 118 palabras, ~Band 5.5. **Lun 31 ✅** corregida → ~200 palabras, ~Band 6.5.
+**Lunes 31 ✅ COMPLETO** — recuperación doble en ~55 min: Task 1 nº 2 cronometrada · AWL 101–200 · procesos y mapas.
 
-### 🔴 Los dos hallazgos
+### 🎉 El problema de extensión **queda cerrado**
 
-**1. 118 palabras de 150 — falta un párrafo entero.** Escribió **un solo** párrafo de detalle, y cubre solo los últimos cinco años.
+| | Sáb 29 | Lun 31 |
+|---|---|---|
+| Palabras | 118 ❌ | **188** ✅ |
+| Párrafos | 3 | **4** ✅ |
+| Banda | ~5.5 | **~6** |
 
-> ## **Dos párrafos de detalle, uno por mitad del período. Cuatro oraciones cada uno.**
-> 118 → ~180 **sin mejorar una sola frase.** Es la versión Task 1 de la regla que llevó el Task 2 de 182 a 270.
+**Y el titular entró al 4º intento.** También *this figure* tras cuatro sesiones de *this number*.
 
-**2. Injertar reintroduce el error.** Los párrafos tomados enteros quedaron impecables; donde cosió su texto dentro del corregido, volvieron el empalme de comas y *demand of internet*.
+**Desglose:** TA 6 · CC 6 · LR 5.5–6 · **GRA 5.5**. La frena la gramática, no las ideas.
 
-> **O se toma la versión nueva completa, o se reescribe desde cero. Coser no funciona.**
+> ### 🎯 Las dos que suben a 6.5 — ninguna requiere inglés nuevo
+> 1. **Cuatro oraciones CORTAS por párrafo de detalle.** Llegó a 188 por oraciones largas: el párrafo 4 es **una sola de 40 palabras**
+> 2. **Artículos en incontables** — *the air conditioning* ×3. §4.7 barrido 2
 
-**Y el titular faltó por 3ª vez** — aquí además invertido: escribió que la brecha *crecía* cuando se estaba cerrando. Verificar el titular **contra los datos** antes de escribirlo.
+**Repaso AWL 101–200: 1 ✗ de 100** (*undertake* — pide sustantivo, no infinitivo).
 
----
-
-## Lunes 31 (~55 min) — recuperación del domingo + lunes
+### Martes 1 de septiembre (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 20 | 🔴 **Task 1 nº 2 — bar chart, CRONOMETRADA.** Enunciado, datos, reparto de minutos y pistas en `12_Task1_Archive.md` |
-| [ ] 2 | 15 | **Repaso AWL 101–200** (flashcards) |
-| [ ] 3 | 20 | **Task 1: procesos y mapas** — voz pasiva y lenguaje de secuencia |
+| [ ] 1 | 5 | Releer **PROCESOS Y MAPAS** en `03_Writing_Module.md` — solo la parte de procesos |
+| [ ] 2 | 20 | 🔴 **Diagrama de proceso — 20 min CRONOMETRADOS** |
+| [ ] 3 | 5 | Pegar el texto en `12_Task1_Archive.md` |
 
-> 🎯 **Objetivo único del bloque 1: cuatro párrafos, dos de detalle, cuatro oraciones cada uno.** Con eso las 150 palabras llegan solas.
+> **Recordatorios del proceso:** voz **pasiva** (*is heated*, *is transferred*) · ciclos naturales en **activa** · el Overview dice **cuántas etapas** (única excepción a cero dígitos), **inicio**, **fin** y **lineal o cíclico**.
+>
+> ⚠️ **La trampa:** sin números que citar es fácil quedarse corta. **Siguen siendo 150 palabras** y **una oración completa por etapa**, no encadenadas con comas.
 
-**Reprogramación:** el proceso cronometrado del martes 1 se corre al miércoles 2; discourse markers y hedging se comprimen jue–20vie. La Semana 7 sigue cerrando el **sábado 5** con la sesión completa de 60 min.
+### Resto de la Semana 7 (reprogramada)
+
+| Día | |
+|---|---|
+| Mié 2 | Discourse markers (Unit 3) + usarlos en un párrafo |
+| Jue 3 | Hedging language (Unit 4) |
+| Vie 4 | **Mapa** — cambios entre dos períodos (20 min) |
+| **Sáb 5** | 🔴 **Sesión completa: Task 1 (20 min) + Task 2 (40 min) seguidos.** Primera prueba de resistencia |
+| Dom 6 | Revisar ambas contra los checklists · registrar patrones |
+
+**Hito de la semana:** cierre del módulo Writing. Desde la Semana 8, Writing pasa a mantenimiento (1 tarea cronometrada semanal) y entra **Reading**.
 
 ### Resto de la Semana 6
 

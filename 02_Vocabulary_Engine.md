@@ -285,6 +285,7 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 185 | **sum** | noun/verb | a total; to add up | *The sum of the individual losses exceeds the estimate.* | [x] |
 | 186 | **summary** | noun | a short account of the main points | *In summary, the proposed method is both cheaper and faster.* | [x] |
 | 187 | **undertake** | verb | to begin or commit to a task | *A comprehensive review was undertaken in 2020.* | [x] |
+| | | | 🔴 **ÚNICA ✗ del repaso 101–200 (31-ago).** Pide **sustantivo**, no infinitivo: *undertake **the design***, no *undertake **to design***. *undertake to* + verbo existe, pero es *comprometerse formalmente* — lenguaje de contratos. Verbo **institucional**: su sujeto es una empresa, un gobierno, un equipo o ella **en su rol profesional**, nunca en la vida doméstica. Irregular: undertake · undertook · undertaken | *During my thesis, I undertook **the hardware design for** the group project.* · *Very little research **has been undertaken** into this.* | |
 | 188 | **alternative** | noun/adjective | another option | *Hydrogen represents a viable alternative for heavy transport.* | [x] |
 | 189 | **circumstance** | noun | a condition or situation | *Under normal circumstances, the system requires no intervention.* | [x] |
 | 190 | **comment** | noun/verb | a remark; to give an opinion | *The authors comment briefly on the limitations of their method.* | [x] |

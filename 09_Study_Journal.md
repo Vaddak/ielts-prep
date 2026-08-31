@@ -752,3 +752,39 @@ Se cambió el bloque de *pie charts* del viernes por este drill: dos rondas sobr
 
 **Mañana:** primera **Task 1 completa cronometrada**, 20 min, line graph.
 
+---
+
+### 2026-08-31 — Semana 7, Lunes: recuperación doble
+**Módulo:** Task 1 nº 2 cronometrada · repaso AWL 101–200 · procesos y mapas · **~55 min**
+
+### ✅ El problema de extensión queda cerrado
+
+| | Sáb 29 | Lun 31 |
+|---|---|---|
+| Palabras | 118 ❌ | **188** ✅ |
+| Párrafos | 3 | **4** ✅ |
+| Tiempo | — | 19:38 |
+| Banda | ~5.5 | **~6** |
+
+**Y el titular entró al cuarto intento** — *washing machines universales frente a la variación del resto*. Tres Overviews fallándolo (25-ago, 27-ago, 29-ago) y en el cuarto sale correcto. También entró ***this figure*** tras cuatro sesiones de *this number*: el canje de registro funcionó.
+
+**Desglose del 6:** TA 6 · CC 6 · LR 5.5–6 · GRA 5.5. **Le frena la gramática, no las ideas** — que es el problema fácil. Dos cosas la suben a 6.5 y ninguna requiere inglés nuevo: **cuatro oraciones cortas por párrafo** (el párrafo 4 es una sola de 40 palabras) y **artículos en incontables** (*the air conditioning* ×3).
+
+### 🎯 Su pregunta léxica — y es la correcta
+
+> *"Sentí que repetí mucho *represent*, no se me ocurría cómo más decir que algo está presente en los hogares."*
+
+Causa: traduce *"está presente"*. **El inglés pone al hogar como sujeto activo, no al aparato.** → *households own* · *is found in* · el sustantivo **ownership** · *the widest variation lies in*. Y los extremos en una palabra: **near-universal** / **virtually absent**.
+
+### Repaso AWL 101–200: **1 ✗ de 100**
+
+Retención muy alta. La única fallada, *undertake*, resultó productiva: pide **sustantivo**, no infinitivo (*undertake the design*, no *undertake to design*), y es un verbo **institucional** — su primer intento fue *"I undertook to take my medicine"*, correcto gramaticalmente pero en el registro equivocado. Mismo tipo de desajuste que *this number* por *percentage*, al revés.
+
+Nota de método: el hueco de la práctica tenía dos guiones y ella escribió pasado simple porque *has been undertaken* son tres palabras. Hueco mal diseñado, no error suyo.
+
+### Bloque 3 — procesos y mapas
+
+Leído y confirmado. Los dos Task 1 **sin datos**: desaparece todo el léxico de tendencias y comparación, y entran **voz pasiva** y **secuencia**. Overview de proceso = número de etapas + inicio + fin + lineal/cíclico (**única excepción a la regla de cero dígitos**). Overview de mapa = el cambio de carácter + **lo que no cambió**. Todo en `03_Writing_Module.md`.
+
+**Mañana:** diagrama de proceso, 20 min cronometrados.
+

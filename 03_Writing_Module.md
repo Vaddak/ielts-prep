@@ -396,6 +396,94 @@ Changes made: *shows → illustrates / countries → nations / between 2000 and 
 
 ---
 
+### PROCESOS Y MAPAS — los dos Task 1 sin datos
+
+*Añadido el 31 de agosto.* Son los dos tipos que **no llevan números**, y eso lo cambia casi todo.
+
+| No hay | Entonces no hay |
+|---|---|
+| Números | *rose to 45 per cent* |
+| Eje temporal | *increased · declined · fluctuated* |
+| Categorías que comparar | *twice as high as* |
+
+Todo el léxico de tendencias y comparación **no se usa aquí**. Se reemplaza por **voz pasiva** y **secuencia**.
+
+---
+
+#### A. DIAGRAMAS DE PROCESO
+
+**La voz pasiva es obligatoria.** En un proceso industrial quién lo hace es irrelevante: importa qué le pasa al material.
+
+> ❌ *Workers heat the mixture to 200 degrees.*
+> ✅ *The mixture **is heated** to 200 degrees.*
+
+**Fórmula:** `el material + is/are + participio` — *is collected · is transferred · is filtered · is heated · are separated · is packaged*.
+
+⚠️ **Excepción — ciclos naturales.** Sin intervención humana va en **activa**: *water **evaporates*** · *vapour **rises** and **condenses***.
+
+**Lenguaje de secuencia**
+
+| Etapa | |
+|---|---|
+| Inicio | *Initially* · *In the first stage* · *The process begins with…* |
+| Continuación | *Next* · *Subsequently* · *Following this* · *In the next stage* |
+| Simultáneo | *At the same time* · *Meanwhile* |
+| Final | *Finally* · *In the final stage* · *The process ends when…* |
+
+**Dos estructuras que suben la banda** porque conectan etapas en vez de listarlas:
+> *Once the pulp **has been** filtered, it **is transferred** to a drying chamber.*
+> *After **being** cooled, the material **is cut** into sheets.*
+
+**El Overview de un proceso** — no hay rasgo llamativo; hay que decir tres cosas:
+
+> ## *Overall, the process **consists of X stages**, beginning with **[materia prima]** and ending with **[producto final]**. It is **[a linear / a cyclical] process** and **[requires / does not require] human intervention**.*
+
+📌 **Aquí SÍ se dice el número de etapas.** Única excepción a la regla de cero dígitos: no es un dato del gráfico, es su estructura.
+
+**Lineal vs cíclico:** ¿termina en un producto o vuelve al principio? El ciclo del agua es cíclico; fabricar cemento es lineal.
+
+**Estructura:** intro · Overview · primera mitad de las etapas · segunda mitad. Cuatro párrafos, como siempre.
+
+---
+
+#### B. MAPAS
+
+Dos planos del mismo lugar en dos momentos. El trabajo es **qué cambió**.
+
+**El tiempo verbal se decide primero**
+
+| Los dos años son pasados | Pasado simple + pasiva · *A hotel **was built*** |
+| Uno es el presente | Pasado para el antiguo, presente para el actual · *…**is now** a car park* |
+| Uno es futuro | *…**will be converted** into…* |
+
+**Vocabulario de cambio**
+
+| Qué pasó | |
+|---|---|
+| Aparece | *was built* · *was constructed* · *was erected* |
+| Desaparece | *was demolished* · *was cleared* · *was removed* |
+| Cambia de uso | *was converted into* · *was replaced by* · *was transformed into* |
+| Crece | *was extended* · *was expanded* · *underwent considerable development* |
+| No cambia | *remained unchanged* · *was retained* |
+
+**Ubicación — la mitad del trabajo:** *in the **north-east** corner* · *to the **south** of* · *along the **western** edge* · *adjacent to* · *opposite* · *surrounded by* · *on the **outskirts*** · *A **was replaced by** B* · *B **now occupies the site of** A*.
+
+**El Overview de un mapa**
+
+> ## *Overall, the area **underwent significant development** over the period, **changing from [carácter A] to [carácter B]**. The most notable change was **[el cambio mayor]**, while **[algo] remained unchanged**.*
+
+Casi siempre el titular es el mismo: **rural → urbano**, **residencial → comercial**, **industrial → turístico**.
+
+📌 **Mencionar siempre lo que NO cambió.** Distingue una descripción completa de una lista de novedades. Casi todos los mapas dejan algo intacto a propósito: el río, la carretera principal, la iglesia.
+
+---
+
+🔴 **Se mantiene:** describes lo que **VES**, nunca por qué. En un mapa la tentación es enorme — *the town grew **because of tourism*** no está en el mapa y baja la nota.
+
+⚠️ **La trampa específica de estos dos:** es muy fácil escribir **poco**, porque no hay números que citar. **Siguen siendo 150 palabras mínimo** y cuatro oraciones por párrafo de detalle. Con seis etapas, tres por párrafo: **una oración completa a cada una**, no encadenadas con comas.
+
+---
+
 ### Language of Comparison (Bar Charts, Tables, Pie Charts)
 
 **Showing the highest:**
