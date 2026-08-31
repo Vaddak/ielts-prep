@@ -379,7 +379,9 @@ Cronómetro en **20:00**. **Bloc de notas, sin corrector.** No mirar las pistas 
 
 ## ✍️ Task 1 nº 1 — texto: **PEGAR AQUÍ**
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+**Palabras: 118** — 🔴 mínimo 150. Penalización automática en Task Achievement.
+
+### v1 — 29 de agosto · **118 palabras · ~Band 5.5**
 
 The graph below illustrates the average use of internet in hours in the United Kingdom over the last twenty years in different age groups.
 
@@ -387,10 +389,25 @@ Overall, it is noticeble that all the age groups showed an upward trend in the i
 
 In the last five years of the study, the gap between the average number of hours of internet was growing with the age of the group. The youngest group in the graph increased this number only in two while the oldest group increased this number almost twice.
 
+### 🔍 Corrección — 31 de agosto
+
+**🔴 118 palabras de 150.** Misma causa que el 15-ago con las 182 del Task 2, y no es que escriba poco: **falta un párrafo entero.** Escribió **un solo** párrafo de detalle, y cubre únicamente **2020–2025**. Los quince primeros años del gráfico no aparecen — no es solo extensión, es **cobertura**.
+
+> ## La regla de Task 1
+> **Dos párrafos de detalle, uno por cada mitad del período. Cuatro oraciones cada uno.**
+> P1 → 2005–2015 · P2 → 2015–2025.
+> Con eso 118 se vuelven ~180 **sin mejorar una sola frase**. Es el equivalente en Task 1 de las *4 oraciones por párrafo* que llevaron el Task 2 de 182 a 270.
+
+**🔴 El titular volvió a faltar — 3ª vez.** El gráfico cuenta **convergencia**: en 2005 los jóvenes usaban internet doce veces más que los mayores de 65; en 2025 los cuatro grupos casi se tocan. Ella dijo que el crecimiento fue mayor en los grupos mayores — correcto, y es media respuesta — pero luego escribió *the gap **was growing** with the age of the group*, que es **la conclusión opuesta**: la brecha se estaba cerrando.
+
+**✅ Entró:** abre con *Overall* · cero dígitos en el Overview · no explica el porqué · *upward trend* · los cuatro grupos representados · **el dato de 15→27 es correcto** — cuando baja a números, acierta.
+
+**Puntuales:** *noticeble* → *noticeable* · *the internet consumption* / *the demand **of** internet* → *internet use* · *demand **for*** · *increased **this number*** ×2 → *this **figure*** (⚠️ 4ª vez, regla 2 del registro) · *only **in** two* → *by only two hours* · *groups **of population*** → *age groups* · **empalme de comas, 5ª ocurrencia**.
+
 ---
 
-## 📌 Pendientes de casa
-- [ ] **Task 1 nº 1** (arriba) — lunes 31 corregido
+### v2 — 31 de agosto · **~200 palabras · ~Band 6.5**
+
 The line graph below compares the average use of internet in hours in the United Kingdom over the last twenty years in four different age groups, from teenagers to the eldery.
 
 Overall, internet use rose substantially across all four age groups over the period, year by year the demand of internet was increasing despite the age of the consumer in each time. The most striking feature is the convergence: what began as a very wide gap between the youngest and the oldest users had almost disappeared by the end.
@@ -398,8 +415,91 @@ Overall, internet use rose substantially across all four age groups over the per
 In 2005 the differences were pronounced. Those aged 16-24 spent twelve hours per week online, three times the figure for the 45-64 group and twelve times that of people over 65, who recorded just one hour. Over the following decade all four groups grew steadily. By 2015 the youngest group had reached twenty-right hours, while the oldest had climbed to seven.
 
 The final decade saw the gap narrow sharply. Growth among the 16-24s slowed and eventually levelled off at thirty-six hours. The over-65s, by contrast, almost doubled their usage between 2020 and 2025, rising from fifteen to twenty-seven hours. By the end of the period the four groups were separated by fewer than ten hours.
-      
-- [ ] **Task 1 nº 2**, bar chart — domingo 30
+
+### 🔴 El hallazgo de la v2 — **injertar reintroduce el error**
+
+Los **dos párrafos de detalle** los tomó enteros: impecables. La **intro y el Overview** los mezcló con su texto — y ahí volvieron los errores corregidos:
+
+> *…over the period**, year by year the demand of internet was increasing despite the age of the consumer in each time**. The most striking feature…*
+
+Ese injerto trae de vuelta **el empalme de comas** y ***demand of internet***, los dos ya corregidos.
+
+> **O se toma la versión nueva completa, o se reescribe desde cero. Coser no funciona.**
+
+3ª confirmación de *copiar/editar introduce errores propios*: *twenty-**right*** por *twenty-eight* · *the **eldery*** por *the elderly*.
+
+**Quedan por aplicar:** borrar el injerto del Overview · los dos typos · la intro → *the average number of hours per week spent using the internet*.
+
+---
+
+# ⏱️ LUNES 31 — TASK 1 Nº 2, CRONOMETRADA
+
+> Autocontenido. **Objetivo único: cuatro párrafos, dos de detalle, cuatro oraciones cada uno.**
+
+## El enunciado
+
+> *The chart below shows the percentage of households in five European countries that owned selected home appliances in 2024.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+| País | Washing machine | Dishwasher | Air conditioning | Tumble dryer |
+|---|---|---|---|---|
+| Germany | 96 | 74 | 12 | 45 |
+| Spain | 98 | 51 | 68 | 22 |
+| Sweden | 94 | 82 | 5 | 61 |
+| Italy | 97 | 49 | 43 | 18 |
+| Poland | 95 | 38 | 8 | 15 |
+
+## El reparto de los 20 minutos
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** Mirar, ni una palabra. ① ¿quién arriba, quién abajo? → **agrupa** ② ¿algo se sale del patrón? → **titular** ③ ¿tensión? |
+| 1–3 | **Intro** — parafrasear el enunciado. **Una** oración |
+| 3–6 | **Overview** — **dos** oraciones · cero dígitos · los cuatro electrodomésticos representados |
+| 6–11 | **Detalle 1** — 4 oraciones. Sugerencia: los dos aparatos más extendidos |
+| 11–16 | **Detalle 2** — 4 oraciones. Los dos más desiguales |
+| **16–20** | 🔴 **Corregir.** No se escribe nada nuevo |
+
+⚠️ **Gráfico estático: no hay eje temporal.** Nada de *rise*, *fall*, *increase*. Aquí se describe **rango, agrupación y contraste**: *gap · range · accounted for · twice as high as · by contrast · the figure for*. Ese fue el error del 25-ago.
+
+**Y la regla que hunde bandas:** describes lo que **VES**. Nunca por qué. *(Este gráfico invita muchísimo a explicar el clima — no lo hagas.)*
+
+## Los 4 minutos de corrección — en este orden
+
+1. **¿Llegué a 150?** Si no: falta una oración en cada párrafo de detalle
+2. **Artículos, dos barridos** (§4.7): solo `the`, luego solo `a`/`an`
+3. **§4.9** — *that*/*than* · *double*, *half*, *a third* **sin** artículo
+4. **Ortografía y terminaciones** (§4.6). El primer instinto suele ser el correcto
+5. **Registro** — ¿algún *number*, *thing*, *very*, *a lot*? → *the **figure for*** (⚠️ 4 ocurrencias ya)
+6. **¿Dígitos en el Overview?** · **¿Los cuatro aparatos aparecen?** · **¿Expliqué algún porqué?**
+
+<details>
+<summary><b>👀 PISTAS — abrir SOLO después de escribir</b></summary>
+
+**El titular:** las lavadoras son universales — casi todos los hogares las tienen en los cinco países. **Todo lo demás varía enormemente.** Esa oposición *una constante / tres variables* es lo que hay que decir primero.
+
+**El caso que se sale del patrón:** el **aire acondicionado** — 68% en España y 43% en Italia frente a **5% en Suecia**. Es el rango más amplio de toda la tabla. Describe el contraste; **no expliques el clima**.
+
+**La segunda agrupación:** lavavajillas y secadora siguen el patrón **norte → sur**: Suecia y Alemania arriba, Italia y Polonia abajo. Polonia es la más baja en tres de los cuatro.
+
+**Léxico:** *near-universal · ownership · the figure for · by contrast · the range · fewer than one in ten · roughly two-thirds · lag behind · be virtually absent*.
+
+</details>
+
+## ✍️ Task 1 nº 2 — texto: **PEGAR AQUÍ**
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+
+> _pendiente_
+
+---
+
+## 📌 Pendientes de casa
+- [x] ~~**Task 1 nº 1**~~ ✅ escrita el 29-ago, corregida el 31
+- [ ] **Task 1 nº 2**, bar chart — corrida al **lunes 31**
 - [ ] **Drill de registro** si no se alcanzó el viernes: tapar los modelos, reescribir las propias frases de la v2 aplicando **una sola** de las 6 reglas, comparar al final
 - [x] ~~**Pegar la v1 del 25-ago**~~ ✅ archivada el 29-ago, con su corrección
 

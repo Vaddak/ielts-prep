@@ -6,49 +6,36 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — sábado 29 de agosto
+## 👉 RETOMAR AQUÍ — lunes 31 de agosto
 
-**Mié 26 ✅** AWL → **200/200** 🏁 · tendencias. **Jue 27 ✅** comparación · Overviews v2 (~6/6.5). **Vie 28 ✅** **v3 cerrada** · AWL 1–100 · drill de registro.
+**Sáb 29 ✅** Primera **Task 1 cronometrada** — 118 palabras, ~Band 5.5. **Lun 31 ✅** corregida → ~200 palabras, ~Band 6.5.
 
-### 🔴 El hallazgo del viernes — cómo entra una corrección
+### 🔴 Los dos hallazgos
 
-Corrigió los Overviews (dados **reescritos enteros**) y dejó intactas las introducciones (dadas como **tabla de arreglos**).
+**1. 118 palabras de 150 — falta un párrafo entero.** Escribió **un solo** párrafo de detalle, y cubre solo los últimos cinco años.
 
-> **Lo que se da reescrito entero, entra. Lo que se da como lista de cambios, se pierde.**
-> → Ante una tabla de correcciones: **no la leas — reescribe la frase entera desde cero** con los cambios adentro.
+> ## **Dos párrafos de detalle, uno por mitad del período. Cuatro oraciones cada uno.**
+> 118 → ~180 **sin mejorar una sola frase.** Es la versión Task 1 de la regla que llevó el Task 2 de 182 a 270.
 
-Y: **copiar introduce errores propios** (*occupying* → *bocupying*). La pasada de ortografía aplica también al texto copiado.
+**2. Injertar reintroduce el error.** Los párrafos tomados enteros quedaron impecables; donde cosió su texto dentro del corregido, volvieron el empalme de comas y *demand of internet*.
 
-### 🎩 Registro académico — las 6 sustituciones
+> **O se toma la versión nueva completa, o se reescribe desde cero. Coser no funciona.**
 
-Autodiagnóstico suyo. Explica *number* por *percentage*: **fue registro, no distracción**. Tabla completa en `03_Writing_Module.md`.
+**Y el titular faltó por 3ª vez** — aquí además invertido: escribió que la brecha *crecía* cuando se estaba cerrando. Verificar el titular **contra los datos** antes de escribirlo.
 
 ---
 
-## ⏱️ SÁBADO 29 — **primera Task 1 completa, cronometrada**
+## Lunes 31 (~55 min) — recuperación del domingo + lunes
 
-**20 minutos · 150+ palabras · line graph.** Primera vez con las tres partes juntas.
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 20 | 🔴 **Task 1 nº 2 — bar chart, CRONOMETRADA.** Enunciado, datos, reparto de minutos y pistas en `12_Task1_Archive.md` |
+| [ ] 2 | 15 | **Repaso AWL 101–200** (flashcards) |
+| [ ] 3 | 20 | **Task 1: procesos y mapas** — voz pasiva y lenguaje de secuencia |
 
-| Min | Qué |
-|---|---|
-| **0–1** | ⏱️ **Los 60 segundos.** Mirar, ni una palabra escrita. ① ¿quién sube/baja? ② ¿cruce, inversión, desaparición? ③ ¿tensión? |
-| 1–3 | **Intro** — parafrasear el enunciado. **Una** oración |
-| 3–6 | **Overview** — **dos** oraciones · cero dígitos · todas las categorías |
-| 6–16 | **Dos párrafos de detalle** — aquí **sí** van los números |
-| **16–20** | 🔴 **Corregir.** No se escribe nada nuevo |
+> 🎯 **Objetivo único del bloque 1: cuatro párrafos, dos de detalle, cuatro oraciones cada uno.** Con eso las 150 palabras llegan solas.
 
-**Los 4 minutos finales no son opcionales.** El 22-ago no existieron: doce errores cazables que nadie cazó.
-
-**La regla que hunde bandas:** describes lo que **VES**. Nunca por qué. Nunca opinas.
-
-**Checklist de cierre (los 4 min):** artículos en dos barridos (§4.7) · *that*/*than* y *double*/*half* sin artículo (§4.9) · ortografía y plurales (§4.6) · ¿dígitos en el Overview? · ¿falta alguna categoría?
-
-🔴 **Tecleada, en Bloc de notas, sin corrector. El texto se pega en `12_Task1_Archive.md`.**
-
-> 📊 **El gráfico, el enunciado, las pistas y el checklist están en `12_Task1_Archive.md`**, sección *SÁBADO 29*. Autocontenido: no hace falta el chat.
-
-### Domingo 30
-Task 1 sobre **bar chart** (20 min), mismo reparto.
+**Reprogramación:** el proceso cronometrado del martes 1 se corre al miércoles 2; discourse markers y hedging se comprimen jue–20vie. La Semana 7 sigue cerrando el **sábado 5** con la sesión completa de 60 min.
 
 ### Resto de la Semana 6
 
