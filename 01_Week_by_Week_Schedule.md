@@ -32,7 +32,7 @@
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 5 | Releer **PROCESOS Y MAPAS** en `03_Writing_Module.md` — solo la parte de procesos |
+| [ ] 1 | 5 | Releer **PROCESOS Y MAPAS** en `03_Writing_Module.md` (reglas) + el **BANCO LÉXICO** al final de `02_Vocabulary_Engine.md` (palabras) — solo la parte de procesos |
 | [ ] 2 | 20 | 🔴 **Diagrama de proceso — 20 min CRONOMETRADOS** |
 | [ ] 3 | 5 | Pegar el texto en `12_Task1_Archive.md` |
 

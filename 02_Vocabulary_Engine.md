@@ -550,3 +550,113 @@ Every Sunday, spend 10 minutes on this:
 5. Write 3 sentences using words you marked `[~]` to move them to `[x]`
 
 The goal is not to memorise definitions. The goal is to **use** these words naturally in your Writing and Speaking.
+
+---
+
+# 🔧 BANCO LÉXICO — PROCESOS Y MAPAS
+
+*Añadido el 31 de agosto, a petición suya. Organizado **por función**, no alfabético: bajo cronómetro no sirve una lista, sirve saber **dónde buscar**.*
+
+Complementa la sección **PROCESOS Y MAPAS** de `03_Writing_Module.md`, que trae las reglas; esto trae las palabras.
+
+---
+
+## A. PROCESOS
+
+### A1. Verbos en pasiva, por tipo de etapa
+
+| Etapa | Verbos |
+|---|---|
+| **Entrada / recolección** | *is collected · is gathered · is extracted · is harvested · is delivered · is fed into · is loaded into* |
+| **Transformación** | *is converted into · is transformed into · is processed · is treated · is refined · is broken down · is ground · is crushed · is shredded · is compressed* |
+| **Separación** | *is filtered · is separated · is sifted · is strained · impurities are removed* |
+| **Unión / mezcla** | *is mixed with · is blended · is combined with · is added to · is bonded* |
+| **Calor y frío** | *is heated · is baked · is fired · is melted · is dried · is cooled · is chilled · is frozen · is left to cool* |
+| **Movimiento** | *is transferred to · is transported · is pumped into · is channelled · is directed towards · is carried along* |
+| **Almacenamiento** | *is stored · is held · is deposited · is contained in* |
+| **Salida** | *is packaged · is bottled · is sealed · is labelled · is distributed · is dispatched · is released* |
+| **Control** | *is monitored · is inspected · is tested · is graded · is sorted* |
+
+### A2. Secuencia — no repetir *then*
+
+| | |
+|---|---|
+| **Inicio** | *Initially · At the first stage · The process begins with · The raw material enters the cycle when…* |
+| **Continuación** | *Subsequently · Following this · Next · In the following stage · Thereafter · At this point* |
+| **⭐ Condicional / encadenado** | *Once X **has been** [participio], it is… · After **being** [participio], the material… · When this stage is complete…* |
+| **Simultáneo** | *At the same time · Meanwhile · Simultaneously · In parallel with this* |
+| **Final** | *Finally · In the final stage · The process is complete when… · The cycle then repeats* |
+
+⭐ **Las de esa fila suben la banda:** conectan dos etapas en vez de listarlas.
+
+### A3. Propósito y resultado
+
+> *…**in order to** remove impurities* · *…**so that** the material can be reused*
+> *…**resulting in** a finer powder* · *…**which produces** a smoother finish* · *…**thereby reducing** waste*
+
+### A4. Equipo y lugar
+
+*a chamber · a tank · a container · a conveyor belt · a furnace · a mould · a press · a filter · a hopper · a pipeline · a treatment plant · a storage facility*
+
+### A5. Hablar del diagrama en sí
+
+> *The process **comprises** six main stages* · *…**consists of** four stages*
+> *The material **undergoes** several treatments*
+> *This is **a linear process*** / *…**a cyclical process** which repeats indefinitely*
+> *The process **requires** considerable human intervention* / *…**occurs naturally**, without human involvement*
+
+---
+
+## B. MAPAS
+
+### B1. Verbos de cambio
+
+| Cambio | Verbos |
+|---|---|
+| **Aparece** | *was built · was constructed · was erected · was established · was introduced · appeared* |
+| **Desaparece** | *was demolished · was knocked down · was cleared · was removed · disappeared · was pulled down* |
+| **⭐ Cambia de uso** | *was converted into · was replaced by · was transformed into · was turned into · made way for · gave way to* |
+| **Crece** | *was extended · was expanded · was enlarged · was widened · underwent development · was developed into* |
+| **Se reduce** | *was reduced in size · was cut back · shrank* |
+| **⭐ No cambia** | *remained unchanged · was retained · was left intact · remained in place* |
+
+### B2. Ubicación
+
+| | |
+|---|---|
+| **Cardinales** | *to the north of · in the south-western corner · along the eastern edge · on the northern side* |
+| **Relativa** | *adjacent to · next to · opposite · beside · surrounded by · in the centre of · on the outskirts of · on the site of · overlooking* |
+| **Distancia** | *a short distance from · immediately to the west of · at some distance from* |
+| **⭐ Sustitución** | *A **was replaced by** B* · *B **now occupies the site of** A* · *B **now stands where** A once did* |
+
+### B3. Sustantivos del paisaje
+
+*farmland · woodland · open space · residential area · housing estate · industrial estate · retail park · amenities · infrastructure · the town centre · the outskirts · a footpath · a ring road · a roundabout · a pedestrian zone*
+
+### B4. Grado del cambio
+
+> *The area underwent **considerable / extensive / dramatic / significant** development.*
+> *The site changed **only marginally** over the period.*
+> *The northern half was **completely redeveloped**, whereas the south **saw little change**.*
+
+---
+
+## 🎯 Las 12 de emergencia
+
+| Procesos | Mapas |
+|---|---|
+| *is collected* | *was built* |
+| *is transferred to* | *was demolished* |
+| *is converted into* | *was converted into* |
+| *once X has been…* | *was replaced by* |
+| *consists of X stages* | *remained unchanged* |
+| *the cycle then repeats* | *underwent significant development* |
+
+---
+
+## ⚠️ Dos advertencias
+
+**1. Pasiva sí, pero no en todas las oraciones.** Diez seguidas de *is + participio* hunden el Grammatical Range. Alternar: *Once the pulp **has been filtered**, it **passes** into a drying chamber* — una pasiva y una activa en la misma frase.
+
+**2. Ninguna de estas palabras explica un porqué.** Son todas descriptivas, y así debe ser. Si aparece *because* o *due to*, es señal de haberse salido de la tarea.
+
