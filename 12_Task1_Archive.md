@@ -493,7 +493,15 @@ Ese injerto trae de vuelta **el empalme de comas** y ***demand of internet***, l
 
 **Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
 
-> _pendiente_
+The chart below illustrates the percentage of houses in five European nations that own different four home appliances in the year 2024.
+
+Overall, it is noticeable that home appliances such as the washing machine are in most of the households despite the country, whereas others such as the air conditioning are present with a wider range, where some countries have a minimun figure of it.
+
+While homes that own a washing machine go from 94 to 97 per cent, other appliances present a wider gap across the five different countries. The widest gap is represented in the households that own an air conditioning, almost seventy per cent of houses in Spain have an air conditioning whereas in Sweden this figure is fourteen times smaller and in Poland only eight of 100 households have it. 
+
+The other two home appliances present a gap not that wide in contrast with the air conditioning, but while the dishwasher is owned more than the doubled in countries such as Spain and Poland than the Tumble dryer, the tumble dryer remains being more present in almost all the countries that the air conditioning.
+
+
 
 ---
 
