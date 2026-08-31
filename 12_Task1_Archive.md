@@ -492,14 +492,13 @@ Ese injerto trae de vuelta **el empalme de comas** y ***demand of internet***, l
 ## ✍️ Task 1 nº 2 — texto: **PEGAR AQUÍ**
 
 **Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+The chart compares the percentage of households in five European countries that owned four selected home appliances in 2024.
 
-The chart below illustrates the percentage of houses in five European nations that own different four home appliances in the year 2024.
+Overall, washing machines are near-universal across all five countries, while ownership of the other three appliances varies considerably. The widest variation by far lies in air conditioning, which is common in southern Europe but virtually absent in the north.
 
-Overall, it is noticeable that home appliances such as the washing machine are in most of the households despite the country, whereas others such as the air conditioning are present with a wider range, where some countries have a minimun figure of it.
+Washing machines show almost no variation, ranging from 94 per cent in Sweden to 98 per cent in Spain. Air conditioning, by contrast, shows the widest spread in the chart. Roughly two-thirds of Spanish households own one and 43 per cent of Italian households do so, whereas the figure falls to 12 per cent in Germany and just 8 per cent in Poland. In Sweden the appliance is almost unheard of, at 5 per cent.
 
-While homes that own a washing machine go from 94 to 97 per cent, other appliances present a wider gap across the five different countries. The widest gap is represented in the households that own an air conditioning, almost seventy per cent of houses in Spain have an air conditioning whereas in Sweden this figure is fourteen times smaller and in Poland only eight of 100 households have it. 
-
-The other two home appliances present a gap not that wide in contrast with the air conditioning, but while the dishwasher is owned more than the doubled in countries such as Spain and Poland than the Tumble dryer, the tumble dryer remains being more present in almost all the countries that the air conditioning.
+The remaining two appliances follow a north-south pattern. Dishwasher ownership is highest in Sweden and Germany, at 82 and 74 per cent respectively, and lowest in Poland at 38 per cent. Tumble dryers are less common everywhere, ranging from 61 per cent in Sweden down to 15 per cent in Polan. In both cases the northern countries lead and Polan records the lowest figure.
 
 
 
