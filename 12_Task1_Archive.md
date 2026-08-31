@@ -410,9 +410,9 @@ In the last five years of the study, the gap between the average number of hours
 
 The line graph below compares the average use of internet in hours in the United Kingdom over the last twenty years in four different age groups, from teenagers to the eldery.
 
-Overall, internet use rose substantially across all four age groups over the period, year by year the demand of internet was increasing despite the age of the consumer in each time. The most striking feature is the convergence: what began as a very wide gap between the youngest and the oldest users had almost disappeared by the end.
+Overall, internet use rose substantially across all four age groups over the period. Year by year the internet use was increasing despite the age of the consumer in each time. The most striking feature is the convergence: what began as a very wide gap between the youngest and the oldest users had almost disappeared by the end.
 
-In 2005 the differences were pronounced. Those aged 16-24 spent twelve hours per week online, three times the figure for the 45-64 group and twelve times that of people over 65, who recorded just one hour. Over the following decade all four groups grew steadily. By 2015 the youngest group had reached twenty-right hours, while the oldest had climbed to seven.
+In 2005 the differences were pronounced. Those aged 16-24 spent twelve hours per week online, three times the figure for the 45-64 group and twelve times that of people over 65, who recorded just one hour. Over the following decade all four groups grew steadily. By 2015 the youngest group had reached twenty-eight hours, while the oldest had climbed to seven.
 
 The final decade saw the gap narrow sharply. Growth among the 16-24s slowed and eventually levelled off at thirty-six hours. The over-65s, by contrast, almost doubled their usage between 2020 and 2025, rising from fifteen to twenty-seven hours. By the end of the period the four groups were separated by fewer than ten hours.
 
