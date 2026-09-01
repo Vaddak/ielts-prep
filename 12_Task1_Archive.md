@@ -535,13 +535,13 @@ The remaining two appliances follow a north-south pattern. Dishwasher ownership 
 
 ## ✍️ v1 — 1 de septiembre · **170 palabras · Band 6**
 
-The diagram below illustrates the standard process to convert waste paper into recycled paper.
+The diagram below illustrates the standar process to convert waste paper into reclyced paper.
 
-Overall, the process consists of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. It is a linear process and requires human intervention.
+Overall, the process consist of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. Iti s a cyclical process because the paper can be recycled multiple times and requires human intervention.
 
-In the first stage the paper is collected from houses and offices to the recycling factory. Once its collection has been done the sorting process starts, in this part of the process the workers retire plastic and other remaining elements. After being classified, the paper goes to a tank with water and chemical agents that converts it in pulp. Subsequently, a filter removes polluting particles in the pulp.
+In the first stage the paper is collected from houses and offices to the recycling factory. Once its collection has been done the sorting process starts, in this part of the process the workers retire plastic and other remaining elements. After being classified, the paper goes to a tank with water and chelmical agents that converts it in Pulp. Subsequently, a filter removes polluting particules in the Pulp.
 
-Following this, the ink present in the pulp is taken away using highly-pressured air. After de-inking process, the pulp is extended on a grid and dryed using hot rollers. In the final stage  these dried sheets are divided in standard sizes and packaged, ready to be transported distributed.
+Following this, the ink present in the Pulp is taken away using highly-pressured air. After de-inking process, the Pulp is extended on a grid and dryed using hot rollers. In the final stage  these dryed sheets are divided in standar sizes and packaged, ready to be transported distributed.
 
 ---
 
@@ -622,10 +622,57 @@ Casi todas son **palabras nuevas del banco léxico del 31-ago**: cuando una pala
 
 ---
 
-## ✍️ v2 — PEGAR AQUÍ
+## ✍️ v2 — 1 de septiembre
 
-> 🔴 **No coser.** O se toma el modelo completo, o se reescribe desde cero (hallazgo del 28 y 31 de agosto).
-> Lo más productivo: **reescribir el Overview desde cero** — *linear*, sin *because* — y aplicar el resto sobre el propio texto.
+*Escrita en Word para usar el contador de palabras.*
 
-> _pendiente_
+The diagram below illustrates the standard process to convert waste paper into recycled paper.
+
+Overall, the process consists of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. It is a linear process and requires human intervention.
+
+In the first stage the paper is collected from houses and offices to the recycling factory. Once its collection has been done the sorting process starts, in this part of the process the workers retire plastic and other remaining elements. After being classified, the paper goes to a tank with water and chemical agents that converts it in pulp. Subsequently, a filter removes polluting particles in the pulp.
+
+Following this, the ink present in the pulp is taken away using highly-pressured air. After de-inking process, the pulp is extended on a grid and dryed using hot rollers. In the final stage  these dried sheets are divided in standard sizes and packaged, ready to be transported distributed.
+
+### ✅ Corregido
+
+*standard · recycled · chemical · particles · pulp* en minúscula · *consists* · *It is* — y **el Overview completo: *linear*, sin *because***. Ese párrafo queda bien.
+
+### 🔴 Lo que sobrevivió — y por qué importa cuáles
+
+| # | Como está | Como debe quedar |
+|---|---|---|
+| 1 | the workers **retire** plastic | the workers **remove** plastic — **el falso amigo** |
+| 2 | …the sorting process starts**,** in this part… | punto. **Empalme, 7ª vez** |
+| 3 | and **dryed** using hot rollers | **dried** — corrigió el segundo, no el primero |
+| 4 | collected from houses and offices **to** the factory | collected from **homes** and offices **and transported to** the factory |
+| 5 | converts it **in** pulp | converts it **into** pulp |
+| 6 | After ___ de-inking process | After **the** de-inking process |
+| 7 | **extended on a grid** | **spread onto a mesh screen** |
+| 8 | divided **in** standard sizes | **cut into** standard sizes |
+| 9 | ready to be **transported distributed** | ready to be **distributed** — sobra un verbo |
+
+*(y un espacio doble en "final stage  these")*
+
+> ## 🖥️ Los que corrigió son los que **Word subraya en rojo**. Los nueve que quedan **no los detecta ningún corrector**.
+>
+> *retire* es una palabra inglesa válida · *in* por *into* es gramática · el empalme es puntuación.
+>
+> **Y el examen no tiene Word.** Los errores que sobrevivieron hoy son exactamente la clase de error con la que estará sola el 7 de noviembre.
+>
+> **Solución — conservar el contador, quitar la ayuda:**
+> Word → **Archivo → Opciones → Revisión** → desmarcar *“Revisar ortografía mientras escribe”* y *“Revisar gramática mientras escribe”*. En **Opciones de Autocorrección**, desmarcar *“Poner en mayúscula la primera letra”* — eso fue lo que convirtió *pulp* en *Pulp*.
+
+> ## 📌 3ª confirmación, ahora más precisa: **lo que va en tabla se hace; lo que va en prosa corrida, no.**
+>
+> Los nueve que quedaron estaban **todos** en un párrafo mío titulado *“Otros puntuales”*, encadenados con puntos medios. Los que sí hizo estaban en tablas o encabezados. **Error de formato mío, no de atención suya.** De aquí en adelante: correcciones en tabla, siempre.
+
+### ⚠️ Nota de archivo
+Editó la v1 en vez de crear la v2, lo que borraba la línea base. **v1 restaurada desde el commit `9b39a2e`.** Regla: **la v1 nunca se toca** — sin el original no hay contra qué comparar.
+
+---
+
+## ✍️ v3 — pendiente
+
+*(Aplicar los nueve de la tabla. Uno por uno, tachando en la tabla a medida que entran.)*
 

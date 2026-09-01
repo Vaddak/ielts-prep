@@ -6,39 +6,42 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 1 de septiembre
+## 👉 RETOMAR AQUÍ — miércoles 2 de septiembre
 
-**Lunes 31 ✅ COMPLETO** — recuperación doble en ~55 min: Task 1 nº 2 cronometrada · AWL 101–200 · procesos y mapas.
+**Martes 1 ✅** Diagrama de proceso cronometrado — **170 palabras · Band 6** · v2 corregida.
 
-### 🎉 El problema de extensión **queda cerrado**
+### ⭐ Lo mejor: **Coherence & Cohesion 6.5**
 
-| | Sáb 29 | Lun 31 |
-|---|---|---|
-| Palabras | 118 ❌ | **188** ✅ |
-| Párrafos | 3 | **4** ✅ |
-| Banda | ~5.5 | **~6** |
+Seis marcadores de secuencia distintos, **ni un solo *then***, al primer intento. Incluye *After being classified* — la estructura ⭐ del banco léxico.
 
-**Y el titular entró al 4º intento.** También *this figure* tras cuatro sesiones de *this number*.
+**Desglose:** TA 5.5 · **CC 6.5** · LR 5.5 · GRA 6.
 
-**Desglose:** TA 6 · CC 6 · LR 5.5–6 · **GRA 5.5**. La frena la gramática, no las ideas.
+### 🔴 Las dos reglas del día
 
-> ### 🎯 Las dos que suben a 6.5 — ninguna requiere inglés nuevo
-> 1. **Cuatro oraciones CORTAS por párrafo de detalle.** Llegó a 188 por oraciones largas: el párrafo 4 es **una sola de 40 palabras**
-> 2. **Artículos en incontables** — *the air conditioning* ×3. §4.7 barrido 2
+> **¿Hay una flecha que vuelva a la primera caja? No → *linear*.**
+> **Y si aparece *because*, te saliste de la tarea.**
 
-**Repaso AWL 101–200: 1 ✗ de 100** (*undertake* — pide sustantivo, no infinitivo).
+Escribió *a cyclical process **because** the paper can be recycled multiple times*: error factual **y** explicación, en la misma frase. Las dos son lo mismo — salirse de lo que se ve. Ya corregido en la v2.
 
-### Martes 1 de septiembre (~30 min)
+🆕 **Falso amigo:** *retire* → ***remove***. *Retire* es **jubilarse**. §4.5
+
+### 🖥️ Word: quitar la ayuda, conservar el contador
+
+Escribió la v2 en Word por el contador de palabras, y **corrigió exactamente lo que Word subraya en rojo**. Los nueve que quedaron — *retire*, el empalme, *in* por *into* — **ningún corrector los detecta**. Y el examen no tiene Word.
+
+> **Archivo → Opciones → Revisión** → desmarcar *“Revisar ortografía/gramática mientras escribe”*. En **Autocorrección**, desmarcar *“Poner en mayúscula la primera letra”* (convirtió *pulp* en *Pulp*).
+
+📌 **3ª confirmación:** lo que va en **tabla** se hace; lo que va en **prosa corrida**, no. Correcciones siempre en tabla.
+
+### Pendiente
+- [ ] **v3** del proceso — los 9 de la tabla en `12_Task1_Archive.md`
+
+### Miércoles 2 (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 5 | Releer **PROCESOS Y MAPAS** en `03_Writing_Module.md` (reglas) + el **BANCO LÉXICO** al final de `02_Vocabulary_Engine.md` (palabras) — solo la parte de procesos |
-| [ ] 2 | 20 | 🔴 **Diagrama de proceso — 20 min CRONOMETRADOS** |
-| [ ] 3 | 5 | Pegar el texto en `12_Task1_Archive.md` |
-
-> **Recordatorios del proceso:** voz **pasiva** (*is heated*, *is transferred*) · ciclos naturales en **activa** · el Overview dice **cuántas etapas** (única excepción a cero dígitos), **inicio**, **fin** y **lineal o cíclico**.
->
-> ⚠️ **La trampa:** sin números que citar es fácil quedarse corta. **Siguen siendo 150 palabras** y **una oración completa por etapa**, no encadenadas con comas.
+| [ ] 1 | 15 | **Discourse markers** (Unit 3 completa) en `02_Vocabulary_Engine.md` |
+| [ ] 2 | 15 | Usarlos en **un párrafo de prueba** |
 
 ### Resto de la Semana 7 (reprogramada)
 

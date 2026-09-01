@@ -469,6 +469,19 @@ El mismo instinto que produce *laboral* produce plurales que no existen. En ingl
 
 ---
 
+> ### 🆕 *retire* — falso amigo nuevo (1-sep)
+>
+> ❌ *The workers **retire** plastic and other elements.* → ✅ *The workers **remove** plastics and other contaminants.*
+>
+> | Español | Inglés |
+> |---|---|
+> | **retirar** (quitar, extraer) | **remove** · *take out* · *extract* · *skim off* |
+> | **jubilarse** | **retire** — solo eso |
+>
+> En Task 1 de procesos es de alta frecuencia: *impurities **are removed*** · *the ink **is skimmed off***.
+
+---
+
 > ### 🆕 *experimented* — falso amigo nuevo (27-ago)
 >
 > ❌ *Renewables **experimented** an upward trend.* → ✅ *Renewables **experienced** an upward trend.*
