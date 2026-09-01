@@ -630,9 +630,9 @@ The diagram below illustrates the standard process to convert waste paper into r
 
 Overall, the process consists of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. It is a linear process and requires human intervention.
 
-In the first stage the paper is collected from houses and offices to the recycling factory. Once its collection has been done the sorting process starts, in this part of the process the workers retire plastic and other remaining elements. After being classified, the paper goes to a tank with water and chemical agents that converts it in pulp. Subsequently, a filter removes polluting particles in the pulp.
+In the first stage the paper is collected from houses and offices and transported to the recycling factory. Once its collection has been done the sorting process starts. In this part of the process the workers remove plastic and other remaining elements. After being classified, the paper goes to a tank with water and chemical agents that converts it into pulp. Subsequently, a filter removes polluting particles in the pulp.
 
-Following this, the ink present in the pulp is taken away using highly-pressured air. After de-inking process, the pulp is extended on a grid and dryed using hot rollers. In the final stage  these dried sheets are divided in standard sizes and packaged, ready to be transported distributed.
+Following this, the ink present in the pulp is taken away using highly-pressured air. After the de-inking process, the pulp is spread onto a mesh screen dried using hot rollers. In the final stage  these dried sheets are cut into in standard sizes and packaged, ready to be distributed.
 
 ### ✅ Corregido
 
