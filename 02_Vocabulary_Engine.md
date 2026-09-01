@@ -589,6 +589,38 @@ Complementa la sección **PROCESOS Y MAPAS** de `03_Writing_Module.md`, que trae
 
 ⭐ **Las de esa fila suben la banda:** conectan dos etapas en vez de listarlas.
 
+### ⭐ A2b. Preposiciones de movimiento — `into` / `onto`
+
+*Añadido el 1 de septiembre, a raíz de *spread onto*.*
+
+El español dice **en** para todo. El inglés obliga a decidir si algo **llega** o si algo **está**:
+
+> ## ¿Movimiento hacia un destino? → **`into` / `onto`**
+> ## ¿Posición estática? → **`in` / `on`**
+
+| | | |
+|---|---|---|
+| **onto** | movimiento hacia una superficie | *The pulp is spread **onto** a mesh screen* |
+| **on** | posición, ya está ahí | *The pulp lies **on** the screen* |
+| **over** | cobertura de un área | *The mixture is spread **over** the surface* |
+
+⚠️ **En un diagrama de proceso casi siempre hay movimiento** — el material va de una etapa a la siguiente. Por eso `into` y `onto` dominan ahí.
+
+Sus dos errores del 1-sep son este mismo patrón: *converts it **in** pulp* → ***into*** · *divided **in** standard sizes* → *cut **into***. Ver también §4.5 en `10_Grammar_Quick_Reference.md`.
+
+| | |
+|---|---|
+| *is poured **into** a tank* | *is fed **into** a machine* |
+| *is placed **onto** a conveyor belt* | *is sprayed **onto** the surface* |
+| *is transferred **to** the next stage* | *is passed **through** a filter* |
+| *is laid out **on** a flat surface* | *is loaded **into** a container* |
+
+**🔴 *spread* es irregular y NO cambia:** spread · **spread** · **spread**. Nada de *spreaded*. *(Relevante: el 1-sep escribió *dryed* por *dried* — ante un verbo nuevo, el instinto es añadir `-ed`.)*
+
+**Familia de *spread*:** *spread onto* · *is applied to* · *is distributed evenly across* · *forms a thin layer on*.
+
+---
+
 ### A3. Propósito y resultado
 
 > *…**in order to** remove impurities* · *…**so that** the material can be reused*
