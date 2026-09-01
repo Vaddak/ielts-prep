@@ -535,13 +535,13 @@ The remaining two appliances follow a north-south pattern. Dishwasher ownership 
 
 ## ✍️ v1 — 1 de septiembre · **170 palabras · Band 6**
 
-The diagram below illustrates the standar process to convert waste paper into reclyced paper.
+The diagram below illustrates the standard process to convert waste paper into recycled paper.
 
-Overall, the process consist of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. Iti s a cyclical process because the paper can be recycled multiple times and requires human intervention.
+Overall, the process consists of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. It is a linear process and requires human intervention.
 
-In the first stage the paper is collected from houses and offices to the recycling factory. Once its collection has been done the sorting process starts, in this part of the process the workers retire plastic and other remaining elements. After being classified, the paper goes to a tank with water and chelmical agents that converts it in Pulp. Subsequently, a filter removes polluting particules in the Pulp.
+In the first stage the paper is collected from houses and offices to the recycling factory. Once its collection has been done the sorting process starts, in this part of the process the workers retire plastic and other remaining elements. After being classified, the paper goes to a tank with water and chemical agents that converts it in pulp. Subsequently, a filter removes polluting particles in the pulp.
 
-Following this, the ink present in the Pulp is taken away using highly-pressured air. After de-inking process, the Pulp is extended on a grid and dryed using hot rollers. In the final stage  these dryed sheets are divided in standar sizes and packaged, ready to be transported distributed.
+Following this, the ink present in the pulp is taken away using highly-pressured air. After de-inking process, the pulp is extended on a grid and dryed using hot rollers. In the final stage  these dried sheets are divided in standard sizes and packaged, ready to be transported distributed.
 
 ---
 
