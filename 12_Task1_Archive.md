@@ -510,3 +510,122 @@ The remaining two appliances follow a north-south pattern. Dishwasher ownership 
 - [ ] **Drill de registro** si no se alcanzó el viernes: tapar los modelos, reescribir las propias frases de la v2 aplicando **una sola** de las 6 reglas, comparar al final
 - [x] ~~**Pegar la v1 del 25-ago**~~ ✅ archivada el 29-ago, con su corrección
 
+---
+
+# ⚙️ MARTES 1 SEP — TASK 1 Nº 3: DIAGRAMA DE PROCESO
+
+## El enunciado
+
+> *The diagram below shows the process by which recycled paper is produced from waste paper.*
+>
+> *Summarise the information by selecting and reporting the main features.* **150+ palabras · 20 minutos.**
+
+**Las ocho etapas:**
+
+1. **Waste paper collection** — recogido de hogares y oficinas → llevado en camión a la planta
+2. **Sorting** — separado a mano en cinta transportadora; se retiran plásticos, grapas y contaminantes
+3. **Pulping** — a un tanque grande con agua y químicos → se convierte en *pulp*
+4. **Screening** — la pasta pasa por filtros que retiran partículas restantes
+5. **De-inking** — se inyecta aire; la tinta sube como espuma y se retira
+6. **Drying and rolling** — la pasta se extiende sobre una malla, se prensa entre rodillos calientes y se seca
+7. **Cutting and packaging** — las hojas se cortan a medida y se empacan
+8. **Distribution** — enviado a los comercios
+
+---
+
+## ✍️ v1 — 1 de septiembre · **170 palabras · Band 6**
+
+The diagram below illustrates the standar process to convert waste paper into reclyced paper.
+
+Overall, the process consist of eight stages, beginning with waste paper collection and ending with its distribution once it is ready to use. Iti s a cyclical process because the paper can be recycled multiple times and requires human intervention.
+
+In the first stage the paper is collected from houses and offices to the recycling factory. Once its collection has been done the sorting process starts, in this part of the process the workers retire plastic and other remaining elements. After being classified, the paper goes to a tank with water and chelmical agents that converts it in Pulp. Subsequently, a filter removes polluting particules in the Pulp.
+
+Following this, the ink present in the Pulp is taken away using highly-pressured air. After de-inking process, the Pulp is extended on a grid and dryed using hot rollers. In the final stage  these dryed sheets are divided in standar sizes and packaged, ready to be transported distributed.
+
+---
+
+## 🔍 Corrección
+
+### ⭐ Lo mejor del día — los conectores de secuencia son de banda 7
+
+> *In the first stage… · Once its collection has been done… · **After being classified**… · Subsequently… · Following this… · In the final stage…*
+
+**Seis marcadores distintos, ninguno repetido, ni un solo *then*** — y al primer intento. Incluye la estructura ⭐ del banco (*After being* + participio), que conecta etapas en vez de listarlas. La pasiva también está bien distribuida.
+
+Las ocho etapas cubiertas · cuatro párrafos · 170 palabras. **Tres cronometradas seguidas con la estructura resuelta.**
+
+### 🔴 El Overview — dos violaciones en una frase
+
+> *"It is **a cyclical process because** the paper can be recycled multiple times…"*
+
+**1. Es LINEAL, no cíclico.** Empieza en papel usado y termina en papel distribuido; **no hay flecha de retorno**. Cíclico es el agua: evapora → condensa → llueve → evapora.
+
+**2. *because* — explicó un porqué.** Y *"el papel puede reciclarse muchas veces"* **no está en el diagrama**: es conocimiento del mundo. Razónó hacia afuera del gráfico.
+
+Las dos son lo mismo: **salirse de lo que se ve.**
+
+> ## Test: **¿hay una flecha que vuelva a la primera caja?** No → ***linear***.
+> ## Y si aparece ***because***, se salió de la tarea.
+
+### 🔴 Falso amigo nuevo — *retire*
+
+> *the workers **retire** plastic*
+
+***retirar* → to remove.** *Retire* en inglés es **jubilarse**. Tercer falso amigo del mes, tras *experimented* y *motive*. → §4.5
+
+### 🔴 Empalme de comas — **7ª ocurrencia**
+
+> *…the sorting process starts**,** in this part of the process the workers…*
+
+### 🟠 Ortografía — 7 en 170 palabras, la densidad más alta hasta ahora
+
+Casi todas son **palabras nuevas del banco léxico del 31-ago**: cuando una palabra es reciente, la mano no la tiene automatizada.
+
+| ❌ | ✅ |
+|---|---|
+| standar ×2 | **standard** |
+| reclyced | **recycled** |
+| dryed ×2 | **dried** *(y → i)* |
+| chelmical | **chemical** |
+| particules | **particles** |
+| consist | **consists** *(concordancia)* |
+| Iti s | **It is** |
+| *Pulp* ×4 mayúscula | **pulp** — no es nombre propio |
+
+### Otros puntuales
+
+*collected from houses and offices **to** the factory* (dos ideas mezcladas) → *collected from homes and offices **and transported to*** · *converts it **in** Pulp* → ***into** pulp* · *taken away* → *removed* · *After ___ de-inking process* → *After **the** de-inking process* · *extended on a grid* → *spread onto a mesh screen* · *divided **in** standar sizes* → *cut **into** standard sizes* · *ready to be transported distributed* — edición incompleta, dos verbos.
+
+### 🎯 Versión modelo — ~215 palabras
+
+> The diagram illustrates the process by which waste paper is converted into recycled paper.
+>
+> Overall, the process consists of eight stages, beginning with the collection of waste paper and ending with the distribution of the finished product. It is a linear process which requires a significant degree of human intervention.
+>
+> In the first stage, waste paper is collected from homes and offices and transported by lorry to a recycling plant. Once it has been delivered, the material is sorted by hand on a conveyor belt, where workers remove plastics, staples and other contaminants. After being sorted, the paper is transferred to a large tank containing water and chemical agents, where it is broken down into pulp. The pulp is then passed through a series of filters, which remove any remaining particles.
+>
+> In the following stage, air is injected into the pulp so that the ink rises to the surface as a foam and can be skimmed off. Once it has been de-inked, the pulp is spread onto a mesh screen and pressed between heated rollers until dry. The resulting sheets are then cut to standard sizes and packaged. Finally, the recycled paper is dispatched to retailers, where it is sold to consumers.
+
+⚠️ **La etapa 8 tiene su propia oración.** En la v1 quedó pegada al final de otra.
+
+### Banda
+
+| Criterio | | |
+|---|---|---|
+| **Task Achievement** | **5.5** | Ocho etapas ✅ y Overview completo ✅, pero contiene **un error factual** (*cyclical*) y **una explicación** (*because*). El Overview es el párrafo que más pesa |
+| **Coherence & Cohesion** | **6.5** | ⭐ **Su mejor criterio.** Seis marcadores distintos, progresión impecable. Solo lo baja el empalme |
+| **Lexical Resource** | **5.5** | 7 errores de ortografía · *retire* · *converts it in* |
+| **Grammatical Range** | **6** | Pasiva variada, *After being…* ✅. Baja por *consist*, el empalme y *in* por *into* |
+
+**≈ 5.9 → Band 6.** Igual nota que el lunes, perfil distinto: hoy **CC sube a 6.5** y TA baja por el Overview.
+
+---
+
+## ✍️ v2 — PEGAR AQUÍ
+
+> 🔴 **No coser.** O se toma el modelo completo, o se reescribe desde cero (hallazgo del 28 y 31 de agosto).
+> Lo más productivo: **reescribir el Overview desde cero** — *linear*, sin *because* — y aplicar el resto sobre el propio texto.
+
+> _pendiente_
+
