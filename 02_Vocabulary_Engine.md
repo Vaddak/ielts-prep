@@ -491,6 +491,8 @@ These are the words and phrases that connect ideas. Using them correctly is what
 
 ### 🔴 LAS CUATRO REGLAS DE USO — lo que separa *usar* marcadores de *usarlos bien*
 
+> 📖 **Versión extendida en `10_Grammar_Quick_Reference.md` §4.10** — el test de 5 segundos para detectar un empalme, las cuatro formas de arreglarlo, el origen en español y **10 ejemplos con *however***.
+
 *Añadido el 2 de septiembre. La lista de arriba dice **cuáles**; esto dice **cómo**.*
 
 #### 1. La puntuación — el error más frecuente, y el suyo

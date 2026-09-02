@@ -832,6 +832,136 @@ Es la misma raíz del §4.4: **el español pone artículo donde el inglés no po
 
 ---
 
+## 4.10 El empalme de comas y los marcadores — guía completa
+
+**Origen:** 2 de septiembre. **8 ocurrencias registradas** del empalme de comas; es su error de puntuación nº 1 y varios nacieron de un marcador mal puntuado.
+
+---
+
+### LAS CUATRO REGLAS DE LOS MARCADORES
+
+#### Regla 1 — La puntuación
+
+> ## `However` · `therefore` · `nevertheless` · `moreover` · `consequently` · `furthermore` · `in addition` · `for instance` **NO son conjunciones.**
+> **No pueden unir dos oraciones. Piden punto o punto y coma antes.**
+
+**Sí son conjunciones** (estas sí unen con coma): *but · so · and · yet · although · while · whereas · because · since*.
+
+#### Regla 2 — Moverlos del inicio
+
+> ***However**, the figure for Sweden was lower.* — correcta, pero mecánica
+> *The figure for Sweden, **however**, was lower.* — ⭐ **la de banda 7**
+> *The figure for Sweden was lower, **however**.* — también válida
+
+Con **dos comas** cuando va en el medio: una a cada lado.
+
+#### Regla 3 — Dos por párrafo, no cinco
+
+*Furthermore… Moreover… In addition… Additionally…* en el mismo párrafo puntúa **peor** que ninguno: se lee como marcadores pegados encima de ideas que no se conectan solas. Un marcador **cuando el giro es real**.
+
+#### Regla 4 — Prohibidos en registro académico
+
+| ❌ | ✅ |
+|---|---|
+| Besides | Furthermore · Moreover |
+| Anyway · Also *(al inicio)* | In addition · Additionally |
+| So *(al inicio de oración)* | Therefore · Consequently |
+| Last but not least | Finally |
+| ⚠️ On the contrary | In contrast · Conversely |
+
+⚠️ **On the contrary** no es *"por otro lado"*. Significa *"al revés de lo que acabo de decir"* y sirve para **negar**, no para contrastar dos cosas distintas.
+
+> *He isn't lazy. **On the contrary**, he works harder than anyone.* ✅ *(niega lo anterior)*
+> ❌ *Spain uses air conditioning. **On the contrary**, Sweden barely does.* → **In contrast**
+
+---
+
+### QUÉ ES UN EMPALME DE COMAS
+
+**Dos oraciones completas unidas por una coma sola.** Nada más.
+
+> ## ⏱️ El test — 5 segundos
+> **Tapa la coma. ¿Lo de la izquierda funciona solo como oración? ¿Y lo de la derecha?**
+> **Si las dos responden que sí y solo hay una coma → es un empalme.**
+
+**Con su propia frase del 31 de agosto:**
+
+> *…households that own an air conditioning **,** almost seventy per cent of houses in Spain have an air conditioning…*
+
+- Izquierda: *The widest gap is represented in the households that own an air conditioning.* → **oración completa** ✅
+- Derecha: *Almost seventy per cent of houses in Spain have an air conditioning.* → **oración completa** ✅
+- Solo hay una coma → 🔴 **empalme**
+
+#### Las cuatro formas de arreglarlo
+
+Con su frase del 1 de septiembre:
+
+> ❌ *The sorting process starts**,** in this part of the process the workers remove plastic.*
+
+| | Cómo | Resultado |
+|---|---|---|
+| **1. Punto** | el más seguro | *The sorting process starts**.** In this part…* |
+| **2. Punto y coma** | cuando las ideas están muy ligadas | *The sorting process starts**;** in this part…* |
+| **3. Conjunción** | añadir *and · but · so* tras la coma | *The sorting process starts**, and** in this part…* |
+| **4. Subordinar** | convertir una mitad en dependiente | *The sorting process **then begins, during which** the workers remove plastic.* |
+
+**La 1 y la 4 son las mejores.** La 1 nunca falla; la 4 sube el Grammatical Range.
+
+#### 🔴 Por qué le pasa — el origen en español
+
+El español permite lo que el inglés no:
+
+> *La demanda cayó, sin embargo el precio subió.* ✅ **correcto en español**
+> *Demand fell, however the price rose.* ❌ **incorrecto en inglés**
+
+**No es descuido: es una regla que su idioma no tiene.** Por eso hay que verificarla a propósito, no confiar en el oído.
+
+---
+
+### 10 EJEMPLOS CON *HOWEVER*
+
+#### ❌ Los cinco mal — todos son empalmes
+
+| # | |
+|---|---|
+| 1 | *The cost fell**,** however**,** demand remained stable.* |
+| 2 | *Renewables increased sharply**,** however coal remained dominant.* |
+| 3 | *Engineering graduates find work quickly**,** however**,** humanities graduates struggle.* |
+| 4 | *All four groups grew**,** however the oldest grew fastest.* |
+| 5 | *The pulp is filtered**,** however**,** some particles remain.* |
+
+En los cinco, las dos mitades son oraciones completas. La coma no alcanza.
+
+#### ✅ Los mismos cinco, bien
+
+| # | |
+|---|---|
+| 1 | *The cost fell**. However,** demand remained stable.* |
+| 2 | *Renewables increased sharply**; however,** coal remained dominant.* |
+| 3 | *Engineering graduates find work quickly**. Humanities graduates, however,** struggle.* ⭐ |
+| 4 | *All four groups grew**; the oldest, however,** grew fastest.* ⭐ |
+| 5 | *The pulp is filtered**. Some particles, however,** remain.* ⭐ |
+
+Las ⭐ usan la **Regla 2** — *however* en el medio, entre dos comas. Son las que más suben el Coherence.
+
+#### ✅ Cinco más, con otras estructuras
+
+| # | | |
+|---|---|---|
+| 6 | *The cost fell**, but** demand remained stable.* | conjunción — la coma sí va |
+| 7 | ***Although** the cost fell, demand remained stable.* | subordinada |
+| 8 | *The cost fell**, whereas** demand remained stable.* | contraste explícito |
+| 9 | *Demand remained stable **despite** the fall in cost.* | preposición — sin segunda oración |
+| 10 | *Coal declined steadily**. Renewables, by contrast,** more than tripled.* | otro marcador, misma regla |
+
+---
+
+> ## 🎯 En una línea
+> **Antes de cada `however`, `therefore` o `nevertheless`: mirar qué hay a la izquierda.**
+> **Si es una oración completa → punto o punto y coma. Nunca coma sola.**
+
+---
+
 ## ✅ CHECKLIST DE REVISIÓN — antes de entregar cualquier tarea escrita
 
 *Esta es la lista completa. Cubre las seis subsecciones de arriba, en el orden en que conviene revisarlas.*
@@ -850,6 +980,7 @@ Es la misma raíz del §4.4: **el español pone artículo donde el inglés no po
 - [ ] **Adjetivos** → ¿alguno con `-s`? Quitarla
 - [ ] **`not only`** → 🔴 **prohibida en el examen.** Si aparece, reemplazar por *Beyond X, Y must also…*
 - [ ] **Preposiciones fijas** → *the need **to*** + verbo · *the need **for*** + sustantivo · *impact **on*** · *increase **in***
+- [ ] 🔴 **Empalme de comas** → ***8 ocurrencias, su error de puntuación nº 1.*** Ante cada *however / therefore / nevertheless*: **tapar la coma** — ¿las dos mitades son oraciones completas? → **punto o punto y coma** (**§4.10**)
 - [ ] **Concordancia** → *data **show*** (plural) · sujeto compuesto → verbo en plural
 - [ ] **`that` / `than`** → ¿comparo? *than*. Si no → *that* (**§4.9**)
 - [ ] **`double` / `half` / `a third`** → **sin** artículo (**§4.9**)

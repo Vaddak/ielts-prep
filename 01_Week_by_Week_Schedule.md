@@ -37,7 +37,7 @@
 
 🔴 **Es Task 2 a propósito.** El sábado 5 es la sesión completa de 60 min y lleva **dos semanas sin escribir un argumento**. Este es el primer contacto.
 
-> ### Las cuatro reglas de uso — en `02_Vocabulary_Engine.md`, Unit 3
+> ### Las cuatro reglas de uso — 📖 **guía completa en `10_Grammar_Quick_Reference.md` §4.10** (test del empalme + 10 ejemplos con *however*)
 > 1. 🔴 ***However* · *therefore* · *nevertheless* NO son conjunciones.** No unen dos oraciones con coma: exigen **punto** o **punto y coma**. Varios de sus **7 empalmes** nacieron así. Las que sí unen con coma: *but · so · and · although · while · whereas*
 > 2. **Moverlos del inicio.** *The figure for Sweden, **however**, was lower* ⭐ es la que más lee a banda 7
 > 3. **Dos por párrafo, no cinco.** Cuatro seguidos puntúan **peor** que ninguno
