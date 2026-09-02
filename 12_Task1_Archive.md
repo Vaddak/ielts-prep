@@ -632,7 +632,7 @@ Overall, the process consists of eight stages, beginning with waste paper collec
 
 In the first stage the paper is collected from houses and offices and transported to the recycling factory. Once its collection has been done the sorting process starts. In this part of the process the workers remove plastic and other remaining elements. After being classified, the paper goes to a tank with water and chemical agents that converts it into pulp. Subsequently, a filter removes polluting particles in the pulp.
 
-Following this, the ink present in the pulp is taken away using highly-pressured air. After the de-inking process, the pulp is spread onto a mesh screen dried using hot rollers. In the final stage  these dried sheets are cut into in standard sizes and packaged, ready to be distributed.
+Following this, the ink present in the pulp is taken away using highly-pressured air. After the de-inking process, the pulp is spread onto a mesh screen and dried using hot rollers. In the final stage  these dried sheets are cut into standard sizes and packaged, ready to be distributed.
 
 ### ✅ Corregido
 
