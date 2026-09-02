@@ -672,7 +672,26 @@ Editó la v1 en vez de crear la v2, lo que borraba la línea base. **v1 restaura
 
 ---
 
-## ✍️ v3 — pendiente
+## ✅ v3 — 2 de septiembre · **CERRADA**
 
-*(Aplicar los nueve de la tabla. Uno por uno, tachando en la tabla a medida que entran.)*
+Los nueve aplicados sobre la v2 (arriba, ya actualizada). **185 palabras, cero errores de gramática, ortografía o puntuación.** Sobrevive un espacio doble en *"final stage  these"*.
+
+### El recorrido
+
+| | |
+|---|---|
+| **v1** en frío, 20 min | 170 palabras · **Band 6** · 7 faltas de ortografía · *cyclical because* · empalme · *retire* |
+| **v2** en Word | corregidas **las que el corrector subraya** |
+| **v3** a mano | **las nueve que ningún corrector detecta** |
+
+⚠️ **La v3 no mide producción en frío** — eso lo mide el Band 6 de la v1. Mide otra cosa: **capacidad de corregir sin ayuda**, hoy 9 de 9.
+
+### 🔴 El patrón que se cerró: **ediciones aditivas**
+
+En la primera ronda de la v3 quedó *spread onto a mesh screen **dried*** (se perdió el *and* al reemplazar *and dryed*) y *cut into **in** standard sizes* (quedó el *in* de *divided in*). **3ª ocurrencia** — la primera fue *ready to be **transported distributed*** en la v1.
+
+> **Las ediciones son aditivas: entra lo nuevo, no siempre sale lo viejo.**
+> **Arreglo:** tras editar una frase, **releer la oración completa desde el punto anterior**, no solo las palabras tocadas. Los restos quedan **a los lados** del cambio, no dentro.
+
+✅ **Señalado y cerrado en la siguiente pasada, sin introducir ninguno nuevo.**
 
