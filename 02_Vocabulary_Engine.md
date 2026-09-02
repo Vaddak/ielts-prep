@@ -489,6 +489,56 @@ These are the words and phrases that connect ideas. Using them correctly is what
 
 ---
 
+### 🔴 LAS CUATRO REGLAS DE USO — lo que separa *usar* marcadores de *usarlos bien*
+
+*Añadido el 2 de septiembre. La lista de arriba dice **cuáles**; esto dice **cómo**.*
+
+#### 1. La puntuación — el error más frecuente, y el suyo
+
+| | |
+|---|---|
+| ✅ | *The cost fell. **However,** demand remained stable.* |
+| ✅ | *The cost fell; **however,** demand remained stable.* |
+| ❌ | *The cost fell**, however,** demand remained stable.* ← **empalme de comas** |
+
+> ## 🔴 *However* · *therefore* · *nevertheless* · *consequently* · *moreover* **NO son conjunciones.**
+> **No pueden unir dos oraciones completas con una coma.** Exigen **punto** o **punto y coma**.
+
+**Lleva 7 empalmes de comas registrados**, y varios nacieron exactamente así.
+
+Las que **sí** pueden unir con coma son **conjunciones**: *but · so · and · although · while · whereas*.
+
+> *The cost fell**, but** demand remained stable.* ✅ *(conjunción)*
+> *The cost fell**. However,** demand remained stable.* ✅ *(marcador)*
+
+#### 2. No todos van al principio
+
+Ponerlos siempre en la primera palabra suena mecánico. Moverlos sube el Coherence por sí solo:
+
+> ***However**, the figure for Sweden was considerably lower.*
+> *The figure for Sweden, **however**, was considerably lower.* ← ⭐ **la que más lee a banda 7**
+> *The figure for Sweden was considerably lower, **however**.*
+
+#### 3. Dos por párrafo, no cinco
+
+*Furthermore… Moreover… In addition… Additionally…* en un mismo párrafo puntúa **peor** que ninguno: se lee como marcadores pegados encima de ideas que no se conectan solas.
+
+**Regla:** un marcador **cuando el giro es real**. Si la relación ya se entiende, no se pone.
+
+#### 4. Prohibidos en escritura académica
+
+| ❌ Hablado | ✅ Escrito |
+|---|---|
+| *Besides* | *Furthermore · Moreover* |
+| *Anyway* · *Also* (al inicio) | *In addition · Additionally* |
+| *So* (al inicio de oración) | *Therefore · Consequently* |
+| *On the contrary* ⚠️ | *In contrast · Conversely* |
+| *Last but not least* | *Finally* |
+
+⚠️ **Falso amigo de estructura:** *On the contrary* **no** significa *"por otro lado"*. Significa *"al revés de lo que acabo de decir"*, y sirve para **negar**, no para contrastar dos cosas distintas. El español *"por el contrario"* sí contrasta; el inglés no.
+
+---
+
 ## UNIT 4 — Hedging Language (Critical for Band 7+)
 
 Academic writing never claims certainty unless the evidence is absolute. **Hedging** means softening your claims — this shows academic maturity, not weakness.

@@ -788,3 +788,34 @@ Leído y confirmado. Los dos Task 1 **sin datos**: desaparece todo el léxico de
 
 **Mañana:** diagrama de proceso, 20 min cronometrados.
 
+---
+
+### 2026-09-01 y 02 — Semana 7: diagrama de proceso y discourse markers
+
+**Martes 1 — Task 1 nº 3, proceso de reciclaje de papel. 170 palabras · 20 min · Band 6.**
+
+**⭐ Coherence & Cohesion 6.5 — su mejor criterio hasta la fecha.** Seis marcadores de secuencia distintos, **ni un solo *then***, al primer intento con un tipo de gráfico nuevo. Incluye *After being classified*, la estructura del banco léxico que conecta etapas en vez de listarlas.
+
+**🔴 El Overview trajo dos violaciones en una frase:** *It is a **cyclical** process **because** the paper can be recycled multiple times*. Es **lineal** — no hay flecha de retorno — y *because* explica un porqué **que no está en el diagrama**. Las dos son la misma: **salirse de lo que se ve**.
+
+> **¿Hay flecha que vuelva a la primera caja? No → *linear*.**
+> **Si aparece *because*, se salió de la tarea.**
+
+🆕 Falso amigo: *retire* → **remove**. Y **7 faltas de ortografía en 170 palabras**, la densidad más alta registrada — casi todas **palabras nuevas del banco del 31-ago**: cuando una palabra es reciente, la mano no la tiene automatizada.
+
+---
+
+**🖥️ El hallazgo del corrector de Word.** Escribió la v2 en Word por el contador de palabras y **corrigió exactamente lo que Word subraya en rojo**. Los nueve restantes — *retire*, el empalme, *in* por *into* — **no los detecta ningún corrector**, y el examen no tiene Word. Los errores que sobrevivieron son justo la clase con la que estará sola el 7 de noviembre. Solución: conservar el contador, desactivar revisión y autocorrección.
+
+**📌 3ª confirmación del patrón de formato, ahora precisa:** los nueve no corregidos estaban **todos** en un párrafo mío de prosa corrida; los corregidos, en tablas y encabezados. **Lo que va en tabla se hace; lo que va en prosa corrida, no.** Error de formato de la corrección, no de atención suya.
+
+---
+
+**Miércoles 2 — v3 cerrada: 9 de 9 sin ayuda.** 185 palabras, cero errores.
+
+🆕 **Ediciones aditivas (3ª ocurrencia).** En la primera ronda quedaron restos del texto viejo a los lados del cambio: *mesh screen **dried*** · *cut into **in***. Señalados, y **cerrados sin introducir ninguno nuevo** — el patrón *editar introduce errores* no apareció en la pasada final.
+
+**Unit 3 leída.** Se le añadieron **las cuatro reglas de uso** que la unidad no traía: la puntuación (*however* no es conjunción — origen de varios de sus 7 empalmes), mover el marcador del inicio, dos por párrafo y no cinco, y los prohibidos en registro académico.
+
+**Pendiente para casa:** el párrafo de prueba de Task 2 — primer contacto con argumentación en dos semanas, antes de la sesión completa del sábado.
+

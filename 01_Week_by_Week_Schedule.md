@@ -6,42 +6,51 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — miércoles 2 de septiembre
+## 👉 RETOMAR AQUÍ — miércoles 2, bloque 2
 
-**Martes 1 ✅** Diagrama de proceso cronometrado — **170 palabras · Band 6** · v2 corregida.
+**Martes 1 ✅** Proceso cronometrado — **Band 6** · **Mié 2 ✅** v3 cerrada · Unit 3 leída.
 
-### ⭐ Lo mejor: **Coherence & Cohesion 6.5**
+### ✅ El proceso quedó cerrado
 
-Seis marcadores de secuencia distintos, **ni un solo *then***, al primer intento. Incluye *After being classified* — la estructura ⭐ del banco léxico.
+**9 de 9 correcciones aplicadas sin ayuda.** Texto final: 185 palabras, cero errores de gramática, ortografía o puntuación.
 
-**Desglose:** TA 5.5 · **CC 6.5** · LR 5.5 · GRA 6.
+🆕 **Patrón nuevo — ediciones aditivas (3ª ocurrencia).** Al corregir quedaron restos del texto viejo: *mesh screen **dried*** (se perdió el *and*) · *cut into **in** standard sizes*.
 
-### 🔴 Las dos reglas del día
+> **Entra lo nuevo, no siempre sale lo viejo.**
+> **Arreglo:** tras editar una frase, **releer la oración completa desde el punto anterior**. Los restos quedan **a los lados** del cambio, no dentro.
 
-> **¿Hay una flecha que vuelva a la primera caja? No → *linear*.**
-> **Y si aparece *because*, te saliste de la tarea.**
+✅ Cerrados en la pasada siguiente **sin introducir ninguno nuevo**.
 
-Escribió *a cyclical process **because** the paper can be recycled multiple times*: error factual **y** explicación, en la misma frase. Las dos son lo mismo — salirse de lo que se ve. Ya corregido en la v2.
+---
 
-🆕 **Falso amigo:** *retire* → ***remove***. *Retire* es **jubilarse**. §4.5
+## ✍️ BLOQUE 2 DE HOY — el párrafo de prueba (15 min)
 
-### 🖥️ Word: quitar la ayuda, conservar el contador
+> *Some people believe universities should focus on practical skills; others argue they should prioritise theoretical knowledge.*
 
-Escribió la v2 en Word por el contador de palabras, y **corrigió exactamente lo que Word subraya en rojo**. Los nueve que quedaron — *retire*, el empalme, *in* por *into* — **ningún corrector los detecta**. Y el examen no tiene Word.
+**Escribir UN párrafo de 5–6 oraciones.** Condiciones:
 
-> **Archivo → Opciones → Revisión** → desmarcar *“Revisar ortografía/gramática mientras escribe”*. En **Autocorrección**, desmarcar *“Poner en mayúscula la primera letra”* (convirtió *pulp* en *Pulp*).
+| | |
+|---|---|
+| 1 | **Exactamente tres marcadores**, de tres funciones distintas: uno de **contraste**, uno de **causa**, uno de **ejemplo** |
+| 2 | **Al menos uno NO al principio de la oración** — meterlo en el medio |
+| 3 | **Cero empalmes de comas** |
 
-📌 **3ª confirmación:** lo que va en **tabla** se hace; lo que va en **prosa corrida**, no. Correcciones siempre en tabla.
+🔴 **Es Task 2 a propósito.** El sábado 5 es la sesión completa de 60 min y lleva **dos semanas sin escribir un argumento**. Este es el primer contacto.
 
-### Pendiente
-- [ ] **v3** del proceso — los 9 de la tabla en `12_Task1_Archive.md`
+> ### Las cuatro reglas de uso — en `02_Vocabulary_Engine.md`, Unit 3
+> 1. 🔴 ***However* · *therefore* · *nevertheless* NO son conjunciones.** No unen dos oraciones con coma: exigen **punto** o **punto y coma**. Varios de sus **7 empalmes** nacieron así. Las que sí unen con coma: *but · so · and · although · while · whereas*
+> 2. **Moverlos del inicio.** *The figure for Sweden, **however**, was lower* ⭐ es la que más lee a banda 7
+> 3. **Dos por párrafo, no cinco.** Cuatro seguidos puntúan **peor** que ninguno
+> 4. **Prohibidos:** *Besides · Anyway · So* (al inicio) · *Last but not least* · ⚠️ *On the contrary* (no es *"por otro lado"*: sirve para **negar**)
 
-### Miércoles 2 (~30 min)
+**Al terminar:** pegarlo aquí o mandármelo. Tecleado, **sin corrector** — Word con la revisión desactivada, o Bloc de notas.
+
+### Jueves 3 (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 15 | **Discourse markers** (Unit 3 completa) en `02_Vocabulary_Engine.md` |
-| [ ] 2 | 15 | Usarlos en **un párrafo de prueba** |
+| [ ] 1 | 15 | **Hedging language** — Unit 4 en `02_Vocabulary_Engine.md` |
+| [ ] 2 | 15 | Suavizar **10 afirmaciones absolutas** de sus propios ensayos (`11_Writing_Baseline_Essays.md`) |
 
 ### Resto de la Semana 7 (reprogramada)
 
