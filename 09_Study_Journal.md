@@ -819,3 +819,26 @@ Leído y confirmado. Los dos Task 1 **sin datos**: desaparece todo el léxico de
 
 **Pendiente para casa:** el párrafo de prueba de Task 2 — primer contacto con argumentación en dos semanas, antes de la sesión completa del sábado.
 
+---
+
+### 2026-09-03 — Semana 7, Jueves: hedging
+**Módulo:** Unit 4 + suavizar 10 afirmaciones propias · ~30 min
+
+**✅ 4 de 10 perfectas, y acertó las dos de firmeza** — dejó sin matizar la tesis y la conclusión, que era exactamente lo correcto. **Falló el vocabulario de hedging, no el criterio**, y el criterio es la parte difícil de enseñar.
+
+### El marco conceptual que se instaló
+
+Hedging **no es dudar: es reclamar exactamente lo que se puede defender.** En un examen de 40 minutos no hay fuentes ni datos — solo razonamiento. Quien razona bien **dice hasta dónde llega su razonamiento**. Una afirmación sin sustento vale menos que una matizada, aunque suene más débil.
+
+### 🔴 Las tres trampas
+
+1. **`would` no suaviza — 2 ocurrencias.** El español usa el condicional para atenuar (*los estudios mostrarían*); el inglés lo usa para **hipotetizar**. Aplicado a una fuente, *would* **sugiere que la fuente no existe**: el hedge juega en contra de la afirmación
+2. ***apparently* ≠ *aparentemente***. Carga esceptismo coloquial — en un ensayo suena a no creerse la propia frase
+3. **Un dato inventado se generaliza, no se matiza.** Suavizó el marco (*there is evidence to suggest*) y dejó las cifras (*within a few weeks*, *at least ten minutes*): la frase quedó afirmando que existe evidencia de números que nunca citó. **Más expuesta, no menos**
+
+Y la simétrica: **sobre-matizó lo indiscutible** (*depression and anxiety **in certain contexts** negatively affect wellbeing*). Se matiza lo discutible; lo obvio, no.
+
+🆕 **Falso amigo nº 4 del ciclo:** *result essential* → ***prove** essential*.
+
+**Mañana:** mapa cronometrado. **El sábado, la sesión completa de 60 minutos** — cierre del módulo Writing.
+

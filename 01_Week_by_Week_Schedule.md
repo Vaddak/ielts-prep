@@ -6,39 +6,41 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — jueves 3 de septiembre
+## 👉 RETOMAR AQUÍ — viernes 4 de septiembre
 
-**Miércoles 2 ✅ COMPLETO** — v3 del proceso cerrada (9/9 sin ayuda) · Unit 3 · §4.10 · párrafo de Task 2.
+**Jueves 3 ✅** Unit 4 (hedging) + 10 frases suavizadas — **4 perfectas y las dos de firmeza acertadas**.
 
-### 🎉 **Cero empalmes de comas en tres versiones seguidas**
+### ⚖️ Lo que quedó claro
 
-Con tres marcadores por párrafo, y tras **8 ocurrencias registradas**. El objetivo real del ejercicio, cumplido.
+> **Se matiza lo discutible. Lo obvio, no.**
+> **La tesis y la conclusión van FIRMES** — ahí se recomienda, no se afirma.
+> Un ensayo entero en condicional **baja Task Response igual** que el exceso de certeza.
 
-También entró el marcador en medio: *The electronics industry**, in particular,** needs…*
+### 🔴 Las tres trampas — `02_Vocabulary_Engine.md`, Unit 4
 
-> ### ⭐ La fórmula — no hay que inventar nada
-> ## `Sujeto` **,** `marcador` **,** `verbo`
-> Se toma una oración que **ya empieza** con marcador y se mueve detrás del sujeto. → §4.10
-> Se mueven bien: *however · therefore · in particular · for instance · moreover*. No: *hence · thus · so*.
+| | |
+|---|---|
+| 1 | ***would* no suaviza** (2 ocurrencias). Marca **hipótesis**: aplicado a una fuente sugiere que **la fuente no existe**. Usar *suggest · indicate · appear to show* |
+| 2 | ***apparently*** ≠ *aparentemente*. Carga **"eso dicen, pero quién sabe"**. Neutro: *seemingly*; habitual: ***tend to*** |
+| 3 | **Un dato inventado se generaliza, no se matiza.** Suavizar el marco y dejar las cifras deja la frase **más** expuesta |
 
-### 🔁 Ediciones aditivas — **4ª ocurrencia**
+🆕 **Falso amigo:** *result essential* → ***prove** essential*. *Resultar* = **acabar siendo**; el inglés *result* solo expresa consecuencia. §4.5
 
-*complementary rather than opposed **to achieve a better educational system*** — la cola vieja sobrevivió al cambio.
-
-> **Releer la oración completa hasta el punto final.** Los restos quedan **después** del cambio, no dentro.
-
-🔁 ***offer*** por ***range*** — 2ª ocurrencia. 🆕 *argument* como verbo → ***argue***.
-
-### Jueves 3 (~30 min)
+### Viernes 4 (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 15 | **Hedging language** — Unit 4 en `02_Vocabulary_Engine.md` |
-| [ ] 2 | 15 | Suavizar **10 afirmaciones absolutas** de sus ensayos (`11_Writing_Baseline_Essays.md`) |
+| [ ] 1 | 5 | Releer **MAPAS** en `03_Writing_Module.md` + el bloque **B** del banco léxico |
+| [ ] 2 | 20 | 🔴 **Task 1 — MAPA, 20 min CRONOMETRADOS** |
+| [ ] 3 | 5 | Pegar el texto en `12_Task1_Archive.md` |
 
-> 🎯 **Empieza por la suya de ayer:** *the evidence **demonstrates*** — sin citar evidencia alguna. → *the evidence **suggests that*** · *arguably* · *it appears that*. Afirmar que existe evidencia sin mostrarla **debilita** el argumento; suavizarlo lo fortalece.
+> **Recordatorios del mapa:** decidir **el tiempo verbal primero** · pasiva para lo construido (*was built · was converted into*) · el Overview dice **el cambio de carácter** (rural→urbano, residencial→comercial) **y lo que NO cambió** · ubicación en cada oración (*to the north of · adjacent to · now occupies the site of*).
+>
+> ⚠️ **La tentación del mapa es explicar.** *The town grew **because of tourism*** no está en el plano.
+>
+> 📏 Cuatro párrafos · **150 palabras mínimo** · cuatro oraciones por párrafo de detalle.
 
-### 🔴 Sábado 5 — la grande
+### 🔴 SÁBADO 5 — la grande
 **Task 1 (20 min) + Task 2 (40 min), 60 minutos seguidos.** Primera prueba de resistencia y **cierre del módulo Writing**. Desde la Semana 8, Writing pasa a mantenimiento y entra **Reading**.
 
 ### Resto de la Semana 7 (reprogramada)

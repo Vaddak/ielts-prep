@@ -561,6 +561,60 @@ Academic writing never claims certainty unless the evidence is absolute. **Hedgi
 | **Phrases** | it is possible that, there is evidence to suggest, it could be argued that |
 | **Quantifiers** | in some cases, to some extent, in certain contexts |
 
+### 🔴 LAS TRES TRAMPAS DEL HEDGING — de su ejercicio del 3-sep
+
+#### Trampa 1 — `would` **no es un suavizador**
+
+> ❌ *Multiple studies **would** show diverse benefits.*
+> ❌ *Data from psychological research **would** demonstrate a decline.*
+
+En español el condicional suaviza (*los estudios mostrarían*). **En inglés `would` marca hipótesis** — algo que pasaría *si* se cumpliera una condición. Aplicado a una fuente, **sugiere que la fuente no existe**: el hedge juega en contra.
+
+**Sí suavizan un verbo de reporte:** *suggest · indicate · appear to show · point to*.
+
+> ✅ *Multiple studies **suggest** diverse benefits.*
+> ✅ *Data from psychological research **indicate** a decline.*
+
+**Regla:** `would` **solo con una condición detrás** — *if funding were increased, the programme **would** reach more people*. Sin condición, no.
+
+#### Trampa 2 — *apparently* no es *aparentemente*
+
+> ❌ ***Apparently**, blood pressure and cortisol levels remain within normal ranges.*
+
+En inglés *apparently* carga **"eso dicen, pero quién sabe"** — escéptico y algo coloquial. En un ensayo suena a no creerse la propia frase.
+
+| Para… | Usar |
+|---|---|
+| *aparentemente* neutro | *seemingly* · *it appears that* |
+| lo habitual / la norma | *typically* · **tend to** |
+
+> ✅ *…levels **tend to remain** within normal ranges.*
+
+#### Trampa 3 — un dato inventado **se generaliza, no se matiza**
+
+> ❌ *There is evidence to suggest that improvements appear **within a few weeks** of including **at least ten minutes** of exercise per day.*
+
+Suavizó el **marco** y dejó **las cifras**. Ahora la frase afirma que existe evidencia de unos números muy concretos que no cita: quedó **más expuesta**, no menos.
+
+> ✅ *…improvements **can appear relatively quickly, even with modest amounts of daily exercise**.*
+
+---
+
+### ⚖️ QUÉ SE MATIZA Y QUÉ NO
+
+| | |
+|---|---|
+| ✅ **Sí** | Afirmaciones **factuales** — las que dicen que algo *es así en el mundo*. Verbos de reporte. Datos y cifras |
+| ❌ **No** | **La tesis y la conclusión.** Ahí se recomienda, no se afirma: *any effective strategy **must cover**…* · *…**is mandatory*** |
+| ❌ **No** | **Lo indiscutible.** *Depression and anxiety **negatively affect** wellbeing* no necesita permiso: basta un `can` |
+
+> **Se matiza lo discutible. Lo obvio, no.** Suavizar lo evidente hace dudar de todo lo demás.
+> Y un ensayo entero en condicional suena evasivo: **baja Task Response igual que el exceso de certeza**.
+
+⚠️ **Un matiz por afirmación, no tres.** *"It may possibly be arguably the case that…"* es peor que la versión absoluta.
+
+---
+
 **Practice exercise:** Take any sentence with absolute language and add hedging.
 - *"This technology solves the problem."*
 - → *"This technology may offer a viable solution to the problem."*

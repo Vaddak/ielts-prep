@@ -226,3 +226,34 @@ En la v2 quedó *complementary rather than opposed **to achieve a better educati
 ### Pendientes menores
 *Moreover* sobra (4 marcadores en 5 oraciones roza la Regla 3; la 3ª oración desarrolla la 2ª, no añade) · *theoretical knowledge* ×3 y *practical skills* ×3 → cerrar con **both** a secas · *students find more techniques* es vago.
 
+---
+
+# ⚖️ EJERCICIO DE HEDGING — 3 de septiembre
+
+Diez afirmaciones absolutas **suyas** (ensayo del prompt 1 + párrafo del 2-sep), suavizadas con **una sola** herramienta cada una.
+
+| # | Su versión | Corregida |
+|---|---|---|
+| 1 | the evidence **suggests that** the two are complementary | ✅ **perfecta** |
+| 2 | might **result essential** | *may **prove** essential* 🆕 falso amigo |
+| 3 | There is evidence to **suggests** … within a few weeks … at least ten minutes | *…to **suggest that** improvements **can appear relatively quickly, even with modest amounts of daily exercise*** |
+| 4 | Multiple studies **would** show | *Multiple studies **suggest*** |
+| 5 | **Apparently**, other vital variables… | *…**tend to remain** within normal ranges* |
+| 6 | a varied programme **could be required** | ✅ **correcta** *(may be required también)* |
+| 7 | …stress **in certain contexts** negatively affect… | *…stress **can** negatively affect…* — sobre-matizado |
+| 8 | Data… **would demonstrate** | *Data… **indicate*** |
+| 9 | any effective strategy **must cover**… | ✅ **firme, correcto** |
+| 10 | psychological assistance **is mandatory** | ✅ **firme, correcto** |
+
+## Lo que salió bien
+**4 de 10 perfectas**, y **acertó las dos de firmeza**: dejó la tesis y la conclusión sin matizar. Eso es criterio, que es la parte difícil. Lo que falló fue **vocabulario de hedging**.
+
+## Las tres trampas — detalle en `02_Vocabulary_Engine.md`, Unit 4
+
+1. 🔴 **`would` no suaviza.** Marca hipótesis; aplicado a una fuente sugiere que la fuente no existe
+2. ⚠️ ***apparently*** carga esceptismo coloquial — no es *aparentemente*
+3. 🔴 **Un dato inventado se generaliza, no se matiza.** Suavizar el marco y dejar las cifras deja la frase **más** expuesta
+
+> **Se matiza lo discutible. Lo obvio, no.**
+> **La tesis y la conclusión van firmes.** Un ensayo entero en condicional baja Task Response igual que el exceso de certeza.
+

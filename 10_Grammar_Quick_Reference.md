@@ -469,6 +469,20 @@ El mismo instinto que produce *laboral* produce plurales que no existen. En ingl
 
 ---
 
+> ### 🆕 *result* — falso amigo nuevo (3-sep)
+>
+> ❌ *The role physical activity plays **might result essential**.* → ✅ *…**may prove** essential.*
+>
+> *Resultar* en español significa **acabar siendo**. El inglés *result* **no hace eso**: solo expresa consecuencia.
+>
+> | Español | Inglés |
+> |---|---|
+> | resultar esencial / útil / difícil | **prove** essential · **turn out to be** useful |
+> | resultar **de** algo | **result from** something |
+> | resultar **en** algo | **result in** something |
+
+---
+
 > ### 🆕 *retire* — falso amigo nuevo (1-sep)
 >
 > ❌ *The workers **retire** plastic and other elements.* → ✅ *The workers **remove** plastics and other contaminants.*
