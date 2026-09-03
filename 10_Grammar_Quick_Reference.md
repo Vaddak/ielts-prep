@@ -855,6 +855,26 @@ Es la misma raíz del §4.4: **el español pone artículo donde el inglés no po
 
 Con **dos comas** cuando va en el medio: una a cada lado.
 
+#### ⭐ CÓMO mover un marcador al medio — es mecánico, no creativo
+
+*Añadido el 2-sep. Su reacción al ejercicio fue “no se me ocurrió una oración con uno en medio”. **No hay que inventar nada:** se toma una oración que ya empieza con marcador y se mueve.*
+
+> **1.** Tomar una oración que empiece con marcador
+> **2.** Localizar **el sujeto** (lo primero tras el marcador — *¿quién hace la acción?*)
+> **3.** Meter el marcador **justo detrás del sujeto**, con **una coma a cada lado**
+
+> ## `Sujeto` **,** `marcador` **,** `verbo…`
+
+**Con su propia frase:**
+
+> *In particular, **the electronics industry** needs young professionals…*
+> → ***The electronics industry, in particular, needs** young professionals…* ✅
+
+Mismas palabras, movidas de sitio.
+
+**Se mueven bien:** *however · therefore · in particular · for instance · moreover · nevertheless · by contrast*.
+**No se mueven bien:** *hence · thus · so* — suenan forzados en el medio.
+
 #### Regla 3 — Dos por párrafo, no cinco
 
 *Furthermore… Moreover… In addition… Additionally…* en el mismo párrafo puntúa **peor** que ninguno: se lee como marcadores pegados encima de ideas que no se conectan solas. Un marcador **cuando el giro es real**.

@@ -184,3 +184,45 @@ El Body 1 abre con *"The role physical activity plays… is crucial"*: argumenta
 **Lo que sí midió la línea base, y era lo que importaba:** usó los 40 minutos completos (tras seis tareas entregando temprano), planificó antes de escribir por primera vez, activó 13 palabras del batch, y puso la opinión propia explícita en la conclusión.
 
 *El texto íntegro de la v1 no se conservó; los fragmentos citados están en `07_Error_Log.md`.*
+
+---
+
+# ✍️ PÁRRAFO DE PRÁCTICA — 2 de septiembre · discourse markers
+
+**Enunciado:** *Some people believe universities should focus on practical skills; others argue they should prioritise theoretical knowledge.*
+
+**Condiciones:** 3 marcadores de 3 funciones distintas · al menos uno **en medio** de la oración · **cero empalmes**.
+**Contexto:** primer contacto con argumentación en **dos semanas**, antes de la sesión completa del sábado 5.
+
+## v1
+
+> While some people argument the focus universities should have only on practical skills, others contend that theoretical knowledge should be the priority. However, the evidence demonstrates how critical and essential these two components together are to achieve a better educational system. Moreover, students find more techniques that help them improving their performance at university by being enrolled in an environment with a wide offer to Access knowledge. Furthermore, industry appreciate and look after studends who had experience in both practical skills and theoretical knowledge.
+
+**✅ Cero empalmes** — los tres marcadores puntuados con punto. Y ***contend***, verbo académico excelente.
+**🔴 Solo dos funciones:** contraste + adición ×2 seguidas. Sin causa, sin ejemplo, los tres al inicio.
+
+## v3 — FINAL
+
+> While some people argue that universities should focus only on practical skills, others contend that theoretical knowledge should be the priority. However, the evidence suggests that the two are complementary rather than opposed. Moreover, students find more techniques that help them improve their performance at university by being enrolled in an environment with a wide range of ways to access knowledge. Therefore, industry appreciates and seeks out students who have experience in both practical skills and theoretical knowledge. The electronics industry, in particular, needs young professionals able to lead and propose new solutions based on both experience and theoretical knowledge.
+
+### ✅ Las tres condiciones, cumplidas
+
+| | |
+|---|---|
+| Tres funciones | contraste (*While/However*) · causa (*Therefore*) · ejemplo (*in particular*) |
+| Uno en medio | *The electronics industry**, in particular,** needs…* |
+| Cero empalmes | ✅ **tres versiones seguidas** |
+
+### ⭐ El hallazgo del día
+
+Su reacción fue *“no se me ocurrió una oración con uno en medio”*. **No hay nada que ocurrirse: es mecánico.** `Sujeto , marcador , verbo`. Se toma una oración que ya empieza con marcador y se mueve detrás del sujeto. → §4.10
+
+### 🔁 4ª ocurrencia de ediciones aditivas
+
+En la v2 quedó *complementary rather than opposed **to achieve a better educational system*** — la cola vieja sobrevivió al cambio y *opposed to achieve* ya no cierra.
+
+> **Releer la oración completa hasta el punto final.** Los restos quedan **después** del cambio.
+
+### Pendientes menores
+*Moreover* sobra (4 marcadores en 5 oraciones roza la Regla 3; la 3ª oración desarrolla la 2ª, no añade) · *theoretical knowledge* ×3 y *practical skills* ×3 → cerrar con **both** a secas · *students find more techniques* es vago.
+

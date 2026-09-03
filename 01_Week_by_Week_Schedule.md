@@ -6,51 +6,40 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — miércoles 2, bloque 2
+## 👉 RETOMAR AQUÍ — jueves 3 de septiembre
 
-**Martes 1 ✅** Proceso cronometrado — **Band 6** · **Mié 2 ✅** v3 cerrada · Unit 3 leída.
+**Miércoles 2 ✅ COMPLETO** — v3 del proceso cerrada (9/9 sin ayuda) · Unit 3 · §4.10 · párrafo de Task 2.
 
-### ✅ El proceso quedó cerrado
+### 🎉 **Cero empalmes de comas en tres versiones seguidas**
 
-**9 de 9 correcciones aplicadas sin ayuda.** Texto final: 185 palabras, cero errores de gramática, ortografía o puntuación.
+Con tres marcadores por párrafo, y tras **8 ocurrencias registradas**. El objetivo real del ejercicio, cumplido.
 
-🆕 **Patrón nuevo — ediciones aditivas (3ª ocurrencia).** Al corregir quedaron restos del texto viejo: *mesh screen **dried*** (se perdió el *and*) · *cut into **in** standard sizes*.
+También entró el marcador en medio: *The electronics industry**, in particular,** needs…*
 
-> **Entra lo nuevo, no siempre sale lo viejo.**
-> **Arreglo:** tras editar una frase, **releer la oración completa desde el punto anterior**. Los restos quedan **a los lados** del cambio, no dentro.
+> ### ⭐ La fórmula — no hay que inventar nada
+> ## `Sujeto` **,** `marcador` **,** `verbo`
+> Se toma una oración que **ya empieza** con marcador y se mueve detrás del sujeto. → §4.10
+> Se mueven bien: *however · therefore · in particular · for instance · moreover*. No: *hence · thus · so*.
 
-✅ Cerrados en la pasada siguiente **sin introducir ninguno nuevo**.
+### 🔁 Ediciones aditivas — **4ª ocurrencia**
 
----
+*complementary rather than opposed **to achieve a better educational system*** — la cola vieja sobrevivió al cambio.
 
-## ✍️ BLOQUE 2 DE HOY — el párrafo de prueba (15 min)
+> **Releer la oración completa hasta el punto final.** Los restos quedan **después** del cambio, no dentro.
 
-> *Some people believe universities should focus on practical skills; others argue they should prioritise theoretical knowledge.*
-
-**Escribir UN párrafo de 5–6 oraciones.** Condiciones:
-
-| | |
-|---|---|
-| 1 | **Exactamente tres marcadores**, de tres funciones distintas: uno de **contraste**, uno de **causa**, uno de **ejemplo** |
-| 2 | **Al menos uno NO al principio de la oración** — meterlo en el medio |
-| 3 | **Cero empalmes de comas** |
-
-🔴 **Es Task 2 a propósito.** El sábado 5 es la sesión completa de 60 min y lleva **dos semanas sin escribir un argumento**. Este es el primer contacto.
-
-> ### Las cuatro reglas de uso — 📖 **guía completa en `10_Grammar_Quick_Reference.md` §4.10** (test del empalme + 10 ejemplos con *however*)
-> 1. 🔴 ***However* · *therefore* · *nevertheless* NO son conjunciones.** No unen dos oraciones con coma: exigen **punto** o **punto y coma**. Varios de sus **7 empalmes** nacieron así. Las que sí unen con coma: *but · so · and · although · while · whereas*
-> 2. **Moverlos del inicio.** *The figure for Sweden, **however**, was lower* ⭐ es la que más lee a banda 7
-> 3. **Dos por párrafo, no cinco.** Cuatro seguidos puntúan **peor** que ninguno
-> 4. **Prohibidos:** *Besides · Anyway · So* (al inicio) · *Last but not least* · ⚠️ *On the contrary* (no es *"por otro lado"*: sirve para **negar**)
-
-**Al terminar:** pegarlo aquí o mandármelo. Tecleado, **sin corrector** — Word con la revisión desactivada, o Bloc de notas.
+🔁 ***offer*** por ***range*** — 2ª ocurrencia. 🆕 *argument* como verbo → ***argue***.
 
 ### Jueves 3 (~30 min)
 
 | # | Min | Tarea |
 |---|---|---|
 | [ ] 1 | 15 | **Hedging language** — Unit 4 en `02_Vocabulary_Engine.md` |
-| [ ] 2 | 15 | Suavizar **10 afirmaciones absolutas** de sus propios ensayos (`11_Writing_Baseline_Essays.md`) |
+| [ ] 2 | 15 | Suavizar **10 afirmaciones absolutas** de sus ensayos (`11_Writing_Baseline_Essays.md`) |
+
+> 🎯 **Empieza por la suya de ayer:** *the evidence **demonstrates*** — sin citar evidencia alguna. → *the evidence **suggests that*** · *arguably* · *it appears that*. Afirmar que existe evidencia sin mostrarla **debilita** el argumento; suavizarlo lo fortalece.
+
+### 🔴 Sábado 5 — la grande
+**Task 1 (20 min) + Task 2 (40 min), 60 minutos seguidos.** Primera prueba de resistencia y **cierre del módulo Writing**. Desde la Semana 8, Writing pasa a mantenimiento y entra **Reading**.
 
 ### Resto de la Semana 7 (reprogramada)
 
