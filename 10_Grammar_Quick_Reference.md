@@ -469,17 +469,82 @@ El mismo instinto que produce *laboral* produce plurales que no existen. En ingl
 
 ---
 
-> ### 🆕 *result* — falso amigo nuevo (3-sep)
+> ### 🆕 *result* — falso amigo (3-sep) · *explicado a fondo el 3-sep*
 >
-> ❌ *The role physical activity plays **might result essential**.* → ✅ *…**may prove** essential.*
+> **El problema: *resultar* tiene dos usos, *result* solo tiene uno.**
 >
-> *Resultar* en español significa **acabar siendo**. El inglés *result* **no hace eso**: solo expresa consecuencia.
+> | | Español | ¿Existe en inglés? |
+> |---|---|---|
+> | **A** | **resultar + adjetivo** = acabar siendo · *El método **resultó** eficaz* | ❌ **NO** |
+> | **B** | **resultar de / en** = consecuencia · *El fallo **resultó de** un mal aislamiento* | ✅ sí |
 >
-> | Español | Inglés |
+> > ## 🔴 `result` **nunca** puede ir seguido de un adjetivo.
+> > No es que suene raro: **la estructura no existe**.
+>
+> ❌ *The method **resulted effective**.* · ❌ *It **might result essential**.* · ❌ *The task **resulted difficult**.*
+>
+> **Para el uso A:**
+>
+> | Español | Inglés | Registro |
+> |---|---|---|
+> | resultar + adjetivo | **prove** + adjetivo | ⭐ académico |
+> | | **turn out to be** + adjetivo | más hablado |
+> | | simplemente **be** | neutro |
+>
+> > ✅ *The method **proved** effective.* · ✅ *It **may prove** essential.*
+>
+> 📌 **Truco:** donde en español dirías *resultó*, en inglés di ***proved***. Casi siempre funciona.
+>
+> **Y el uso B, con su preposición** — útil escribiendo de ingeniería:
+>
+> | | Qué va después | Ejemplo |
+> |---|---|---|
+> | **result FROM** | **la causa** | *The failure **resulted from** poor insulation.* |
+> | **result IN** | **el efecto** | *Poor insulation **resulted in** failure.* |
+>
+> Son **la misma frase al revés**: *from* mira hacia atrás, *in* hacia adelante.
+>
+> *(Como sustantivo, sin problema: **the result** · **as a result** · **the results show…**)*
+
+---
+
+> ### ⚠️ *apparently* — falso amigo de **tono** (3-sep)
+>
+> **Aquí el problema no es gramática: es la actitud que comunica el hablante.**
+>
+> | | Qué comunica |
 > |---|---|
-> | resultar esencial / útil / difícil | **prove** essential · **turn out to be** useful |
-> | resultar **de** algo | **result from** something |
-> | resultar **en** algo | **result in** something |
+> | **aparentemente** (esp) | *"a primera vista, por lo que se ve"* — describe apariencia, **neutro** |
+> | **apparently** (ingl) | *"eso dicen / eso me contaron, pero no lo verifiqué"* — **el hablante se despega de la afirmación** |
+>
+> En inglés es sobre todo un marcador de **información de segunda mano**:
+>
+> > *Apparently, they're closing the lab next year.* → *"eso dicen, no me consta"*
+> > *Apparently, he never finished his degree.* → *"me contaron, pero vaya usted a saber"*
+>
+> 🔴 **Por eso en un ensayo suena mal:** da la impresión de **no creerse la propia frase**.
+>
+> > *Apparently, blood pressure levels remain within normal ranges.*
+> > Se lee: *"eso dicen los estudios, pero yo no me comprometo."*
+>
+> Y ahí se pierde autoridad — lo contrario de lo que busca el hedging. **El hedging bien hecho suena a rigor; *apparently* suena a rumor.**
+>
+> **Qué usar según la intención:**
+>
+> | Si se quiere decir… | Usar | Ejemplo |
+> |---|---|---|
+> | *aparentemente, a primera vista* | **seemingly** · **it appears that** | *It appears that the trend has reversed.* |
+> | *normalmente, por lo general* | **typically** · **generally** · **tend to** ⭐ | *Levels **tend to remain** within normal ranges.* |
+> | *según fuentes* (formal, neutro) | **reportedly** | *Emissions have reportedly fallen.* |
+>
+> En su frase del 3-sep quería la **segunda**: no hablaba de apariencias sino de **lo que suele pasar**. Por eso ***tend to*** es la correcta.
+>
+> ⚠️ **El adjetivo *apparent* SÍ es neutro.** El problema es solo el adverbio.
+> *an **apparent** contradiction* ✅ · *for no **apparent** reason* ✅ · ***Apparently**, there's no reason* ⚠️
+>
+> > ## En una línea
+> > ***result*** → nunca con adjetivo. Donde dirías *resultó*, di ***proved***.
+> > ***apparently*** → suena a rumor. Para *"lo habitual"*, di ***tend to***.
 
 ---
 
@@ -1014,6 +1079,7 @@ Las ⭐ usan la **Regla 2** — *however* en el medio, entre dos comas. Son las 
 - [ ] **Adjetivos** → ¿alguno con `-s`? Quitarla
 - [ ] **`not only`** → 🔴 **prohibida en el examen.** Si aparece, reemplazar por *Beyond X, Y must also…*
 - [ ] **Preposiciones fijas** → *the need **to*** + verbo · *the need **for*** + sustantivo · *impact **on*** · *increase **in***
+- [ ] **Falsos amigos frecuentes** → *result* + adjetivo → ***prove*** · *apparently* → ***tend to*** · *retire* → ***remove*** · *experimented* → ***experienced*** · *offer* → ***range*** (**§4.5**)
 - [ ] 🔴 **Empalme de comas** → ***8 ocurrencias, su error de puntuación nº 1.*** Ante cada *however / therefore / nevertheless*: **tapar la coma** — ¿las dos mitades son oraciones completas? → **punto o punto y coma** (**§4.10**)
 - [ ] **Concordancia** → *data **show*** (plural) · sujeto compuesto → verbo en plural
 - [ ] **`that` / `than`** → ¿comparo? *than*. Si no → *that* (**§4.9**)
