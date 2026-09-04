@@ -695,3 +695,102 @@ En la primera ronda de la v3 quedó *spread onto a mesh screen **dried*** (se pe
 
 ✅ **Señalado y cerrado en la siguiente pasada, sin introducir ninguno nuevo.**
 
+---
+
+# 🗺️ VIERNES 4 SEP — TASK 1 Nº 4: MAPA
+
+> **Autocontenido.** No hace falta el chat ni otro archivo.
+
+## El enunciado
+
+> *The two maps below show the coastal village of Stanwood in 1990 and the same area in 2020.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+### 🗺️ Stanwood, **1990**
+
+| Elemento | Dónde |
+|---|---|
+| **Carretera principal** | de este a oeste, cruzando el centro |
+| **Iglesia** | en el centro, al **norte** de la carretera |
+| **Escuela primaria** (pequeña) | al **este** de la iglesia |
+| **~20 casas** | al **sur** de la carretera |
+| **Tierras de cultivo** | al **norte** y al **oeste** |
+| **Bosque** | esquina **suroeste** |
+| **Río** | borde **este** |
+| **Muelle pequeño** | en la costa, al **este** |
+
+### 🗺️ Stanwood, **2020**
+
+| Elemento | Qué pasó |
+|---|---|
+| **Carretera principal** | **ensanchada** + **rotonda** nueva en el centro |
+| **Iglesia** | ✅ **sin cambios** |
+| **Escuela** | primaria → **ampliada a secundaria** |
+| **Casas** | de ~20 a **~60**, al sur |
+| **Tierras del norte** | → **urbanización de viviendas** |
+| **Tierras del oeste** | → **supermercado con aparcamiento** |
+| **Bosque** | **talado** → **campo deportivo** |
+| **Río** | ✅ **sin cambios** |
+| **Muelle** | → **puerto deportivo con hotel** |
+
+---
+
+## Antes de arrancar
+
+**① Decidir el tiempo verbal primero.** Los dos años son pasados → **pasado simple + pasiva**: *was built · was converted into · was cleared · was extended*.
+
+**② El Overview de un mapa dice dos cosas:**
+
+> *Overall, the area **underwent significant development**, changing from **[carácter A]** to **[carácter B]**. The most notable change was **[el mayor]**, while **[algo] remained unchanged**.*
+
+> 📌 **Lo que NO cambió es obligatorio.** Aquí hay **dos** cosas intactas a propósito. Encontrarlas y mencionarlas es lo que distingue una descripción completa de una lista de novedades.
+
+## El reparto de los 20 minutos
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ Mirar. Ni una palabra. ① ¿qué carácter tenía antes y cuál tiene ahora? ② ¿cuál es el cambio mayor? ③ ¿qué sigue igual? |
+| 1–3 | **Intro** — parafrasear el enunciado. Una oración |
+| 3–6 | **Overview** — dos oraciones · cambio de carácter + lo que no cambió |
+| 6–11 | **Detalle 1** — 4 oraciones. Sugerencia: **la mitad norte** |
+| 11–16 | **Detalle 2** — 4 oraciones. **La mitad sur y la costa** |
+| **16–20** | 🔴 **Corregir.** No se escribe nada nuevo |
+
+⚠️ **La tentación del mapa es explicar.** *The village grew **because of tourism*** no está en el plano. *…**which improved quality of life*** tampoco: eso es opinión.
+
+📏 Cuatro párrafos · **150 palabras mínimo** · cuatro oraciones por párrafo de detalle.
+
+## Los 4 minutos de corrección — en este orden
+
+1. **¿Llegué a 150?** Si no: falta una oración en cada párrafo de detalle
+2. **¿Mencioné lo que NO cambió?** · **¿Expliqué algún porqué?** · **¿Opiné?**
+3. **Artículos, dos barridos** (§4.7): solo `the`, luego solo `a`/`an`
+4. **Empalme de comas** (§4.10) — ante cada *however/therefore*: **tapar la coma**
+5. **Falsos amigos** (§4.5): *result*+adj → *prove* · *apparently* → *tend to* · *retire* → *remove* · *offer* → *range*
+6. **Ortografía y terminaciones** (§4.6). El primer instinto suele ser el correcto
+7. **Restos de edición** — tras cada cambio, **releer la oración completa hasta el punto final** (4 ocurrencias)
+
+<details>
+<summary><b>👀 PISTAS — abrir SOLO después de escribir</b></summary>
+
+**El titular:** un **pueblo rural y agrícola** se convirtió en una **localidad residencial y turística**. El campo desapareció por completo — no queda una sola parcela de cultivo — y el pueblo triplicó su vivienda.
+
+**Lo que NO cambió, y hay que decirlo:** la **iglesia** y el **río**. Son los dos únicos elementos intactos del plano.
+
+**El cambio individual más notable:** el **muelle → puerto deportivo con hotel**, porque marca la llegada del turismo. *The pier **was replaced by** a marina* · *A hotel **now occupies the site of** the old pier*.
+
+**Léxico:** *underwent considerable development · was cleared to make way for · was replaced by · now occupies the site of · was extended · remained unchanged · farmland · a housing estate · the outskirts · adjacent to · along the eastern edge*.
+
+**Una de banda 7:** *The farmland to the north and west **was cleared to make way for** a housing estate and a supermarket, **leaving no agricultural land in the area**.*
+
+</details>
+
+## ✍️ Task 1 nº 4 — texto: **PEGAR AQUÍ**
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+
+> _pendiente_
+

@@ -31,7 +31,7 @@
 | # | Min | Tarea |
 |---|---|---|
 | [ ] 1 | 5 | Releer **MAPAS** en `03_Writing_Module.md` + el bloque **B** del banco léxico |
-| [ ] 2 | 20 | 🔴 **Task 1 — MAPA, 20 min CRONOMETRADOS** |
+| [ ] 2 | 20 | 🔴 **Task 1 — MAPA, 20 min CRONOMETRADOS.** Enunciado (Stanwood 1990 vs 2020), los dos planos, reparto de minutos, checklist y pistas en `12_Task1_Archive.md` — **autocontenido** |
 | [ ] 3 | 5 | Pegar el texto en `12_Task1_Archive.md` |
 
 > **Recordatorios del mapa:** decidir **el tiempo verbal primero** · pasiva para lo construido (*was built · was converted into*) · el Overview dice **el cambio de carácter** (rural→urbano, residencial→comercial) **y lo que NO cambió** · ubicación en cada oración (*to the north of · adjacent to · now occupies the site of*).
