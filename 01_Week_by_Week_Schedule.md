@@ -6,96 +6,59 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — domingo 6 de septiembre · recuperación de viernes + sábado
+## 👉 RETOMAR AQUÍ — lunes 7 de septiembre · **empieza READING**
 
-**Jueves 3 ✅** fue el último día completo. **Viernes 4** (mapa) montado y sin hacer. **Sábado 5** sin montar.
+**Domingo 6 — COMPLETO ✅. Viernes, sábado y domingo recuperados en una tarde.**
 
-> ### 🔀 DECISIÓN: el mapa **es** el Task 1 de la sesión de resistencia
->
-> Hacer el mapa aparte (30 min) **y luego** los 60 minutos suma **90 minutos cronometrados** — más que el examen real, y la prueba de resistencia se mediría con cansancio acumulado.
->
-> **Fusionados:** se recupera viernes y sábado en un bloque, se practica el único formato de Task 1 nunca hecho, y la resistencia se mide limpia.
+# 🏁 MÓDULO WRITING — CERRADO
 
----
+| | Tipo | Palabras | En frío | Final |
+|---|---|---|---|---|
+| **Task 2 nº3** | Advantages–Disadvantages | 356 | ~5.5 | **~6.5** |
+| **Task 1 nº4** | Mapa | 178 | ~5.5 | **~6.5** |
 
-# 🔴 LA SESIÓN — 60 minutos seguidos, sin pausa
+**Los 4 tipos de Task 2 cubiertos** (Discussion · Problem–Solution · Advantages–Disadvantages · Opinion pendiente solo de práctica cronometrada) **y los 5 formatos de Task 1** (line graph · bar chart · pie charts · proceso · mapa).
 
-**Cierre del módulo Writing.** Desde la Semana 8, Writing pasa a mantenimiento (1 tarea semanal) y entra **Reading**.
+### 📌 La métrica que queda
 
-## Antes de arrancar (10 min, sin cronómetro)
+Las dos tareas de hoy: **~5.5 en frío, ~6.5 corregidas.** El examen solo mide la primera escritura. **Acortar esa distancia es el objetivo de las tareas semanales de mantenimiento.**
 
-- [ ] **Top 5** de `07_Error_Log.md` — el paso 0 de siempre
-- [ ] Bloque **B** del banco léxico de mapas + la sección **MAPAS** de `03_Writing_Module.md`
+### Las tres cosas que se llevan a Reading y a los mocks
 
-## 0:00 – 0:20 · TASK 1 — el mapa
-
-**Enunciado, planos, pistas y checklist: `12_Task1_Archive.md`, sección *VIERNES 4 SEP — TASK 1 Nº 4: MAPA*.** Autocontenido.
-
-**Los cuatro recordatorios del mapa:**
-1. **Decidir el tiempo verbal primero** y no cambiarlo
-2. **Pasiva para lo construido:** *was built · was converted into · was replaced by*
-3. El **Overview** dice el **cambio de carácter** (rural→urbano, residencial→comercial) **y lo que NO cambió**
-4. **Ubicación en cada oración:** *to the north of · adjacent to · now occupies the site of*
-
-⚠️ **La tentación del mapa es explicar.** *The town grew **because of tourism*** no está en el plano.
-
-📏 **150 palabras mínimo.** Cuatro párrafos.
-
-## 0:20 – 1:00 · TASK 2 — prompt 3
-
-> *The increasing use of technology in the workplace has reduced the need for face-to-face interaction between employees.*
->
-> ***Do the advantages of this development outweigh the disadvantages?***
-
-**🆕 Tipo: Advantages–Disadvantages.** El único de los cuatro que **nunca se ha practicado** — señalado como hueco desde el 10 de agosto.
-
-**Qué cambia respecto a los dos ya hechos:**
-
-| | |
-|---|---|
-| **Body 1** | Las ventajas |
-| **Body 2** | Las desventajas |
-| **La conclusión** | 🔴 **Tiene que dar un VEREDICTO.** No basta con resumir: *"do they outweigh?"* es una pregunta de sí o no. Hay que responderla |
-
-> ⚠️ **La trampa de este tipo:** listar ventajas y desventajas y terminar con un *"ambas son importantes"*. Eso deja Task Response en 5. **Hay que inclinar la balanza y decir hacia dónde.**
-
-**El reparto (40 min):**
-
-| Min | |
-|---|---|
-| 0–8 | Planificar en **palabras sueltas**. Decidir el veredicto **antes** de escribir. 2–3 palabras del banco anotadas al margen |
-| 8–31 | **Escribir sin mirar atrás.** 4 oraciones por body. Si dudas de una palabra, márcala y sigue |
-| 31–40 | **Corregir.** Nada nuevo |
-
-📏 **250 mínimo · apuntar a 270–300.**
-
-## 🔴 Las cinco de siempre
-
-1. **4 oraciones por body** · **4 párrafos en el mapa**
-2. **Contar al terminar** — 150+ y 250+
-3. **Separar escribir de corregir.** Tecleas a ~33 ppm: 280 palabras son ~13 min de una ventana de 23
-4. **Artículos en dos barridos** (§4.7): primero `the`, luego `a/an`
-5. **Empalmes de comas** (§4.10) — si a cada lado hay una oración que vive sola, va punto
-
-> ### ⚠️ Lo del 29 de agosto, que no hay que repetir
-> La pasada de corrección **sí ocurrió** y aun así sobrevivieron **cuatro artículos y un empalme**. El problema no es el tiempo: es **qué busca la pasada**. Los barridos van **separados y por categoría**, no leyendo el texto entero a ver qué salta.
-
-🔴 **Tecleadas, en Bloc de notas, sin corrector.**
+1. **Concordancia sujeto–verbo a distancia** — 4 ocurrencias el 6-sep. Tapar lo que hay entre sujeto y verbo
+2. **Restos de edición** — 5ª ocurrencia (*growidening*). Tras cada cambio, **releer la oración completa hasta el punto final**
+3. **Artículos** — sigue siendo el patrón nº1 del error log
 
 ---
 
-## Después: la revisión (~45 min, con descanso de por medio)
+## 📅 SEMANA 8 — Reading: tipos de pregunta y estrategia (Sep 7–13)
 
-- [ ] Mapa → pegar en `12_Task1_Archive.md` · corregir contra el checklist
-- [ ] Task 2 → pegar en `11_Writing_Baseline_Essays.md`
-- [ ] Registrar en `07_Error_Log.md` y `09_Study_Journal.md`
-- [ ] **Anotar la banda del Task 2 en `08_Mock_Exam_Tracker.md`** — es la 3ª medición cronometrada
+**Writing pasa a mantenimiento: 1 tarea cronometrada por semana (los sábados).**
+
+| Día | |
+|---|---|
+| **Lun 7** | Vocab: STEM collocations 1–20 · Reading: **True/False/Not Given** — la distinción crítica |
+| Mar 8 | Reading: práctica T/F/NG — 15 preguntas (20 min) |
+| Mié 9 | Vocab: repaso AWL · Reading: **Matching Headings** — idea principal vs detalle |
+| Jue 10 | Reading: 1 pasaje con Matching Headings (20 min cronometrados) |
+| Vie 11 | Reading: skimming y scanning · sentence completion |
+| **Sáb 12** | **Reading: 1 pasaje con los 3 tipos (20 min)** + **Writing: 1 Task 2 (40 min, mantenimiento)** |
+| Dom 13 | Revisar Reading: para cada error, encontrar la respuesta en el texto y entender **por qué**. Registrar por tipo de pregunta |
+
+### Lunes 7 (~30 min)
+
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 10 | **STEM collocations 1–20** (`02_Vocabulary_Engine.md`) |
+| [ ] 2 | 20 | **True/False/Not Given** (`04_Reading_Module.md`) — la distinción entre *False* (el texto lo **contradice**) y *Not Given* (el texto **no lo dice**) |
+
+> **Por qué T/F/NG primero:** es donde más marcas se pierden y el único tipo donde el error viene de **razonar de más**. *Not Given* no significa "no lo encontré": significa que el texto no se pronuncia. Las dos trampas ya están listadas en `07_Error_Log.md`, sección *Common Reading Patterns*.
 
 ---
 
 ## 📌 Pendiente sin fecha
 
-**`Topic Idea Bank`** — los 8 temas frecuentes de Task 2 con ideas propias. Cobra sentido ahora que Writing pasa a mantenimiento.
+**`Topic Idea Bank`** — los 8 temas frecuentes de Task 2 con ideas propias. **Cobra sentido ahora**: el 6-sep quedó documentado que quedarse *"sin rumbo"* en la planificación es lo que descuadró los bodies. Encaja bien en una tarde de fin de semana.
 
 ---
 

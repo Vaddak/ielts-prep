@@ -788,9 +788,68 @@ En la primera ronda de la v3 quedó *spread onto a mesh screen **dried*** (se pe
 
 </details>
 
-## ✍️ Task 1 nº 4 — texto: **PEGAR AQUÍ**
+## ✍️ Task 1 nº 4 — el mapa · **6 de septiembre**
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+**Tiempo:** 20 min · **v1: 189 palabras · ~Band 5.5** → **final: 178 palabras · ~Band 6.5**
 
-> _pendiente_
+*Escrito al final de una tarde de recuperación, después del Task 2 de 40 min. Leer como primer contacto con el formato, no como medición de banda.*
+
+### v1 — primera escritura
+
+> The two maps below describe same areas in the village of Stanwood during the years 1990 and 2020.
+>
+> Overall, the area underwent significand development over the period, changing from a few buildings and rural areas to modern venues and larger urban areas. The most notable change was the growth in the principal road and the number of households, while the church remained unchanged.
+>
+> Initially, the principal road that goes from the east to the west crossing for the center is wider in 2020, with a roundpoint that allows more cars. Following with this growth, the primary school holds now a new stage for high school students. In the north of the village, during the last years new houses were builded in the lands located in the north whereas in the south a new supermarked with parking lots was erected. The number households along the south of the road increased three hundred per cent.
+>
+> Meanwhile some rural areas such as the forest were replaced by a sport campus and the dock was converted to a sports dock with provided with a hotel, the river located in the east remained steady.
+
+### ✅ Versión final — tras 4 rondas
+
+> The two maps below show the same area in the village of Stanwood in 1990 and 2020.
+>
+> Overall, the area underwent significant development over the period, changing from a few buildings and rural areas to modern facilities and larger urban areas. The most notable change was the widening of the main road and the increase in the number of households, while the church remained unchanged.
+>
+> Initially, the main road that ran from the east to the west crossing through the center was widened in 2020, with a roundabout that eased traffic flow. Following this growth, the primary school was extended to accommodate secondary students. In the north of the village new houses were built on the former farmland, whereas in the west a new supermarket with parking lots was erected. The number of households along the south of the road tripled.
+>
+> Meanwhile some rural areas such as the forest were replaced by a sports field. The pier on the east coast was converted into a marina provided with a hotel. The river located in the east remained unchanged.
+
+### 🎯 Lo que salió bien a la primera
+
+- ✅ **Las DOS cosas que no cambiaron** — iglesia y río. El enunciado advertía que encontrar ambas *"distingue una descripción completa de una lista de novedades"*. Salieron las dos, en el primer mapa de su vida
+- ✅ Overview con el **cambio de carácter** (rural → urbano)
+- ✅ **Pasiva correcta** tres veces: *was erected · were replaced · was converted*
+- ✅ **Ni una explicación causal.** La tentación del mapa es explicar, y no cayó
+- ✅ 189 palabras, cuatro párrafos
+
+### 🔴 Los tres fallos del formato
+
+**1. Mezcla de tiempos verbales** — era el aviso nº1 del ejercicio. Tres presentes en el párrafo 3 (*goes · is wider · holds now*) conviviendo con pasados correctos en el 4. **Los dos planos son pasado: todo va en pasado.**
+
+**2. Ubicación equivocada** — el supermercado al **sur** cuando va al **oeste**. En un mapa, la ubicación mal puesta es información incorrecta, como un número mal leído en un gráfico.
+
+**3. El último párrafo colapsado** — una sola oración de 36 palabras, con un empalme de comas y un resto de edición (*with provided with*), frente a 90 palabras en el párrafo anterior.
+
+### Léxico corregido
+
+*roundpoint* → **roundabout** · *were builded* → **were built** · *the dock* → **the pier** · *sports dock* → **a marina** · *sport campus* → **a sports field** · *remained steady* → **remained unchanged** · *crossing for* → **crossing through** · *converted to* → **converted into** · *a new stage* → **to accommodate secondary students** · *venues* → **facilities** · *principal road* → **main road** · *in the lands located in the north* → **on the former farmland**
+
+**Aritmética:** *increased three hundred per cent* → de 20 a 60 casas es **tripled** (+200%).
+
+### 🔴 El hallazgo — `growidening`
+
+En la ronda 3 apareció ***growidening***: al cambiar *growth* por *widening*, las dos palabras se fusionaron. **Resto de edición**, quinta ocurrencia del patrón, y nada menos que en el Overview.
+
+> Es el error más peligroso porque **no se ve**: el cerebro lee la palabra que se quiso escribir.
+> Checklist punto 7: **tras cada cambio, releer la oración completa hasta el punto final.**
+
+### 📈 Cuatro rondas, un punto de banda
+
+| Ronda | Qué entró |
+|---|---|
+| v1 | 189 palabras, ~5.5 |
+| v2 | Tiempos verbales · supermercado al oeste · último párrafo partido en tres · *tripled* |
+| v3 | Intro reescrita · *eased traffic flow* · *accommodate* — pero entró *growidening* |
+| **final** | *widening* · *main road* · *converted into* · paralelismo del Overview → **~6.5** |
+
 

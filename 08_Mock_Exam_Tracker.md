@@ -136,6 +136,47 @@ El plan dice explícitamente *"no corrijas mientras escribes; si dudas de una pa
 
 ---
 
+## 🏁 CIERRE DEL MÓDULO WRITING — 6 de septiembre de 2026
+
+**Sesión de resistencia:** Task 1 (mapa, 20 min) + Task 2 (prompt 3, 40 min), **60 minutos seguidos**. Recuperación de viernes 4, sábado 5 y domingo 6.
+
+| | Tipo | Palabras | En frío | Corregida |
+|---|---|---|---|---|
+| **Task 1 nº4** | Mapa *(formato nuevo)* | 189 → 178 | ~5.5 | **~6.5** |
+| **Task 2 nº3** | Advantages–Disadvantages *(tipo nuevo)* | 356 | ~5.5 | **~6.5** |
+
+### Progresión de Writing Task 2
+
+| Fecha | Prompt | Tipo | Palabras | En frío | Final |
+|---|---|---|---|---|---|
+| 15-ago | 1 — salud pública | Discussion | 182 ❌ | 5.5 | 6 |
+| 18-ago | 1 *(reparación)* | Discussion | 275 | — | **7** |
+| 22-ago | 4 — brecha ricos/pobres | Problem–Solution | 252 | **5.5–6** | 7 |
+| **6-sep** | 3 — tecnología y trato | **Adv–Disadv** | **356** | **5.5** | **6.5** |
+
+**Los cuatro tipos de pregunta, cubiertos.** Los cuatro formatos de Task 1 también (line graph · bar chart · pie charts · proceso · mapa).
+
+### Lo que quedó resuelto
+
+- ✅ **Longitud** — de 182/250 el 15-ago a 356 y 178 hoy, ambas holgadas
+- ✅ **Usar los 40 minutos completos**
+- ✅ **Planificar antes de escribir**
+- ✅ **Activar el vocabulario del batch**
+- ✅ **Ejemplos concretos con mecanismo**, no *"studies show"* sin cifra
+- ✅ **Hedging** aplicado sin recordatorio
+
+### Lo que sigue abierto
+
+1. **La primera escritura.** Las dos tareas de hoy salieron ~5.5 en frío y ~6.5 corregidas. **Esa distancia es la métrica a acortar** — el examen solo mide la primera
+2. **Concordancia sujeto–verbo a distancia** — 4 ocurrencias hoy
+3. **Restos de edición** — 5ª ocurrencia (*growidening*)
+4. **Artículos** — sigue siendo el patrón nº1
+5. **El veredicto** en preguntas de sí o no
+
+> Desde la Semana 8, Writing pasa a **mantenimiento**: una tarea cronometrada por semana. Entra **Reading**.
+
+---
+
 ## Band Score Reference
 
 | Raw Score (Listening/Reading out of 40) | Band |

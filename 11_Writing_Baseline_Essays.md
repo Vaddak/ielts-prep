@@ -257,3 +257,90 @@ Diez afirmaciones absolutas **suyas** (ensayo del prompt 1 + párrafo del 2-sep)
 > **Se matiza lo discutible. Lo obvio, no.**
 > **La tesis y la conclusión van firmes.** Un ensayo entero en condicional baja Task Response igual que el exceso de certeza.
 
+
+
+---
+
+# 🏁 TASK 2 Nº 3 — PROMPT 3 · 6 de septiembre
+## *Advantages–Disadvantages* — el último tipo de pregunta sin practicar
+
+> *The increasing use of technology in the workplace has reduced the need for face-to-face interaction between employees.*
+>
+> ***Do the advantages of this development outweigh the disadvantages?***
+
+**40 min cronometrados · 356 palabras · dentro de una sesión de 60 minutos seguidos (mapa + ensayo).**
+
+| Criterio | En frío | Final |
+|---|---|---|
+| Task Achievement | 5.5 | **6.5** |
+| Coherence & Cohesion | 6 | **6.5** |
+| Lexical Resource | 5.5 | **6.5** |
+| Grammatical Range | 5 | **6** |
+| **Global** | **~5.5** | **~6.5** |
+
+## ✅ Versión final
+
+> The growth in the use of different technologies in the workplace has considerably reduced human interactions between coworkers. This essay argues that while face-to-face interactions dropped, other important variables in working life have increased due to technology.
+>
+> Over the last ten years technology has become more essential than any other tool in working life. Its use has grown sharply and has reshaped a considerable number of processes in the industry. While some processes still require no technological intervention and depend on workers collaborating in person, others have been completely transformed, proving that full automation can increase results and productivity. As an example, a large number of jobs remained remote after the pandemic in 2020 because employers realized that the comfort provided for working from home and avoiding daily stressful situations such as traffic proved a rise in the quality of life of workers. Other important advantages are the better understanding that technology has given to workers in jobs that are linked to data analysis and numbers. The possibility to process a greater number of data in less time has allowed workers to improve their performance at work. To illustrate this, some companies that sell products such as Stop Jeans implemented machine learning and deep data analysis to get a better understanding of their demand, achieving larger numbers in sales over the last three years.
+>
+> However, a significant drawback of this trend is that human interactions have been reduced to a minimum. Some people working remotely with minimum social interactions can get mental illness such as depression and anxiety. Over the last years universities in the United Kingdom have researched how loneliness affects the brain and neuronal activity. These studies suggest that avoiding social interactions can increase the risk of dementia and depression. Consequently, when for some people the only human interactions they have happen at work, for others these exchanges do not have a place if they work in isolation or from home.
+>
+> In conclusion, although the advantages in productivity are substantial, they do not outweigh the cost to workers' wellbeing: face-to-face interactions remain fundamental to balanced mental health.
+
+## 🔴 EL HALLAZGO DEL DÍA — *4 oraciones por body* NO son 4 razones
+
+Autodiagnóstico suyo, textual:
+
+> *"me mentalicé con las 4 oraciones en el body 1 y **lo tomé como 4 razones diferentes** para argumentar"*
+
+**Por eso el Body 1 salió con 187 palabras** (objetivo 90–110) y el Body 2 con 96: metió **dos argumentos completos**, cada uno con su ejemplo.
+
+> **4 oraciones = 4 MOVIMIENTOS de UN argumento**, no 4 argumentos.
+> **CLAIM** → **EXPLAIN** (el mecanismo) → **EXAMPLE** (de *ese* punto) → **LINK** (reafirma *ese* punto).
+>
+> El descriptor de Band 7 dice *"extends and supports"*: **profundidad, no cantidad.** Cuatro razones sueltas es Band 5–6 aunque el inglés sea perfecto, porque ninguna alcanza a desarrollarse.
+
+**Y explica el otro síntoma que reportó** — *"me quedé mucho tiempo pensando, como sin rumbo de sobre qué escribir"*: no decidió cuál argumento usar, así que usó los dos, y el tiempo salió de los minutos de corrección.
+
+📌 **Refuerza la necesidad del `Topic Idea Bank`**, pedido el 30 de agosto y aún pendiente.
+
+## 🔴 El veredicto — la trampa del tipo *Advantages–Disadvantages*
+
+La pregunta es **sí o no**. La v1 no la respondió: la tesis decía que pasaron las dos cosas, y la conclusión se inclinaba sin llegar a nombrarlo.
+
+**Es la trampa que se le señaló dos veces antes de escribir, y cayó igual** — y no por descuido: viene entrenada en *Discuss both views*, donde equilibrar es exactamente lo correcto. Este tipo pide lo contrario.
+
+**Doce palabras lo resolvieron:**
+
+> *…although the advantages in productivity are substantial, **they do not outweigh** the cost to workers' wellbeing…*
+
+## Lo que salió bien
+
+- ✅ **356 palabras.** El problema de la longitud está resuelto: 182 → 252 → 285 → **356**
+- ✅ **Dos ejemplos concretos y verificables:** el trabajo remoto tras la pandemia, y Stop Jeans con machine learning para modelar demanda
+- ✅ **Hedging correcto** — *These studies suggest that · can increase the risk*. La Unit 4 del jueves, aplicada sola
+- ✅ ***has considerably reduced*** — adverbio antes del verbo, repasado esa misma tarde
+- ✅ **Un mecanismo real** en el Body 2: soledad → riesgo de demencia. No es opinión, es cadena causal
+- ✅ Conectores variados y bien puestos: *However · Consequently · To illustrate · As an example*
+
+## Los patrones que costaron banda
+
+**Concordancia sujeto–verbo ×4** — *variables… **has*** · *interactions **has*** · *universities… **has*** · *interactions **remains***. En las cuatro, el sujeto queda lejos del verbo y la concordancia se hace con la palabra más cercana.
+
+> **El método:** tapar todo lo que hay entre el sujeto y el verbo. **El sujeto nunca está dentro de una frase con preposición.**
+> Y acertó la más difícil del ensayo: *The growth ~~in the use~~ ~~of different technologies~~ ~~in the workplace~~ **has** considerably reduced…* ✅ Tres frases preposicionales en medio, y el verbo bien.
+
+**Frases sin verbo conjugado ×2** — *while **is** important* · *interactions **still being** fundamental*. *Being* no conjuga: la oración se queda sin núcleo.
+
+***worklife*** ×3 — familia de *laboral*, señalada esa misma tarde → *working life · the workplace*.
+
+**Ortografía:** *has growth* (por *grown*) · *conserable* · *confort* · *possibily* · *Consequenly* · *theyhave*.
+
+## ⚠️ Las correcciones que traen errores — 3ª y 4ª ocurrencia
+
+Al arreglar *still being* → *remains*, entró un **error de concordancia**. Al escribir el veredicto, entró ***overweigh*** por *outweigh* — **la palabra clave del enunciado, que estaba escrita en el propio enunciado**.
+
+> **La corrección también pasa por el checklist.**
+
+✅ **La última ronda no introdujo ninguno.** Primera vez desde el 17 de agosto.

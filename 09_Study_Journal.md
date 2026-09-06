@@ -842,3 +842,66 @@ Y la simétrica: **sobre-matizó lo indiscutible** (*depression and anxiety **in
 
 **Mañana:** mapa cronometrado. **El sábado, la sesión completa de 60 minutos** — cierre del módulo Writing.
 
+
+
+---
+
+### 2026-09-06 — Semana 7, Domingo · 🏁 CIERRE DEL MÓDULO WRITING
+**Módulo:** Task 1 (mapa) + Task 2 (prompt 3) — sesión de resistencia de 60 minutos
+**Tiempo:** ~3 h con las rondas de corrección · **recuperación de viernes 4, sábado 5 y domingo 6**
+
+**Decisión de la tarde:** fusionar el mapa del viernes con la sesión de resistencia del sábado. Hacerlos por separado habrían sido 90 minutos cronometrados — más que el examen real — y la resistencia se habría medido con cansancio acumulado.
+
+| | Tipo | Palabras | En frío | Final |
+|---|---|---|---|---|
+| **Task 2 nº3** | Advantages–Disadvantages *(tipo nuevo)* | 356 | ~5.5 | **~6.5** |
+| **Task 1 nº4** | Mapa *(formato nuevo)* | 189 → 178 | ~5.5 | **~6.5** |
+
+**Con esto quedan cubiertos los cuatro tipos de Task 2 y los cinco formatos de Task 1.**
+
+### 🔴 El hallazgo del día — *"4 oraciones por body"* se entendió como 4 razones
+
+> *"me mentalicé con las 4 oraciones en el body 1 y **lo tomé como 4 razones diferentes** para argumentar"*
+
+Body 1 salió con **187 palabras y dos argumentos completos**; Body 2 con 96. Y explica el otro síntoma que reportó — *"me quedé mucho tiempo pensando, como sin rumbo"*: no eligió un argumento, así que usó los dos.
+
+> **4 oraciones = 4 MOVIMIENTOS de UN argumento.** Claim → Explain → Example → Link.
+> Band 7 pide *"extends and supports"*: **profundidad, no cantidad.**
+
+La instrucción llevaba semanas escrita como *"4 oraciones por body"* sin repetir cuáles eran los cuatro movimientos. Ambigüedad del material, no descuido suyo.
+
+### 🔴 El veredicto — la trampa del tipo nuevo
+
+*Do the advantages outweigh?* es sí o no. La v1 no respondió: la tesis decía que pasaron las dos cosas y la conclusión se inclinaba sin nombrarlo. **Se le señaló dos veces antes de escribir y cayó igual**, porque viene entrenada en *Discuss both views*, donde equilibrar es lo correcto. Doce palabras lo resolvieron.
+
+### 🔴 `growidening` — 5ª ocurrencia de resto de edición
+
+Al cambiar *growth* por *widening* en el Overview del mapa, las dos palabras se fusionaron. **Es el error más peligroso porque no se ve:** el cerebro lee la palabra que se quiso escribir. Checklist punto 7.
+
+### Lo que salió bien
+
+- ✅ **El mapa encontró LAS DOS cosas que no cambiaron** (iglesia y río) — el enunciado advertía que eso *"distingue una descripción completa de una lista de novedades"*. En su primer mapa
+- ✅ **Pasiva correcta** tres veces en el mapa · **ni una explicación causal**
+- ✅ **356 palabras** en el ensayo — la longitud dejó de ser problema: 182 → 252 → 285 → 356
+- ✅ **Dos ejemplos concretos con mecanismo:** trabajo remoto tras la pandemia, Stop Jeans con machine learning
+- ✅ **Hedging aplicado sin recordatorio** (*These studies suggest · can increase the risk*)
+- ✅ ***has considerably reduced*** — adverbio antes del verbo, repasado esa misma tarde
+- ✅ **La última ronda de cada tarea no introdujo ningún error nuevo.** Primera vez desde el 17 de agosto
+
+### Dificultades
+
+**Concordancia sujeto–verbo ×4** en el ensayo, todas con el sujeto lejos del verbo. Método adoptado: **tapar lo que hay en medio; el sujeto nunca está dentro de una frase con preposición.** Acertó la más difícil del texto (*The growth in the use of technologies in the workplace **has**…*).
+
+**Mezcla de tiempos verbales** en el mapa — el aviso nº1 del ejercicio. **Ubicación equivocada** del supermercado (sur por oeste): en un mapa eso es información incorrecta.
+
+**Frases sin verbo conjugado ×2** · ***worklife*** ×3 · seis errores de ortografía.
+
+### 📌 Lo que queda como métrica principal
+
+Las dos tareas salieron **~5.5 en frío y ~6.5 corregidas**. **Esa distancia es lo que hay que acortar** — el examen solo mide la primera escritura.
+
+**Palabras nuevas:** *to outweigh · roundabout · a marina · was cleared to make way for · now occupies the site of · remained unchanged · to accommodate · farmland · a housing estate*.
+
+**Cómo me sentí:** —
+
+**Cierre:** desde la Semana 8, Writing pasa a mantenimiento (una tarea cronometrada semanal) y entra **Reading**.
