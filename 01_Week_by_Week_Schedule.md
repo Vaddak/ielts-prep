@@ -6,70 +6,96 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — viernes 4 de septiembre
+## 👉 RETOMAR AQUÍ — domingo 6 de septiembre · recuperación de viernes + sábado
 
-**Jueves 3 ✅** Unit 4 (hedging) + 10 frases suavizadas — **4 perfectas y las dos de firmeza acertadas**.
+**Jueves 3 ✅** fue el último día completo. **Viernes 4** (mapa) montado y sin hacer. **Sábado 5** sin montar.
 
-### ⚖️ Lo que quedó claro
+> ### 🔀 DECISIÓN: el mapa **es** el Task 1 de la sesión de resistencia
+>
+> Hacer el mapa aparte (30 min) **y luego** los 60 minutos suma **90 minutos cronometrados** — más que el examen real, y la prueba de resistencia se mediría con cansancio acumulado.
+>
+> **Fusionados:** se recupera viernes y sábado en un bloque, se practica el único formato de Task 1 nunca hecho, y la resistencia se mide limpia.
 
-> **Se matiza lo discutible. Lo obvio, no.**
-> **La tesis y la conclusión van FIRMES** — ahí se recomienda, no se afirma.
-> Un ensayo entero en condicional **baja Task Response igual** que el exceso de certeza.
+---
 
-### 🔴 Las tres trampas — `02_Vocabulary_Engine.md`, Unit 4
+# 🔴 LA SESIÓN — 60 minutos seguidos, sin pausa
+
+**Cierre del módulo Writing.** Desde la Semana 8, Writing pasa a mantenimiento (1 tarea semanal) y entra **Reading**.
+
+## Antes de arrancar (10 min, sin cronómetro)
+
+- [ ] **Top 5** de `07_Error_Log.md` — el paso 0 de siempre
+- [ ] Bloque **B** del banco léxico de mapas + la sección **MAPAS** de `03_Writing_Module.md`
+
+## 0:00 – 0:20 · TASK 1 — el mapa
+
+**Enunciado, planos, pistas y checklist: `12_Task1_Archive.md`, sección *VIERNES 4 SEP — TASK 1 Nº 4: MAPA*.** Autocontenido.
+
+**Los cuatro recordatorios del mapa:**
+1. **Decidir el tiempo verbal primero** y no cambiarlo
+2. **Pasiva para lo construido:** *was built · was converted into · was replaced by*
+3. El **Overview** dice el **cambio de carácter** (rural→urbano, residencial→comercial) **y lo que NO cambió**
+4. **Ubicación en cada oración:** *to the north of · adjacent to · now occupies the site of*
+
+⚠️ **La tentación del mapa es explicar.** *The town grew **because of tourism*** no está en el plano.
+
+📏 **150 palabras mínimo.** Cuatro párrafos.
+
+## 0:20 – 1:00 · TASK 2 — prompt 3
+
+> *The increasing use of technology in the workplace has reduced the need for face-to-face interaction between employees.*
+>
+> ***Do the advantages of this development outweigh the disadvantages?***
+
+**🆕 Tipo: Advantages–Disadvantages.** El único de los cuatro que **nunca se ha practicado** — señalado como hueco desde el 10 de agosto.
+
+**Qué cambia respecto a los dos ya hechos:**
 
 | | |
 |---|---|
-| 1 | ***would* no suaviza** (2 ocurrencias). Marca **hipótesis**: aplicado a una fuente sugiere que **la fuente no existe**. Usar *suggest · indicate · appear to show* |
-| 2 | ***apparently*** ≠ *aparentemente*. Carga **"eso dicen, pero quién sabe"**. Neutro: *seemingly*; habitual: ***tend to*** |
-| 3 | **Un dato inventado se generaliza, no se matiza.** Suavizar el marco y dejar las cifras deja la frase **más** expuesta |
+| **Body 1** | Las ventajas |
+| **Body 2** | Las desventajas |
+| **La conclusión** | 🔴 **Tiene que dar un VEREDICTO.** No basta con resumir: *"do they outweigh?"* es una pregunta de sí o no. Hay que responderla |
 
-🆕 **Falso amigo:** *result essential* → ***prove** essential*. *Resultar* = **acabar siendo**; el inglés *result* solo expresa consecuencia. §4.5
+> ⚠️ **La trampa de este tipo:** listar ventajas y desventajas y terminar con un *"ambas son importantes"*. Eso deja Task Response en 5. **Hay que inclinar la balanza y decir hacia dónde.**
 
-### Viernes 4 (~30 min)
+**El reparto (40 min):**
 
-| # | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 5 | Releer **MAPAS** en `03_Writing_Module.md` + el bloque **B** del banco léxico |
-| [ ] 2 | 20 | 🔴 **Task 1 — MAPA, 20 min CRONOMETRADOS.** Enunciado (Stanwood 1990 vs 2020), los dos planos, reparto de minutos, checklist y pistas en `12_Task1_Archive.md` — **autocontenido** |
-| [ ] 3 | 5 | Pegar el texto en `12_Task1_Archive.md` |
-
-> **Recordatorios del mapa:** decidir **el tiempo verbal primero** · pasiva para lo construido (*was built · was converted into*) · el Overview dice **el cambio de carácter** (rural→urbano, residencial→comercial) **y lo que NO cambió** · ubicación en cada oración (*to the north of · adjacent to · now occupies the site of*).
->
-> ⚠️ **La tentación del mapa es explicar.** *The town grew **because of tourism*** no está en el plano.
->
-> 📏 Cuatro párrafos · **150 palabras mínimo** · cuatro oraciones por párrafo de detalle.
-
-### 🔴 SÁBADO 5 — la grande
-**Task 1 (20 min) + Task 2 (40 min), 60 minutos seguidos.** Primera prueba de resistencia y **cierre del módulo Writing**. Desde la Semana 8, Writing pasa a mantenimiento y entra **Reading**.
-
-### Resto de la Semana 7 (reprogramada)
-
-| Día | |
+| Min | |
 |---|---|
-| Mié 2 | Discourse markers (Unit 3) + usarlos en un párrafo |
-| Jue 3 | Hedging language (Unit 4) |
-| Vie 4 | **Mapa** — cambios entre dos períodos (20 min) |
-| **Sáb 5** | 🔴 **Sesión completa: Task 1 (20 min) + Task 2 (40 min) seguidos.** Primera prueba de resistencia |
-| Dom 6 | Revisar ambas contra los checklists · registrar patrones |
+| 0–8 | Planificar en **palabras sueltas**. Decidir el veredicto **antes** de escribir. 2–3 palabras del banco anotadas al margen |
+| 8–31 | **Escribir sin mirar atrás.** 4 oraciones por body. Si dudas de una palabra, márcala y sigue |
+| 31–40 | **Corregir.** Nada nuevo |
 
-**Hito de la semana:** cierre del módulo Writing. Desde la Semana 8, Writing pasa a mantenimiento (1 tarea cronometrada semanal) y entra **Reading**.
+📏 **250 mínimo · apuntar a 270–300.**
 
-### Resto de la Semana 6
+## 🔴 Las cinco de siempre
 
-| Día | |
-|---|---|
+1. **4 oraciones por body** · **4 párrafos en el mapa**
+2. **Contar al terminar** — 150+ y 250+
+3. **Separar escribir de corregir.** Tecleas a ~33 ppm: 280 palabras son ~13 min de una ventana de 23
+4. **Artículos en dos barridos** (§4.7): primero `the`, luego `a/an`
+5. **Empalmes de comas** (§4.10) — si a cada lado hay una oración que vive sola, va punto
 
-### ⚠️ La regla que hunde bandas en Task 1
+> ### ⚠️ Lo del 29 de agosto, que no hay que repetir
+> La pasada de corrección **sí ocurrió** y aun así sobrevivieron **cuatro artículos y un empalme**. El problema no es el tiempo: es **qué busca la pasada**. Los barridos van **separados y por categoría**, no leyendo el texto entero a ver qué salta.
 
-> **Describes lo que VES. Nunca explicas POR QUÉ, ni opinas.**
-> ❌ *Sales fell **because of the crisis*** · ✅ *Sales fell sharply, reaching their lowest point*
->
-> ✅ **Se cumplió en los tres Overviews del martes.**
+🔴 **Tecleadas, en Bloc de notas, sin corrector.**
 
-### 📌 Pendiente sin fecha
+---
 
-**`Topic Idea Bank`** — los 8 temas frecuentes de Task 2 con ideas propias, para no bloquearse con el contenido. Es material de Task 2, así que no urge durante la Semana 6 (Task 1). Retomar el fin de semana o cuando convenga.
+## Después: la revisión (~45 min, con descanso de por medio)
+
+- [ ] Mapa → pegar en `12_Task1_Archive.md` · corregir contra el checklist
+- [ ] Task 2 → pegar en `11_Writing_Baseline_Essays.md`
+- [ ] Registrar en `07_Error_Log.md` y `09_Study_Journal.md`
+- [ ] **Anotar la banda del Task 2 en `08_Mock_Exam_Tracker.md`** — es la 3ª medición cronometrada
+
+---
+
+## 📌 Pendiente sin fecha
+
+**`Topic Idea Bank`** — los 8 temas frecuentes de Task 2 con ideas propias. Cobra sentido ahora que Writing pasa a mantenimiento.
 
 ---
 
