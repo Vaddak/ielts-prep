@@ -296,3 +296,37 @@ Questions follow the ORDER of the text in most question types (except Matching H
 4. Log the question type in your Error Log (`07_Error_Log.md`)
 
 After 5 practice passages, you will see your error patterns clearly.
+
+---
+
+## 🔴 LA PASADA DE CUANTIFICADORES — su patrón nº 1 en Reading
+
+*Añadido el 8 de septiembre, tras la primera práctica de T/F/NG: **12/15**, y **los tres fallos fueron el mismo fallo**.*
+
+| # | Su resp. | Correcta | La palabra que decidía |
+|---|---|---|---|
+| 4 | T | **FALSE** | *pesticides are **largely** unnecessary* → la afirmación decía *no pesticides **at all*** |
+| 11 | T | **FALSE** | *Analyses **consistently** find* → la afirmación decía *have **disagreed*** |
+| 13 | NG | **FALSE** | ***No** commercial vertical farm produces cereals at scale* — lo niega explícitamente |
+
+> ## Lee el contenido de la frase y **no el cuantificador**.
+
+**Es la misma debilidad que en Writing, del otro lado.** Allí le costaba **poner** matices (*largely · tend to · may* — §Unit 4, hedging). Aquí le cuesta **verlos**. Mismo músculo: grados y cantidades.
+
+### ✅ Lo que SÍ funcionó — y era lo difícil
+
+**Los tres Not Given, acertados** (5, 10, 14). El error esperado en una ingeniera — **deducir de más** — **no apareció ni una vez**. Su fallo fue el contrario: **NG donde el texto sí contradecía** (13), que es mucho más barato de corregir porque la respuesta está en el texto, no en la cabeza.
+
+### La regla
+
+> ## ⏱️ **El tiempo que sobre se gasta en una segunda pasada SOLO a los cuantificadores.**
+>
+> *largely · most · all · some · no · none · consistently · only · at least · always · never · rarely · tend to · may*
+>
+> Subrayarlos y **decidir otra vez**. Misma lógica que las pasadas por categoría en Writing: **buscar una cosa a la vez encuentra lo que una lectura general no ve.**
+
+**Y cuando dude:** volver a la frase del texto y leer **solo el verbo principal**. *Analyses **consistently find** that…* → ¿coinciden o discrepan? → coinciden → la afirmación dice lo contrario → **False**.
+
+⏱️ Terminó en **11:58 de 20**. Dos de los tres errores eran una palabra que una relectura habría cazado — **el tiempo sobrante existe para eso**.
+
+---

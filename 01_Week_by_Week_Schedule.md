@@ -6,28 +6,31 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — lunes 7 de septiembre · **empieza READING**
+## 👉 RETOMAR AQUÍ — miércoles 9 de septiembre
 
-**Domingo 6 — COMPLETO ✅. Viernes, sábado y domingo recuperados en una tarde.**
+**Lun 7 ✅** STEM collocations 1–20 · teoría T/F/NG. **Mar 8 ✅** 1ª práctica cronometrada: **12/15 en 11:58 de 20 min**.
 
-# 🏁 MÓDULO WRITING — CERRADO
+### ✅ Lo difícil salió bien al primer intento
 
-| | Tipo | Palabras | En frío | Final |
-|---|---|---|---|---|
-| **Task 2 nº3** | Advantages–Disadvantages | 356 | ~5.5 | **~6.5** |
-| **Task 1 nº4** | Mapa | 178 | ~5.5 | **~6.5** |
+**Los tres Not Given, acertados.** El error esperado — **deducir de más** — no apareció ni una vez.
 
-**Los 4 tipos de Task 2 cubiertos** (Discussion · Problem–Solution · Advantages–Disadvantages · Opinion pendiente solo de práctica cronometrada) **y los 5 formatos de Task 1** (line graph · bar chart · pie charts · proceso · mapa).
+### 🔴 Los tres fallos son **el mismo fallo**
 
-### 📌 La métrica que queda
+| # | Marcó | Era | La palabra |
+|---|---|---|---|
+| 4 | T | **F** | *pesticides are **largely** unnecessary* |
+| 11 | T | **F** | *Analyses **consistently** find* |
+| 13 | NG | **F** | ***No** commercial vertical farm produces cereals…* |
 
-Las dos tareas de hoy: **~5.5 en frío, ~6.5 corregidas.** El examen solo mide la primera escritura. **Acortar esa distancia es el objetivo de las tareas semanales de mantenimiento.**
+> ## Lee el contenido de la frase y **no el cuantificador**.
 
-### Las tres cosas que se llevan a Reading y a los mocks
+**Es la misma debilidad que en Writing, invertida:** allí le cuesta **poner** matices (hedging); aquí le cuesta **verlos**.
 
-1. **Concordancia sujeto–verbo a distancia** — 4 ocurrencias el 6-sep. Tapar lo que hay entre sujeto y verbo
-2. **Restos de edición** — 5ª ocurrencia (*growidening*). Tras cada cambio, **releer la oración completa hasta el punto final**
-3. **Artículos** — sigue siendo el patrón nº1 del error log
+> ### ⏱️ La regla
+> **El tiempo que sobre NO es margen: es la segunda pasada.** Y va **solo a los cuantificadores**:
+> *largely · most · all · some · no · consistently · only · at least · always · never*
+>
+> **Ante la duda:** volver a la frase del texto y leer **solo el verbo principal**.
 
 ---
 
@@ -37,8 +40,8 @@ Las dos tareas de hoy: **~5.5 en frío, ~6.5 corregidas.** El examen solo mide l
 
 | Día | |
 |---|---|
-| **Lun 7** | Vocab: STEM collocations 1–20 · Reading: **True/False/Not Given** — la distinción crítica |
-| Mar 8 | Reading: práctica T/F/NG — 15 preguntas (20 min) |
+| [x] **Lun 7** ✅ | Vocab: STEM collocations 1–20 · Reading: **True/False/Not Given** |
+| [x] Mar 8 ✅ | Reading: práctica T/F/NG — **12/15** en 11:58 |
 | Mié 9 | Vocab: repaso AWL · Reading: **Matching Headings** — idea principal vs detalle |
 | Jue 10 | Reading: 1 pasaje con Matching Headings (20 min cronometrados) |
 | Vie 11 | Reading: skimming y scanning · sentence completion |

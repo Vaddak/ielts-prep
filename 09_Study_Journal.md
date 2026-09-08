@@ -905,3 +905,39 @@ Las dos tareas salieron **~5.5 en frío y ~6.5 corregidas**. **Esa distancia es 
 **Cómo me sentí:** —
 
 **Cierre:** desde la Semana 8, Writing pasa a mantenimiento (una tarea cronometrada semanal) y entra **Reading**.
+
+---
+
+### 2026-09-08 — Semana 8, Martes: primera práctica de Reading
+**Módulo:** True/False/Not Given — 15 preguntas sobre *Vertical Farming* · **11:58 de 20 min**
+
+## ✅ **12/15 = 80%**
+
+### Lo que salió bien, y era lo difícil
+**Los tres Not Given acertados** (5, 10, 14). El error que se esperaba de una ingeniera — **deducir de más**, marcar True porque *se sigue* del texto — **no apareció ni una vez**. Resistió la tentación de razonar en las tres. Eso suele costar meses.
+
+### 🔴 Los tres fallos son el mismo fallo
+
+| # | Marcó | Era | La palabra |
+|---|---|---|---|
+| 4 | T | **F** | *pesticides are **largely** unnecessary* |
+| 11 | T | **F** | *Analyses **consistently** find* |
+| 13 | NG | **F** | ***No** commercial vertical farm produces cereals at scale* |
+
+**En las tres, la respuesta dependía de una sola palabra que no pesó.**
+
+Y su error no fue el esperado sino el contrario: en la 13 puso **NG donde el texto sí contradice**. Es mucho más barato de corregir — la respuesta está escrita, no hay que inferirla.
+
+### 📌 La conexión con Writing
+
+**Es la misma debilidad, del otro lado.** La semana pasada le costaba **poner** matices (*largely*, *tend to*, *may* — el ejercicio de hedging del 3-sep). Aquí le cuesta **verlos**. Es el mismo músculo, el de grados y cantidades, entrenable desde los dos lados a la vez.
+
+### La regla que sale de aquí
+
+Terminó con **8 minutos de sobra** y **dos de los tres errores eran una palabra** que una relectura habría cazado.
+
+> **El tiempo sobrante no es margen: es la segunda pasada.**
+> Y esa pasada va **solo a los cuantificadores** — misma lógica que las pasadas por categoría en Writing: buscar una cosa a la vez encuentra lo que una lectura general no ve.
+
+**Sobre la 11:** dudó y lo dijo, que es la mitad del trabajo. Faltó el protocolo para la duda → **volver a la frase del texto y leer solo el verbo principal**.
+
