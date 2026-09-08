@@ -941,3 +941,20 @@ Terminó con **8 minutos de sobra** y **dos de los tres errores eran una palabra
 
 **Sobre la 11:** dudó y lo dijo, que es la mitad del trabajo. Faltó el protocolo para la duda → **volver a la frase del texto y leer solo el verbo principal**.
 
+### 2026-09-08 (bis) — Segunda práctica de Reading, a petición suya
+
+**9/12** en un set **cargado a propósito** (6 de 12 False, muy por encima de lo normal) para dar dónde practicar la pasada de cuantificadores.
+
+**✅ La pasada funcionó.** Lo que falló por la mañana — no pesar el cuantificador — hoy lo cazó: *only*, *usually*, *most* acertados, y en *every* **detectó** el problema (respondió "T/NG", no T). Una sesión para cerrar el patrón de atención.
+
+**🔴 Y apareció el siguiente, más fino: elige *Not Given* por defecto en vez de *False*.** Tercera ocurrencia contando la del set 1.
+
+> ***Not Given* significa que buscaste y NO ENCONTRASTE. Si encontraste la frase, es True o False.**
+> Y la clave del día: ***"remains untested" no es silencio — es una negación.*** El texto está diciendo activamente que algo no se ha demostrado.
+
+El error contrario también apareció (11): *proposals **would** compensate* → marcó True. **Propuestas ≠ hechos.**
+
+**Árbol de decisión de 4 pasos** añadido a `04_Reading_Module.md`. Resuelve los tres errores.
+
+**Lectura del día:** el puntaje bajó de 80% a 75%, pero **no es retroceso — es un nivel más de dificultad**. Pasó de un problema de atención a uno de criterio, y el criterio se arregla con un procedimiento. Dos prácticas cronometradas de Reading en un día, ambas por iniciativa suya.
+

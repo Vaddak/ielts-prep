@@ -330,3 +330,77 @@ After 5 practice passages, you will see your error patterns clearly.
 ⏱️ Terminó en **11:58 de 20**. Dos de los tres errores eran una palabra que una relectura habría cazado — **el tiempo sobrante existe para eso**.
 
 ---
+
+---
+
+## 🌳 EL ÁRBOL DE DECISIÓN T/F/NG — su patrón nº 2
+
+*Añadido el 8 de septiembre, tras la 2ª práctica: **9/12**. El patrón **cambió** respecto a la 1ª.*
+
+### ✅ Lo que mejoró en una sesión
+
+Los cuantificadores que falló en la práctica 1, en la 2 los cazó: *only* (2) ✅ · *usually* (6) ✅ · *most* (7) ✅ · y en *every* (8) **detectó el problema** — respondió "T/NG", no T. **La pasada de cuantificadores funciona.**
+
+### 🔴 El patrón nuevo, más fino
+
+| # | Marcó | Era | |
+|---|---|---|---|
+| 8 | T/NG | **FALSE** | *in **several** studies* — contradice *every* |
+| 10 | NG | **FALSE** | *whether the effect holds… **remains untested*** |
+| 11 | T | **NOT GIVEN** | *Several **proposals would** compensate* — propuestas, no pagos |
+
+Con la 13 de la práctica 1, van **3 ocurrencias**:
+
+> ## Detecta que algo no cuadra y **elige *Not Given* por defecto en vez de *False***.
+
+Ya no es un problema de atención: **es de clasificación**. Ve el problema y lo etiqueta mal.
+
+---
+
+### El árbol — cuatro pasos, en orden
+
+> **1. ¿Encontré la frase del texto que habla de esto?**
+>  **NO** → **NOT GIVEN**. Fin.
+>
+> **2. Sí la encontré. ¿La confirma?** → **TRUE**
+>
+> **3. ¿La contradice?** → **FALSE**
+>
+> **4. ¿Habla del tema pero no se pronuncia sobre esta afirmación concreta?** → **NOT GIVEN**
+
+> ## 🔴 La regla que faltaba
+> ***Not Given* significa que buscaste y NO ENCONTRASTE.**
+> **Si encontraste la frase, la respuesta es True o False — casi nunca NG.**
+
+### Aplicado a sus tres
+
+**8** — Encontró la frase: *in **several** studies the number of fish species rose*. **El texto sí dice cuántos estudios.** *Several* es incompatible con *every* → **FALSE**.
+
+**10** — ⭐ **La más importante.** Encontró la frase: *whether the effect holds across a whole catchment… **remains untested***.
+
+> ***"Remains untested" no es silencio: es una negación.***
+> El texto está diciendo **activamente** que eso no se ha demostrado. La afirmación dice que sí → **FALSE**.
+
+**11** — Aquí **sí** es NG, por el **paso 4**. El texto habla de compensación: *Several **proposals would** compensate*. Pero **propuestas ≠ pagos realizados**: no dice que ningún agricultor haya cobrado, ni dice que no. Se queda en condicional → **NOT GIVEN**.
+
+Error contrario al de 8 y 10: vio el tema mencionado y saltó a True.
+
+> **Que el texto hable de algo no significa que lo afirme.**
+
+### ⚠️ Método
+
+En la 8 respondió **"T/NG"**. **En el examen eso vale cero.**
+
+> **Ante la duda: aplicar el árbol y comprometerse.** Una respuesta razonada que falla enseña algo; una sin marcar no puntúa **y no enseña nada**.
+
+### Evolución
+
+| | Práctica 1 (8-sep) | Práctica 2 (8-sep) |
+|---|---|---|
+| Puntaje | 12/15 · 80% | 9/12 · 75% |
+| Fallo | **no veía** el cuantificador | **lo ve, lo clasifica mal** |
+
+El set 2 iba **cargado a propósito**: 6 de 12 eran False, muy por encima de lo normal. La baja de puntaje no es retroceso — **subió un nivel de dificultad**: de un problema de atención a uno de criterio, y el criterio se arregla con un árbol de cuatro pasos.
+
+---
+

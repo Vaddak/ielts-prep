@@ -8,29 +8,42 @@
 
 ## 👉 RETOMAR AQUÍ — miércoles 9 de septiembre
 
-**Lun 7 ✅** STEM collocations 1–20 · teoría T/F/NG. **Mar 8 ✅** 1ª práctica cronometrada: **12/15 en 11:58 de 20 min**.
+**Martes 8 ✅** — **dos** prácticas cronometradas de T/F/NG, la segunda por iniciativa suya.
 
-### ✅ Lo difícil salió bien al primer intento
+| | Set 1 (15 preg.) | Set 2 (12 preg., cargado) |
+|---|---|---|
+| Puntaje | **12/15 · 80%** | **9/12 · 75%** |
+| Fallo | **no veía** el cuantificador | **lo ve, lo clasifica mal** |
 
-**Los tres Not Given, acertados.** El error esperado — **deducir de más** — no apareció ni una vez.
+### ✅ Cerrado en un día: la pasada de cuantificadores
 
-### 🔴 Los tres fallos son **el mismo fallo**
+*only* · *usually* · *most* acertados en el set 2, y en *every* **detectó** el problema. Lo que falló por la mañana ya no falla.
 
-| # | Marcó | Era | La palabra |
-|---|---|---|---|
-| 4 | T | **F** | *pesticides are **largely** unnecessary* |
-| 11 | T | **F** | *Analyses **consistently** find* |
-| 13 | NG | **F** | ***No** commercial vertical farm produces cereals…* |
+Y en los dos sets: **todos los Not Given legítimos, acertados.** El error de *deducir de más* no ha aparecido ni una vez.
 
-> ## Lee el contenido de la frase y **no el cuantificador**.
+### 🔴 El patrón vivo — 3 ocurrencias
 
-**Es la misma debilidad que en Writing, invertida:** allí le cuesta **poner** matices (hedging); aquí le cuesta **verlos**.
+> ## Elige ***Not Given*** por defecto **en vez de *False***.
 
-> ### ⏱️ La regla
-> **El tiempo que sobre NO es margen: es la segunda pasada.** Y va **solo a los cuantificadores**:
-> *largely · most · all · some · no · consistently · only · at least · always · never*
+> ### 🌳 EL ÁRBOL — `04_Reading_Module.md`
+> **1.** ¿Encontré la frase que habla de esto? **NO → NOT GIVEN.** Fin
+> **2.** Sí. ¿La **confirma**? → **TRUE**
+> **3.** ¿La **contradice**? → **FALSE**
+> **4.** ¿Habla del tema pero **no se pronuncia** sobre esta afirmación? → **NOT GIVEN**
 >
-> **Ante la duda:** volver a la frase del texto y leer **solo el verbo principal**.
+> 🔴 ***NG* = buscaste y NO ENCONTRASTE. Si encontraste la frase, es T o F.**
+> ⭐ ***"remains untested" NO es silencio: es una negación.***
+> ⚠️ **Propuestas ≠ hechos.** *proposals **would** compensate* → NG, no True.
+> ⚠️ **Nunca responder "T/NG".** En el examen vale cero: aplicar el árbol y comprometerse.
+
+### Miércoles 9 (~30 min)
+
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 10 | **Repaso AWL** (flashcards) |
+| [ ] 2 | 20 | **Matching Headings** (`04_Reading_Module.md`) — idea principal **vs** detalle |
+
+> **La distinción:** un heading correcto cubre **todo el párrafo**; el distractor recoge un **detalle llamativo** que aparece en una sola frase. Misma lógica que el **titular del Overview** en Task 1 — *¿qué es lo principal?*, no *¿qué se menciona?*
 
 ---
 
