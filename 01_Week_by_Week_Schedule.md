@@ -6,44 +6,34 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — miércoles 9 de septiembre
+## 👉 RETOMAR AQUÍ — jueves 10 de septiembre
 
-**Martes 8 ✅** — **dos** prácticas cronometradas de T/F/NG, la segunda por iniciativa suya.
+**Miércoles 9 ✅** Repaso AWL enfocado + Matching Headings (teoría). **Tercer día seguido de Reading.**
 
-| | Set 1 (15 preg.) | Set 2 (12 preg., cargado) |
-|---|---|---|
-| Puntaje | **12/15 · 80%** | **9/12 · 75%** |
-| Fallo | **no veía** el cuantificador | **lo ve, lo clasifica mal** |
-
-### ✅ Cerrado en un día: la pasada de cuantificadores
-
-*only* · *usually* · *most* acertados en el set 2, y en *every* **detectó** el problema. Lo que falló por la mañana ya no falla.
-
-Y en los dos sets: **todos los Not Given legítimos, acertados.** El error de *deducir de más* no ha aparecido ni una vez.
-
-### 🔴 El patrón vivo — 3 ocurrencias
-
-> ## Elige ***Not Given*** por defecto **en vez de *False***.
-
-> ### 🌳 EL ÁRBOL — `04_Reading_Module.md`
-> **1.** ¿Encontré la frase que habla de esto? **NO → NOT GIVEN.** Fin
-> **2.** Sí. ¿La **confirma**? → **TRUE**
-> **3.** ¿La **contradice**? → **FALSE**
-> **4.** ¿Habla del tema pero **no se pronuncia** sobre esta afirmación? → **NOT GIVEN**
->
-> 🔴 ***NG* = buscaste y NO ENCONTRASTE. Si encontraste la frase, es T o F.**
-> ⭐ ***"remains untested" NO es silencio: es una negación.***
-> ⚠️ **Propuestas ≠ hechos.** *proposals **would** compensate* → NG, no True.
-> ⚠️ **Nunca responder "T/NG".** En el examen vale cero: aplicar el árbol y comprometerse.
-
-### Miércoles 9 (~30 min)
+### Jueves 10 (~25 min)
 
 | # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 10 | **Repaso AWL** (flashcards) |
-| [ ] 2 | 20 | **Matching Headings** (`04_Reading_Module.md`) — idea principal **vs** detalle |
+| [ ] 1 | 20 | 🧩 **MATCHING HEADINGS nº1, CRONOMETRADO.** Pasaje, headings, respuestas y explicación en `13_Reading_Archive.md` — **autocontenido** |
+| [ ] 2 | 5 | Anotar puntaje y tiempo · registrar el patrón en `07_Error_Log.md` |
 
-> **La distinción:** un heading correcto cubre **todo el párrafo**; el distractor recoge un **detalle llamativo** que aparece en una sola frase. Misma lógica que el **titular del Overview** en Task 1 — *¿qué es lo principal?*, no *¿qué se menciona?*
+> ### 🔴 Las cuatro reglas del ejercicio
+> 1. **NO sigue el orden del texto** — única excepción entre todos los tipos de pregunta
+> 2. **Empieza por el párrafo más claro, no por el A.** Cada heading que asignas sale de la lista, y los difíciles quedan con menos opciones
+> 3. **El test de una frase:** si puedes señalar *la* oración que justifica el heading y las demás no tienen que ver → **es el distractor**
+> 4. **Desconfía de la palabra repetida.** El heading correcto suele estar **parafraseado**; el distractor **copia**
+
+> ### 🔗 Es la misma habilidad del Overview de Task 1
+> *¿Qué es lo principal?* — no *¿qué se menciona?*
+> El 25-ago el Overview decía que India subía mucho pero no que **seguía siendo la más baja**: un detalle en lugar del titular. Aquí se mide lo mismo, sobre párrafos ajenos.
+
+### ⏳ Pendiente de ayer
+
+**Las 9 palabras en `[~]`** siguen sin activar: *assess · commission · maximise · outcome · rely · scheme · adequate · commit · overall*. Se leyeron, pero el criterio era **escribir una oración propia con cada una**. Son las únicas nueve de doscientas sin cerrar — 10 minutos cualquier día.
+
+### 📁 Nuevo: `13_Reading_Archive.md`
+
+Las prácticas de T/F/NG del lunes y martes **se perdieron con el chat**: solo quedaron los puntajes. Mismo problema que tuvo Task 1 hasta el 26 de agosto. **Desde ahora toda práctica de Reading se pega ahí**, con sus errores y el porqué de cada uno.
 
 ---
 

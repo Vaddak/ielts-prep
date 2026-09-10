@@ -958,3 +958,40 @@ El error contrario también apareció (11): *proposals **would** compensate* →
 
 **Lectura del día:** el puntaje bajó de 80% a 75%, pero **no es retroceso — es un nivel más de dificultad**. Pasó de un problema de atención a uno de criterio, y el criterio se arregla con un procedimiento. Dos prácticas cronometradas de Reading en un día, ambas por iniciativa suya.
 
+
+
+---
+
+### 2026-09-09 — Semana 8, Miércoles: Matching Headings (teoría)
+**Módulo:** Repaso AWL + Reading — Matching Headings
+**Tiempo:** ~30 min
+
+**Repaso AWL enfocado:** en vez de repasar las 200, se filtraron **las 9 marcadas `[~]`** — las únicas que siguen sin activar de doscientas: *assess · commission · maximise · outcome · rely · scheme · adequate · commit · overall*.
+
+⚠️ **Quedan en `[~]`.** Se leyeron pero no se reactivaron escribiendo una oración propia con cada una, que era el criterio. Pendiente.
+
+**Lectura, en tres bloques ordenados por función** (`04_Reading_Module.md`):
+1. **Skimming** (:63) — la *técnica* con la que se hace Matching Headings: primera y última oración de cada párrafo
+2. **Matching Headings** (:114) — la estrategia y la trampa del detalle
+3. **Paraphrase Recognition** (:193) — la mitad del tiempo, porque es donde está el trabajo real
+
+**Las cuatro reglas que no estaban en el módulo y se añadieron:**
+1. **Matching Headings NO sigue el orden del texto** — única excepción entre todos los tipos
+2. **Empezar por el párrafo más claro**, no por el A. Cada heading asignado sale de la lista y los difíciles quedan con menos opciones
+3. **El test de una frase:** si puedes señalar *la* oración que justifica el heading y las demás no tienen que ver → es el distractor
+4. **Desconfiar de la palabra repetida.** El heading correcto suele estar parafraseado; el distractor copia
+
+### 🔗 La conexión que importa
+
+> **Matching Headings es el titular del Overview de Task 1, sobre párrafos ajenos.**
+> *¿Qué es lo principal?* — no *¿qué se menciona?*
+
+El 25 de agosto su Overview del line graph decía que India subía mucho pero no que **seguía siendo la más baja**: reportó un detalle en lugar del titular. **Es la misma habilidad**, y ya lleva tres semanas entrenándola en Task 1.
+
+### 📁 Se creó `13_Reading_Archive.md`
+
+**Las dos prácticas de T/F/NG del 7 y 8 de septiembre se perdieron:** se hicieron en el chat y solo quedaron los puntajes. Es exactamente lo que pasó con Task 1 hasta el 26 de agosto, cuando se creó `12_Task1_Archive.md`.
+
+El archivo nuevo lleva el registro de puntajes, los patrones vivos, y **el ejercicio del jueves ya montado y autocontenido**: pasaje de biomimética, cinco párrafos, ocho headings, con respuestas y explicación de las tres trampas en un bloque plegado.
+
+**Cómo me sentí:** —
