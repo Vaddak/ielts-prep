@@ -35,7 +35,7 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 |---|---|---|---|---|---|
 | 1 | **analyse** | verb | to examine something in detail | *Researchers analysed the data from three separate experiments.* | [X] |
 | 2 | **approach** | noun/verb | a way of dealing with something | *A different approach to renewable energy is needed.* | [X] |
-| 3 | **assess** | verb | to evaluate or judge | *The committee assessed the environmental impact of the project.* | [~] |
+| 3 | **assess** | verb | to evaluate or judge | *The committee assessed the environmental impact of the project.* | [x] |
 | 4 | **assume** | verb | to accept something as true without proof | *The model assumes that all variables remain constant.* | [X] |
 | 5 | **authority** | noun | power or official control; an expert source | *Government authorities have introduced new regulations.* | [X] |
 | 6 | **available** | adjective | able to be obtained or used | *Limited resources are available for renewable development.* | [X] |
@@ -125,7 +125,7 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 67 | **assist** | verb | to help | *Machine learning algorithms assist in anomaly detection.* | [X] |
 | 68 | **category** | noun | a class or group | *Components are divided into three categories based on function.* | [X] |
 | 69 | **chapter** | noun | a main division of a text | *Chapter 3 presents the experimental methodology.* | [X] |
-| 70 | **commission** | verb/noun | to formally request; a formal order | *The government commissioned a study on grid resilience.* | [~] |
+| 70 | **commission** | verb/noun | to formally request; a formal order | *The government commissioned a study on grid resilience.* | [x] |
 | 71 | **community** | noun | a group sharing common interests or location | *Local communities are often most affected by energy poverty.* | [X] |
 | 72 | **complex** | adjective | consisting of many interconnected parts | *Modern power systems are highly complex.* | [X] |
 | 73 | **compute** | verb | to calculate | *The algorithm computes the optimal path in real time.* | [X] |
@@ -173,10 +173,10 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 101 | **layer** | noun/verb | one level or thickness among several | *The device consists of three conductive layers.* | [X] |
 | 102 | **link** | noun/verb | a connection; to connect | *There is a clear link between insulation quality and heat loss.* | [X] |
 | 103 | **locate** | verb | to find the position of; to place | *Sensors were located at intervals along the pipeline.* | [X] |
-| 104 | **maximise** | verb | to increase as much as possible | *Panel angles were adjusted to maximise solar gain.* | [~] |
+| 104 | **maximise** | verb | to increase as much as possible | *Panel angles were adjusted to maximise solar gain.* | [x] |
 | 105 | **minor** | adjective | small; not important | *Only minor adjustments were required after calibration.* | [X] |
 | 106 | **negate** | verb | to cancel out or make ineffective | *Transmission losses negate much of the efficiency gain.* | [X] |
-| 107 | **outcome** | noun | a result | *The outcome of the trial exceeded expectations.* | [~] |
+| 107 | **outcome** | noun | a result | *The outcome of the trial exceeded expectations.* | [x] |
 | 108 | **partner** | noun/verb | a person or organisation working with another | *The university partnered with three industrial firms.* | [x] |
 | 109 | **philosophy** | noun | a system of beliefs or guiding principles | *The design philosophy prioritises simplicity over features.* | [x] |
 | 110 | **physical** | adjective | relating to material things or the body | *The physical dimensions of the unit constrain its placement.* | [x] |
@@ -184,9 +184,9 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 112 | **publish** | verb | to make available to the public | *The findings were published in a peer-reviewed journal.* | [x] |
 | 113 | **react** | verb | to respond to something | *The control loop reacts within twenty milliseconds.* | [x] |
 | 114 | **register** | verb/noun | to record officially; a formal record | *All voltage anomalies are registered automatically.* | [x] |
-| 115 | **rely** | verb | to depend on | *Modern grids rely heavily on real-time monitoring.* | [~] |
+| 115 | **rely** | verb | to depend on | *Modern grids rely heavily on real-time monitoring.* | [x] |
 | 116 | **remove** | verb | to take away | *Impurities are removed during the refining stage.* | [x] |
-| 117 | **scheme** | noun | an organised plan or system | *A national subsidy scheme was introduced in 2019.* | [~] |
+| 117 | **scheme** | noun | an organised plan or system | *A national subsidy scheme was introduced in 2019.* | [x] |
 | 118 | **sequence** | noun | a particular order of events | *The startup sequence must be followed precisely.* | [x] |
 | 119 | **shift** | noun/verb | a change; to change position | *There has been a marked shift towards decentralised generation.* | [x] |
 | 120 | **specify** | verb | to state exactly | *The standard specifies a minimum operating temperature.* | [x] |
@@ -205,7 +205,7 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 126 | **valid** | adjective | logically sound; acceptable | *The conclusion is valid only under steady-state conditions.* | [X] |
 | 127 | **volume** | noun | quantity or amount; space occupied | *The volume of data generated poses a storage challenge.* | [X] |
 | 128 | **access** | noun/verb | the ability to reach or use | *Rural communities still lack reliable access to electricity.* | [X] |
-| 129 | **adequate** | adjective | enough for the purpose | *The existing infrastructure is no longer adequate.* | [~] |
+| 129 | **adequate** | adjective | enough for the purpose | *The existing infrastructure is no longer adequate.* | [x] |
 | 130 | **annual** | adjective | happening once a year | *Annual consumption rose by 4% over the period.* | [X] |
 | 131 | **apparent** | adjective | clearly visible or understood | *It soon became apparent that the sensor was faulty.* | [X] |
 | 132 | **approximate** | adjective/verb | almost exact; to come close to | *The approximate cost of the retrofit is €80,000.* | [X] |
@@ -213,7 +213,7 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 134 | **attribute** | noun/verb | a quality; to consider as caused by | *Durability is the most valued attribute in this market.* | [X] |
 | 135 | **civil** | adjective | relating to citizens or public works | *Civil engineering projects require extensive consultation.* | [X] |
 | 136 | **code** | noun | a system of rules or symbols | *The building code was revised to include seismic standards.* | [X] |
-| 137 | **commit** | verb | to pledge; to dedicate resources | *The government committed €2 billion to grid modernisation.* | [~] |
+| 137 | **commit** | verb | to pledge; to dedicate resources | *The government committed €2 billion to grid modernisation.* | [x] |
 | 138 | **communicate** | verb | to convey information | *The modules communicate over a shared data bus.* | [x] |
 | 139 | **concentrate** | verb | to focus; to gather in one place | *Investment has concentrated in coastal regions.* | [x] |
 | 140 | **confer** | verb | to grant; to discuss with others | *The patent confers exclusive rights for twenty years.* | [x] |
@@ -257,7 +257,7 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 164 | **occupy** | verb | to fill space or time; to inhabit | *The installation occupies roughly 200 square metres.* | [X] |
 | 165 | **option** | noun | a choice | *Three storage options were evaluated.* | [X] |
 | 166 | **output** | noun | the amount produced | *Output fell sharply during the maintenance period.* | [X] |
-| 167 | **overall** | adjective/adverb | considering everything; in general | *Overall efficiency improved by eight percentage points.* | [~] |
+| 167 | **overall** | adjective/adverb | considering everything; in general | *Overall efficiency improved by eight percentage points.* | [x] |
 | 168 | **parallel** | adjective/noun | side by side; a similarity | *The cells are connected in parallel to increase current.* | [X] |
 | 169 | **parameter** | noun | a factor that defines a system or limits it | *Several parameters were adjusted during the simulation.* | [X] |
 | 170 | **phase** | noun | a distinct stage | *The first phase of construction is now complete.* | [X] |
@@ -301,6 +301,8 @@ The AWL is a list of 570 word families that appear frequently in academic texts.
 | 200 | **cooperate** | verb | to work together | *Member states must cooperate on cross-border transmission.* | [x] |
 
 **🏁 MILESTONE ALCANZADO — 26 de agosto de 2026: 200/200.** Los diez batches completos.
+
+**✅ 200/200 REACTIVADAS — 10 de septiembre.** Las últimas 9 marcadas `[~]` pasaron a `[x]` escribiendo una oración propia con cada una. **Reconocer ≠ producir**: ahora todas producidas.
 
 **Milestone:** with Batch 10 complete you have the top 200 AWL words. Review protocol: Weeks 6–7 include two full flashcard passes (AWL 1–100 on Aug 28, AWL 101–200 on Aug 31).
 
