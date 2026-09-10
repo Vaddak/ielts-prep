@@ -86,13 +86,15 @@ What was once regarded as a curiosity is now firmly embedded in professional pra
 
 ## ✍️ Tus respuestas
 
-| Párrafo | Heading | Tiempo total: ___ |
-|---|---|---|
-| A | ___ | |
-| B | ___ | |
-| C | ___ | |
-| D | ___ | |
-| E | ___ | |
+| Párrafo | Suyo | Correcto | Tiempo total: **5:06 / 20** |
+|---|---|---|---|
+| A | viii | ✅ viii | |
+| B | i | ✅ i | |
+| C | iii | ✅ iii | |
+| D | v | ✅ v | |
+| E | **iv** | **vi** 🔴 | *(la difícil marcada como tal en el bloque de respuestas)* |
+
+**Puntaje: 4/5 = 80%.**
 
 ---
 
