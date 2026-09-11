@@ -6,38 +6,38 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — viernes 11 de septiembre
+## 👉 RETOMAR AQUÍ — sábado 12 de septiembre
 
-**Jue 10 ✅** Reactivación AWL: **200/200 PRODUCIDAS** · 1ª Matching Headings: **4/5 en 5:06 de 20**.
+**Vie 11 pendiente en casa** — skimming/scanning (10 min) + **Sentence Completion nº 1** (12 min, 7 huecos). **Autocontenido en `13_Reading_Archive.md`**.
 
-### 🏁 AWL: **200/200 reactivadas**
+### El bloque del viernes, en dos ideas
 
-Las últimas 9 marcadas `[~]` pasaron a `[x]` con una oración propia cada una. 9 de 11 perfectas. **Reconocer ≠ producir**, ya cerrado.
+**Skimming** ≠ **Scanning.** Skimming primero (2 min, mapa del texto). Scanning después (con la pregunta en mano, buscando **una palabra**).
 
-### ✅ Matching Headings 1: 4 de 5 al primer intento
+**Sentence completion = scanning puro.** La respuesta está **literal** en el texto:
+1. Ancla en la frase incompleta → palabra rara / propia / técnica
+2. Scanear hasta encontrarla
+3. Copiar **exacto**, sin cambiar formas
+4. ⚠️ **Contar palabras antes de escribir.** *"NO MORE THAN THREE"*: cuatro vale cero
 
-**El fallo: párrafo E** — marcó iv (*niche → established*), correcta vi (*institutional support*).
-iv se apoyaba en la 1ª oración; vi cubría las cinco.
+### Pendiente al volver de casa
+- [ ] Puntaje del viernes · anotar patrones en `07_Error_Log.md`
 
-> **Es el mismo patrón del titular del Overview** (25-ago: *"showed rise"* vs *"overtook coal"*).
-> **Test:** ¿el heading cubre TODAS las oraciones o solo una?
+---
 
-⚠️ **Terminó en 5:06 de 20** — sin pasada de revisión. La 5ª era la que tenía dos candidatos.
+## ⏱️ SÁBADO 12 — primera integración
 
-> **El tiempo sobrante NO es margen: es la segunda pasada.** Misma regla que T/F/NG.
+**Reading (20 min, un pasaje con los 3 tipos)** + **Writing Task 2 (40 min, mantenimiento).**
 
-### Viernes 11 (~30 min)
+Los sesenta minutos de Writing bajan a cuarenta; entran veinte de Reading. **Primer ensayo cronometrado desde el 6 de septiembre**: la métrica que ahora importa es la brecha **v1 en frío** → **corregida** (~5.5 → ~6.5). Acortarla es el objetivo del mantenimiento.
 
-| # | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 10 | **Skimming y scanning** en `04_Reading_Module.md` — técnicas de lectura rápida |
-| [ ] 2 | 20 | **Sentence completion** — teoría + 1 práctica corta |
+### Dos cosas para el Reading integrado
 
-> **Por qué sentence completion:** es *scanning* puro. La respuesta está **literal** en el texto, no parafraseada. Es lo más cercano al T/F/NG pero sin la trampa del cuantificador.
+1. **Skimming primero** (2 min al pasaje entero antes de mirar preguntas)
+2. **El tiempo sobrante NO es margen: es la segunda pasada** — en T/F/NG a los cuantificadores, en Matching Headings a los que se decidieron con la primera oración
 
-### 🔴 Sábado 12 — primera integración
-**Reading (20 min, los 3 tipos)** + **Writing Task 2 (40 min, mantenimiento).**
-Los sesenta minutos de Writing bajan a cuarenta desde esta semana; entran veinte de Reading.
+### Dom 13
+Revisar el Reading: para cada error, encontrar la respuesta en el texto y **entender por qué**. Registrar por tipo de pregunta.
 
 ---
 

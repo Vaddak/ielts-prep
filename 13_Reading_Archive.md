@@ -147,3 +147,125 @@ Ninguno de los cinco headings correctos comparte una palabra de contenido con "s
 - [ ] Anotar puntaje y tiempo en la tabla de arriba
 - [ ] Para **cada error**: volver al párrafo y encontrar **por qué** el correcto era mejor. No basta con ver cuál era
 - [ ] Registrar el patrón en `07_Error_Log.md`, sección *Reading Errors*
+
+---
+
+# 🔍 VIERNES 11 SEP — SKIMMING / SCANNING + SENTENCE COMPLETION
+
+> **Autocontenido.** No hace falta el chat ni otro archivo.
+
+## 📖 Bloque 1 — SKIMMING y SCANNING (10 min)
+
+Leer la sección *Skimming and Scanning* de `04_Reading_Module.md` **y** este resumen operativo:
+
+### Lo que distingue las dos técnicas
+
+| | Qué se hace | Cuándo |
+|---|---|---|
+| **Skimming** | Leer rápido buscando **la idea general** — 1ª y última frase de cada párrafo | **Antes** de mirar las preguntas: da el mapa del texto |
+| **Scanning** | Buscar **una palabra concreta** — nombre propio, número, fecha, palabra técnica | **Ya con la pregunta**: se sabe qué buscar |
+
+**El orden:** skimming primero (2 min a todo el pasaje — saber de qué va y dónde está cada cosa), luego scanning por pregunta.
+
+### Las tres contraintuitivas
+
+1. **En skimming, NO leer cada palabra.** Si el ojo se para en algo, seguir. La velocidad importa más que la comprensión — el detalle viene después con scanning
+2. **Nombres propios, números y cursivas son anclas.** El ojo los caza solo — son puntos de referencia
+3. **Ignorar ejemplos.** *for instance* · *such as* · *for example* son detalles. En skimming van las conclusiones, no las ilustraciones
+
+### Por qué sentence completion es el ejercicio ideal para scanning
+
+**La respuesta está LITERAL en el texto.** Sin paráfrasis. Scanning puro:
+
+1. Leer la frase incompleta
+2. Identificar la palabra rara / técnica / propia que **tiene que aparecer también en el texto**
+3. Scanear hasta encontrarla
+4. Copiar las palabras que faltan **exactamente como aparecen**
+
+⚠️ **La trampa:** el límite de palabras. Si dice *"NO MORE THAN TWO WORDS"*, **tres palabras vale cero** — aunque la respuesta sea correcta.
+
+---
+
+## ⏱️ Bloque 2 — SENTENCE COMPLETION Nº 1 (12 min · 7 huecos)
+
+### Instrucciones
+
+> *Complete the sentences below.*
+> **Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.**
+
+### El pasaje — *The Making of a Modern Pencil*
+
+The wooden pencil has changed remarkably little since its recognisable form emerged in the sixteenth century, when a large deposit of graphite was discovered near the village of Borrowdale in the English Lake District. The material, initially mistaken for a type of lead, could be cut into thin rods and used to make dark marks on paper. Its softness, however, meant that it soiled the hands, and craftsmen quickly began wrapping the rods in string or sheep's skin.
+
+The modern encased pencil is generally credited to the Italian couple Simonio and Lyndiana Bernacotti, who in 1560 first hollowed a stick of juniper wood to hold a graphite core. A superior technique appeared shortly afterwards: two grooves were cut into a single piece of wood, the graphite laid inside, and a second grooved piece glued on top. This sandwich construction, still standard today, allowed manufacturers to use timber of lower quality without weakening the pencil.
+
+When Napoleon's blockade cut French access to English graphite in 1795, the engineer Nicolas-Jacques Conté developed a substitute. He ground the available impure graphite into powder, mixed it with clay, and fired the mixture in a kiln. Conté discovered that by varying the ratio of clay to graphite he could produce leads of different hardness: more clay produced a harder, paler line, while less clay yielded a softer, darker one. The grading system he devised, which ran from H (hard) to B (black), remains in use.
+
+The wood came to be dominated by a single species. Eastern red cedar, native to the eastern United States, was preferred throughout the nineteenth century because its straight grain sharpened cleanly without splintering. When supplies of mature red cedar were exhausted in the 1920s, manufacturers turned to incense cedar from California, which is now used in around three-quarters of all wooden pencils produced worldwide. The wood is stained to imitate the reddish colour of its predecessor.
+
+The characteristic yellow paint of the standard pencil is a marketing legacy. In the 1890s the Austro-Hungarian firm Koh-i-Noor introduced a premium pencil made with Siberian graphite, and painted it bright yellow to evoke associations with the East and with royalty. The colour proved so successful that competitors imitated it, and today more than seventy per cent of pencils sold in the United States are yellow.
+
+### Las 7 frases — completar
+
+| # | |
+|---|---|
+| 1 | The graphite discovered near Borrowdale was first thought to be a form of ________. |
+| 2 | Before the wooden case was invented, graphite rods were wrapped in string or ________. |
+| 3 | The Bernacottis originally used ________ to encase the graphite core. |
+| 4 | The grooved technique made it possible to build pencils using wood of ________. |
+| 5 | Conté mixed powdered graphite with ________ before firing it. |
+| 6 | Incense cedar replaced ________ once mature supplies had been used up. |
+| 7 | Koh-i-Noor painted its premium pencil yellow to suggest ties with the East and with ________. |
+
+### ✍️ Respuestas — escribir aquí
+
+| # | Palabras del texto | Tiempo total: ___ |
+|---|---|---|
+| 1 | ___ | |
+| 2 | ___ | |
+| 3 | ___ | |
+| 4 | ___ | |
+| 5 | ___ | |
+| 6 | ___ | |
+| 7 | ___ | |
+
+---
+
+<details>
+<summary><b>🔑 RESPUESTAS — abrir SOLO después de terminar</b></summary>
+
+| # | Respuesta | Dónde |
+|---|---|---|
+| 1 | **lead** | *initially mistaken for a type of lead* |
+| 2 | **sheep's skin** | *string or sheep's skin* |
+| 3 | **juniper wood** | *hollowed a stick of juniper wood* |
+| 4 | **lower quality** | *timber of lower quality* |
+| 5 | **clay** | *mixed it with clay* |
+| 6 | **eastern red cedar** *(o **red cedar**)* | *supplies of mature red cedar were exhausted… turned to incense cedar* |
+| 7 | **royalty** | *associations with the East and with royalty* |
+
+### Trampas montadas en el ejercicio
+
+**1** — *lead* podía parecer solo una palabra sin importancia. Es el punto entero de la frase (*first thought to be*).
+
+**3** — respuesta correcta: **juniper wood** (dos palabras). *Juniper* solo también vale, pero *stick of juniper wood* son cinco → pasaría del límite. La ancla es el año **1560** o el apellido **Bernacotti**.
+
+**6** — la más difícil. La frase incompleta habla del sustituido; el texto habla del sustituto. Hay que rastrear al **anterior** de *incense cedar*: **eastern red cedar** (3 palabras — tope del límite) o **red cedar**.
+
+**7** — tentación: *the East*. Pero la frase ya dice *"the East and with ________"* — lo que falta es lo **otro**, no lo mismo. Scanning al texto: *the East and with **royalty***.
+
+### Reglas que este ejercicio confirma
+
+- **Copiar literal.** No cambiar formas (*hollowed* / *hollowing*), no pluralizar
+- **La ancla es la palabra rara** de la frase incompleta — nombre propio, año, verbo técnico. Con el ojo se llega al párrafo en 5 segundos
+- **Contar palabras antes de escribir.** *"eastern red cedar"* son 3 → justo en el límite. *"a stick of juniper wood"* son 5 → fuera
+
+</details>
+
+## Al terminar
+
+- [ ] Anotar puntaje y tiempo
+- [ ] Para cada error: **volver a la ancla** y ver si se buscó la palabra correcta
+- [ ] Registrar patrones en `07_Error_Log.md`
+- [ ] Confirmar aquí cuando esté hecho para pasar al sábado
+
