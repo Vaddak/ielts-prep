@@ -404,3 +404,42 @@ El set 2 iba **cargado a propósito**: 6 de 12 eran False, muy por encima de lo 
 
 ---
 
+
+
+---
+
+## 🎯 T/F/NG — LA PALABRA QUE CARGA EL PESO
+
+*Añadido el 12-sep, tras el pasaje integrado nº1: las dos T/F/NG falladas estaban **invertidas** (NG donde iba False, False donde iba NG).*
+
+### El malentendido de raíz
+
+Su frase, textual: *"pensé en poner not given pero **sí me estaban dando información**"*.
+
+> ***Not Given* NO significa "el texto no habla de esto".**
+> **Significa "el texto no resuelve ESTA afirmación".**
+
+El texto puede darte mucha información sobre el tema y aun así **no pronunciarse** sobre lo que la afirmación concreta sostiene.
+
+### La técnica
+
+**En cada afirmación hay UNA palabra que es lo que realmente se prueba. Subráyala antes de ir al texto.**
+
+| Afirmación | Palabra clave | ¿El texto la resuelve? | Respuesta |
+|---|---|---|---|
+| *first identified using **satellite** data* | satellite | Sí — *"instruments had detected nothing"* | **FALSE** |
+| *no effect on the **climate*** | climate | Sí — *"potent greenhouse gases"* | **FALSE** |
+| *traced to a **single** factory* | single | **No** — dice *dónde*, nunca *cuántas* | **NOT GIVEN** |
+
+### La formulación definitiva
+
+> ## `FALSE` = el texto hace **IMPOSIBLE** la afirmación.
+> ## `NOT GIVEN` = el texto la deja **ABIERTA**.
+
+**No preguntes *"¿coincide con el texto?"*** — casi nunca coincide literalmente, y esa pregunta te deja eligiendo por sensación.
+
+**Pregunta: *"¿puedo señalar la frase que lo hace imposible?"***
+- **Sí** → FALSE
+- **No** → NOT GIVEN
+
+⚠️ **Ojo con el paso intermedio.** Un razonamiento de un paso (*"si los satélites no detectaron nada, no lo identificaron primero"*) **sigue siendo FALSE**, no NG. Lo que no vale es inventar lo que el texto no dice — no es lo mismo deducir una consecuencia directa que suponer un dato ausente.

@@ -14,7 +14,7 @@
 | 2026-09-08 | T/F/NG — set 2 *(cargado)* | 12 | **9** | 75% | — |
 | 2026-09-10 | Matching Headings | 5 | **4** | 80% | 5:06 |
 | 2026-09-11 | Sentence Completion nº1 | 7 | **7** | **100%** | 8:26 |
-| 2026-09-12 | **Pasaje integrado nº1** *(3 tipos)* | 11 | ___ | ___ | ___ |
+| 2026-09-12 | **Pasaje integrado nº1** *(3 tipos)* | 10 *(1 anulada)* | **8** | **80%** | 15:56 |
 
 ### Patrones vivos
 
@@ -22,7 +22,9 @@
 |---|---|---|
 | 1 | **Pasada de cuantificadores** (*only · usually · most · every*) | ✅ **cerrado el 8-sep** — falló por la mañana, acertado por la tarde |
 | 2 | **Elige *Not Given* cuando la respuesta es *False*** | 🔴 **3 ocurrencias.** Árbol de decisión en `04_Reading_Module.md` |
-| 3 | Deducir de más en los *Not Given* legítimos | ✅ **no ha aparecido** — todos acertados en los dos sets |
+| 3 | Deducir de más en los *Not Given* legítimos | ⚠️ **apareció el 12-sep** en la #7: *eastern China* ≠ una fábrica → dedujo *False* donde el texto callaba |
+| 4 | ✅ **Matching Headings: trampa de la oración única** | ✅ **cerrada en 2 días** — cayó el 10-sep (párrafo E), esquivada el 12-sep |
+| 5 | 🆕 **Calcular en vez de copiar** en sentence completion | 1 ocurrencia, en un ítem defectuoso. *"Choose from the passage"*: si la respuesta exige una operación, no es la respuesta |
 
 ---
 
@@ -413,6 +415,66 @@ La tentación es escribir *"stable"* (aparece en C) o *"did not react"* (tres pa
 No *"around 2066"* ni *"2066 for Antarctica"*. **Una cifra.** Cuenta antes de escribir.
 
 </details>
+
+---
+
+## ✍️ Resultados — 12 de septiembre · **8/10 · 80%** · 15:56 de 20
+
+| # | Tipo | Suyo | Correcto | |
+|---|---|---|---|---|
+| 1 | MH · C | ii | ii | ✅ |
+| 2 | MH · D | iii | iii | ✅ |
+| 3 | MH · E | iv | iv | ✅ **esquivó la trampa del 10-sep** |
+| 4 | T/F/NG | NG | **FALSE** | 🔴 |
+| 5 | T/F/NG | T | T | ✅ |
+| 6 | T/F/NG | F | F | ✅ **la diseñada como más difícil** |
+| 7 | T/F/NG | F | **NOT GIVEN** | 🔴 |
+| 8 | SC | ultraviolet | ultraviolet | ✅ |
+| 9 | SC | inert | inert | ✅ |
+| 10 | SC | 1987 | 1987 | ✅ |
+| ~~11~~ | SC | *40 years* | *2066* | ⚠️ **ítem anulado** |
+
+**Matching Headings 3/3 · Sentence Completion 3/3 · T/F/NG 2/4.**
+
+### ⚠️ Por qué se anula el ítem 11
+
+El enunciado decía *"…return to 1980 values **in about** ______"*, que pide una **duración**; *2066* no encaja ahí gramaticalmente. Debía decir *"**around** ______"*. **Ella sabía que era 2066 y lo descartó porque no cuadraba con la frase** — verificar el encaje gramatical es parte del método, no un extra. **La pregunta era defectuosa: no medía nada.**
+
+> **La regla que sí queda:** *"Choose … **from the passage**"*. **Nunca calcular.** *40 years* no está en el texto; *2066* sí. Si la respuesta exige una operación mental, no es la respuesta.
+
+---
+
+## 🔴 EL HALLAZGO — las dos T/F/NG estaban **invertidas**
+
+Puso **NG donde iba False** (#4) y **False donde iba NG** (#7). No es el patrón que teníamos anotado (*"elige NG en vez de False"*): es algo más preciso.
+
+**#4** — *"first identified using satellite data"*. El texto dice que los satélites **no detectaron nada**. Llegar a *False* exige **un paso**: si no detectaron nada, no lo identificaron primero. Ese paso le pareció "deducir de más" → NG.
+
+**#7** — *"traced to a single factory"*. El texto dice *"unreported production in eastern China"*. Razonó: *"una región no es una fábrica, luego falso"*. Eso **sí** es deducir de más → F.
+
+### Su propia frase, que localiza el error exacto
+
+> *"en la 7 pensé en poner not given pero **sí me estaban dando información**"*
+
+**Ahí está, y es de definición.** *Not Given* **no** significa *"el texto no habla de esto"*. Significa **"el texto no resuelve ESTA afirmación"**.
+
+En la #7 el texto sí da información — dice **dónde** (eastern China). Pero la afirmación no preguntaba dónde: preguntaba **cuántas instalaciones**. De eso el texto no dice nada.
+
+### 🎯 La técnica: la palabra que carga el peso
+
+En cada afirmación hay **una palabra** que es lo que realmente se prueba. **Subrayarla antes de ir al texto.**
+
+| | Palabra clave | ¿El texto la resuelve? | |
+|---|---|---|---|
+| **#4** | *using **satellite** data* | **Sí** — *"orbiting instruments had detected nothing"* | **FALSE** |
+| **#6** | *no effect on the **climate*** | **Sí** — *"potent greenhouse gases"* | **FALSE** |
+| **#7** | *a **single** factory* | **No** — dice *dónde*, nunca *cuántas* | **NOT GIVEN** |
+
+En la #7 el ojo se ancló en *"traced to"*, donde sí había información. **El peso estaba en *single*.**
+
+> ## `FALSE` = el texto hace **imposible** la afirmación.
+> ## `NOT GIVEN` = el texto la deja **abierta**.
+> **No preguntes "¿coincide?". Pregunta "¿puedo señalar la frase que lo hace imposible?"**
 
 ---
 
