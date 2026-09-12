@@ -13,7 +13,7 @@
 | 2026-09-08 | T/F/NG — set 1 | 15 | **12** | 80% | 11:58 |
 | 2026-09-08 | T/F/NG — set 2 *(cargado)* | 12 | **9** | 75% | — |
 | 2026-09-10 | Matching Headings | 5 | **4** | 80% | 5:06 |
-| 2026-09-11 | Sentence Completion nº1 | 7 | ___ | ___ | ___ |
+| 2026-09-11 | Sentence Completion nº1 | 7 | **7** | **100%** | 8:26 |
 | 2026-09-12 | **Pasaje integrado nº1** *(3 tipos)* | 11 | ___ | ___ | ___ |
 
 ### Patrones vivos
@@ -221,15 +221,17 @@ The characteristic yellow paint of the standard pencil is a marketing legacy. In
 
 ### ✍️ Respuestas — escribir aquí
 
-| # | Palabras del texto | Tiempo total: ___ |
-|---|---|---|
-| 1 | ___ | |
-| 2 | ___ | |
-| 3 | ___ | |
-| 4 | ___ | |
-| 5 | ___ | |
-| 6 | ___ | |
-| 7 | ___ | |
+| # | Suyo | | Tiempo total: **8:26 / 12** |
+|---|---|---|---|
+| 1 | lead | ✅ | |
+| 2 | sheep's skin | ✅ | |
+| 3 | juniper wood | ✅ | |
+| 4 | lower quality | ✅ | |
+| 5 | clay | ✅ | |
+| 6 | red cedar | ✅ | |
+| 7 | royalty | ✅ | |
+
+**Puntaje: 7/7 = 100%**, con las cuatro trampas esquivadas: el rastreo hacia atrás del #6, la repetición de *the East* en el #7, el límite de palabras en el #3, y ninguna respuesta por encima de tres palabras.
 
 ---
 
