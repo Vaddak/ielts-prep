@@ -6,38 +6,72 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — sábado 12 de septiembre
+## 👉 RETOMAR AQUÍ — sábado 12 de septiembre · recuperar viernes + hacer sábado
 
-**Vie 11 pendiente en casa** — skimming/scanning (10 min) + **Sentence Completion nº 1** (12 min, 7 huecos). **Autocontenido en `13_Reading_Archive.md`**.
+**Jue 10 ✅** Matching Headings **4/5 en 5:06** · las 9 palabras `[~]` reactivadas → **200/200 producidas**.
+**Vie 11** montado y pendiente.
 
-### El bloque del viernes, en dos ideas
+### El plan de hoy (~85 min)
 
-**Skimming** ≠ **Scanning.** Skimming primero (2 min, mapa del texto). Scanning después (con la pregunta en mano, buscando **una palabra**).
+| | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 22 | 🔍 **VIERNES:** skimming/scanning (10) + **Sentence Completion nº1** (12, 7 huecos) — `13_Reading_Archive.md` |
+| | | ☕ pausa corta |
+| [ ] 2 | 20 | 🧩 **PASAJE INTEGRADO nº1** — los **tres tipos** juntos, 11 preguntas — `13_Reading_Archive.md` |
+| [ ] 3 | 40 | ✍️ **TASK 2 nº4 — mantenimiento.** Prompt 5, *Opinion* (abajo) |
+| [ ] 4 | — | Registrar puntajes y patrones |
 
-**Sentence completion = scanning puro.** La respuesta está **literal** en el texto:
-1. Ancla en la frase incompleta → palabra rara / propia / técnica
-2. Scanear hasta encontrarla
-3. Copiar **exacto**, sin cambiar formas
-4. ⚠️ **Contar palabras antes de escribir.** *"NO MORE THAN THREE"*: cuatro vale cero
-
-### Pendiente al volver de casa
-- [ ] Puntaje del viernes · anotar patrones en `07_Error_Log.md`
+**El viernes va primero por necesidad:** Sentence Completion es uno de los tres tipos del pasaje integrado.
 
 ---
 
-## ⏱️ SÁBADO 12 — primera integración
+## 🧩 El pasaje integrado — lo que se pone a prueba
 
-**Reading (20 min, un pasaje con los 3 tipos)** + **Writing Task 2 (40 min, mantenimiento).**
+Primera vez con los tres tipos en un solo pasaje, **20 minutos, 11 preguntas** — el ritmo real del examen.
 
-Los sesenta minutos de Writing bajan a cuarenta; entran veinte de Reading. **Primer ensayo cronometrado desde el 6 de septiembre**: la métrica que ahora importa es la brecha **v1 en frío** → **corregida** (~5.5 → ~6.5). Acortarla es el objetivo del mantenimiento.
+> ### ⚠️ Tu patrón nº2 está sembrado a propósito
+> **Dos de las cuatro afirmaciones T/F/NG son `False`, y las dos tientan a poner `Not Given`.**
+>
+> **Si encontraste la frase que habla del tema, es T o F.** *NG* es solo cuando buscas y **no hay nada**.
+> Y contradecir **no exige usar las mismas palabras**: el texto puede negar una afirmación sin repetir su vocabulario.
 
-### Dos cosas para el Reading integrado
+**Reparto:** 2 min de skimming · 5 Matching Headings · 6 T/F/NG · 5 Sentence Completion · **2 de segunda pasada**.
 
-1. **Skimming primero** (2 min al pasaje entero antes de mirar preguntas)
-2. **El tiempo sobrante NO es margen: es la segunda pasada** — en T/F/NG a los cuantificadores, en Matching Headings a los que se decidieron con la primera oración
+---
 
-### Dom 13
-Revisar el Reading: para cada error, encontrar la respuesta en el texto y **entender por qué**. Registrar por tipo de pregunta.
+## ✍️ TASK 2 nº4 — mantenimiento · prompt 5
+
+> *Some people argue that technological innovation is the most important factor in addressing climate change.*
+>
+> ***To what extent do you agree or disagree?***
+
+**🆕 Tipo: Opinion.** Es **el cuarto y último tipo** de Task 2 — el único que falta por escribir cronometrado.
+
+**Qué lo distingue:**
+
+| | |
+|---|---|
+| **La postura va en la intro** y no se mueve | *This essay largely agrees that…* · *…agrees only in part* |
+| **Los dos bodies defienden TU posición** | No es un body a favor y otro en contra |
+| ***To what extent*** **permite matizar** | *largely · to a significant extent · only in part*. Una postura matizada bien defendida vale más que un absoluto |
+| **La conclusión reafirma**, no descubre | |
+
+> ⚠️ **La trampa:** *"To what extent"* invita a decir *"depende"*. **Depende no es una postura.** Si matizas, di **cuánto** y **por qué**.
+
+**Reparto (40 min):** 0–8 planificar · 8–31 escribir sin mirar atrás · 31–40 corregir.
+📏 **250 mínimo · 270–300 objetivo.**
+
+### 🎯 La métrica del mantenimiento
+
+El 6-sep las dos tareas salieron **~5.5 en frío y ~6.5 corregidas**. **El examen solo ve la primera.** Lo que se mide hoy es si esa brecha se acorta.
+
+**Las cuatro de tu error log que más pesan:**
+1. **Concordancia sujeto–verbo a distancia** — tapar lo que hay entre sujeto y verbo
+2. **Artículos**, dos barridos separados (§4.7)
+3. **Restos de edición** — tras cada cambio, releer la oración **hasta el punto final**
+4. **4 oraciones = 4 movimientos de UN argumento**, no 4 razones
+
+🔴 **Tecleada, en Bloc de notas, sin corrector.** Pegar en `11_Writing_Baseline_Essays.md`.
 
 ---
 

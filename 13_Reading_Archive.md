@@ -12,7 +12,9 @@
 |---|---|---|---|---|---|
 | 2026-09-08 | T/F/NG — set 1 | 15 | **12** | 80% | 11:58 |
 | 2026-09-08 | T/F/NG — set 2 *(cargado)* | 12 | **9** | 75% | — |
-| 2026-09-10 | Matching Headings | 5 | ___ | ___ | ___ |
+| 2026-09-10 | Matching Headings | 5 | **4** | 80% | 5:06 |
+| 2026-09-11 | Sentence Completion nº1 | 7 | ___ | ___ | ___ |
+| 2026-09-12 | **Pasaje integrado nº1** *(3 tipos)* | 11 | ___ | ___ | ___ |
 
 ### Patrones vivos
 
@@ -269,3 +271,152 @@ The characteristic yellow paint of the standard pencil is a marketing legacy. In
 - [ ] Registrar patrones en `07_Error_Log.md`
 - [ ] Confirmar aquí cuando esté hecho para pasar al sábado
 
+
+
+---
+
+# 🧩 SÁBADO 12 SEP — PASAJE INTEGRADO Nº 1
+
+> **Autocontenido.** Primera vez con los **tres tipos en un solo pasaje**, como en el examen.
+
+## Antes de arrancar
+
+**Cronómetro en 20:00 · 11 preguntas.** En el examen real son ~13 por pasaje en 20 minutos, así que este ritmo es el bueno.
+
+| Min | Qué |
+|---|---|
+| 0–2 | **Skimming del pasaje entero.** Primera y última oración de cada párrafo. **Sin mirar las preguntas** |
+| 2–7 | **Matching Headings** (3) — no siguen el orden del texto |
+| 7–13 | **T/F/NG** (4) — sí siguen el orden |
+| 13–18 | **Sentence Completion** (4) — scanning puro, respuesta literal |
+| **18–20** | 🔴 **Segunda pasada.** No es margen: es parte del ejercicio |
+
+### 🔴 Los tres recordatorios, uno por tipo
+
+1. **Matching Headings** — el test de una frase: ¿cubre el párrafo entero o solo una oración?
+2. **T/F/NG** — ⚠️ **tu patrón nº2, 3 ocurrencias:** eliges *Not Given* cuando la respuesta es *False*. **Si encontraste la frase, es T o F.** *NG* = buscaste y **no encontraste**
+3. **Sentence Completion** — **cuenta las palabras antes de escribir.** Copia **exacto**, sin cambiar formas
+
+---
+
+## El pasaje — *Mending the Sky*
+
+### Párrafo A
+
+High in the stratosphere, between roughly fifteen and thirty kilometres above the surface, sits a thin band of gas that makes complex life on land possible. Ozone absorbs the great majority of incoming ultraviolet radiation before it reaches the ground, shielding living tissue from a form of energy that damages DNA directly. The layer is remarkably sparse: if all the ozone in the atmosphere were brought down to sea level and compressed, it would form a shell only about three millimetres thick. Its protective power comes not from its quantity but from its position.
+
+### Párrafo B
+
+For decades the layer was assumed to be stable. That assumption collapsed in 1985, when Joe Farman and two colleagues at the British Antarctic Survey published measurements taken from a research station at Halley Bay. Using an instrument dating from the 1950s, they had recorded springtime ozone levels falling by more than a third since the late 1970s. The finding was initially met with scepticism, partly because orbiting instruments had detected nothing. It later emerged that the satellite software had been programmed to discard readings that fell below a certain threshold, on the assumption that such values indicated a malfunction rather than a real measurement.
+
+### Párrafo C
+
+The chemistry behind the decline had in fact been proposed a decade earlier. Chlorofluorocarbons, or CFCs, were prized by industry precisely because they were inert: they did not react, burn or corrode, which made them ideal as refrigerants and aerosol propellants. That same stability allowed them to drift intact into the stratosphere, where ultraviolet light finally broke them apart and released chlorine. What made the process so destructive was its catalytic nature. A chlorine atom strips an oxygen atom from an ozone molecule, is regenerated, and attacks again; a single atom can destroy tens of thousands of ozone molecules before it is eventually locked away in a stable compound.
+
+### Párrafo D
+
+The political response was unusually swift. The Montreal Protocol was signed in 1987, only two years after Farman's paper, and it worked for reasons that had little to do with environmental goodwill. The number of substances involved was small, the number of manufacturers smaller still, and chemical companies could see that substitutes were technically achievable and commercially promising. Crucially, the treaty set binding targets that tightened over time rather than fixing a single distant goal, and it gave developing economies both a delayed timetable and a fund to pay for the transition. By 2009 it had become the first treaty in United Nations history to be ratified by every member state.
+
+### Párrafo E
+
+Measuring the result has been a slow business. Ozone concentrations vary naturally with season, altitude and weather, and the signal of genuine recovery is faint against that background noise. Only in 2016 did researchers report the first statistically confident evidence that the Antarctic hole was shrinking, using September measurements averaged across more than a decade. Current projections suggest that concentrations over the Antarctic will return to their 1980 values around 2066, with the Arctic and the mid-latitudes recovering some decades earlier. The lag reflects the long atmospheric lifetime of the chemicals already released, some of which will persist into the next century.
+
+### Párrafo F
+
+The story is not quite finished. From 2013 onwards, monitoring stations recorded a slowdown in the decline of one banned compound, CFC-11, which researchers traced to unreported production in eastern China; emissions fell again once the source was publicised. A second complication is chemical rather than political. Many of the substances adopted to replace CFCs, particularly hydrofluorocarbons, do no damage to ozone but are extremely potent greenhouse gases, some of them thousands of times more warming than carbon dioxide over a century. An amendment agreed in Kigali in 2016 commits countries to phasing them down in turn.
+
+---
+
+## Preguntas 1–3 · MATCHING HEADINGS
+
+Elige el heading correcto para los párrafos **C**, **D** y **E**. Hay **seis** headings: tres sobran.
+
+> **i.** The cost of replacing industrial chemicals
+> **ii.** How one atom destroys many molecules
+> **iii.** The agreement that worked, and why
+> **iv.** Measuring a slow return to normal
+> **v.** Why recovery will take longer than predicted
+> **vi.** Early resistance from manufacturers
+
+| | Párrafo | Tu respuesta |
+|---|---|---|
+| **1** | C | ___ |
+| **2** | D | ___ |
+| **3** | E | ___ |
+
+## Preguntas 4–7 · TRUE / FALSE / NOT GIVEN
+
+| | Afirmación | Tu respuesta |
+|---|---|---|
+| **4** | The ozone hole was first identified using satellite data. | ___ |
+| **5** | A single chlorine atom can destroy many ozone molecules before being neutralised. | ___ |
+| **6** | The chemicals introduced to replace CFCs have no effect on the climate. | ___ |
+| **7** | The unexpected CFC-11 emissions detected after 2013 were traced to a single factory. | ___ |
+
+## Preguntas 8–11 · SENTENCE COMPLETION
+
+⚠️ **NO MORE THAN TWO WORDS AND/OR A NUMBER** para cada hueco.
+
+| | | Tu respuesta |
+|---|---|---|
+| **8** | Ozone protects living tissue by absorbing most incoming ______ radiation. | ___ |
+| **9** | CFCs were valued by industry because they were chemically ______. | ___ |
+| **10** | The Montreal Protocol was signed in ______. | ___ |
+| **11** | Ozone levels over the Antarctic are expected to return to 1980 values in about ______. | ___ |
+
+---
+
+<details>
+<summary><b>🔑 RESPUESTAS — abrir SOLO después de los 20 minutos</b></summary>
+
+| | Correcto | Por qué |
+|---|---|---|
+| **1** | **ii** | C explica el mecanismo catalítico: un átomo destruye decenas de miles de moléculas |
+| **2** | **iii** | D enumera **por qué** funcionó: pocas sustancias, pocos fabricantes, sustitutos viables, metas progresivas, fondo de transición |
+| **3** | **iv** | E trata de **medir** la recuperación y de lo lenta que es |
+| **4** | **FALSE** | B dice explícitamente que los satélites **no detectaron nada** y que el hallazgo vino de una estación en tierra |
+| **5** | **TRUE** | *"a single atom can destroy tens of thousands of ozone molecules"* |
+| **6** | **FALSE** | F dice que los HFC **no dañan el ozono pero son potentes gases de efecto invernadero** |
+| **7** | **NOT GIVEN** | F dice *"unreported production in eastern China"* — **nunca dice una sola fábrica** |
+| **8** | **ultraviolet** | A |
+| **9** | **inert** | C: *"prized by industry precisely because they were inert"* |
+| **10** | **1987** | D |
+| **11** | **2066** | E |
+
+### 🎯 Las trampas, y a cuál de tus patrones apunta cada una
+
+**Pregunta 4 — `FALSE`, no `NOT GIVEN`** ⚠️ **tu patrón nº2**
+El texto **sí habla** del tema: dice que los satélites no vieron nada y explica por qué. **Encontraste la frase → es T o F.** *NG* es solo cuando buscas y **no hay nada**.
+
+**Pregunta 6 — `FALSE`, no `NOT GIVEN`** ⚠️ **el mismo patrón, disfrazado**
+La afirmación dice *"no effect on the climate"*. El texto dice que son **gases de efecto invernadero potentísimos**. Eso es una **contradicción directa**, no un silencio. La tentación de *NG* viene de que el texto no usa la palabra *climate* en esa frase — pero **contradecir no exige usar las mismas palabras**.
+
+**Pregunta 7 — `NOT GIVEN` legítimo**
+*Eastern China* es una región, no una fábrica. El texto **habla del tema pero no se pronuncia** sobre cuántas instalaciones eran. Este es el *NG* de verdad.
+
+> **4 y 6 son False; 7 es Not Given. Si las tres te salieron NG, es el patrón nº2 otra vez.**
+
+**Heading v — *Why recovery will take longer than predicted*, para E** ← **la difícil**
+E **sí** menciona el retraso (*"the lag reflects the long atmospheric lifetime"*), pero eso es **la última oración**. Las otras cuatro van de **medir**: variación natural, ruido de fondo, el dato de 2016, las proyecciones.
+
+> **Test de una frase:** v se apoya en una oración; **iv** cubre el párrafo. Además v dice *"longer than predicted"* y el texto **nunca** dice que sea más lento de lo previsto.
+
+**Heading vi — *Early resistance from manufacturers*, para D**
+D menciona a las empresas químicas — pero dice **lo contrario**: que **vieron oportunidad comercial**. Palabra repetida, idea invertida.
+
+**Hueco 9 — `inert`**
+La tentación es escribir *"stable"* (aparece en C) o *"did not react"* (tres palabras). El texto dice **literal**: *"prized by industry precisely because they were **inert**"*. **Una palabra, copiada exacta.**
+
+**Hueco 11 — `2066`**
+No *"around 2066"* ni *"2066 for Antarctica"*. **Una cifra.** Cuenta antes de escribir.
+
+</details>
+
+---
+
+## Al terminar
+
+- [ ] Anotar puntaje y tiempo en la tabla de arriba del archivo
+- [ ] **Para cada error: volver al párrafo y encontrar la frase exacta** que lo decide. No basta con ver cuál era
+- [ ] ¿Los fallos se concentran en **un tipo**? Ese es el siguiente objetivo
+- [ ] Registrar en `07_Error_Log.md`, sección *Reading Errors*
