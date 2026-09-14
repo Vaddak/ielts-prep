@@ -1034,3 +1034,38 @@ El léxico llegó a **6.5 en frío**, el más alto registrado sin corregir: `mit
 **No sobró tiempo para corregir.** Los cuatro errores más visibles del texto — `society are`, `the need of`, `∅ United States`, `sizes that older models` — **ya estaban en el error log desde agosto**. Se reconocen; no se cazan sin la pasada final.
 
 **Cómo me sentí:** —
+
+---
+
+### 2026-09-14 — Semana 9, Lunes: corrección del Task 2 nº4 hasta cierre
+
+**Cuatro versiones. 5.5 en frío → 6.5 sólido corregido.** Métrica de mantenimiento cumplida en la primera semana de mantenimiento.
+
+### 🏁 Dos patrones cerrados en la misma revisión
+
+**Pregunta indirecta** (§4.11) — 4 ocurrencias documentadas, sobrevivió v1, v2, v3. En v4 la vio: *research **how humankind can address*** sin inversión.
+
+**Empalme de comas con *therefore*** (§4.10) — **8ª ocurrencia total del empalme**. La variante con *however* se había cerrado a inicios de septiembre; hoy cierra la variante con *therefore* con punto y coma. *No es corrección: es que los está viendo ahora.*
+
+### 🎯 El logro de banda 7 — la oración de comparación
+
+En la v3 aceptó la oración modelo que le di y la copió tal cual:
+
+> *"Whereas international regulation on meat consumption has been debated for decades without significant traction, lab-grown alternatives have moved from research to supermarket shelves in under ten years."*
+
+Contraste explícito + dos velocidades + hedging natural + timeframe concreto. Es lo que finalmente prueba *"most important"* en el B2 y sube TA a 6.5. Sin esa oración el b2 argumentaba solo *"la tecnología funciona"*.
+
+### Recorrido de bandas
+
+| | v1 frío | v2 | v3 | v4 |
+|---|---|---|---|---|
+| Global | ~5.5 | ~6 | ~6.5 | **6.5 sólido** |
+
+**Brecha a la mitad** respecto al 6-sep (que fue ~5.5 en frío → ~6.5 pero con reescritura estructural en la 3ª versión).
+
+### Refinamiento de método
+
+**La corrección en tabla sí se hace, pero no toda de una.** Aplicó 3 de 10 correcciones puntuales en v2, las 7 restantes en v3. **Regla nueva:** tachar cada fila al aplicarla — así ninguna se salta.
+
+Y v2 introdujo 4 errores nuevos de ortografía al editar (*secundary · requering · reamin · fourty*), cerrados en v3. Confirma otra vez que **editar sin corrector introduce errores propios**.
+

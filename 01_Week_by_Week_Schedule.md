@@ -6,25 +6,43 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — domingo 13 de septiembre · corregir el Task 2 nº4
+## 👉 RETOMAR AQUÍ — lunes 14 de septiembre · SEMANA 9 (Reading avanzado)
 
-**Sábado 12 ✅ jornada triple, todo registrado.**
-Sentence Completion **7/7** · Pasaje integrado **8/10 (80%)** · **Task 2 nº4, prompt 5, *Opinion* — 316 palabras, ~5.5 en frío.**
+**Sáb 12 ✅** Reading integrado 8/10 · Task 2 nº4 en frío 5.5. **Lun 14 ✅** Corrección del Task 2 hasta cierre en 4 versiones.
 
-> 🏁 **Los CUATRO tipos de Task 2 están escritos bajo cronómetro.** Y los cinco formatos de Task 1. **El mapa de Writing está completo.**
+### 🏁 Task 2 nº4 — **Band 6.5 sólido**
 
----
-
-### El plan de hoy (~50 min)
-
-| | Min | Tarea |
+| | v1 frío | v4 |
 |---|---|---|
-| [ ] 1 | 10 | 📖 Leer el análisis completo en `11_Writing_Baseline_Essays.md`, sección **TASK 2 Nº 4 — PROMPT 5** |
-| [ ] 2 | 5 | 📐 Leer **§4.11 — la pregunta indirecta** en `10_Grammar_Quick_Reference.md` (nueva) |
-| [ ] 3 | 30 | ✍️ **CORREGIR EL ENSAYO** siguiendo el checklist de abajo |
-| [ ] 4 | 5 | Registrar la versión final |
+| Global | ~5.5 | **6.5 sólido** |
 
-🔴 **Sin cronómetro.** Esto no mide velocidad: mide si la reescritura responde **la pregunta correcta**.
+**Métrica de mantenimiento cumplida.** Brecha a la mitad vs el 6-sep, sin desviación estructural.
+
+### 🎯 Dos patrones cerrados en la misma revisión
+
+- **Pregunta indirecta** (§4.11) — sobrevivió 4 ocurrencias, hoy la vio
+- **Empalme con *therefore*** (§4.10) — 8ª ocurrencia total del empalme, cerrada con `; therefore,`
+
+### Semana 9 — Reading: paráfrasis, trampas y test completo
+
+**Writing en mantenimiento (1 tarea el sábado).** El resto es Reading.
+
+| Día | |
+|---|---|
+| **Lun 14** ✅ | Corrección Task 2 nº4 hasta cierre |
+| Mar 15 | **Multiple Choice** — la trampa de la palabra clave repetida |
+| Mié 16 | **Summary/Note Completion** — paráfrasis a escala |
+| Jue 17 | **Yes/No/Not Given** (opinión del autor) — la variante de T/F/NG con voz |
+| Vie 18 | **Pasaje completo cronometrado** (40 preg · 60 min) — primer intento a escala real |
+| **Sáb 19** | Task 2 mantenimiento (40 min) + revisar el pasaje del viernes |
+| Dom 20 | Revisar por tipo de pregunta · registrar patrones |
+
+### Martes 15 (~30 min)
+
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 10 | **Multiple Choice** teoría en `04_Reading_Module.md` — por qué la opción que **copia** una palabra del texto suele ser la trampa |
+| [ ] 2 | 20 | **Multiple Choice nº 1 cronometrado** (autocontenido en el archivo cuando arranques) |
 
 ---
 

@@ -478,6 +478,39 @@ Misma cifra que el 6-sep, **pero no el mismo ensayo**: longitud, equilibrio y l�
 - [ ] **Topic sentence en B2 que COMPARE** la tecnología con otro factor (política/regulación/hábitos) — ahí vive el *most important*
 - [ ] **Cambiar el ejemplo del B2** para que no repita el de energía
 - [ ] Los **2 empalmes de comas** → punto y seguido
+
+---
+
+## ✅ v4 — 14 de septiembre · **Band 6.5 sólido**
+
+Technological innovation has transformed the way societies produce energy and manage resources. This essay largely agrees that it is the decisive factor in addressing climate change, since engineering solutions attack the physical causes of emissions directly, although political regulation remains necessary to deploy them at scale.
+
+Technological innovation is decisive because it attacks the physical source of emissions, which no amount of regulation can achieve on its own. Over almost all the history of civilization humans used nature as a tool without considering consequences. However, a significant impact on the environment and the acceleration in climate change led to investment and research how humankind can address this situation. Over the last decades, technological advances allowed essential processes to be more efficient and showed a good performance mitigating these effects of climate change. For example, the way energy is produced changed dramatically with renewable energies, leaving fossil fuels as a secondary option for now.
+
+It is also the factor that scales fastest, since each improvement in efficiency spreads globally without requiring political consensus. Resources such as water, energy and productive lands are fundamental to everyday processes; therefore, new techniques to approach them are needed to reduce climate change and manage them properly. The bovine meat industry largely leads greenhouse gas emissions. Whereas international regulation on meat consumption has been debated for decades without significant traction, lab-grown alternatives have moved from research to supermarket shelves in under ten years. Data collected from the last five years showed a decrease in cow meat demand due to meat alternatives produced in laboratories.
+
+In conclusion, natural resources are essential in every system in modern civilizations, whereas the processes and techniques need to remain in constant transformation to achieve a higher performance. Technological innovation is the most important factor to transform and create these techniques.
+
+### 🎯 Dos patrones cerrados en la misma revisión
+
+- **Pregunta indirecta** (§4.11) — 4 ocurrencias, sobrevivió en v1, v2, v3. **Corregida en v4**: *research **how humankind can address*** (sin inversión)
+- **Empalme de comas con *therefore*** (§4.10) — 8ª ocurrencia total del empalme. En septiembre se cerró la variante con *however*; hoy se cierra la variante con *therefore*. *processes**;** therefore,* con punto y coma
+
+### 🎯 El logro de método — la oración de comparación
+
+En la v3 aceptó la oración modelo *"Whereas international regulation on meat consumption has been debated for decades without significant traction, lab-grown alternatives have moved from research to supermarket shelves in under ten years"* y **la copió tal cual**. Es la que finalmente prueba *"most important"* al comparar dos velocidades — sin ella el B2 argumentaba solo *"la tecnología funciona"*. Escritura de banda 7.
+
+### 📊 Bandas por versión
+
+| | v1 frío | v2 | v3 | **v4** |
+|---|---|---|---|---|
+| TA | 5.5 | 6 | 6.5 | **6.5** |
+| CC | 5.5 | 6 | 6 | **6.5** |
+| LR | 6.5 | 6 | 6.5 | **6.5** |
+| GR | 5.0 | 5.5 | 6 | **6.5** |
+| **Global** | ~5.5 | ~6 | ~6.5 | **6.5 sólido** |
+
+**Métrica de mantenimiento cumplida:** 5.5 en frío → 6.5 corregido en 4 pasadas. La brecha se acortó a la mitad respecto al 6-sep, esta vez sin desviación estructural (la del titular del enunciado que en v1 costó una banda entera de TA).
 - [ ] `society is` · `need natural resources` · `the United States` · `than older models`
 - [ ] `processes` ×2 · `temporary` · `the search for` · `access them` · `impact on` · `an increase of around`
 - [ ] `how humankind can address` (§4.11)

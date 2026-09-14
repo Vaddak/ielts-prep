@@ -268,6 +268,11 @@ After every timed practice or mock exam:
 | 2026-09-12 | **Falsos amigos y régimen** | Writing · LR | *a **temporal** option* (→ temporary) · *corresponds to **search*** (→ the search for) · *leads to **avoid*** (→ avoiding) · *access **to** them* · *impact **in*** · *an increase ∅ around 20%* | *temporal* es el falso amigo puro: en inglés significa *relativo al tiempo* |
 | 2026-09-12 | **Ortografía sin corrector** | Writing | `mitigatethe` · `humakind` · `significan` · `fossiel` | El examen es por computador **sin corrector**. Pasada 3 del checklist |
 
+| **2026-09-14** | ✅ **Task 2 nº4 — v4** (Prompt 5, *Opinion*) | Global | ✅ **Band 6.5 sólido.** 5.5 en frío → 6.5 corregido en 4 pasadas. **Brecha a la mitad** vs la del 6-sep, sin desviación estructural esta vez | Métrica de mantenimiento cumplida |
+| 2026-09-14 | Task 2 nº4 v4 | Grammatical Range | ✅✅ **Pregunta indirecta cerrada** (§4.11). 4 ocurrencias documentadas desde el 12-sep, sobrevivió en v1, v2 y v3. En v4: *research **how humankind can address*** — sin inversión | El patrón *no es que no la sepa: no la veía como error*, hoy la vio |
+| 2026-09-14 | Task 2 nº4 v4 | Coherence & Cohesion | ✅✅ **Empalme de comas con *therefore* cerrado** (§4.10). **8ª ocurrencia total del patrón.** La variante con *however* se cerró a inicios de septiembre; hoy la variante con *therefore* con **punto y coma**: *processes**;** therefore,* | **Los dos patrones cerrados en la misma revisión.** No es corrección — es que los está **viendo** ahora |
+| 2026-09-14 | Task 2 nº4 v3 | Lexical Resource | ⚠️ Corrección introdujo 4 errores nuevos en v2 (*secundary · requering · reamin · fourty*) — todos cerrados en v3 | Confirma otra vez: **editar sin corrector introduce errores propios**. Pasada de ortografía obligatoria tras cada revisión |
+| 2026-09-14 | Task 2 nº4 v2 | Método | 🔁 **Tabla de correcciones a medias** (refinamiento del 2-sep). Aplicó 3 de 10 puntuales en v2, las 7 restantes en v3 | La corrección en tabla **sí se hace** — pero no toda de una. Reglar: **tachar cada fila al aplicarla** para que ninguna se salte |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
