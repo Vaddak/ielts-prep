@@ -8,49 +8,54 @@
 
 ## 👉 RETOMAR AQUÍ — martes 15 de septiembre
 
-**Lunes 14 ✅✅** — doble sesión: corrección Task 2 nº 4 a v4 (**6.5 sólido**) + adelanto del martes: **MC nº 1 = 5/6 (83%)** al primer intento en 7:00 de 15 min.
+**Lunes 14 ✅✅✅✅** — cuádruple sesión:
+
+| | Resultado |
+|---|---|
+| Task 2 nº 4 (v1→v4) | **Band 6.5 sólido** · pregunta indirecta y empalme con *therefore* cerrados |
+| MC nº 1 | 5/6 en 7:00 de 15 min |
+| MC nº 2 | 4/6 en 10:00 de 15 min *(set adversarial META)* |
+| Trampa META identificada | Reading + Writing en la misma tarde |
 
 ---
 
-### 🎯 EL HALLAZGO GRANDE DEL DÍA — patrón META
+### 🎯 EL HALLAZGO GRANDE DE LA SEMANA
 
-> ## **Ve las palabras del contenido. Pierde la relación entre ellas.**
+> ## **Gravitas hacia la versión confiada, absoluta o dramática de una afirmación.**
+> **En Reading y en Writing.** Su temperamento por defecto — **decidido**.
 
-Confirmado en dos módulos:
-- **Reading MC preg 6:** *energy cost* copiado, *offset* (compensar) confundido con *reduce* (bajar)
-- **Writing Task 2 v1:** *innovation* copiado, *most important* (comparativo) confundido con *works* (existencial)
+Rastreado en **5 sesiones distintas** desde el 3-sep. Ventaja en fluidez y en resistencia a Not Given; debilidad cuando el texto es cauteloso.
 
-Los sustantivos son grandes y visibles; **los verbos y preposiciones de relación son pequeños y pasan por el radar**.
+### Sub-regla mecánica
 
-**Técnica:** subrayar **primero** el verbo/preposición de relación antes de decidir.
-Detalle completo en `04_Reading_Module.md` → **LA TRAMPA DE LA RELACIÓN LÓGICA**.
+> **Cuando el texto duda, la opción correcta también duda.**
+> Si eliges entre absoluta y tentativa, y el texto usa *may · appear · suggest · might · seems*, marca **la tentativa**.
 
-### ⚠️ Patrón de tiempo — 3ª confirmación
-
-T/F/NG 60% · Matching Headings 25% · MC 47% — **tres tipos, tres pasadas de revisión no hechas**. Los errores que sobrevivieron eran los cazables al releer.
-
-> **El tiempo que sobra NO es margen. Es la segunda pasada.**
-> Ahora con **dos capas**: cuantificadores + verbos de relación.
+Complementa la regla META del año (14-sep): subrayar el verbo de relación antes de decidir. Detalle completo en `04_Reading_Module.md`.
 
 ---
 
-### Martes 15 (~30 min)
+### Martes 15 (~30 min) — liviano por diseño
 
-Alivió la carga porque el MC ya arrancó anoche. Opciones según energía:
+Adelantado casi todo el módulo MC. Se abre espacio.
 
-**A) Ligero (~20 min):** MC nº 2 cronometrado — aplicar las 4 familias + subrayar el verbo de relación antes de decidir
-**B) Adelantar miércoles (~30 min):** **Summary/Note Completion** teoría + 1 corto
+| # | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 10 | **Summary/Note Completion** teoría en `04_Reading_Module.md` |
+| [ ] 2 | 20 | **Summary Completion nº 1** cronometrado *(autocontenido en el archivo cuando arranques)* |
+
+> **La regla del día que se lleva:** en Summary Completion la respuesta está en el texto **parafraseada, no literal**. Es el opuesto exacto de Sentence Completion. Ancla = concepto, no palabra.
 
 ### Semana 9 — estado
 
 | Día | |
 |---|---|
-| Lun 14 ✅✅ | Corrección T2 nº 4 + MC nº 1 |
-| Mar 15 | MC nº 2 ó adelantar Summary Completion |
-| Mié 16 | Summary/Note Completion (si no se adelantó) |
-| Jue 17 | Yes/No/Not Given — la variante T/F/NG para opinión del autor |
+| Lun 14 ✅✅✅✅ | T2→v4 · MC1 · MC2 · identificación META |
+| Mar 15 | Summary/Note Completion |
+| Mié 16 | *(libre por adelanto)* — opción: pasaje mixto de refuerzo |
+| Jue 17 | Yes/No/Not Given |
 | Vie 18 | 🔴 Pasaje completo cronometrado (40 preg · 60 min) |
-| **Sáb 19** | Task 2 mantenimiento (40 min) + revisar pasaje del viernes |
+| **Sáb 19** | Task 2 mantenimiento (40 min) + revisar pasaje |
 | Dom 20 | Revisión por tipo · registrar patrones |
 
 ---

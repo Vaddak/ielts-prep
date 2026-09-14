@@ -1108,3 +1108,25 @@ En los tres, el error era cazable en una segunda pasada. **El tiempo que sobra n
 
 Lunes 14 = doble: corrección Task 2 nº 4 a v4 (6.5 sólido) + Multiple Choice nº 1 (5/6). Martes 15 queda con solo Multiple Choice nº 2 o directamente el siguiente tipo, dependiendo de energía.
 
+### 2026-09-14 (tri) — MC nº 2: la trampa META hizo su trabajo
+
+**4/6 = 67%** en 10:00 de 15 min. Set diseñado específicamente para exponer el patrón META identificado por la mañana. **Las dos falladas son las dos preguntas META.** La trampa hizo exactamente lo que se supone que hace.
+
+### La sub-regla que sale de aquí
+
+> **Cuando el texto duda, la opción correcta también duda.**
+
+Preg 4: *may have opened* → marcó *depended on*. Preg 6: *appear to have arrived* → marcó *entirely mistaken*. En los dos, el texto usaba lenguaje tentativo (*may · appear · assumed*) y ella eligió la más contundente.
+
+### El patrón grande — gravitas hacia lo absoluto
+
+Es el **mismo músculo mal calibrado** que apareció el 3-sep con *would* y *"in certain contexts"*. Rastreado hoy en **5 sesiones distintas** desde el 3-sep, en los dos módulos. En Writing sub-hedgea lo tentativo, en Reading sub-lee lo tentativo. Mismo problema, dos direcciones.
+
+**Es su temperamento por defecto — decidido.** Ventaja en muchas partes (fluidez, resistencia a Not Given). Pero cuando el texto es cauteloso, el instinto lleva a la lectura fuerte.
+
+### Estado del lunes 14
+
+Cuatro ejercicios grandes: T2 nº 4 v1→v4 (~6.5 sólido) · MC nº 1 (5/6) · MC nº 2 (4/6) · identificación de la trampa META cruzada. **Más carga que un día normal**, pero el hallazgo de la trampa META vale semanas.
+
+Mañana martes: **liviano por diseño**. La META ya no es descubrimiento sino aplicación en tipos nuevos.
+

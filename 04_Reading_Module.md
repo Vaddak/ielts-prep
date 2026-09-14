@@ -487,6 +487,41 @@ Los sustantivos son grandes y visibles — el ojo los caza. **Los verbos y las p
 > **Es el mismo músculo entrenable desde los dos lados.**
 > Complementa la pasada de cuantificadores (8-sep) y el árbol T/F/NG (8-sep). Las tres son variantes de lo mismo: **cuando hay que decidir, decidir por la palabra pequeña, no por la grande.**
 
+### 🆕 SUB-REGLA (14-sep, tras MC nº 2)
+
+> ## Cuando el texto duda, la opción correcta también duda.
+
+Confirmada en MC nº 2, preguntas 4 y 6 — **las dos diseñadas para la trampa META**:
+
+| # | Texto | Marcó | Correcta |
+|---|---|---|---|
+| 4 | *may have opened corridors* | *depended on* | *may have been assisted* |
+| 6 | *appear to have arrived on separate journeys* | *entirely mistaken* | *is called into question* |
+
+En los dos, el texto **usa lenguaje tentativo** (*may · appear · assumed · suggest*) y ella eligió **la opción más contundente**.
+
+**Regla mecánica:** si la decisión está entre una opción **absoluta** y una **tentativa**, y el texto usa *may · appear · suggest · might · seems · likely*, marcar **la tentativa**. Casi siempre.
+
+### El patrón grande — gravitas a lo absoluto
+
+Es el **mismo músculo mal calibrado** que apareció en Writing el 3-sep (sobre-suavizar lo evidente + usar *would* creyendo que suaviza). En Writing sub-hedgea lo tentativo; en Reading sub-lee lo tentativo. **Mismo problema, dos direcciones.**
+
+Y es una tendencia identificada en **5 sesiones distintas** desde el 3-sep:
+
+| Fecha | Contexto | Movimiento |
+|---|---|---|
+| 3-sep | Hedging Writing | *would* creyendo que suaviza; *"in certain contexts"* sobre lo obvio |
+| 10-sep | Matching Headings | *"niche → established"* (llamativo) sobre *"institutional support"* (comprensivo) |
+| 12-sep | Task 2 nº 4 v1 | *"innovation works"* (existencial) sobre *"most important"* (comparativo) |
+| 14-sep | MC nº 1 | *"reducing"* (fuerte) sobre *"offset"* (compensatorio) |
+| 14-sep | MC nº 2 | *"depended"* y *"entirely mistaken"* (absolutos) sobre *"may have"* y *"appear"* |
+
+> **Gravitas hacia la versión confiada, absoluta o dramática de una afirmación.**
+
+Es su temperamento por defecto — **decidido**. Ventaja en muchas partes (fluidez, resistencia a Not Given), pero cuando el texto es cauteloso, el instinto lleva a la lectura fuerte.
+
+
+
 ---
 
 ## ⚠️ EL PATRÓN DE TIEMPO — 3ª confirmación
