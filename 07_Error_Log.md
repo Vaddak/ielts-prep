@@ -256,6 +256,19 @@ After every timed practice or mock exam:
 | 2026-09-10 | Matching Headings | Reading | 🔴 **Párrafo E: marcó iv (*From niche interest to established field*), correcta era vi (*Growing institutional support*).** iv se apoya en la 1ª oración; vi cubre las cinco. **La 1ª oración era el gancho — el distractor** | **Es el mismo patrón del titular del Overview** (Task 1, 25-ago pie chart alemán: *"showed rise"* vs *"overtook coal"*). Un rasgo de una parte en vez de la relación que abarca el conjunto. **Test:** ¿este heading cubre TODAS las oraciones del párrafo o solo una? |
 | 2026-09-10 | Matching Headings — método | Reading | ⚠️ Terminó en **5:06 de 20** — muy rápido. La 5ª tenía dos candidatos (iv/vi) y no hubo pasada de revisión | **El tiempo que sobra NO es margen: es la segunda pasada.** Va a los headings decididos con la primera oración. Misma regla que en T/F/NG el 8-sep |
 
+| **2026-09-12** | 🎯 **TASK 2 nº4** — prompt 5, *Opinion*, 316 palabras en 40 min | Writing | ✅ **Bodies equilibrados por primera vez** (113/105) y **léxico 6.5, el criterio más alto**. Longitud resuelta de forma estable | — |
+| 2026-09-12 | 🔴 **Responder una pregunta más débil que la del enunciado** | Writing · TA | El enunciado decía ***the most important factor***; el ensayo defendió *"la tecnología ayuda mucho"*. **La expresión no reaparece después de la intro.** No comparó la tecnología con ningún otro factor | 🆕 **Gemelo del error de Reading del mismo día** (#7: el ojo en *traced to*, el peso en *single*). **Técnica común: subrayar la palabra que carga el peso ANTES de empezar** |
+| 2026-09-12 | 🔴 **Plantilla de *Discussion* en una pregunta de *Opinion*** | Writing · TA | *"While some argue that… this essay contends that…"*. En *Opinion* la postura ocupa la intro entera. Además la contraparte introducida **no la sostiene nadie y no vuelve a aparecer** | Y **falta el grado**: *"to what extent"* pide una dosis. → *largely agrees · agrees only in part* |
+| 2026-09-12 | 🔴 **Los dos bodies argumentan lo mismo** | Writing · CC | B1 (eficiencia de procesos) y B2 (acceso a recursos) acaban en el **mismo ejemplo**: renovables vs. fósiles. Un solo punto desarrollado dos veces | Consecuencia directa de no haber fijado la pregunta real: sin *"most important"* no hay eje para separar los bodies |
+| 2026-09-12 | 🆕 **Ningún body tiene topic sentence** | Writing · CC | B1 abre con contexto histórico; el argumento no arranca hasta la **4ª oración** | **Regla nueva:** la 1ª oración del body es la tesis **y contiene la palabra clave del enunciado**. *Test: si podría abrir un ensayo sobre otro tema, no es topic sentence* |
+| 2026-09-12 | 🆕 **Pregunta indirecta con inversión** | Writing · GR | *"research about **how can humankind address** this situation"* | Estructural, muy visible para el examinador. → **§4.11** (nueva) |
+| 2026-09-12 | **Empalme de comas** — 2 ocurrencias | Writing · GR | *"quality of life**,** every process…"* · *"thirty years**,** data shows…"* | Reaparece pese a §4.10 y al drill hecho. **Falta el barrido final: no sobró tiempo para corregir** |
+| 2026-09-12 | ***process* tratado como incontable** — 2 ocurrencias | Writing · GR | *"essential process to be more efficient"* · *"essential in process involved"* | `process` **es contable**: plural **`processes`** */ˈprəʊsesɪz/* |
+| 2026-09-12 | **Reincidentes ya logueados** | Writing · GR | *society **are*** · *in the **need of*** · *in ∅ **United States*** · *smaller sizes **that** older models* | **Los cuatro están en el error log desde agosto.** No es desconocimiento: es **ausencia de la pasada de corrección** |
+| 2026-09-12 | **Falsos amigos y régimen** | Writing · LR | *a **temporal** option* (→ temporary) · *corresponds to **search*** (→ the search for) · *leads to **avoid*** (→ avoiding) · *access **to** them* · *impact **in*** · *an increase ∅ around 20%* | *temporal* es el falso amigo puro: en inglés significa *relativo al tiempo* |
+| 2026-09-12 | **Ortografía sin corrector** | Writing | `mitigatethe` · `humakind` · `significan` · `fossiel` | El examen es por computador **sin corrector**. Pasada 3 del checklist |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
@@ -396,6 +409,12 @@ El primer intento corrigió 12 errores pero dejó el total en **229**: se aplic�
 
 | **2026-09-06** | 🏁 **TASK 2 nº3** — prompt 3, *advantages–disadvantages*, 356 palabras *(en frío → final)* | 5.5→**6.5** | 6→**6.5** | 5.5→**6.5** | 5→**6** | **~5.5 → ~6.5** |
 | **2026-09-06** | 🗺️ **TASK 1 nº4** — mapa, 189→178 palabras *(v1 → final, 4 rondas)* | 5.5→**6** | 5.5→**6.5** | 5.5→**6** | 5→**6** | **~5.5 → ~6.5** |
+| **2026-09-12** | 🎯 **TASK 2 nº4** — prompt 5, *Opinion* **(tipo nuevo)**, 316 palabras, **en frío** | 5.5 | 5.5 | **6.5** | 5.0 | **~5.5** |
+
+**Sobre el 12 de septiembre — misma cifra, distinto ensayo.** Global ~5.5 igual que el 6-sep, pero **LR subió a 6.5** (el criterio más alto registrado en una primera escritura) y por primera vez los bodies salieron **equilibrados** (113/105) con **316 palabras en 40 minutos**. Lo que ahora tapa la nota **no es la escritura: es una decisión de los primeros 8 minutos** — leyó *"technological innovation… climate change"* y no *"**the most important factor**"*, y defendió una tesis más débil de la que se pedía.
+
+> **El mismo día, en Reading, falló la #7 por lo mismo:** el ojo en *"traced to"* cuando el peso estaba en ***single***.
+> **Una sola técnica para los dos módulos: subrayar la palabra que carga el peso antes de empezar.**
 
 **Sobre el 6 de septiembre — cierre del módulo Writing:** sesión de recuperación de tres días. **En las dos tareas la banda subió un punto entero corrigiendo**, y la longitud dejó de ser problema (356 y 178, ambas holgadas sobre el mínimo). Lo que queda es **primera escritura**: las dos salieron en ~5.5 en frío. Esa distancia entre la v1 y la versión corregida es ahora la métrica a acortar.
 

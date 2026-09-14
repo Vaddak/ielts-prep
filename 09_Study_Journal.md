@@ -995,3 +995,42 @@ El 25 de agosto su Overview del line graph decía que India subía mucho pero no
 El archivo nuevo lleva el registro de puntajes, los patrones vivos, y **el ejercicio del jueves ya montado y autocontenido**: pasaje de biomimética, cinco párrafos, ocho headings, con respuestas y explicación de las tres trampas en un bloque plegado.
 
 **Cómo me sentí:** —
+
+
+---
+
+## 📆 Sábado 12 de septiembre de 2026 — jornada triple
+
+**Recuperación del viernes + pasaje integrado + Task 2 de mantenimiento.** Unos 85 minutos de trabajo cronometrado.
+
+| | Bloque | Resultado |
+|---|---|---|
+| 1 | Skimming/scanning + **Sentence Completion nº1** | **7/7** en 8:26 de 12 |
+| 2 | 🧩 **Pasaje integrado nº1** *(3 tipos, 11 preguntas)* | **8/10** · 80% · 15:56 de 20 *(1 ítem anulado)* |
+| 3 | 🎯 **Task 2 nº4 — prompt 5, *Opinion*** | **316 palabras** en 40:00 · **~5.5 en frío** |
+
+### ✅ Dos cierres importantes
+
+**Los cuatro tipos de Task 2 están escritos bajo cronómetro.** Discussion, Problem–Solution, Advantages–Disadvantages y ahora Opinion. Con los cinco formatos de Task 1 ya cubiertos, **el mapa completo del módulo de Writing está recorrido**.
+
+**La longitud dejó de ser un tema.** 182 → 252 → 285 → 356 → 316, y esta vez además **equilibrada**: 113 y 105 palabras por body. El desbalance de 187/69 del 6 de septiembre no volvió.
+
+### 🔴 El hallazgo del día — el mismo error en los dos módulos
+
+En Reading, la #7 preguntaba si las emisiones se rastrearon hasta **una sola** fábrica. El texto decía *"unreported production in eastern China"* — habla del tema pero **nunca dice cuántas instalaciones**. El ojo se ancló en *"traced to"*, donde sí había información. **El peso estaba en *single*.**
+
+En Writing, el enunciado decía que la innovación tecnológica es **el factor más importante**. El ensayo defendió que la tecnología **ayuda mucho** — verdadero, bien argumentado, y **otra pregunta**. El ojo se ancló en *"technological innovation… climate change"*. **El peso estaba en *the most important factor*.**
+
+> **Es la misma habilidad, y por eso se entrena una sola vez:**
+> **antes de responder, subrayar la palabra del enunciado que define lo que hay que probar.**
+> En T/F/NG decide entre FALSE y NOT GIVEN. En Task 2 decide qué tesis hay que defender.
+
+### Lo que sostiene la sesión
+
+El léxico llegó a **6.5 en frío**, el más alto registrado sin corregir: `mitigate`, `dispose of`, `sophisticated techniques`, `accelerate`, y una construcción participial de banda 7 (*"leaving fossil fuels as a … option"*). El ejemplo del Body 2 traía cifra propia. **Lo que falló no fue el inglés: fueron los ocho minutos de plan.**
+
+### ⚠️ Lo que no se pudo hacer
+
+**No sobró tiempo para corregir.** Los cuatro errores más visibles del texto — `society are`, `the need of`, `∅ United States`, `sizes that older models` — **ya estaban en el error log desde agosto**. Se reconocen; no se cazan sin la pasada final.
+
+**Cómo me sentí:** —

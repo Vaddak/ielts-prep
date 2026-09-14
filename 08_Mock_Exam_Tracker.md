@@ -177,6 +177,61 @@ El plan dice explícitamente *"no corrijas mientras escribes; si dudas de una pa
 
 ---
 
+## 🎯 MANTENIMIENTO DE WRITING — semana 8 · 12 de septiembre de 2026
+
+**Task 2 nº4, prompt 5, *Opinion*.** El **cuarto y último tipo de pregunta** escrito bajo cronómetro. Jornada triple: recuperación del viernes + pasaje integrado de Reading + esta tarea.
+
+| | Tipo | Palabras | Tiempo | En frío |
+|---|---|---|---|---|
+| **Task 2 nº4** | **Opinion** *(tipo nuevo)* | **316** *(55 / 113 / 105 / 43)* | 40:00 exactos | **~5.5** |
+
+### Progresión de Writing Task 2 — actualizada
+
+| Fecha | Prompt | Tipo | Palabras | En frío | Final |
+|---|---|---|---|---|---|
+| 15-ago | 1 — salud pública | Discussion | 182 ❌ | 5.5 | 6 |
+| 18-ago | 1 *(reparación)* | Discussion | 275 | — | **7** |
+| 22-ago | 4 — brecha ricos/pobres | Problem–Solution | 252 | **5.5–6** | 7 |
+| 6-sep | 3 — tecnología y trato | Adv–Disadv | 356 | 5.5 | 6.5 |
+| **12-sep** | **5 — innovación y clima** | **Opinion** | **316** | **5.5** | ___ |
+
+> **✅ LOS CUATRO TIPOS DE TASK 2, ESCRITOS BAJO CRONÓMETRO.** Y los cinco formatos de Task 1. **El mapa de tipos está completo.**
+
+### Lo que se consolidó
+
+- ✅ **Longitud** — cuatro tareas seguidas holgadas sobre el mínimo. **Deja de ser un tema de seguimiento**
+- ✅ **Bodies equilibrados** — 113/105. Primera vez. El desbalance de 187/69 del 6-sep no reapareció
+- ✅ **Los 40 minutos completos**, sin entregar antes
+- ✅ **Lexical Resource 6.5 en frío** — el criterio más alto registrado sin corregir
+
+### 🔴 El techo se movió — ya no es la escritura, es la lectura del enunciado
+
+Las tres pérdidas de banda del día **nacen todas antes de escribir la primera palabra**:
+
+1. **Se respondió una pregunta más débil.** El enunciado pedía si la tecnología es *el factor **más importante***; el ensayo defendió que *ayuda mucho*. Nunca se comparó con otro factor
+2. **Plantilla equivocada** — *"While some argue…"* es de *Discussion*, no de *Opinion*. Y faltó el **grado** que pide *"to what extent"*
+3. **Los dos bodies argumentan lo mismo**, con el mismo ejemplo, porque sin la pregunta correcta no había eje para separarlos
+
+**Ninguno de los tres es un problema de inglés.** Son ocho minutos de planificación mal invertidos.
+
+### 🎯 La conexión del día — Writing y Reading fallaron por lo mismo
+
+| | Dónde miró el ojo | Dónde estaba el peso |
+|---|---|---|
+| **Reading #7** | *traced to* | ***single*** factory |
+| **Writing prompt 5** | *technological innovation… climate change* | ***the most important factor*** |
+
+> **Objetivo de la semana 9: subrayar la palabra que carga el peso — en las afirmaciones de T/F/NG y en el enunciado de Task 2.** Es la misma habilidad y se entrena en los dos sitios a la vez.
+
+### Lo que sigue abierto
+
+1. **La primera escritura** — sigue siendo la métrica. En frío ~5.5 por tercera vez consecutiva
+2. **No queda tiempo para corregir.** Los cuatro errores más visibles (`society are`, `need of`, `the United States`, `that/than`) **ya estaban en el error log**: se reconocen, no se cazan
+3. **Topic sentences** — 🆕 ningún body las tiene
+4. **Pregunta indirecta** — 🆕 §4.11
+
+---
+
 ## Band Score Reference
 
 | Raw Score (Listening/Reading out of 40) | Band |

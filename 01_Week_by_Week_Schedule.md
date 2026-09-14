@@ -6,72 +6,66 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — sábado 12 de septiembre · recuperar viernes + hacer sábado
+## 👉 RETOMAR AQUÍ — domingo 13 de septiembre · corregir el Task 2 nº4
 
-**Jue 10 ✅** Matching Headings **4/5 en 5:06** · las 9 palabras `[~]` reactivadas → **200/200 producidas**.
-**Vie 11** montado y pendiente.
+**Sábado 12 ✅ jornada triple, todo registrado.**
+Sentence Completion **7/7** · Pasaje integrado **8/10 (80%)** · **Task 2 nº4, prompt 5, *Opinion* — 316 palabras, ~5.5 en frío.**
 
-### El plan de hoy (~85 min)
+> 🏁 **Los CUATRO tipos de Task 2 están escritos bajo cronómetro.** Y los cinco formatos de Task 1. **El mapa de Writing está completo.**
+
+---
+
+### El plan de hoy (~50 min)
 
 | | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 22 | 🔍 **VIERNES:** skimming/scanning (10) + **Sentence Completion nº1** (12, 7 huecos) — `13_Reading_Archive.md` |
-| | | ☕ pausa corta |
-| [ ] 2 | 20 | 🧩 **PASAJE INTEGRADO nº1** — los **tres tipos** juntos, 11 preguntas — `13_Reading_Archive.md` |
-| [ ] 3 | 40 | ✍️ **TASK 2 nº4 — mantenimiento.** Prompt 5, *Opinion* (abajo) |
-| [ ] 4 | — | Registrar puntajes y patrones |
+| [ ] 1 | 10 | 📖 Leer el análisis completo en `11_Writing_Baseline_Essays.md`, sección **TASK 2 Nº 4 — PROMPT 5** |
+| [ ] 2 | 5 | 📐 Leer **§4.11 — la pregunta indirecta** en `10_Grammar_Quick_Reference.md` (nueva) |
+| [ ] 3 | 30 | ✍️ **CORREGIR EL ENSAYO** siguiendo el checklist de abajo |
+| [ ] 4 | 5 | Registrar la versión final |
 
-**El viernes va primero por necesidad:** Sentence Completion es uno de los tres tipos del pasaje integrado.
-
----
-
-## 🧩 El pasaje integrado — lo que se pone a prueba
-
-Primera vez con los tres tipos en un solo pasaje, **20 minutos, 11 preguntas** — el ritmo real del examen.
-
-> ### ⚠️ Tu patrón nº2 está sembrado a propósito
-> **Dos de las cuatro afirmaciones T/F/NG son `False`, y las dos tientan a poner `Not Given`.**
->
-> **Si encontraste la frase que habla del tema, es T o F.** *NG* es solo cuando buscas y **no hay nada**.
-> Y contradecir **no exige usar las mismas palabras**: el texto puede negar una afirmación sin repetir su vocabulario.
-
-**Reparto:** 2 min de skimming · 5 Matching Headings · 6 T/F/NG · 5 Sentence Completion · **2 de segunda pasada**.
+🔴 **Sin cronómetro.** Esto no mide velocidad: mide si la reescritura responde **la pregunta correcta**.
 
 ---
 
-## ✍️ TASK 2 nº4 — mantenimiento · prompt 5
+## ✍️ EL CHECKLIST DE CORRECCIÓN
 
-> *Some people argue that technological innovation is the most important factor in addressing climate change.*
->
-> ***To what extent do you agree or disagree?***
+### 🔴 Primero lo estructural — es lo que vale la banda
 
-**🆕 Tipo: Opinion.** Es **el cuarto y último tipo** de Task 2 — el único que falta por escribir cronometrado.
+- [ ] **Intro nueva.** Postura **con grado**, sin *"while some argue"*:
+  > *…**This essay largely agrees that it is the decisive factor**, since engineering solutions address the physical causes of emissions directly, **although political regulation remains necessary to deploy them at scale**.*
+- [ ] **Topic sentence en el Body 1**, con la palabra del enunciado:
+  > *Technological innovation is decisive **because it attacks the physical source of emissions**, which no amount of regulation can do on its own.*
+- [ ] **Topic sentence en el Body 2 que COMPARE con otro factor** — ahí es donde se responde *"most important"*:
+  > *It is also **the factor that scales fastest**, since each improvement in efficiency spreads globally without requiring political consensus.*
+- [ ] **Cambiar el ejemplo del Body 2** para que no repita el de energía del Body 1
 
-**Qué lo distingue:**
+### Después lo gramatical
 
-| | |
-|---|---|
-| **La postura va en la intro** y no se mueve | *This essay largely agrees that…* · *…agrees only in part* |
-| **Los dos bodies defienden TU posición** | No es un body a favor y otro en contra |
-| ***To what extent*** **permite matizar** | *largely · to a significant extent · only in part*. Una postura matizada bien defendida vale más que un absoluto |
-| **La conclusión reafirma**, no descubre | |
+- [ ] Los **dos empalmes de comas** → punto y seguido: *…quality of life**.** Every process…* · *…thirty years**.** Data shows…*
+- [ ] `society **is**` · `**need** natural resources` (no *the need of*) · `in **the** United States` · `smaller sizes **than** older models`
+- [ ] `processes` ×2 · `**temporary** option` · `the **search for**` · `humans **access** them` · `impact **on**` · `an increase **of** around 20%`
+- [ ] `research **into** how humankind **can address**` *(§4.11)*
+- [ ] Ortografía: `mitigate the` · `humankind` · `significant` · `fossil`
 
-> ⚠️ **La trampa:** *"To what extent"* invita a decir *"depende"*. **Depende no es una postura.** Si matizas, di **cuánto** y **por qué**.
+### 🔴 Al final
 
-**Reparto (40 min):** 0–8 planificar · 8–31 escribir sin mirar atrás · 31–40 corregir.
-📏 **250 mínimo · 270–300 objetivo.**
+- [ ] **Tras cada cambio, releer la oración hasta el punto final.** *(Patrón de correcciones que traen errores: 5 ocurrencias.)*
+- [ ] Contar las palabras **sobre el texto**, no a ojo
 
-### 🎯 La métrica del mantenimiento
+---
 
-El 6-sep las dos tareas salieron **~5.5 en frío y ~6.5 corregidas**. **El examen solo ve la primera.** Lo que se mide hoy es si esa brecha se acorta.
+## 🎯 LA LECCIÓN DE LA SEMANA — vale para los dos módulos
 
-**Las cuatro de tu error log que más pesan:**
-1. **Concordancia sujeto–verbo a distancia** — tapar lo que hay entre sujeto y verbo
-2. **Artículos**, dos barridos separados (§4.7)
-3. **Restos de edición** — tras cada cambio, releer la oración **hasta el punto final**
-4. **4 oraciones = 4 movimientos de UN argumento**, no 4 razones
+| | Dónde miró el ojo | Dónde estaba el peso |
+|---|---|---|
+| **Reading #7** | *traced to* | ***single*** factory |
+| **Writing prompt 5** | *technological innovation… climate change* | ***the most important factor*** |
 
-🔴 **Tecleada, en Bloc de notas, sin corrector.** Pegar en `11_Writing_Baseline_Essays.md`.
+> ## Antes de responder, subraya la palabra del enunciado que define lo que hay que probar.
+> En **T/F/NG** decide entre `FALSE` y `NOT GIVEN`.
+> En **Task 2** decide qué tesis hay que defender.
+> **Y esa palabra debe aparecer en la primera oración de cada body.**
 
 ---
 

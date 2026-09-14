@@ -344,3 +344,142 @@ Al arreglar *still being* → *remains*, entró un **error de concordancia**. Al
 > **La corrección también pasa por el checklist.**
 
 ✅ **La última ronda no introdujo ninguno.** Primera vez desde el 17 de agosto.
+
+
+---
+
+# 🎯 TASK 2 Nº 4 — PROMPT 5 · 12 de septiembre
+## *Opinion* — el cuarto y último tipo de pregunta
+
+> *Some people argue that technological innovation is the most important factor in addressing climate change.*
+>
+> ***To what extent do you agree or disagree?***
+
+**40 minutos exactos · 316 palabras** · intro 55 · B1 113 · B2 105 · conclusión 43.
+**En frío: ~5.5.** Sin tiempo de corrección.
+
+## v1 — primera escritura, sin corregir
+
+Some individuals debate about how technological innovation is the most important factor in addressing climate change. While some argue that the environment cannot be improved using technological advances, this essay contends that technological innovation in fields such as applied sciences and engineering can accelerate the development of sophisticated techniques to mitigatethe effects of climate change.
+
+The use humakind gives to natural resources corresponds to search a better quality of life, every process in modern society involves minerals, metals and other natural resources. Over almost all the history of civilization humans used nature as a tool without considering consequences. However, a significan impact in the environment and the acceleration in climate change lead to invest and research about how can humankind address this situation. Over the last decades, technological advances allowed essential process to be more efficient and showed a good performance mitigating these effects of climate change. For example, the way energy is produced changed dramatically with renewable energies, leaving fossiel fuels as a temporal option for now.
+
+It is clear that society are in the need of natural resources to survive and to have a good quality of life. Resources such as water, energy and food are fundamental but the way humans access to them can be changed through new techniques in engineering, physics and other fields involved. Solar panels materials are being studied in United States over the last thirty years, data shows an increase around twenty per cent in the voltage produced for modern panels with even smaller sizes that older models. This leads to avoid using sources of energy with heavy consequences on the environment such as fossil fuels.
+
+In conclusion, while natural resources are essential in process involved in modern civilizations, it is clear that the way we extract, use and dispose of them can be changed and improved through technological innovation in the fields in charge of every process involved.
+
+---
+
+## 🔴 EL HALLAZGO — respondió una pregunta más débil
+
+El enunciado no pregunta *"¿sirve la tecnología?"*. Pregunta si es **EL FACTOR MÁS IMPORTANTE**, y eso obliga a **compararla con los otros**: política, regulación, hábitos, acuerdos internacionales.
+
+**La expresión *most important* no reaparece ni una vez** después de la introducción. El ensayo defiende *"la tecnología ayuda mucho"* — verdadero, bien argumentado, y **otra pregunta**.
+
+> ### Es el gemelo exacto del error de Reading del 12-sep
+> En la #7 del pasaje integrado el ojo se ancló en *"traced to"* y **el peso estaba en *single***.
+> Aquí el ojo se ancló en *"technological innovation… climate change"* y **el peso estaba en *the most important factor***.
+>
+> **La misma técnica sirve en los dos módulos: subrayar la palabra que carga el peso ANTES de empezar.**
+
+## 🔴 La plantilla equivocada
+
+> *"**While some argue that** the environment cannot be improved…, **this essay contends that**…"*
+
+Esa es la plantilla de **Discussion**. En *Opinion* no hay una posición ajena a la que contestar: **la postura ocupa la intro entera**. Además la contraparte que introduce (*"el medio ambiente no puede mejorarse con tecnología"*) **no la sostiene nadie y no vuelve a aparecer** — 15 palabras de hombre de paja.
+
+**Y falta el grado.** *"To what extent"* pide una dosis y no se da ninguna.
+
+### Intro reescrita — misma idea, pregunta correcta
+
+> *Technological innovation has transformed the way societies produce energy and manage resources. **This essay largely agrees that it is the decisive factor**, since engineering solutions address the physical causes of emissions directly, **although political regulation remains necessary to deploy them at scale**.*
+
+`largely agrees` = el grado. `although…` = el matiz — que **no es "depende"**: dice cuánto y por qué.
+
+## 🔴 Los dos bodies argumentan lo mismo
+
+| | Tesis real | Ejemplo |
+|---|---|---|
+| **Body 1** | La tecnología hace los procesos más eficientes | renovables vs. fósiles |
+| **Body 2** | La tecnología cambia cómo accedemos a los recursos | paneles solares vs. fósiles |
+
+Mismo argumento, casi el mismo ejemplo → el examinador lee **un solo punto desarrollado dos veces**.
+
+**Y ninguno tiene topic sentence.** El Body 1 abre con contexto histórico; el argumento no arranca hasta *"Over the last decades…"*, la **cuarta** oración.
+
+> **REGLA NUEVA:** la **primera oración de cada body es la tesis del párrafo**, y **debe contener la palabra clave del enunciado**.
+> **Test:** si tu primera oración podría abrir un ensayo sobre cualquier otro tema, no es topic sentence.
+
+**Las dos que hacían falta:**
+- **B1:** *Technological innovation is decisive **because it attacks the physical source of emissions**, which no amount of regulation can do on its own.*
+- **B2:** *It is also **the factor that scales fastest**, since each improvement in efficiency spreads globally without requiring political consensus.*
+
+La segunda **compara con el otro factor**. Ahí es donde se responde *"most important"*.
+
+## ⚠️ El error gramatical más caro — pregunta indirecta
+
+> ❌ *research about **how can humankind address** this situation*
+> ✅ *research into **how humankind can address** this situation*
+
+Detalle completo y 8 ejemplos en `10_Grammar_Quick_Reference.md` **§4.11**.
+
+## Los cinco patrones reincidentes — aparecieron los cinco
+
+| | Patrón | En el texto | Correcto |
+|---|---|---|---|
+| 1 | **Empalme de comas** (§4.10) | *quality of life**,** every process…* | `life. Every` |
+| | | *thirty years**,** data shows…* | `years. Data shows` |
+| 2 | **Sujeto–verbo** | *society **are*** | `society **is**` |
+| 3 | ***need of*** | *are in **the need of** natural resources* | `**need** natural resources` |
+| 4 | **Artículo** | *studied in ∅ United States* | `in **the** United States` |
+| 5 | ***that / than*** (§4.9) | *smaller sizes **that** older models* | `**than** older models` |
+
+**Los dos empalmes son la misma coma.** `need of` y `than` **ya estaban en el error log** — no es desconocimiento, es **falta de barrido final**.
+
+## Incontables y plurales
+
+***process* es CONTABLE.** Varios = **`processes`** */ˈprəʊsesɪz/*. Aparece **dos veces** en singular: *"essential process to be more efficient"* · *"essential in process involved"*.
+
+## Falsos amigos y forma
+
+| ❌ | ✅ | Por qué |
+|---|---|---|
+| *a **temporal** option* | **temporary** | `temporal` en inglés = *relativo al tiempo* (filosofía) |
+| *corresponds to **search** a better…* | *reflects **the search for**…* | tras preposición: gerundio o sustantivo, **nunca infinitivo** |
+| *leads to **avoid** using* | *makes it possible **to avoid**…* | `lead to` + **-ing** |
+| *an increase **around** 20%* | *an increase **of** around 20%* | |
+| *humans **access to** them* | *humans **access** them* | verbo transitivo, sin `to` |
+| *impact **in** the environment* | *impact **on*** | |
+
+**Ortografía (sin corrector en el examen):** `mitigatethe` · `humakind` · `significan` · `fossiel`.
+
+## Lo que salió bien
+
+- ✅ **316 palabras en 40 minutos**, y **bodies equilibrados** (113/105) — primera vez
+- ✅ **Los 40 minutos completos**, sin entregar antes
+- ✅ **Léxico: 6.5, el criterio más alto del día** — `mitigate`, `dispose of`, `sophisticated`, `dramatically`, `accelerate`
+- ✅ ***"leaving fossil fuels as a … option"*** — construcción participial elegante, de banda 7
+- ✅ **Ejemplo con cifra** en el Body 2 (paneles, 20% de voltaje) — el hábito ya está
+
+## 📊 Bandas en frío
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 5.5 | 5.5 | **6.5** | 5.0 | **~5.5** |
+
+Misma cifra que el 6-sep, **pero no el mismo ensayo**: longitud, equilibrio y léxico subieron. Lo que ahora tapa la nota es **una decisión de los primeros 8 minutos**, no la escritura.
+
+---
+
+## 📝 PARA CORREGIR — checklist del domingo 13
+
+- [ ] **Intro nueva**: postura + grado (*largely agrees*), **sin** *"while some argue"*
+- [ ] **Topic sentence en B1** con la palabra del enunciado
+- [ ] **Topic sentence en B2 que COMPARE** la tecnología con otro factor (política/regulación/hábitos) — ahí vive el *most important*
+- [ ] **Cambiar el ejemplo del B2** para que no repita el de energía
+- [ ] Los **2 empalmes de comas** → punto y seguido
+- [ ] `society is` · `need natural resources` · `the United States` · `than older models`
+- [ ] `processes` ×2 · `temporary` · `the search for` · `access them` · `impact on` · `an increase of around`
+- [ ] `how humankind can address` (§4.11)
+- [ ] Las 4 tipografías
+- [ ] 🔴 **Tras cada cambio, releer la oración hasta el punto final** (patrón de correcciones que traen errores)

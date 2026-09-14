@@ -1061,6 +1061,48 @@ Las ⭐ usan la **Regla 2** — *however* en el medio, entre dos comas. Son las 
 
 ---
 
+## 4.11 La pregunta indirecta — no inviertas dos veces
+
+*Creado el 12-sep. Error del Task 2 nº4: **"research about how can humankind address this situation"**.*
+
+### La regla, en una línea
+
+> **Cuando la pregunta va DENTRO de otra frase, el orden vuelve a ser normal: sujeto → verbo.**
+> La inversión (`can humankind`) es solo para preguntas **directas**, las que terminan en `?`.
+
+### El disparador que puedes ver
+
+Si antes del `how / why / what / where / when / whether` hay **un verbo o una preposición** — es decir, **no es el comienzo de la frase** — **no inviertas**.
+
+| ❌ Invertido (mal) | ✅ Orden normal |
+|---|---|
+| research about ~~how can humankind address~~ it | research into **how humankind can address** it |
+| I don't know ~~where is the station~~ | I don't know **where the station is** |
+| studies on ~~why do emissions rise~~ | studies on **why emissions rise** |
+| the report explains ~~how did the process change~~ | the report explains **how the process changed** |
+| nobody knows ~~what will they decide~~ | nobody knows **what they will decide** |
+| it depends on ~~how much does it cost~~ | it depends on **how much it costs** |
+| the question is ~~whether can governments act~~ | the question is **whether governments can act** |
+| she wondered ~~when would the policy start~~ | she wondered **when the policy would start** |
+
+### Y desaparece el `do / does / did`
+
+| Directa | Indirecta |
+|---|---|
+| *Why **do** emissions rise?* | *…explains why emissions **rise***. |
+| *How **did** the process change?* | *…shows how the process **changed***. |
+| *What **does** it mean?* | *…asks what it **means***. |
+
+> **El auxiliar `do` solo existe para formar la pregunta directa.** Dentro de otra frase, el verbo principal se lleva la marca de tiempo y persona, y el `do` se va.
+
+### ⚠️ El error de forma que lo acompañaba
+
+> ❌ *research **about*** · ✅ *research **into** / research **on***
+
+`research` + `into` (o `on`), nunca `about`.
+
+---
+
 ## ✅ CHECKLIST DE REVISIÓN — antes de entregar cualquier tarea escrita
 
 *Esta es la lista completa. Cubre las seis subsecciones de arriba, en el orden en que conviene revisarlas.*
