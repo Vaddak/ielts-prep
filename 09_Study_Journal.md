@@ -1069,3 +1069,42 @@ Contraste explícito + dos velocidades + hedging natural + timeframe concreto. E
 
 Y v2 introdujo 4 errores nuevos de ortografía al editar (*secundary · requering · reamin · fourty*), cerrados en v3. Confirma otra vez que **editar sin corrector introduce errores propios**.
 
+---
+
+### 2026-09-14 (bis) — Adelanto del martes: Multiple Choice nº 1
+
+**5/6 = 83%** en 7:00 de 15 min, tipo nuevo, primera vez.
+
+### 🎯 EL HALLAZGO DEL DÍA — la trampa META (Reading + Writing)
+
+El único fallo (preg 6) es **el mismo movimiento mental** del error estructural del Task 2 nº 4 v1 (12-sep):
+
+| | Palabra visible | Relación perdida |
+|---|---|---|
+| **MC preg 6** | *energy cost* | *offset* (compensar) confundido con *reduce* (bajar) |
+| **Task 2 v1** | *innovation* | *most important* (comparativo) confundido con *works* (existencial) |
+
+> ## **Ve las palabras del contenido. Pierde la relación entre ellas.**
+
+Los sustantivos son grandes y visibles — el ojo los caza. Los verbos y preposiciones que expresan la relación lógica son pequeños y pasan por debajo del radar. **Es el patrón cruzado más importante identificado en dos semanas**, porque vive en Reading y en Writing a la vez y explica un tipo de error en cada uno.
+
+**Técnica — en las dos direcciones:** subrayar **primero** el verbo/preposición de relación antes de decidir. En Reading: *¿la opción conserva esta relación o solo repite el sustantivo?* En Writing: *¿mi tesis responde a esta relación o solo trata del tema?*
+
+**Mismo músculo, dos módulos.** Complementa la pasada de cuantificadores (8-sep) y el árbol T/F/NG (8-sep) — las tres son variantes de una sola cosa: **cuando hay que decidir, decidir por la palabra pequeña, no por la grande.**
+
+### 3ª confirmación del patrón de tiempo
+
+Los tres tipos de Reading practicados hasta la fecha muestran el mismo perfil:
+
+| Tipo | Tiempo usado | Error que sobrevivió |
+|---|---|---|
+| T/F/NG | 60% | Cuantificadores |
+| Matching Headings | 25% | Heading que cubría solo 1 oración |
+| Multiple Choice | 47% | *offset* vs *reduce* |
+
+En los tres, el error era cazable en una segunda pasada. **El tiempo que sobra no es margen: es la segunda pasada**, y ahora esa pasada tiene **dos capas** — cuantificadores y verbos de relación.
+
+### Estado del día
+
+Lunes 14 = doble: corrección Task 2 nº 4 a v4 (6.5 sólido) + Multiple Choice nº 1 (5/6). Martes 15 queda con solo Multiple Choice nº 2 o directamente el siguiente tipo, dependiendo de energía.
+

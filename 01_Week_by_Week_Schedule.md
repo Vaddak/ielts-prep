@@ -6,43 +6,52 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — lunes 14 de septiembre · SEMANA 9 (Reading avanzado)
+## 👉 RETOMAR AQUÍ — martes 15 de septiembre
 
-**Sáb 12 ✅** Reading integrado 8/10 · Task 2 nº4 en frío 5.5. **Lun 14 ✅** Corrección del Task 2 hasta cierre en 4 versiones.
+**Lunes 14 ✅✅** — doble sesión: corrección Task 2 nº 4 a v4 (**6.5 sólido**) + adelanto del martes: **MC nº 1 = 5/6 (83%)** al primer intento en 7:00 de 15 min.
 
-### 🏁 Task 2 nº4 — **Band 6.5 sólido**
+---
 
-| | v1 frío | v4 |
-|---|---|---|
-| Global | ~5.5 | **6.5 sólido** |
+### 🎯 EL HALLAZGO GRANDE DEL DÍA — patrón META
 
-**Métrica de mantenimiento cumplida.** Brecha a la mitad vs el 6-sep, sin desviación estructural.
+> ## **Ve las palabras del contenido. Pierde la relación entre ellas.**
 
-### 🎯 Dos patrones cerrados en la misma revisión
+Confirmado en dos módulos:
+- **Reading MC preg 6:** *energy cost* copiado, *offset* (compensar) confundido con *reduce* (bajar)
+- **Writing Task 2 v1:** *innovation* copiado, *most important* (comparativo) confundido con *works* (existencial)
 
-- **Pregunta indirecta** (§4.11) — sobrevivió 4 ocurrencias, hoy la vio
-- **Empalme con *therefore*** (§4.10) — 8ª ocurrencia total del empalme, cerrada con `; therefore,`
+Los sustantivos son grandes y visibles; **los verbos y preposiciones de relación son pequeños y pasan por el radar**.
 
-### Semana 9 — Reading: paráfrasis, trampas y test completo
+**Técnica:** subrayar **primero** el verbo/preposición de relación antes de decidir.
+Detalle completo en `04_Reading_Module.md` → **LA TRAMPA DE LA RELACIÓN LÓGICA**.
 
-**Writing en mantenimiento (1 tarea el sábado).** El resto es Reading.
+### ⚠️ Patrón de tiempo — 3ª confirmación
 
-| Día | |
-|---|---|
-| **Lun 14** ✅ | Corrección Task 2 nº4 hasta cierre |
-| Mar 15 | **Multiple Choice** — la trampa de la palabra clave repetida |
-| Mié 16 | **Summary/Note Completion** — paráfrasis a escala |
-| Jue 17 | **Yes/No/Not Given** (opinión del autor) — la variante de T/F/NG con voz |
-| Vie 18 | **Pasaje completo cronometrado** (40 preg · 60 min) — primer intento a escala real |
-| **Sáb 19** | Task 2 mantenimiento (40 min) + revisar el pasaje del viernes |
-| Dom 20 | Revisar por tipo de pregunta · registrar patrones |
+T/F/NG 60% · Matching Headings 25% · MC 47% — **tres tipos, tres pasadas de revisión no hechas**. Los errores que sobrevivieron eran los cazables al releer.
+
+> **El tiempo que sobra NO es margen. Es la segunda pasada.**
+> Ahora con **dos capas**: cuantificadores + verbos de relación.
+
+---
 
 ### Martes 15 (~30 min)
 
-| # | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 10 | **Multiple Choice** teoría en `04_Reading_Module.md` — por qué la opción que **copia** una palabra del texto suele ser la trampa |
-| [ ] 2 | 20 | **Multiple Choice nº 1 cronometrado** (autocontenido en el archivo cuando arranques) |
+Alivió la carga porque el MC ya arrancó anoche. Opciones según energía:
+
+**A) Ligero (~20 min):** MC nº 2 cronometrado — aplicar las 4 familias + subrayar el verbo de relación antes de decidir
+**B) Adelantar miércoles (~30 min):** **Summary/Note Completion** teoría + 1 corto
+
+### Semana 9 — estado
+
+| Día | |
+|---|---|
+| Lun 14 ✅✅ | Corrección T2 nº 4 + MC nº 1 |
+| Mar 15 | MC nº 2 ó adelantar Summary Completion |
+| Mié 16 | Summary/Note Completion (si no se adelantó) |
+| Jue 17 | Yes/No/Not Given — la variante T/F/NG para opinión del autor |
+| Vie 18 | 🔴 Pasaje completo cronometrado (40 preg · 60 min) |
+| **Sáb 19** | Task 2 mantenimiento (40 min) + revisar pasaje del viernes |
+| Dom 20 | Revisión por tipo · registrar patrones |
 
 ---
 

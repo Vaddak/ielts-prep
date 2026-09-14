@@ -443,3 +443,67 @@ El texto puede darte mucha información sobre el tema y aun así **no pronunciar
 - **No** → NOT GIVEN
 
 ⚠️ **Ojo con el paso intermedio.** Un razonamiento de un paso (*"si los satélites no detectaron nada, no lo identificaron primero"*) **sigue siendo FALSE**, no NG. Lo que no vale es inventar lo que el texto no dice — no es lo mismo deducir una consecuencia directa que suponer un dato ausente.
+
+---
+
+## 🎯 LA TRAMPA DE LA RELACIÓN LÓGICA — su patrón META (Reading + Writing)
+
+*Añadido el 14 de septiembre, tras la 1ª práctica de Multiple Choice.*
+
+### Los dos casos que lo revelaron
+
+**Multiple Choice nº 1 — pregunta 6** *(14-sep)*
+El texto decía: *"the initial energy cost can be **offset** by durability at scale"*.
+Marcó A: *reducing the energy cost of mixing the ingredients*.
+La palabra *energy cost* estaba en las dos, pero *offset* (compensar) ≠ *reduce* (bajar).
+
+**Task 2 nº 4 — v1** *(12-sep)*
+El enunciado decía: *"innovation is the **most important factor**"*.
+Ella escribió sobre *"innovation works"*.
+La palabra *innovation* estaba en los dos, pero *most important* (comparativo) ≠ *works* (existencial).
+
+### El diagnóstico
+
+> ## **Ve las palabras del contenido. Pierde la relación entre ellas.**
+
+Los sustantivos son grandes y visibles — el ojo los caza. **Los verbos y las preposiciones que expresan la relación lógica son más pequeños**, y por eso pasan por debajo del radar.
+
+### Las palabras que hay que señalar antes de decidir
+
+| Familia | Palabras |
+|---|---|
+| **Compensar vs modificar** | *offset · balance · counteract* frente a *reduce · increase · eliminate* |
+| **Comparativo vs positivo** | *most · more than · above all* frente a el adjetivo pelado |
+| **Causa vs concesión** | *because · since · due to* frente a *while · although · despite* |
+| **Certeza vs posibilidad** | *is · must · always* frente a *may · can · tend to* |
+| **Cantidad relativa** | *most · many · some · few · no* (esto ya es la pasada de cuantificadores) |
+
+### La técnica — en las dos direcciones
+
+**Reading:** al leer el stem o la opción, subrayar **primero** el verbo/preposición de relación. Preguntar: *¿la opción conserva esta relación o solo repite el sustantivo?*
+
+**Writing:** al leer el enunciado, subrayar **primero** el verbo/preposición de relación. Preguntar: *¿mi tesis responde a esta relación o solo trata del tema?*
+
+> **Es el mismo músculo entrenable desde los dos lados.**
+> Complementa la pasada de cuantificadores (8-sep) y el árbol T/F/NG (8-sep). Las tres son variantes de lo mismo: **cuando hay que decidir, decidir por la palabra pequeña, no por la grande.**
+
+---
+
+## ⚠️ EL PATRÓN DE TIEMPO — 3ª confirmación
+
+| Tipo | Fecha | Tiempo usado | Error que sobrevivió |
+|---|---|---|---|
+| T/F/NG | 8-sep | 11:58 / 20 (60%) | Cuantificadores no pesados |
+| Matching Headings | 10-sep | 5:06 / 20 (25%) | Heading que cubría solo 1 oración |
+| Multiple Choice | 14-sep | 7:00 / 15 (47%) | *offset* vs *reduce* |
+
+**Tres tipos, tres pasadas de revisión no hechas.** En los tres, el error que sobrevivió era exactamente el tipo cazable en una segunda pasada.
+
+> ## **El tiempo que sobra NO es margen. Es la segunda pasada.**
+
+Ahora, con el patrón de la relación lógica identificado, la segunda pasada tiene **dos capas**:
+1. **Cuantificadores** (T/F/NG y todo Reading): *largely · most · all · no · consistently…*
+2. **Verbos de relación** (MC y Matching): *offset vs reduce · because vs while · most vs many…*
+
+---
+
