@@ -484,3 +484,145 @@ En la #7 el ojo se ancló en *"traced to"*, donde sí había información. **El 
 - [ ] **Para cada error: volver al párrafo y encontrar la frase exacta** que lo decide. No basta con ver cuál era
 - [ ] ¿Los fallos se concentran en **un tipo**? Ese es el siguiente objetivo
 - [ ] Registrar en `07_Error_Log.md`, sección *Reading Errors*
+
+---
+
+# 🎯 LUNES 14 SEP (adelanto del martes) — MULTIPLE CHOICE Nº 1
+
+> **Autocontenido.**
+
+## 📖 Teoría (5 min)
+
+### La regla del tipo entero
+
+> **La opción que copia una palabra del texto suele ser la trampa.**
+> **La correcta parafrasea.**
+
+Es el reflejo natural — encontrar la palabra igual y elegir esa — y por eso las opciones se construyen al revés.
+
+### Las cuatro familias de distractores
+
+| | |
+|---|---|
+| **1. Palabra copiada** | Repite término del texto, cambia la afirmación |
+| **2. Alcance equivocado** | Cierto, pero de otro sujeto/época/lugar |
+| **3. Sentido opuesto** | Mismas palabras al revés (causa/efecto invertidos) |
+| **4. No mencionado** | Plausible, pero no dicho |
+
+### El método
+
+1. **Leer el enunciado (stem).** Cubrir las opciones
+2. **Predecir la respuesta** en una frase corta
+3. **Ahora** mirar cuál opción se parece a la predicción
+4. **Eliminar primero, elegir después** — tachar las 2 obviamente falsas
+
+### Detalles operativos
+- **MC sigue el orden del texto** (≠ Matching Headings)
+- La palabra que carga el peso del stem suele estar **en el medio**. Subrayarla antes de mirar opciones
+
+---
+
+## ⏱️ Ejercicio — 15 min · 6 preguntas
+
+### El pasaje — *The Puzzle of Roman Concrete*
+
+For centuries the durability of Roman concrete has bewildered engineers. The domed roof of the Pantheon, completed in 128 CE, remains the largest unreinforced concrete dome in the world, and Roman piers stand along the Mediterranean coast in seawater that has crumbled modern concrete in decades. Modern Portland cement, by contrast, typically shows measurable degradation within fifty years.
+
+Early explanations focused on the raw materials. Roman builders used a mixture of lime, volcanic ash from the region of Pozzuoli — hence the term "pozzolanic" — and pieces of aggregate, all combined with seawater. Chemists established in the twentieth century that seawater reacting with volcanic ash produces a mineral called tobermorite, which slowly grows into microscopic crystals and binds the material together. This partly explained the strength of marine structures, but not the survival of dry inland works such as the Pantheon.
+
+A team at the Massachusetts Institute of Technology, publishing in 2023, identified a second mechanism. Roman samples contain small white lumps of lime, which nineteenth-century observers dismissed as evidence of careless mixing. The MIT researchers argue that these lumps are deliberate. When the concrete cracks and water enters, the lime dissolves and rapidly recrystallises, sealing the crack before it can propagate. Modern concrete does not do this; once cracked, it stays cracked.
+
+Reproducing the effect proved straightforward. The team mixed lime with the volcanic ash at high temperature — a process they call "hot mixing" — rather than slaking the lime first, and they left visible lumps in the final product. Test blocks cracked in the laboratory sealed themselves within two weeks. The team believes the Romans arrived at hot mixing empirically, without understanding the chemistry, and that later civilisations lost the technique because visible lumps were mistaken for defects.
+
+Commercial interest has followed. Roman-style concrete requires more energy to prepare than the modern equivalent, but its self-healing property could dramatically extend the service life of infrastructure, reducing the total emissions associated with cement — currently around eight per cent of the global figure. Trials are already underway on breakwaters in Massachusetts, though widespread adoption will depend on whether the initial energy cost can be offset by durability at scale.
+
+---
+
+### Las 6 preguntas
+
+*Choose the correct letter, **A**, **B**, **C** or **D**.*
+
+**1. The passage suggests that modern Portland cement typically:**
+A. lasts longer in seawater than in dry environments
+B. shows degradation more quickly than Roman concrete does
+C. can be strengthened by adding volcanic ash
+D. has been in use for around a century
+
+**2. Tobermorite is described as:**
+A. an ingredient the Romans deliberately added to seawater
+B. the primary explanation for the strength of the Pantheon dome
+C. a mineral produced when volcanic ash reacts with seawater
+D. a substance first identified by MIT researchers
+
+**3. The lime lumps in Roman samples were, according to nineteenth-century observers:**
+A. a technique borrowed from earlier Greek builders
+B. evidence that the mixing had been done poorly
+C. useful for repairing cracks after they appeared
+D. the same substance as tobermorite
+
+**4. The self-healing mechanism works by:**
+A. the volcanic ash preventing water from entering cracks
+B. the lime dissolving in water and forming new crystals
+C. seawater triggering the growth of tobermorite in cracks
+D. hot mixing generating heat that seals small gaps
+
+**5. The MIT team demonstrated that:**
+A. Roman samples contain no lime lumps at all
+B. hot-mixed concrete can seal small cracks within a fortnight
+C. Roman concrete can be reproduced only in seawater conditions
+D. modern Portland cement can be improved by adding tobermorite
+
+**6. According to the final paragraph, widespread commercial use of Roman-style concrete depends on:**
+A. reducing the energy cost of mixing the ingredients
+B. finding volcanic ash outside the Pozzuoli region
+C. proving the durability benefit compensates for higher initial energy
+D. official approval by environmental regulators
+
+---
+
+### ✍️ Respuestas
+
+| # | Respuesta | Tiempo total: ___ |
+|---|---|---|
+| 1 | ___ | |
+| 2 | ___ | |
+| 3 | ___ | |
+| 4 | ___ | |
+| 5 | ___ | |
+| 6 | ___ | |
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO después de terminar</b></summary>
+
+| # | Correcta | Por qué |
+|---|---|---|
+| **1** | **B** | *modern shows degradation within 50 years* vs *Roman piers stand* → más rápido |
+| **2** | **C** | *seawater reacting with volcanic ash produces… tobermorite* |
+| **3** | **B** | *dismissed as evidence of careless mixing* |
+| **4** | **B** | *lime dissolves and rapidly recrystallises, sealing the crack* |
+| **5** | **B** | *sealed themselves within two weeks* = *fortnight* (paráfrasis) |
+| **6** | **C** | *initial energy cost can be offset by durability at scale* |
+
+### Las trampas plantadas
+
+**1.** A opuesta/no dicha · C no dicha · D no dicha (“familia 4”)
+
+**2.** A — palabra copiada *seawater* pero afirmación falsa (**familia 1**) · B **opuesta**: el texto dice literalmente *"this partly explained the strength of marine structures, **but not the survival of dry inland works such as the Pantheon**"* (**familia 3**) · D copia *MIT* pero fue XX siécolo (**familia 1**)
+
+**3.** A no dicha, palabra griega no aparece · C ⭐ **alcance temporal equivocado** — esa es la vista **moderna** (MIT), no la del XIX (**familia 2**) · D no dicha
+
+**4.** A opuesta — el agua entra, no se bloquea · C mezcla dos mecanismos — tobermorite es aparte · D confusión con *hot mixing* (la temperatura está en la mezcla, no en el sellado)
+
+**5.** A opuesta · C no dicha · D no dicha — *fortnight* = 2 semanas es paráfrasis pura de *within two weeks*: **el patrón “correcta = paráfrasis” en su forma más clara**
+
+**6.** ⭐ **La más peligrosa.** A copia *energy cost* pero **cambia la lógica**: el texto dice *"offset by durability"* — compensar, no reducir. La opción A suena razonable y usa palabras idénticas (**familia 1 avanzada**) · B palabra copiada *volcanic ash* (**familia 1**) · D no dicha
+
+</details>
+
+### Al terminar
+- [ ] Anotar puntaje y tiempo
+- [ ] Para cada error, identificar la familia de trampa que cayó (1, 2, 3 o 4)
+- [ ] Registrar patrones en `07_Error_Log.md`
+
