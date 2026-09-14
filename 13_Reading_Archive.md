@@ -626,3 +626,106 @@ D. official approval by environmental regulators
 - [ ] Para cada error, identificar la familia de trampa que cayó (1, 2, 3 o 4)
 - [ ] Registrar patrones en `07_Error_Log.md`
 
+---
+
+# 🎯 LUNES 14 SEP (bis) — MULTIPLE CHOICE Nº 2
+
+> **Autocontenido.** Set diseñado para drillear la trampa META identificada en el nº 1: subrayar el **verbo de relación** antes de mirar opciones.
+
+## ⏱️ 6 preguntas · 15 min
+
+### El pasaje — *Rewriting the History of the Horse*
+
+The domestic horse has transformed human history so completely that its origins have long attracted scientific attention. For much of the twentieth century, the standard account held that horses were first domesticated by the Botai people of northern Kazakhstan around 3500 BCE, based on evidence of enclosures, horse-milk residues in pottery and bit-wear on horse teeth from the site. The theory placed the origin of modern horses in Central Asia.
+
+DNA analysis has now overturned much of this picture. A 2021 study published in *Nature* examined ancient genomes from 273 horses spanning the last five thousand years across Europe and Asia. The Botai horses turned out to belong to a lineage that gave rise to the last surviving wild horses, the Przewalski's horses of Mongolia — not to modern domestic horses. The ancestors of every horse now bred worldwide, from thoroughbreds to Shetland ponies, came from a much later origin somewhere between the lower Volga and the Don river in what is now southern Russia.
+
+The genetic evidence dates this second domestication to around 2200 BCE, over a thousand years after the Botai. The population then expanded across Eurasia with striking speed. By 2000 BCE the same lineage was present in Anatolia, by 1800 BCE in central Europe, and by 1500 BCE across the steppe as far as Mongolia. Modelling this spread requires an average movement of hundreds of kilometres per generation, faster than any equine population is known to have expanded before or since.
+
+The reason for the rapid takeover has itself become contested. The 2021 team argued that the new horses carried mutations affecting the back and temperament, making them more suitable for riding and for pulling chariots than earlier populations. Rival researchers point out that the spread also coincides with the collapse of several late Bronze Age societies, and that political disruption may have opened corridors that no other lineage happened to be positioned to exploit. The two explanations are not mutually exclusive, but they distribute credit differently between biology and circumstance.
+
+The findings have implications beyond archaeology. Linguists have long debated whether the Indo-European language family, which includes English, Spanish, Russian and Hindi, spread with the same population movements as the horse. The genetic data now suggest that horses did not accompany the earliest Indo-European migrations, which reached Anatolia several centuries before the modern horse lineage did. Language and horse-riding, once assumed to have travelled together, appear to have arrived on separate journeys.
+
+---
+
+### Las 6 preguntas
+
+*Choose the correct letter, **A**, **B**, **C** or **D**.*
+
+**1. According to the traditional twentieth-century account, the Botai horses were:**
+A. the ancestors of all modern domestic horses
+B. the earliest known population of horses to be domesticated
+C. domesticated later than the horses of southern Russia
+D. found in southern Russia rather than in Kazakhstan
+
+**2. The 2021 *Nature* study established that Botai horses:**
+A. were closely related to Przewalski's horses
+B. shared no genetic material with any surviving horse population
+C. were the direct ancestors of thoroughbreds and Shetland ponies
+D. originated in the lower Volga region
+
+**3. The spread of the modern horse lineage across Eurasia:**
+A. proceeded at a rate never matched by any other equine expansion
+B. reached Mongolia before it reached central Europe
+C. took approximately a thousand years to reach Anatolia
+D. required separate domestication events in multiple locations
+
+**4. Rival researchers suggest that the rapid spread of the new horse lineage:**
+A. was primarily caused by physical traits favouring riding
+B. depended on the collapse of certain societies at the time
+C. proves that the 2021 team's genetic argument was mistaken
+D. may have been assisted by unrelated historical circumstances
+
+**5. The 2021 team and their critics differ mainly on:**
+A. whether horse mutations affected riding suitability
+B. the exact timing of the second domestication
+C. how much weight to give to biological factors
+D. the geographic origin of the modern horse lineage
+
+**6. The passage suggests that the traditional link between horses and the spread of Indo-European languages:**
+A. is fully confirmed by the new genetic evidence
+B. is called into question by the timing of the horse migrations
+C. depended on Botai horses reaching Anatolia
+D. has been shown to be entirely mistaken
+
+---
+
+### ✍️ Respuestas
+
+| # | Respuesta | Tiempo total: ___ |
+|---|---|---|
+| 1 | ___ | |
+| 2 | ___ | |
+| 3 | ___ | |
+| 4 | ___ | |
+| 5 | ___ | |
+| 6 | ___ | |
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO después de terminar</b></summary>
+
+| # | Correcta | Verbo de relación que decidía |
+|---|---|---|
+| **1** | **B** | *first* (el más temprano) — A opuesta al hallazgo de 2021, C invierte el orden temporal, D lugar equivocado |
+| **2** | **A** | *gave rise to* = *closely related to*. B es opuesta (**sí** comparten con Przewalski), C es la afirmación opuesta (**no** son ancestros de los modernos), D confunde entidades |
+| **3** | **A** | *faster than any equine population… before or since* = *never matched*. B invierte el orden (Mongolia 1500 vs Europa 1800), C invierte la cronología (Anatolia en 200 años, no mil), D no dicho |
+| **4** | **D** | ⭐ **La crítica.** *may have opened corridors* + *not mutually exclusive* = *may have been assisted by unrelated circumstances*. **A es la posición del equipo 2021, no de los críticos** (familia 2: alcance equivocado — correcto para otra entidad). **B usa *depended* pero el texto usa *may have opened*** — cambio de fuerza modal. **C dice *proves* pero el texto dice *not mutually exclusive*** — fuerza demasiado |
+| **5** | **C** | *distribute credit differently between biology and circumstance* = *how much weight to give to biological factors*. Las otras tres están en familia 4 (no mencionado): el texto **no** dice que difieran en mutaciones, timing o lugar |
+| **6** | **B** | ⭐ **La final.** *appear to have arrived on separate journeys* = *called into question*. **A opuesta.** **C introduce Botai que no viene al caso.** **D fuerza demasiado**: *entirely mistaken* vs *appear to have arrived on separate journeys* — el texto sugiere, no proclama |
+
+### Las 3 diseñadas para la trampa META (verbo de relación)
+
+- **Preg 4** — B (*depended on* ≠ *may have opened*) y C (*proves* ≠ *not mutually exclusive*)
+- **Preg 6** — D (*entirely mistaken* ≠ *appear to have arrived*)
+
+En las tres, las opciones repiten el contenido del párrafo pero **cambian la fuerza del verbo**. Es la misma clase de trampa que la preg 6 del MC nº 1 (*offset* vs *reduce*).
+
+</details>
+
+### Al terminar
+- [ ] Anotar puntaje y tiempo
+- [ ] Para cada error, identificar si fue **familia 1** (palabra copiada), **2** (alcance equivocado), **3** (sentido opuesto) o **4** (no dicho)
+- [ ] Anotar si fue de la variante META — verbo de relación cambiado
+
