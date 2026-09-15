@@ -1130,3 +1130,19 @@ Cuatro ejercicios grandes: T2 nº 4 v1→v4 (~6.5 sólido) · MC nº 1 (5/6) · 
 
 Mañana martes: **liviano por diseño**. La META ya no es descubrimiento sino aplicación en tipos nuevos.
 
+### 2026-09-15 — Summary Completion nº 1: 8/8, trampa del límite esquivada
+
+**8/8 = 100%** en 6:00 de 20 min. Estreno del tipo en cronómetro. Sin errores.
+
+**La víctima principal fue la trampa del límite.** Preg 3: texto dice *lactic acid bacteria* (3 palabras), límite 2. En vez de copiar literal → recortó a *acid bacteria* conservando el diferenciador. Es la primera vez que se ve el reflejo de contar-antes-de-anotar en tiempo real.
+
+**Tiempo 30% — pero esta vez no había error que cazar.** La segunda pasada era innecesaria porque las 8 estaban bien. Es el único caso en el que el tiempo sobrante sí era margen real, no complacencia.
+
+### Petición explicita para miércoles
+
+Pidió practicar sus **puntos débiles** en Reading. Miércoles 16 era libre por adelanto — se reasigna a un pasaje mixto diseñado específicamente contra:
+
+1. **Trampa META** (verbo de relación / gravitas a lo absoluto)
+2. **Cuantificadores** en T/F/NG (el que no se pesó el 8-sep)
+3. **Segunda pasada** — forzarla con un target de tiempo más ajustado
+

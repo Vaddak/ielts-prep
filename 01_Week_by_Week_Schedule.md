@@ -6,56 +6,43 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 15 de septiembre
+## 👉 RETOMAR AQUÍ — miércoles 16 de septiembre
 
-**Lunes 14 ✅✅✅✅** — cuádruple sesión:
+**Martes 15 ✅** — Summary Completion nº 1: **8/8 en 6:00 de 20 min.** Trampa del límite esquivada.
 
-| | Resultado |
-|---|---|
-| Task 2 nº 4 (v1→v4) | **Band 6.5 sólido** · pregunta indirecta y empalme con *therefore* cerrados |
-| MC nº 1 | 5/6 en 7:00 de 15 min |
-| MC nº 2 | 4/6 en 10:00 de 15 min *(set adversarial META)* |
-| Trampa META identificada | Reading + Writing en la misma tarde |
+Pidió explicitamente practicar **puntos débiles** en Reading. Miércoles se reasigna — ya no es libre.
 
 ---
 
-### 🎯 EL HALLAZGO GRANDE DE LA SEMANA
+### Miércoles 16 (~40 min) — pasaje mixto anti-debilidades
 
-> ## **Gravitas hacia la versión confiada, absoluta o dramática de una afirmación.**
-> **En Reading y en Writing.** Su temperamento por defecto — **decidido**.
+**Diseño:** un pasaje, tres tipos, cada uno atacando una debilidad rastreada:
 
-Rastreado en **5 sesiones distintas** desde el 3-sep. Ventaja en fluidez y en resistencia a Not Given; debilidad cuando el texto es cauteloso.
-
-### Sub-regla mecánica
-
-> **Cuando el texto duda, la opción correcta también duda.**
-> Si eliges entre absoluta y tentativa, y el texto usa *may · appear · suggest · might · seems*, marca **la tentativa**.
-
-Complementa la regla META del año (14-sep): subrayar el verbo de relación antes de decidir. Detalle completo en `04_Reading_Module.md`.
-
----
-
-### Martes 15 (~30 min) — liviano por diseño
-
-Adelantado casi todo el módulo MC. Se abre espacio.
-
-| # | Min | Tarea |
+| Min | Tarea | Debilidad que ataca |
 |---|---|---|
-| [ ] 1 | 10 | **Summary/Note Completion** teoría en `04_Reading_Module.md` |
-| [ ] 2 | 20 | **Summary Completion nº 1** cronometrado *(autocontenido en el archivo cuando arranques)* |
+| [ ] 1 | 15 | **T/F/NG (6 preg)** con trampa de cuantificadores en 3 de las 6 | *largely · most · all · consistently* — el 8-sep sin pesar cuantificadores |
+| [ ] 2 | 15 | **Multiple Choice (4 preg)** con trampa META (verbo de relación) en 2 de las 4 | *depended vs may have · reducing vs offset* — gravitas a lo absoluto |
+| [ ] 3 | 10 | **Segunda pasada obligatoria** al terminar el bloque completo | Nunca la hace — el tiempo sobrante no es margen |
 
-> **La regla del día que se lleva:** en Summary Completion la respuesta está en el texto **parafraseada, no literal**. Es el opuesto exacto de Sentence Completion. Ancla = concepto, no palabra.
+**Regla dura del día:** al terminar el bloque, aunque sobren 15 min, **hacer la segunda pasada capa por capa**:
+1. Cuantificadores (todo el bloque)
+2. Verbos de relación (todo el bloque)
+3. Solo después de las dos capas, revisar el archivo con la clave
 
-### Semana 9 — estado
+Te lo armo autocontenido en `13_Reading_Archive.md` cuando arranques mañana.
+
+---
+
+### Semana 9 — estado actualizado
 
 | Día | |
 |---|---|
-| Lun 14 ✅✅✅✅ | T2→v4 · MC1 · MC2 · identificación META |
-| Mar 15 | Summary/Note Completion |
-| Mié 16 | *(libre por adelanto)* — opción: pasaje mixto de refuerzo |
+| Lun 14 ✅✅✅✅ | T2→v4 · MC1 · MC2 · META identificada |
+| Mar 15 ✅ | Summary Completion nº 1: 8/8 |
+| **Mié 16** | 🔴 Pasaje mixto anti-debilidades (T/F/NG + MC + segunda pasada) |
 | Jue 17 | Yes/No/Not Given |
 | Vie 18 | 🔴 Pasaje completo cronometrado (40 preg · 60 min) |
-| **Sáb 19** | Task 2 mantenimiento (40 min) + revisar pasaje |
+| Sáb 19 | Task 2 mantenimiento (40 min) + revisar pasaje |
 | Dom 20 | Revisión por tipo · registrar patrones |
 
 ---
