@@ -817,3 +817,142 @@ Si escribiste *lactic acid bacteria* (que es literalmente lo que el texto usa), 
 - [ ] Confirmar que cada respuesta está en la forma **exacta** del texto (mismo número, mismo tiempo verbal)
 - [ ] Marcar cuáles respuestas requirieron anclaje por **concepto** vs cuáles por palabra coincidente
 
+---
+
+# 🎯 MARTES 15 SEP (bis) — PASAJE MIXTO ANTI-DEBILIDADES
+
+> **Autocontenido.** Adelanto del miércoles. Un pasaje, tres tipos, cada uno diseñado contra una debilidad rastreada.
+
+## ⏱️ 10 preguntas · 25 min de bloque + 10 min de segunda pasada obligatoria
+
+### El pasaje — *The Return of the Beaver*
+
+For most of the twentieth century, the European beaver was one of the continent's rarest mammals. Hunted for its fur, its meat and a glandular secretion used in perfumes, the species had been driven to the edge of extinction by 1900, with fewer than 1,200 individuals surviving in a handful of isolated populations from Norway to the Rhône valley. Fifty years of protection and reintroduction have transformed the picture: the population is now estimated at well over a million, and beavers occupy river systems in most European countries.
+
+The reintroduction programmes were controversial from the outset. Landowners along candidate rivers argued that beavers would flood pasture, block drainage channels and damage riverside timber. Early trials in Bavaria in the 1960s were kept small partly to contain such opposition, and the animals were released only in stretches of river where flooding could be tolerated. The scale of return since the 1990s owes as much to natural recolonisation from these founder populations as to further reintroduction: once established, beaver families disperse along waterways at rates of roughly ten to fifteen kilometres per year.
+
+The ecological effects have been documented in detail since a long-term study on the River Tâf in Wales was set up in 2005. Beaver dams slow the flow of small watercourses, raising the water table upstream and creating a mosaic of ponds, wetland and coppiced woodland along the banks. Populations of amphibians, dragonflies and several fish species increase in these stretches, and the dams have been found to trap significant amounts of sediment carrying agricultural pollutants. In the Tâf catchment, downstream nitrate concentrations fell by around a third over the first decade of the study.
+
+The flood-management implications have attracted particular attention. During heavy rainfall, the dams and the wetland behind them absorb water that would otherwise reach downstream towns as a flood peak. Modelling of the 2015 storms in northern England suggested that a moderate beaver presence in the upper catchments could have reduced peak flows in vulnerable settlements, though the extent of any reduction remains disputed. Some hydrologists caution that beaver wetlands can also release water rapidly when a dam breaks, and that their overall effect may depend heavily on catchment shape and soil type.
+
+The perception among landowners has shifted, but not uniformly. In parts of Scotland, farmers whose land was flooded by the first Tayside beavers in the 2000s remained hostile even after compensation schemes were introduced, and licensed shooting of individual animals is still permitted where damage cannot otherwise be prevented. In Bavaria, by contrast, a management system that combines compensation, targeted removal of problem individuals and public education has produced broad acceptance, and surveys suggest most rural residents in beaver areas now view the animal favourably. Whether the Scottish or the Bavarian pattern proves the more general one across Europe is not yet clear.
+
+---
+
+## Bloque 1 — T/F/NG (6 preguntas)
+
+*Do the following statements agree with the information in the passage? Write **TRUE / FALSE / NOT GIVEN**.*
+
+**1.** By 1900, the European beaver population had fallen below 1,500 individuals.
+
+**2.** The Bavarian reintroductions of the 1960s were deliberately limited in scale.
+
+**3.** Most of the growth in the European beaver population since the 1990s has come from further reintroductions rather than natural spread.
+
+**4.** All fish species in beaver-influenced stretches of the Tâf showed population increases.
+
+**5.** Modelling of the 2015 storms confirmed that beavers would consistently reduce flood peaks in vulnerable towns.
+
+**6.** Compensation schemes were sufficient to change the attitudes of Tayside farmers whose land had been flooded.
+
+---
+
+## Bloque 2 — Multiple Choice (4 preguntas)
+
+*Choose the correct letter, **A**, **B**, **C** or **D**.*
+
+**7. The scale of the beaver's return since the 1990s is described as owing:**
+A. primarily to further reintroduction programmes
+B. entirely to natural recolonisation from founder populations
+C. substantially to both natural spread and reintroduction
+D. mainly to the absorption of Scandinavian populations
+
+**8. According to the passage, the flood-management effect of beaver wetlands:**
+A. has been proven to reduce peak flows in downstream settlements
+B. may vary with the physical characteristics of the catchment
+C. is generally rejected by hydrologists
+D. depends on the number of dams a single family constructs
+
+**9. The passage indicates that in the Tâf catchment, downstream nitrate concentrations:**
+A. remained roughly stable during the study period
+B. fell by around thirty per cent within about ten years
+C. rose because of increased agricultural runoff
+D. were monitored only in the final years of the study
+
+**10. Regarding the acceptance of beavers by rural residents in Europe, the passage concludes that:**
+A. the Bavarian model has been shown to work everywhere
+B. it is still uncertain which national pattern will prove more typical
+C. Scottish opposition has now largely disappeared
+D. acceptance depends mainly on the size of compensation payments
+
+---
+
+### ✍️ Respuestas
+
+| # | Tipo | Respuesta | Tiempo bloque: ___ | Segunda pasada hecha (S/N): ___ |
+|---|---|---|---|---|
+| 1 | T/F/NG | ___ | | |
+| 2 | T/F/NG | ___ | | |
+| 3 | T/F/NG | ___ | | |
+| 4 | T/F/NG | ___ | | |
+| 5 | T/F/NG | ___ | | |
+| 6 | T/F/NG | ___ | | |
+| 7 | MC | ___ | | |
+| 8 | MC | ___ | | |
+| 9 | MC | ___ | | |
+| 10 | MC | ___ | | |
+
+---
+
+## 🔴 SEGUNDA PASADA OBLIGATORIA — antes de abrir la clave
+
+Cronometrar 10 min. Dos capas:
+
+### Capa 1 — Cuantificadores
+Revisar cada respuesta T/F/NG buscando en el enunciado y en el texto: *most · all · largely · consistently · significantly · around · substantially · no · fewer than*. Si el enunciado dice *most* y el texto no lo dice, cambia a **FALSE** o **NG**. Si el enunciado dice *below X* y el texto dice *fewer than Y con Y<X*, es TRUE.
+
+### Capa 2 — Verbos de relación
+Revisar cada respuesta MC subrayando el verbo/adverbio de relación del texto: *primarily · entirely · substantially · may · depends · confirmed · remains disputed · not yet clear*. La opción correcta usa el **mismo grado modal**. Si el texto duda, la opción correcta duda.
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO después de la segunda pasada</b></summary>
+
+### T/F/NG
+
+| # | Correcta | Anclaje · trampa |
+|---|---|---|
+| **1** | **TRUE** | *fewer than 1,200* está debajo de 1,500. Cuantificador que cambia rango — tienes que hacer la aritmética: 1200 < 1500 → T |
+| **2** | **TRUE** | *were kept small partly to contain such opposition* = *deliberately limited in scale* |
+| **3** | **FALSE** | ⭐ **Trampa cuantificador.** El texto dice *"owes as much to natural recolonisation… as to further reintroduction"* — los dos por igual. El enunciado dice *"most… from further reintroductions rather than natural spread"* — exagera un lado. **Sin pesar *as much as*, se cae en NG o T** |
+| **4** | **FALSE** | ⭐ **Trampa cuantificador.** El texto dice *"several fish species increase"* — varias, no todas. El enunciado dice *"All fish species"*. **Sin pesar *all* vs *several*, se cae en NG o T** |
+| **5** | **FALSE** | ⭐ **Trampa cuantificador + META.** Texto: *"suggested that… could have reduced… the extent remains disputed"*. Enunciado: *"confirmed… consistently reduce"*. **Dos capas de exageración**: *suggested → confirmed* (fuerza modal) y *could have → consistently* (grado). Si el texto duda… |
+| **6** | **FALSE** | El texto dice *"remained hostile even after compensation schemes were introduced"* — opuesto |
+
+### MC
+
+| # | Correcta | Por qué · trampa |
+|---|---|---|
+| **7** | **C** | ⭐ **META — verbo de relación.** Texto: *"as much to natural recolonisation… as to further reintroduction"*. A (*primarily reintroduction*), B (*entirely natural*) y D exageran un lado. C conserva el equilibrio del texto |
+| **8** | **B** | ⭐ **META — grado modal.** Texto: *"may depend heavily on catchment shape and soil type"*. A (*proven*) fuerza demasiado. C es opuesto. D fabrica el número de dams. **B mantiene el *may*** |
+| **9** | **B** | *fell by around a third* = *fell by around thirty per cent* · *first decade* = *within about ten years* |
+| **10** | **B** | *Whether the Scottish or the Bavarian pattern proves the more general one… is not yet clear* = *still uncertain*. A fuerza (*shown to work everywhere*), C opuesto, D no dicho |
+
+### Las 3 T/F/NG con trampa cuantificador plantada
+- **Preg 3** (*most* sobre *as much as*)
+- **Preg 4** (*all* sobre *several*)
+- **Preg 5** (*consistently* sobre *could have* + *confirmed* sobre *suggested*)
+
+### Las 2 MC con trampa META plantada
+- **Preg 7** (*primarily/entirely* sobre *as much as*)
+- **Preg 8** (*proven* sobre *may depend*)
+
+</details>
+
+### Al terminar
+- [ ] Anotar puntaje bloque 1 (T/F/NG) y bloque 2 (MC)
+- [ ] Anotar tiempo del bloque + tiempo de la segunda pasada (marcar S/N)
+- [ ] **Si la segunda pasada cambió alguna respuesta:** anotar cuál y por qué la cambió
+- [ ] **Si la segunda pasada NO cambió respuestas pero había errores:** anotar el error para calibrar qué buscar mejor
+
