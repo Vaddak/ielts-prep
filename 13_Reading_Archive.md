@@ -729,3 +729,91 @@ En las tres, las opciones repiten el contenido del párrafo pero **cambian la fu
 - [ ] Para cada error, identificar si fue **familia 1** (palabra copiada), **2** (alcance equivocado), **3** (sentido opuesto) o **4** (no dicho)
 - [ ] Anotar si fue de la variante META — verbo de relación cambiado
 
+---
+
+# 🎯 MARTES 15 SEP — SUMMARY COMPLETION Nº 1
+
+> **Autocontenido.** Primer ejercicio del tipo. Teoría en `04_Reading_Module.md`.
+
+## ⏱️ 8 huecos · 20 min
+
+### El pasaje — *The Rediscovery of Sourdough*
+
+For most of human history, bread was leavened by wild microorganisms. A baker would keep a portion of the previous day's dough, rich with naturally occurring yeasts and bacteria, and mix it into the next batch. The dough would rise slowly over many hours, developing a complex, slightly acidic flavour. This method, now known as sourdough, remained the standard technique across Europe and much of Asia until the nineteenth century.
+
+The transformation began in 1859, when Louis Pasteur identified the specific yeast responsible for fermentation. Once the organism could be isolated, it could be manufactured. By the 1870s, Austrian producers were selling packets of commercial baker's yeast, and within a generation the traditional starter had almost vanished from urban bakeries. The commercial product offered a decisive practical advantage: dough leavened with pure yeast rose in about ninety minutes, compared with the eight to twelve hours required by a sourdough starter.
+
+The trade-off was flavour and, as later research suggested, digestibility. Sourdough fermentation is driven not only by yeasts but also by lactic acid bacteria, which produce the sour taste and, more importantly, break down certain components of wheat that are hard for the human gut to process. In particular, the long fermentation partially degrades a group of sugars called FODMAPs, which are associated with bloating and discomfort in many people. Some studies have found that individuals who react badly to industrial bread tolerate sourdough well, though the evidence remains preliminary.
+
+Interest in the traditional method revived slowly through the late twentieth century, driven at first by artisan bakers in San Francisco, where a distinctive local starter had survived continuously since the gold-rush era. The city's sourdough owes its character to a particular bacterium, *Lactobacillus sanfranciscensis*, which thrives in the specific conditions of that starter and is now recognised as the defining organism of the style. From San Francisco the revival spread, first to other American cities and then across Europe, becoming a mainstream movement during the pandemic of 2020, when home baking surged and starters were shared online.
+
+The modern sourdough scene is now supported by a small research community. A laboratory in Belgium maintains a collection of more than a hundred starters gathered from bakers around the world, catalogued by their microbial composition. The collection has revealed that the community of organisms in a starter depends less on geography than on the flour used and the handling routine of the baker — two starters from opposite sides of the planet can be genetically closer than two starters from the same street.
+
+---
+
+### El resumen — completar los huecos
+
+*Complete the summary below. Choose **NO MORE THAN TWO WORDS** from the passage for each answer.*
+
+Until the nineteenth century, bread was raised using a portion of dough saved from the previous batch, a technique now called sourdough. This changed after 1859, when Pasteur identified the **(1) ______** behind fermentation, which allowed the organism to be produced commercially. The main appeal of the new product was speed: industrial dough rose in around **(2) ______** minutes, far faster than a traditional starter.
+
+However, sourdough offered two advantages that were later appreciated. Its distinctive taste and its effect on digestion both come from **(3) ______**, which act alongside the yeast during the slow rise. These organisms partially break down a group of sugars called **(4) ______**, thought to cause discomfort in many people. Evidence that sourdough is better tolerated than industrial bread is still described as **(5) ______**.
+
+The traditional method was revived by bakers in **(6) ______**, whose local starter had survived since the mid-nineteenth century. The signature organism of that starter is **(7) ______**. More recently, a Belgian laboratory studying starters from many countries has found that their microbial makeup depends chiefly on the flour and the **(8) ______** of the baker, rather than on where they are made.
+
+---
+
+### ✍️ Respuestas
+
+| # | Respuesta | Tiempo total: ___ |
+|---|---|---|
+| 1 | ___ | |
+| 2 | ___ | |
+| 3 | ___ | |
+| 4 | ___ | |
+| 5 | ___ | |
+| 6 | ___ | |
+| 7 | ___ | |
+| 8 | ___ | |
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO después de terminar</b></summary>
+
+| # | Correcta | Anclaje en el texto | Límite |
+|---|---|---|---|
+| **1** | **yeast** | *identified the specific yeast responsible for fermentation* | 1 palabra ✅ |
+| **2** | **ninety** | *rose in about ninety minutes* | 1 palabra ✅ |
+| **3** | **lactic acid bacteria** ⚠️ | *driven not only by yeasts but also by lactic acid bacteria* | **3 palabras — excede el límite**. Alternativa que cabe: **bacteria** (1 palabra) o **acid bacteria** (2). La respuesta óptima si el límite fuera 3 sería *lactic acid bacteria*; con 2, **acid bacteria** |
+| **4** | **FODMAPs** | *a group of sugars called FODMAPs* | 1 palabra ✅ |
+| **5** | **preliminary** | *the evidence remains preliminary* | 1 palabra ✅ |
+| **6** | **San Francisco** | *artisan bakers in San Francisco* | 2 palabras ✅ |
+| **7** | **Lactobacillus sanfranciscensis** | *owes its character to a particular bacterium, Lactobacillus sanfranciscensis* | 2 palabras ✅ |
+| **8** | **handling routine** | *the flour used and the handling routine of the baker* | 2 palabras ✅ |
+
+### Las paráfrasis en juego
+
+- (1) *responsible for fermentation* → *behind fermentation*
+- (2) *rose in about ninety minutes* → *rose in around ___ minutes*
+- (3) *distinctive taste and… digestibility* → *distinctive taste and effect on digestion*
+- (4) *a group of sugars called* → mismo verbo
+- (5) *remains preliminary* → *is still described as*
+- (6) *revived… by artisan bakers in San Francisco* → *revived by bakers in*
+- (7) *owes its character to a particular bacterium* → *signature organism*
+- (8) *the flour used and the handling routine* → *depends chiefly on the flour and the*
+
+### La trampa específica del límite — pregunta 3
+
+Si escribiste *lactic acid bacteria* (que es literalmente lo que el texto usa), **es cero** — exceden 2 palabras. Es la trampa clásica del tipo: la respuesta natural del texto no siempre cabe en el límite, y hay que elegir la versión corta válida. Es el equivalente al "cuento las palabras antes de anotar" del método.
+
+**Lección:** cuando el término del texto tiene 3+ palabras y el límite son 2, la respuesta esperada es **la reducción natural** (aquí *acid bacteria* o *bacteria* solo). Si dudas, la palabra más específica es la mejor apuesta.
+
+</details>
+
+### Al terminar
+- [ ] Anotar puntaje y tiempo
+- [ ] Confirmar que cada respuesta respeta el límite (contar palabras)
+- [ ] Confirmar que cada respuesta está en la forma **exacta** del texto (mismo número, mismo tiempo verbal)
+- [ ] Marcar cuáles respuestas requirieron anclaje por **concepto** vs cuáles por palabra coincidente
+

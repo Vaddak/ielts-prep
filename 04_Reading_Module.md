@@ -542,3 +542,65 @@ Ahora, con el patrón de la relación lógica identificado, la segunda pasada ti
 
 ---
 
+---
+
+# 📚 SUMMARY / NOTE COMPLETION — teoría (10 min)
+
+## Qué es
+
+Un **resumen** (párrafo corrido) o **notas** (bullets/tabla) del pasaje o de una sección de él, con huecos que rellenar con **palabras exactas del texto**.
+
+**Instrucción típica:** *Complete the summary using **NO MORE THAN TWO WORDS** from the passage.*
+
+## La regla que resuelve el 80%
+
+> ## **La respuesta está en el texto PARAFRASEADA, no literal.**
+> **El resumen usa sinónimos; el hueco se llena con la palabra ORIGINAL del texto.**
+
+Es el opuesto exacto de **Sentence Completion** (donde la oración es casi calcada). Aquí el resumen reformula todo excepto el término específico que va en el hueco — nombre, número, sustantivo técnico, adjetivo concreto.
+
+**Ejemplo mecánico:**
+- Texto: *"The researchers observed that the birds gathered in large flocks during the winter months."*
+- Resumen: *"During cold periods, birds were seen in sizeable ______."*
+- Respuesta: **flocks** (el resumen parafraseó *winter → cold periods, gathered → seen, large → sizeable*, pero *flocks* se queda igual)
+
+## Ancla = concepto, no palabra
+
+Buscar en el texto la palabra que aparece en el resumen **no funciona** — el resumen la cambió. Hay que buscar la **idea**:
+
+1. Leer la oración del resumen entera (con el hueco)
+2. Extraer el **concepto** que se está describiendo (¿de qué habla? ¿de un lugar, un proceso, una causa, un resultado?)
+3. Buscar en el texto **esa idea**, no las palabras del resumen
+4. La palabra del texto que rellena el hueco casi siempre está **a 1-2 líneas** del concepto localizado
+
+## Las 3 sub-reglas operativas
+
+### 1. Respeta el límite de palabras SIEMPRE
+*"NO MORE THAN TWO WORDS"* → si escribes 3, es cero. *"ONE WORD ONLY"* → si escribes 2, es cero. **Contar antes de anotar.**
+
+### 2. Copia literal — no cambies forma
+Si el texto dice *flocks*, la respuesta es *flocks*, no *flock*. Si dice *were assessed*, la respuesta es *assessed* (una sola palabra) o *were assessed* (dos), pero **nunca** *assess* ni *assessing*. La forma del texto es la forma correcta.
+
+### 3. Sigue el orden del texto
+Como T/F/NG y MC, el summary sigue el orden del pasaje. Si el hueco 3 lo encontraste en el párrafo B, el hueco 4 está en B o después — **nunca antes**. Ancla temporal para no perderte.
+
+## La trampa clásica
+
+El resumen dice una palabra abstracta (*factor · aspect · phenomenon · element*) y el hueco pide la palabra **concreta** del texto. Ejemplo:
+
+- Resumen: *"One important **factor** in the decline was ______."*
+- Texto: *"The primary cause of the population drop was the loss of nesting sites."*
+- Respuesta: **nesting sites** (no *loss*, no *cause*, no *decline*)
+
+**El resumen usa la palabra genérica; el texto usa la específica; la respuesta es la específica.**
+
+## Método de 20 min para 7 huecos
+
+| Min | Acción |
+|---|---|
+| 0-3 | Leer todo el resumen sin mirar el texto — captar el arco |
+| 3-5 | Volver al texto, ubicar los párrafos que cubre el resumen |
+| 5-17 | Rellenar hueco por hueco en orden, buscando **concepto** no palabra |
+| 17-20 | Segunda pasada: contar palabras de cada respuesta · verificar forma exacta · confirmar que la respuesta es un sustantivo/adjetivo/número concreto (no una palabra abstracta) |
+
+
