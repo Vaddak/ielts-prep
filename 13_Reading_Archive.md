@@ -1055,3 +1055,113 @@ Tres capas hoy:
 - [ ] Marcar cuáles respuestas cambiaste en la 2ª pasada
 - [ ] Para cada error, identificar si fue: (a) autor vs reporte, (b) cuantificador, (c) verbo de relación, (d) rango numérico, (e) otro
 
+---
+
+# 🎯 MARTES 15 SEP (quad) — YES / NO / NOT GIVEN Nº 2
+
+> **Autocontenido.** Drill dirigido a la trampa "posición planteada para tumbarla". Herencia del error más importante del Y/N/NG nº 1.
+
+## ⏱️ 8 preguntas · 20 min bloque + 10 min segunda pasada obligatoria
+
+### Estrategia del día — subrayar ANTES de responder
+
+En cada párrafo, **antes** de mirar preguntas:
+1. Subrayar la posición que el autor **plantea** (a menudo con *some argue that · defenders say · it is claimed that · supporters maintain*)
+2. Subrayar el **giro** (*but · however · this is misplaced · this does not survive · the reality is*)
+3. Lo que está después del giro es la postura del autor. Lo que está antes es lo que él rechaza.
+
+### El pasaje — *The Overselling of Nudge Theory*
+
+When Richard Thaler and Cass Sunstein published *Nudge* in 2008, few people expected the book to reshape public policy. Over the next fifteen years, however, more than two hundred governments established behavioural insights units, applying the authors' central idea: that citizens can be steered toward better choices by small changes to the way options are presented, without banning anything or requiring anyone to think harder. Enthusiasts continue to argue that these interventions represent a decisive break from clumsier forms of regulation. A closer look at the evidence tells a more sober story.
+
+The most cited nudges have not held up well under replication. The default-enrolment finding for organ donation, on which much of the popular case rested, has been shown to depend heavily on features of the surrounding system — whether next of kin can override the default, how the option is framed at the point of registration, and whether the country has adequate transplant infrastructure. In countries where these conditions were not met, changing the default produced no measurable increase in donation rates. Advocates present the original finding as though it were a general truth about human behaviour; it is, at best, one factor among several.
+
+A related problem is that the effects, where they exist, are often small. A meta-analysis of 126 nudge studies published in 2022 found an average effect on behaviour of about one and a half per cent — real, but far from the transformations that early press coverage suggested. The point is not that small effects are worthless; a one and a half per cent reduction in energy consumption across a country is not trivial. The point is that the language of "revolution" applied to such effects is misleading, and that policymakers who expected sweeping change on the strength of that language have been disappointed.
+
+Some defenders of the field argue that these criticisms miss the deeper contribution: nudges have made governments more willing to test policies empirically before scaling them. This is a fair point, and the growth of randomised trials in government represents real progress. But it is worth noting that the credit for that shift belongs at least as much to the broader movement for evidence-based policy, which predated *Nudge* by two decades, as it does to the behavioural insights community. Treating rigorous evaluation as if it were a distinctive product of nudge theory is a form of intellectual annexation.
+
+None of this means that behavioural interventions should be abandoned. Well-designed nudges, applied to problems where the underlying evidence is robust, can add a useful fraction of a per cent to policy outcomes at very low cost. What should be abandoned is the rhetorical framing that positions behavioural insights as an alternative to structural reform. On the biggest issues — housing costs, energy transition, health inequalities — nudges do not compete with taxes, subsidies and rules. They are, at most, a modest complement to them.
+
+---
+
+### Las 8 preguntas
+
+*Do the following statements agree with the **claims of the writer** in the passage? Write **YES / NO / NOT GIVEN**.*
+
+**1.** Nudge interventions represent a decisive break from older forms of regulation.
+
+**2.** The default-enrolment effect on organ donation depends heavily on features of the surrounding health system.
+
+**3.** In countries lacking the necessary conditions, changing the organ-donation default did not raise donation rates.
+
+**4.** A 1.5% average effect on behaviour is too small to be considered worthwhile.
+
+**5.** The expansion of empirical policy testing is owed almost entirely to the behavioural insights community.
+
+**6.** The number of governments with behavioural insights units has now surpassed three hundred.
+
+**7.** Behavioural nudges should be abandoned as a policy tool.
+
+**8.** For large-scale problems like housing costs, nudges are at best a minor addition to structural policies.
+
+---
+
+### ✍️ Respuestas
+
+| # | Respuesta | Tiempo bloque: ___ | 2ª pasada hecha (S/N): ___ |
+|---|---|---|---|
+| 1 | ___ | | |
+| 2 | ___ | | |
+| 3 | ___ | | |
+| 4 | ___ | | |
+| 5 | ___ | | |
+| 6 | ___ | | |
+| 7 | ___ | | |
+| 8 | ___ | | |
+
+---
+
+## 🔴 SEGUNDA PASADA OBLIGATORIA (10 min)
+
+Capas del día:
+1. **Posición planteada vs postura del autor:** para cada enunciado, ubica en el texto el *pero/however/misplaced/misleading*. La opinión del autor está **después** del giro
+2. **Cuantificadores:** *entirely · almost · heavily · at best*
+3. **Verbos de relación:** *does not compete with · modest complement to · fair point*
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO después de la 2ª pasada</b></summary>
+
+| # | Correcta | Señal del autor · trampa |
+|---|---|---|
+| **1** | **NO** | ⭐ **Trampa central del día — posición planteada para tumbarla.** Texto: *"Enthusiasts continue to argue that these interventions represent a decisive break… A closer look at the evidence tells a more sober story."* El autor plantea la posición de *enthusiasts* y la contradice. La postura del autor está **después** del giro |
+| **2** | **YES** | *"has been shown to depend heavily on features of the surrounding system"* — el autor lo afirma directamente |
+| **3** | **YES** | *"changing the default produced no measurable increase in donation rates"* — paráfrasis directa |
+| **4** | **NO** | ⭐ **Trampa cuantificador + posición.** Texto: *"The point is not that small effects are worthless"* — el autor **rechaza** la idea de que sean desdeñables. *"1.5% reduction… is not trivial"*. El autor dice que **sí vale la pena** aunque sea pequeño |
+| **5** | **NO** | ⭐ **Trampa autor vs reporte + cuantificador.** Texto: *"Some defenders… argue that… nudges have made governments more willing to test… the credit for that shift belongs **at least as much** to the broader movement for evidence-based policy"*. El autor lo llama *"intellectual annexation"*. **Rechaza** la exclusividad del crédito |
+| **6** | **NOT GIVEN** | Texto: *"more than two hundred governments"*. Enunciado: *"surpassed three hundred"*. El autor no da esa cifra — ni la afirma ni la niega |
+| **7** | **NO** | *"None of this means that behavioural interventions should be abandoned"* — el autor **explicitamente** dice lo contrario. Herencia directa de la lección de la sesión pasada: cuando el autor afirma directo, no es NG |
+| **8** | **YES** | *"nudges do not compete with… They are, at most, a modest complement to them"* = *at best a minor addition* |
+
+### Trampas diagnosticadas
+
+- **Preg 1** — posición planteada de *enthusiasts* → autor la rechaza (el error específico de la sesión pasada)
+- **Preg 4** — aparente concesión del autor (*point is not that small effects are worthless* — defiende que sí valen)
+- **Preg 5** — crédito reclamado por defenders → autor lo rechaza con *"intellectual annexation"*
+- **Preg 6** — rango numérico (números no coinciden, autor no dice el otro número)
+- **Preg 7** — tentación de leer el pasaje como "crítica total" → **el autor mismo dice que NO deben abandonarse**
+
+### Puntos de calibración
+
+Si sacas 6+/8, la lección pegó.
+Si sacas 5 o menos, hay que hacer un tercer drill jueves.
+Errores en preg 1 y 5 son los críticos — son exactamente el patrón de la sesión anterior.
+
+</details>
+
+### Al terminar
+- [ ] Anotar puntaje y tiempo (bloque + 2ª pasada)
+- [ ] Marcar cuáles respuestas cambiaste en la 2ª pasada
+- [ ] Comparar con Y/N/NG nº 1: ¿mejoraron las 3 falladas (1, 4, 5 del set anterior)?
+
