@@ -603,4 +603,29 @@ El resumen dice una palabra abstracta (*factor · aspect · phenomenon · elemen
 | 5-17 | Rellenar hueco por hueco en orden, buscando **concepto** no palabra |
 | 17-20 | Segunda pasada: contar palabras de cada respuesta · verificar forma exacta · confirmar que la respuesta es un sustantivo/adjetivo/número concreto (no una palabra abstracta) |
 
+---
+
+## 🆕 SUB-REGLA (15-sep) — rangos numéricos abiertos
+
+Descubierta en el pasaje anti-debilidades (T/F/NG preg 1).
+
+> **En T/F/NG con números, *below X* / *fewer than X* / *under X* nunca acotan por debajo. Solo por arriba.**
+
+- Texto: *"fewer than 1,200 individuals"*
+- Enunciado: *"fallen below 1,500 individuals"*
+- Correcta: **TRUE** (1200 < 1500)
+
+**El error de lectura:** interpretar *below 1,500* como *"en el rango justo debajo de 1500"* (1300-1499). Es lectura **acotada** por debajo, cuando el inglés la deja **abierta**.
+
+**Simetría:**
+
+| Frase | Acota por | Deja abierto |
+|---|---|---|
+| *below X · fewer than X · under X* | arriba (X) | abajo |
+| *above X · more than X · over X* | abajo (X) | arriba |
+| *between X and Y* | ambos lados | — |
+
+Regla operativa: si el enunciado dice *below X* y el texto da un número **menor que X**, es TRUE aunque los números no coincidan.
+
+**Esta es una trampa distinta a la del cuantificador** (*most vs several*) y a la del verbo de relación (META). Es **aritmética de rangos** — categoría nueva.
 

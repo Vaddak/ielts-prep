@@ -6,40 +6,46 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — miércoles 16 de septiembre
+## 👉 RETOMAR AQUÍ — miércoles 16 (libre real) · jueves 17
 
-**Martes 15 ✅** — Summary Completion nº 1: **8/8 en 6:00 de 20 min.** Trampa del límite esquivada.
+**Martes 15 ✅✅** — doble sesión:
 
-Pidió explicitamente practicar **puntos débiles** en Reading. Miércoles se reasigna — ya no es libre.
+| | Resultado |
+|---|---|
+| Summary Completion nº 1 | **8/8** en 6:00 de 20 min · trampa del límite esquivada |
+| Pasaje mixto anti-debilidades | **9/10** · **5 de 5 trampas plantadas cazadas** |
 
----
+### 🎯 EL HALLAZGO DEL DÍA
 
-### Miércoles 16 (~40 min) — pasaje mixto anti-debilidades
+> **El bucle teoría → aplicación → funciona, cerrado en horas.**
 
-**Diseño:** un pasaje, tres tipos, cada uno atacando una debilidad rastreada:
+Leó la teoría de 2ª pasada capa-por-capa por la mañana; la aplicó en el ejercicio de la tarde; funcionó 5 de 5 en las trampas plantadas. La 2ª pasada obligatoria (cronometrada, no opcional) sí cambia el juego.
 
-| Min | Tarea | Debilidad que ataca |
-|---|---|---|
-| [ ] 1 | 15 | **T/F/NG (6 preg)** con trampa de cuantificadores en 3 de las 6 | *largely · most · all · consistently* — el 8-sep sin pesar cuantificadores |
-| [ ] 2 | 15 | **Multiple Choice (4 preg)** con trampa META (verbo de relación) en 2 de las 4 | *depended vs may have · reducing vs offset* — gravitas a lo absoluto |
-| [ ] 3 | 10 | **Segunda pasada obligatoria** al terminar el bloque completo | Nunca la hace — el tiempo sobrante no es margen |
+### Categoría nueva de trampa
 
-**Regla dura del día:** al terminar el bloque, aunque sobren 15 min, **hacer la segunda pasada capa por capa**:
-1. Cuantificadores (todo el bloque)
-2. Verbos de relación (todo el bloque)
-3. Solo después de las dos capas, revisar el archivo con la clave
-
-Te lo armo autocontenido en `13_Reading_Archive.md` cuando arranques mañana.
+Preg 1 T/F/NG: rango numérico abierto. *below X* es rango **abierto** por debajo, no acotado. Sub-regla en `04_Reading_Module.md`.
 
 ---
 
-### Semana 9 — estado actualizado
+### Miércoles 16 — libre REAL (adelantado martes)
+
+Descanso o batch AWL de repaso ligero si te provoca. Nada obligatorio.
+
+### Jueves 17 (~40 min) — Yes/No/Not Given
+
+| Min | Tarea |
+|---|---|
+| [ ] 1 | 10 | Teoría Y/N/NG en `04_Reading_Module.md` — la diferencia clave con T/F/NG (opiniones del autor vs hechos) |
+| [ ] 2 | 20 | Y/N/NG nº 1 cronometrado |
+| [ ] 3 | 10 | 2ª pasada obligatoria |
+
+### Semana 9 — estado
 
 | Día | |
 |---|---|
 | Lun 14 ✅✅✅✅ | T2→v4 · MC1 · MC2 · META identificada |
-| Mar 15 ✅ | Summary Completion nº 1: 8/8 |
-| **Mié 16** | 🔴 Pasaje mixto anti-debilidades (T/F/NG + MC + segunda pasada) |
+| Mar 15 ✅✅ | Summary Completion 8/8 · anti-debilidades 9/10 |
+| Mié 16 | 🟢 Libre real |
 | Jue 17 | Yes/No/Not Given |
 | Vie 18 | 🔴 Pasaje completo cronometrado (40 preg · 60 min) |
 | Sáb 19 | Task 2 mantenimiento (40 min) + revisar pasaje |

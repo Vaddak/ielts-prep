@@ -1146,3 +1146,28 @@ Pidió practicar sus **puntos débiles** en Reading. Miércoles 16 era libre por
 2. **Cuantificadores** en T/F/NG (el que no se pesó el 8-sep)
 3. **Segunda pasada** — forzarla con un target de tiempo más ajustado
 
+### 2026-09-15 (bis) — pasaje anti-debilidades: 9/10, bucle cerrado
+
+**9/10 = 90%** en bloque + 2ª pasada obligatoria, sobraron 18 min. **Las 5 trampas diseñadas — cazadas 5 de 5.**
+
+### Lo que se validó
+
+**El bucle teoría → aplicación → funciona, cerrado en el mismo día.** Leó la teoría de la 2ª pasada capa-por-capa por la mañana; la aplicó en el ejercicio de la tarde; funcionó 5 de 5 en las trampas plantadas. Su comentario textual: *"tengo anotado lo de several contradice every que fue justo la trampa de varias preguntas"*. Primera vez que se ve el bucle tan limpio.
+
+**La 2ª pasada obligatoria sí cambia el juego — cuando se cronometra dura**, no como opción de "si sobra tiempo".
+
+### El único error — categoría nueva
+
+Preg 1: rango numérico abierto. Leyó *below 1,500* como rango acotado (1300-1499). No fue descuido, fue **lectura semántica equivocada de *below***.
+
+Sub-regla anotada en `04_Reading_Module.md`: *below/fewer than/under X* nunca acotan por debajo. Categoría **nueva de trampa** — se suma a cuantificador y META.
+
+### Estado
+
+- Cuantificadores: **controlado** (3/3 hoy)
+- META Reading: **controlado** (2/2 hoy)
+- 2ª pasada: **controlada cuando cronometrada obligatoria**
+- Rango numérico: **pendiente** — primera aparición
+
+Mañana miércoles: libre real (adelantado). Jueves 17 arranca Yes/No/Not Given.
+
