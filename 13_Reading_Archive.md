@@ -956,3 +956,102 @@ Revisar cada respuesta MC subrayando el verbo/adverbio de relación del texto: *
 - [ ] **Si la segunda pasada cambió alguna respuesta:** anotar cuál y por qué la cambió
 - [ ] **Si la segunda pasada NO cambió respuestas pero había errores:** anotar el error para calibrar qué buscar mejor
 
+---
+
+# 🎯 MARTES 15 SEP (tri) — YES / NO / NOT GIVEN Nº 1
+
+> **Autocontenido.** Estreno del tipo. Teoría en `04_Reading_Module.md`.
+
+## ⏱️ 8 preguntas · 20 min bloque + 10 min segunda pasada obligatoria
+
+### El pasaje — *The Case Against Grade Inflation*
+
+Over the last three decades, the proportion of top grades awarded by universities in Britain, the United States and much of Europe has risen dramatically. In 1990, roughly one in ten British graduates left with a first-class degree; today the figure is close to one in three. Similar movements are visible in high-school leaving certificates. Defenders of the trend point to better teaching, harder-working students and improved assessment. This account is superficially plausible, but it does not survive scrutiny.
+
+If teaching and effort really had improved so much, one would expect independent measures of student ability — standardised admission tests, employer surveys, even the difficulty of the coursework itself — to move in the same direction. They have not. Test scores at the point of university entry have been broadly flat for two decades; employer complaints about graduate skills have grown louder, not quieter; and internal audits at several institutions have found that course requirements have been quietly relaxed. The most honest interpretation is that grades have risen because the institutions awarding them decided, whether consciously or not, that they should.
+
+The mechanism is not hard to identify. A university that gives lower grades than its neighbours risks looking harsh, discouraging applicants and hurting itself in league tables that weight graduate outcomes. The safer strategy is to move gently upward with the crowd. Once a few institutions raise averages, competitive pressure ensures the rest follow, and the ceiling drifts higher by a fraction each year. The individual decisions are rational; the collective outcome is that a first-class degree now conveys much less information than it once did.
+
+Some argue that this need not matter. If everyone knows grades have inflated, employers and graduate schools will simply recalibrate: a modern first is worth what an upper-second was in 1990, and the sorting still works. This reassurance is misplaced. Recalibration works only if the shift is uniform across institutions and disciplines, and the evidence suggests it is not. Some universities have inflated much faster than others, and grades in humanities have moved further than those in the sciences. The result is not a smooth relabelling but a fog of noise, in which a first-class grade from one institution may be genuinely comparable to a good upper-second from another and no external observer can easily tell which is which.
+
+Reversing the trend is politically difficult. Any single institution that returns to stricter standards would look, in the short term, as though it had suddenly begun educating its students less well. A coordinated move by regulators would be more effective, but regulators have proved reluctant to intervene. The most likely outcome is that inflation will continue quietly for another decade and that the burden of judgement will pass to employers and graduate admissions committees, who will develop their own workarounds. This may work, but it is a strange system in which the most important signal of academic achievement has to be routinely translated by everyone who uses it.
+
+---
+
+### Las 8 preguntas
+
+*Do the following statements agree with the **claims of the writer** in the passage? Write **YES / NO / NOT GIVEN**.*
+
+**1.** The rise in top grades since 1990 can be adequately explained by improvements in teaching and student effort.
+
+**2.** Standardised university admission test scores have declined over the last twenty years.
+
+**3.** The rise in top grades is best understood as a decision by the institutions themselves.
+
+**4.** A university that awards lower grades than its rivals faces a disadvantage in league tables.
+
+**5.** Sciences have inflated their grades more slowly than humanities.
+
+**6.** The claim that everyone can simply recalibrate to inflated grades is a satisfactory response to the problem.
+
+**7.** Regulators in most countries have introduced schemes to reverse the trend.
+
+**8.** Passing the burden of judgement to employers is a workable but odd solution.
+
+---
+
+### ✍️ Respuestas
+
+| # | Respuesta | Tiempo bloque: ___ | 2ª pasada hecha (S/N): ___ |
+|---|---|---|---|
+| 1 | ___ | | |
+| 2 | ___ | | |
+| 3 | ___ | | |
+| 4 | ___ | | |
+| 5 | ___ | | |
+| 6 | ___ | | |
+| 7 | ___ | | |
+| 8 | ___ | | |
+
+---
+
+## 🔴 SEGUNDA PASADA OBLIGATORIA (10 min)
+
+Tres capas hoy:
+1. **Autor vs reporte:** para cada respuesta, verificar que el enunciado está evaluando lo que el AUTOR opina, no lo que el texto reporta como opinión ajena
+2. **Cuantificadores:** *most · all · significantly · broadly*
+3. **Verbos de relación:** *superficially plausible · does not survive · misplaced · workable but odd*
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO después de la 2ª pasada</b></summary>
+
+| # | Correcta | Por qué |
+|---|---|---|
+| **1** | **NO** | El autor rechaza esa explicación explícitamente: *"superficially plausible, but it does not survive scrutiny"* |
+| **2** | **NOT GIVEN** | ⭐ **Trampa cuantificador.** Texto: *"broadly flat for two decades"*. Enunciado: *"declined"*. **Flat ≠ declined.** El autor no dice que hayan bajado, dice que no se movieron |
+| **3** | **YES** | *"The most honest interpretation is that grades have risen because the institutions awarding them decided… that they should"* |
+| **4** | **YES** | *"hurting itself in league tables that weight graduate outcomes"* — el autor lo afirma directamente |
+| **5** | **YES** | ⭐ **Reformulación con verbo de relación.** Texto: *"grades in humanities have moved further than those in the sciences"* = *sciences inflated more slowly*. Es la misma relación vista desde el otro lado |
+| **6** | **NO** | *"This reassurance is misplaced"* — el autor rechaza la respuesta |
+| **7** | **NOT GIVEN** | ⭐ **Trampa autor vs reporte.** El texto dice *"regulators have proved reluctant to intervene"* — justo lo contrario a haber introducido esquemas. Aunque parece que la respuesta debe ser NO, hay que leer bien: el enunciado dice *"in most countries"* y el texto no cuantifica países — habla en general de que regulators no han intervenido. Estrictamente ha dicho lo opuesto → **NO** funcionaría mejor. **Correcta: NO** |
+| **8** | **YES** | *"This may work, but it is a strange system…"* = *workable but odd*. Paráfrasis directa |
+
+### Corrección a la preg 7
+
+**7. Correcta: NO** (no NG). El autor afirma explicitamente que los regulators NO han intervenido — opuesto al enunciado. Trampa: enunciado con *"in most countries"* puede tentar a NG, pero el autor está haciendo una afirmación general negativa que contradice el enunciado.
+
+### Las trampas plantadas
+
+- **Preg 2** — cuantificador (*flat* ≠ *declined*)
+- **Preg 5** — verbo de relación visto al revés (*humanities moved further* = *sciences moved more slowly*)
+- **Preg 7** — tentación de NG por el modifier *"in most countries"* cuando la respuesta del autor es directa contradicción
+
+</details>
+
+### Al terminar
+- [ ] Anotar puntaje y tiempo bloque + tiempo 2ª pasada
+- [ ] Marcar cuáles respuestas cambiaste en la 2ª pasada
+- [ ] Para cada error, identificar si fue: (a) autor vs reporte, (b) cuantificador, (c) verbo de relación, (d) rango numérico, (e) otro
+

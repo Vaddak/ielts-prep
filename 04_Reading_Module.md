@@ -629,3 +629,60 @@ Regla operativa: si el enunciado dice *below X* y el texto da un número **menor
 
 **Esta es una trampa distinta a la del cuantificador** (*most vs several*) y a la del verbo de relación (META). Es **aritmética de rangos** — categoría nueva.
 
+---
+
+# 📚 YES / NO / NOT GIVEN — teoría (10 min)
+
+## Qué es
+
+Igual que T/F/NG en mecánica, pero se aplica a **opiniones, argumentos o creencias del autor**, no a hechos objetivos.
+
+**Instrucción típica:** *Do the following statements agree with the **claims of the writer** in Reading Passage X?*
+
+- **YES** — el autor está de acuerdo con la afirmación
+- **NO** — el autor está en desacuerdo
+- **NOT GIVEN** — el autor no ha dado su opinión sobre eso
+
+## La regla que resuelve el 80%
+
+> ## **Y/N/NG NO es sobre hechos. Es sobre lo que el autor OPINA.**
+> Si el enunciado dice *"X aumentó un 30%"* y el texto lo dice, es Y en un T/F/NG pero puede ser **NG en un Y/N/NG** — porque el autor no está opinando, está reportando.
+
+Los pasajes Y/N/NG suelen tener **voz argumentativa** — el autor toma partido, valora, defiende. Los enunciados replican esas valoraciones.
+
+## Las palabras señal del texto
+
+Cuando el autor va a **opinar**, usa marcadores como:
+
+| Grupo | Palabras |
+|---|---|
+| Aserción | *arguing that · claiming · the view that · maintains · asserts* |
+| Crítica | *disputes · rejects · challenges · questions · objects to* |
+| Valoración | *unfortunately · remarkably · problematic · impressive · misguided* |
+| Modales de opinión | *should · must · ought to · needs to* |
+
+**Cuando ves estas señales**, subraya — ahí vive el argumento del autor. **Cuando NO las ves**, el autor está reportando hecho, no opinando.
+
+## Distinguir opinión del autor vs opinión reportada
+
+**Trampa clásica:** el texto reporta la opinión de otra persona. Eso **no es** la opinión del autor.
+
+- Texto: *"Smith argues that the reform will fail."*
+- Enunciado: *"The reform will fail."*
+- Correcto: **NOT GIVEN** — esa es opinión de Smith, no del autor del pasaje.
+
+El autor puede estar de acuerdo, en desacuerdo, o neutral respecto a Smith. **Solo si el autor toma partido** (con marcadores como *rightly · mistakenly · correctly · wrongly*) se puede inferir su postura.
+
+- Texto: *"Smith **rightly** argues that the reform will fail."* → el autor está de acuerdo → **YES**
+- Texto: *"Smith **mistakenly** argues that the reform will fail."* → el autor está en desacuerdo → **NO**
+
+## El árbol de decisión Y/N/NG
+
+1. **¿El texto habla de esta idea?** No → **NG**
+2. **¿Es opinión del autor o reporte de opinión ajena?** Ajena sin comentario del autor → **NG**
+3. **¿El enunciado coincide con la opinión del autor?** Sí → **YES** · No → **NO**
+
+## Herencia de T/F/NG
+
+Todo lo que aplicaba en T/F/NG se mantiene: cuantificadores, verbos de relación, rangos numéricos. **La diferencia única es la naturaleza del enunciado** — opinión, no hecho.
+
