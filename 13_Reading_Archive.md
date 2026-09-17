@@ -1165,3 +1165,98 @@ Errores en preg 1 y 5 son los críticos — son exactamente el patrón de la ses
 - [ ] Marcar cuáles respuestas cambiaste en la 2ª pasada
 - [ ] Comparar con Y/N/NG nº 1: ¿mejoraron las 3 falladas (1, 4, 5 del set anterior)?
 
+---
+
+# 🎯 JUEVES 17 SEP — YES / NO / NOT GIVEN Nº 3
+
+> **Autocontenido.** Consolidación. Drill contra las 2 trampas nuevas del martes:
+> - **Paráfrasis-negación:** *no measurable/significant/observable X* = X no ocurrió (no ambigüedad)
+> - **Grado modal META:** *at least as much X as Y* = repartido. Cualquier absoluto en enunciado → NO
+
+## ⏱️ 6 preguntas · 15 min bloque + 10 min segunda pasada obligatoria
+
+### El pasaje — *The Limits of the Screen-Time Panic*
+
+Few areas of contemporary parenting attract more anxiety than the amount of time children spend looking at screens. Newspapers regularly warn that a generation is being damaged by phones and tablets, and parents are urged to enforce strict daily limits. These warnings rest on the assumption that the evidence for harm is both extensive and settled. It is neither.
+
+The most-cited studies of the past decade have relied on large surveys asking teenagers to estimate their own screen use and then correlating the answers with measures of wellbeing. The correlations exist, but they are small. A 2019 re-analysis of the biggest datasets found that the relationship between overall screen time and adolescent mental health explains less than half a per cent of the variation observed between individuals — roughly the same size as the relationship with eating potatoes. Advocates present the correlation as though it demonstrated causation; it does no such thing. The direction could easily run the other way, with unhappy teenagers turning to screens for distraction rather than screens producing the unhappiness.
+
+Some researchers have attempted more careful designs. Experimental studies, in which participants are asked to reduce their phone use for a set period, have produced results that are at best modest. A well-known trial published in 2022 reported no measurable improvement in mood after a week of restricted use in the general adolescent population, though a small subgroup with pre-existing anxiety showed some benefit. The claim that reducing screen time reliably improves adolescent wellbeing is not supported by the strongest evidence available.
+
+There is, however, one area where the concern seems better grounded. Sleep matters, and phones in bedrooms disrupt sleep. A body of work stretching back to the 2000s has shown that late-evening screen use delays sleep onset and reduces total sleep duration, especially in children. This effect is comparable in size to the effect of caffeine at similar times, and the mechanism — blue-light suppression of melatonin combined with cognitive arousal — is well understood. Focusing parental effort on evening device use, rather than on overall daily totals, is where the returns are likely to be greatest.
+
+Critics of the panic sometimes go too far in the opposite direction, arguing that screens are harmless. That claim is not warranted by the evidence either. What the evidence supports is a more modest conclusion: the general relationship is small and probably bidirectional, specific contexts such as evening use are more clearly harmful, and blanket restrictions are neither necessary nor efficient. The public conversation would benefit from replacing alarm with proportion.
+
+---
+
+### Las 6 preguntas
+
+*Do the following statements agree with the **claims of the writer** in the passage? Write **YES / NO / NOT GIVEN**.*
+
+**1.** The evidence for harm from screen use is extensive and well established.
+
+**2.** The 2022 trial showed no measurable improvement in mood for the general adolescent population after a week of restricted phone use.
+
+**3.** The strongest evidence supports the claim that reducing screen time reliably improves adolescent wellbeing.
+
+**4.** The disruptive effect of late-evening screen use on sleep is comparable in size to that of caffeine at similar times.
+
+**5.** Concern about screen use is best directed almost entirely at overall daily totals rather than at specific contexts.
+
+**6.** The claim that screens are harmless is supported by the available evidence.
+
+---
+
+### ✍️ Respuestas
+
+| # | Respuesta | Tiempo bloque: ___ | 2ª pasada hecha (S/N): ___ |
+|---|---|---|---|
+| 1 | ___ | | |
+| 2 | ___ | | |
+| 3 | ___ | | |
+| 4 | ___ | | |
+| 5 | ___ | | |
+| 6 | ___ | | |
+
+---
+
+## 🔴 SEGUNDA PASADA OBLIGATORIA (10 min)
+
+Tres capas de hoy:
+1. **Autor vs posición planteada** — *warnings rest on… · advocates present… · critics of the panic…*
+2. **Paráfrasis-negación** — *no measurable X* = X no ocurrió
+3. **Grado modal** — el autor dice *modest · small · at best · probably*; los enunciados que dicen *reliably · almost entirely · well established* están al grado equivocado
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO después de la 2ª pasada</b></summary>
+
+| # | Correcta | Señal del autor · trampa |
+|---|---|---|
+| **1** | **NO** | Herencia directa del set 1. Texto: *"These warnings rest on the assumption that the evidence for harm is both extensive and settled. It is neither."* Autor **rechaza** explicitamente. Posición planteada para tumbarla |
+| **2** | **YES** | ⭐ **Trampa paráfrasis-negación cazada al derecho.** Texto: *"reported no measurable improvement in mood after a week of restricted use"* = enunciado literal. Es la misma construcción de la preg 3 del set 2 pero ahora **coincide** con el enunciado. La respuesta es **SÍ — el autor lo afirma** |
+| **3** | **NO** | Texto: *"The claim that reducing screen time reliably improves adolescent wellbeing is not supported by the strongest evidence available."* El autor **rechaza** el enunciado con las palabras exactas. NO literal |
+| **4** | **YES** | *"This effect is comparable in size to the effect of caffeine at similar times"* — afirmación directa del autor |
+| **5** | **NO** | ⭐ **Trampa META — grado modal.** Texto: *"Focusing parental effort on evening device use, rather than on overall daily totals, is where the returns are likely to be greatest."* El autor dice **lo contrario** del enunciado. El enunciado usa *"almost entirely… daily totals"* absoluto; el autor recomienda enfocarse en **contextos específicos (evening use)** no en totales |
+| **6** | **NO** | Texto: *"That claim is not warranted by the evidence either."* Autor **rechaza** el enunciado directamente |
+
+### Las 3 trampas plantadas
+
+- **Preg 1** — posición de los newspapers planteada para tumbarla (herencia del set 1, ya debería estar controlada)
+- **Preg 5** — grado modal invertido (autor dice *"evening use no daily totals"*; enunciado dice *"almost entirely daily totals"*)
+- **Preg 2** — paráfrasis-negación **coincidente** (no invertida como en set 2): aquí el enunciado dice lo mismo que el texto → YES, no NG
+
+### Calibración
+
+- 5-6/6 → Y/N/NG cerrado. Viernes al pasaje completo.
+- 4/6 → análisis fino de qué tipo de trampa cayó antes del pasaje del viernes
+- ≤ 3/6 → cuarto drill sábado en vez de mantenimiento Task 2
+
+</details>
+
+### Al terminar
+- [ ] Anotar puntaje y tiempos
+- [ ] Cuáles cambiaste en la 2ª pasada
+- [ ] Comparar preg 2 con preg 3 del set 2 — ¿ve la simetría?
+
