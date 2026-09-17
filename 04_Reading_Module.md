@@ -686,3 +686,38 @@ El autor puede estar de acuerdo, en desacuerdo, o neutral respecto a Smith. **So
 
 Todo lo que aplicaba en T/F/NG se mantiene: cuantificadores, verbos de relación, rangos numéricos. **La diferencia única es la naturaleza del enunciado** — opinión, no hecho.
 
+---
+
+## 🆕 SUB-REGLA (17-sep) — Y/N/NG: hecho citado vs opinión reportada
+
+Descubierta en Y/N/NG nº 3, preg 2.
+
+**El problema:** cuando el autor cita *"a trial reported X"* o *"a study found Y"*, ¿es su afirmación o es reporte ajeno?
+
+> **Datos y hallazgos empíricos citados sin objeción = afirmaciones del autor.**
+> **Argumentos y posiciones citados sin comentario = opiniones ajenas (NG).**
+
+### Los verbos que indican HECHO endosado
+
+| Verbo | Endosa? |
+|---|---|
+| *reported · found · showed · demonstrated · was observed · recorded* | ✅ Sí — el autor hace suyo el hallazgo |
+| *argued · claimed · suggested (as opinion) · maintained · asserted · the view that* | ❌ No — requiere marcador (*rightly · mistakenly*) para saber postura del autor |
+
+### La lógica
+
+Cuando el autor **cita evidencia sin poner peros**, la usa como munición para su tesis. Si discrepara, diría *"a controversial trial…"* o *"the trial claimed X, but this has been disputed"*. Citar limpio = endosar.
+
+### Ejemplo del set 3
+
+Texto: *"A well-known trial published in 2022 **reported** no measurable improvement in mood after a week of restricted use…"*
+
+El *reported* + ausencia de objeción = el autor hace suyo el hallazgo. Y de hecho lo usa como base de la siguiente frase: *"The claim that reducing screen time reliably improves… is not supported by the strongest evidence available."*
+
+**Regla única de Y/N/NG que integra todo:**
+
+1. ¿Es afirmación directa del autor? → comparar grado modal
+2. ¿Es hallazgo empírico citado sin objeción? → tratar como del autor
+3. ¿Es postura ajena citada sin marcador de aprobación? → NG
+4. ¿Es postura ajena que el autor plantea para tumbar? → mirar después del *but/however/misplaced*
+

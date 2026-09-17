@@ -1194,3 +1194,23 @@ Un mismo músculo, dos direcciones:
 
 **Más carga que el lunes 14.** Y el bucle teoría → aplicación → mejora cerrado por segunda vez (Y/N/NG mejoró 12.5 pp entre sets con el drill dirigido).
 
+### 2026-09-17 — Y/N/NG nº 3: 5/6 y cerrado + Task 1 refresh
+
+**Y/N/NG nº 3: 5/6 = 83%** en 6:00 de 15 min. Las 2 trampas centrales de sets anteriores cazadas al primer vistazo. La lección pegó.
+
+**El único error — preg 2 — abrió una sub-regla nueva.** Ella leyó *"a trial reported no measurable improvement"* como reporte ajeno (opinión del trial que necesita marcador del autor para saber postura). Su explicación literal fue: *"lo leí como algo propio del texto, un resultado de una investigación"*.
+
+Correcto pero al revés del efecto real: cuando el autor cita evidencia (*reported · found · showed*) **sin poner peros**, la hace suya. Los verbos de opinión (*argued · claimed*) sí requieren marcador.
+
+Anotado en `04_Reading_Module.md` §Y/N/NG sub-regla del 17-sep.
+
+### Task 1 refresh (15 min)
+
+Releyó los 3 pares intro+overview de banda 7+ y el modelo del bar chart de electrodomésticos. Reactivación de registro antes del pasaje completo del viernes.
+
+### Estado del jueves
+
+Y/N/NG cerrado después de 3 drills en 2 días (5/8 → 6/8 → 5/6). El bucle teoría → aplicación → mejora cerrado por tercera vez.
+
+Mañana viernes 18: pasaje completo cronometrado a escala real por primera vez.
+

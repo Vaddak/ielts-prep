@@ -6,35 +6,31 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — jueves 17 de septiembre
+## 👉 RETOMAR AQUÍ — viernes 18 de septiembre
 
-**Martes 15 ✅✅✅✅** — cuádruple sesión:
+**Jueves 17 ✅** — Y/N/NG nº 3: **5/6 = 83%** · Y/N/NG cerrado · Task 1 refresh hecho.
 
-| | Resultado |
-|---|---|
-| Summary Completion nº 1 | **8/8** |
-| Pasaje anti-debilidades | **9/10** |
-| Y/N/NG nº 1 (estreno) | 5/8 |
-| Y/N/NG nº 2 (drill dirigido) | **6/8** — trampas centrales cazadas |
+Sub-regla nueva: hecho empírico citado sin objeción (*reported · found · showed*) = afirmación del autor. Detalle en `04_Reading_Module.md`.
 
-**Miércoles 16 ✅** — descanso.
+**Racha Y/N/NG:** 5/8 → 6/8 → 5/6.
 
 ---
 
-### Jueves 17 (~40 min) — consolidación Y/N/NG + tune Task 1
-
-**Todos los tipos de Reading ya vistos.** Foco de hoy: cerrar Y/N/NG con un tercer drill corto y refrescar Task 1 antes del pasaje completo del viernes.
-
-| Min | Tarea |
-|---|---|
-| [ ] 1 | 25 | **Y/N/NG nº 3** (6 preg) — drill contra las 2 trampas nuevas: paráfrasis-negación + grado modal META |
-| [ ] 2 | 15 | **Task 1 repásaso corto** — releer las 3 introducciones y los 3 overviews en `12_Task1_Archive.md` para no perder el registro antes del viernes |
-
-**La regla del día:** ajustar el grado modal EXACTO del texto. Cuando el texto dice *no measurable X* = X no ocurrió (no es ambigüedad). Cuando el texto dice *at least as much X as Y* = repartido (cualquier absoluto en enunciado → NO).
-
 ### Viernes 18 — 🔴 PASAJE COMPLETO CRONOMETRADO
 
-40 preguntas · 60 min. Primera vez a escala completa. Todos los tipos vistos, todas las trampas conocidas.
+**Primer intento a escala real.** Todo Reading visto, todas las trampas anotadas.
+
+**Formato:** un pasaje largo con ~13 preguntas mezclando tipos (T/F/NG, MC, Y/N/NG, Sentence/Summary Completion). Es **un tercio del examen real** (que tiene 3 pasajes · 40 preguntas · 60 min).
+
+**Tiempo:** 20 min bloque + 5 min segunda pasada.
+
+**Reglas duras del día:**
+
+1. **Segunda pasada obligatoria** — aunque sobren 10 min después del bloque
+2. **Capas de la 2ª pasada:** cuantificadores · verbos de relación (META) · grado modal · rango numérico · hecho vs opinión
+3. **La palabra *measurable*** — gancho suelto identificado el jueves. Si aparece, tratar como afirmación firme
+
+Te lo armo autocontenido en `13_Reading_Archive.md` cuando arranques mañana.
 
 ### Semana 9 — estado
 
@@ -43,9 +39,9 @@
 | Lun 14 ✅✅✅✅ | T2→v4 · MC1 · MC2 · META identificada |
 | Mar 15 ✅✅✅✅ | Summary 8/8 · anti-deb 9/10 · Y/N/NG 5→6/8 |
 | Mié 16 ✅ | Libre real |
-| Jue 17 | Y/N/NG nº 3 + Task 1 refresh |
+| Jue 17 ✅ | Y/N/NG nº 3: 5/6 · Task 1 refresh |
 | Vie 18 | 🔴 Pasaje completo cronometrado |
-| Sáb 19 | Task 2 mantenimiento + revisar pasaje |
+| Sáb 19 | Task 2 mantenimiento (40 min) + revisar pasaje |
 | Dom 20 | Revisión por tipo · patrones |
 
 ---
