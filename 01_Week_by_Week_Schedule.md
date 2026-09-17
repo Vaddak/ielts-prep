@@ -6,50 +6,47 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — miércoles 16 (libre real) · jueves 17
+## 👉 RETOMAR AQUÍ — jueves 17 de septiembre
 
-**Martes 15 ✅✅** — doble sesión:
+**Martes 15 ✅✅✅✅** — cuádruple sesión:
 
 | | Resultado |
 |---|---|
-| Summary Completion nº 1 | **8/8** en 6:00 de 20 min · trampa del límite esquivada |
-| Pasaje mixto anti-debilidades | **9/10** · **5 de 5 trampas plantadas cazadas** |
+| Summary Completion nº 1 | **8/8** |
+| Pasaje anti-debilidades | **9/10** |
+| Y/N/NG nº 1 (estreno) | 5/8 |
+| Y/N/NG nº 2 (drill dirigido) | **6/8** — trampas centrales cazadas |
 
-### 🎯 EL HALLAZGO DEL DÍA
-
-> **El bucle teoría → aplicación → funciona, cerrado en horas.**
-
-Leó la teoría de 2ª pasada capa-por-capa por la mañana; la aplicó en el ejercicio de la tarde; funcionó 5 de 5 en las trampas plantadas. La 2ª pasada obligatoria (cronometrada, no opcional) sí cambia el juego.
-
-### Categoría nueva de trampa
-
-Preg 1 T/F/NG: rango numérico abierto. *below X* es rango **abierto** por debajo, no acotado. Sub-regla en `04_Reading_Module.md`.
+**Miércoles 16 ✅** — descanso.
 
 ---
 
-### Miércoles 16 — libre REAL (adelantado martes)
+### Jueves 17 (~40 min) — consolidación Y/N/NG + tune Task 1
 
-Descanso o batch AWL de repaso ligero si te provoca. Nada obligatorio.
-
-### Jueves 17 (~40 min) — Yes/No/Not Given
+**Todos los tipos de Reading ya vistos.** Foco de hoy: cerrar Y/N/NG con un tercer drill corto y refrescar Task 1 antes del pasaje completo del viernes.
 
 | Min | Tarea |
 |---|---|
-| [ ] 1 | 10 | Teoría Y/N/NG en `04_Reading_Module.md` — la diferencia clave con T/F/NG (opiniones del autor vs hechos) |
-| [ ] 2 | 20 | Y/N/NG nº 1 cronometrado |
-| [ ] 3 | 10 | 2ª pasada obligatoria |
+| [ ] 1 | 25 | **Y/N/NG nº 3** (6 preg) — drill contra las 2 trampas nuevas: paráfrasis-negación + grado modal META |
+| [ ] 2 | 15 | **Task 1 repásaso corto** — releer las 3 introducciones y los 3 overviews en `12_Task1_Archive.md` para no perder el registro antes del viernes |
+
+**La regla del día:** ajustar el grado modal EXACTO del texto. Cuando el texto dice *no measurable X* = X no ocurrió (no es ambigüedad). Cuando el texto dice *at least as much X as Y* = repartido (cualquier absoluto en enunciado → NO).
+
+### Viernes 18 — 🔴 PASAJE COMPLETO CRONOMETRADO
+
+40 preguntas · 60 min. Primera vez a escala completa. Todos los tipos vistos, todas las trampas conocidas.
 
 ### Semana 9 — estado
 
 | Día | |
 |---|---|
 | Lun 14 ✅✅✅✅ | T2→v4 · MC1 · MC2 · META identificada |
-| Mar 15 ✅✅ | Summary Completion 8/8 · anti-debilidades 9/10 |
-| Mié 16 | 🟢 Libre real |
-| Jue 17 | Yes/No/Not Given |
-| Vie 18 | 🔴 Pasaje completo cronometrado (40 preg · 60 min) |
-| Sáb 19 | Task 2 mantenimiento (40 min) + revisar pasaje |
-| Dom 20 | Revisión por tipo · registrar patrones |
+| Mar 15 ✅✅✅✅ | Summary 8/8 · anti-deb 9/10 · Y/N/NG 5→6/8 |
+| Mié 16 ✅ | Libre real |
+| Jue 17 | Y/N/NG nº 3 + Task 1 refresh |
+| Vie 18 | 🔴 Pasaje completo cronometrado |
+| Sáb 19 | Task 2 mantenimiento + revisar pasaje |
+| Dom 20 | Revisión por tipo · patrones |
 
 ---
 

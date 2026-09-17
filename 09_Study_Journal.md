@@ -1171,3 +1171,26 @@ Sub-regla anotada en `04_Reading_Module.md`: *below/fewer than/under X* nunca ac
 
 Mañana miércoles: libre real (adelantado). Jueves 17 arranca Yes/No/Not Given.
 
+### 2026-09-15 (tri + quad) — Y/N/NG estrenado y drillado en el día
+
+**Y/N/NG nº 1: 5/8** en 13 min. Estreno. El patrón emergente: no ver el giro argumentativo. Marcar Y cuando el autor plantea una posición para tumbarla.
+
+**Y/N/NG nº 2 (drill dirigido): 6/8** en 14 min. **Las 2 trampas centrales del set 1 cazadas (preg 1 y 7).** Errores nuevos: paráfrasis con *no measurable* leída como ambigua (preg 3), trampa META de grado modal en Y/N/NG (preg 5, *at least as much* leída como *almost entirely*).
+
+### La lección de calibración
+
+Un mismo músculo, dos direcciones:
+- **Preg 3:** ella suavizó lo que el texto afirma con firmeza (*no measurable* → "quizá algo hubo")
+- **Preg 5:** ella endureció lo que el texto expresa compartido (*at least as much as* → "casi todo")
+
+**Regla que consolida:** ajustar el grado modal EXACTO del texto — ni más suave ni más absoluto.
+
+### Estado del día martes 15 — CUADRUPLE sesión
+
+- Summary Completion nº 1: 8/8
+- Pasaje anti-debilidades: 9/10
+- Y/N/NG nº 1: 5/8
+- Y/N/NG nº 2: 6/8
+
+**Más carga que el lunes 14.** Y el bucle teoría → aplicación → mejora cerrado por segunda vez (Y/N/NG mejoró 12.5 pp entre sets con el drill dirigido).
+
