@@ -1260,3 +1260,186 @@ Tres capas de hoy:
 - [ ] Cuáles cambiaste en la 2ª pasada
 - [ ] Comparar preg 2 con preg 3 del set 2 — ¿ve la simetría?
 
+---
+
+# 🔴 VIERNES 18 SEP — PASAJE COMPLETO Nº 1
+
+> **Autocontenido.** Primer pasaje a escala real. Un tercio del examen (que son 3 pasajes · 40 preg · 60 min).
+> **13 preguntas · 20 min bloque + 5 min segunda pasada obligatoria.**
+
+## ⏱️ Reglas duras
+
+1. Aunque termines en 10 min: **no abres la clave sin la 2ª pasada**
+2. Capas de la 2ª pasada: **cuantificadores · verbos de relación · grado modal · rango numérico · hecho vs opinión**
+3. Si aparece *measurable*: **es afirmación firme, no ambigüedad**
+
+---
+
+### El pasaje — *The Return of Mass Timber*
+
+For a century, the tall building was made of steel and concrete. Timber, once the default material for construction in wooded regions, had been pushed out of urban skylines by fire regulations that dated from the aftermath of major nineteenth-century blazes. Wood was seen as a material fit for houses, not for towers. Over the last fifteen years, this settled picture has been overturned. A new generation of engineered wood products, known collectively as mass timber, has enabled buildings of eighteen storeys and more, with several examples now completed in North America, Europe and Australia.
+
+The most important of these products is cross-laminated timber, or CLT. Sheets of softwood are glued together with their grain running at right angles, producing panels several metres across that can be used as structural walls, floors or roofs. The cross-lamination gives the panels dimensional stability and load-bearing strength comparable to concrete of the same thickness, and their behaviour in fire has been extensively tested. When ignited, a CLT panel forms a layer of char on its surface that insulates the core, so that the timber beneath continues to bear its structural load for a predictable period. Contrary to the widespread assumption that wooden buildings are inherently more dangerous, well-designed mass-timber structures perform comparably to concrete ones under standardised fire tests.
+
+The environmental case has attracted particular attention. Cement production is responsible for roughly eight per cent of global carbon emissions, and steel adds another seven per cent. Timber, by contrast, stores carbon while the tree grows and continues to store it for the life of the finished building. A 2021 life-cycle analysis by researchers at the University of British Columbia estimated that replacing concrete with mass timber in a mid-rise residential building reduces the embodied carbon of the structure by around forty per cent. This figure has been cited by policymakers as evidence that construction can be substantially decarbonised without waiting for greener cement.
+
+Enthusiasts for the material sometimes present it as the answer to the climate problem in construction. This is an overstatement. Mass timber makes sense where forests are sustainably managed and where transport distances are short; scaling it to global levels would put pressure on forest ecosystems that may already be at their limits. There are also structural constraints: current codes allow mass timber for buildings up to roughly twenty-five storeys, and although engineers have proposed taller designs, none has yet been approved. The material is a genuine part of the toolkit, not a wholesale replacement for steel and concrete.
+
+The industry has grown quickly nonetheless. In 2015, fewer than fifty mass-timber buildings above four storeys existed worldwide; by 2024 the number had passed a thousand. Building codes, which had lagged behind the technology, have been rewritten in several jurisdictions to permit taller structures, and manufacturers in Austria, Canada and Chile have expanded production capacity to meet demand. Whether the growth continues at this pace depends less on the material's technical merits, which are now well established, than on the willingness of the construction industry to depart from a century of habitual practice.
+
+---
+
+## Bloque A — T/F/NG (4 preguntas)
+
+*Do the following statements agree with the information in the passage? Write **TRUE / FALSE / NOT GIVEN**.*
+
+**1.** Nineteenth-century fires led to regulations that restricted the use of timber in tall buildings.
+
+**2.** All CLT panels currently produced are made from softwood species.
+
+**3.** By 2024, the number of mass-timber buildings above four storeys worldwide had exceeded one thousand.
+
+**4.** Building codes in most jurisdictions still prohibit mass timber for structures above four storeys.
+
+---
+
+## Bloque B — Multiple Choice (4 preguntas)
+
+*Choose the correct letter, **A**, **B**, **C** or **D**.*
+
+**5. The passage suggests that the fire performance of well-designed mass-timber buildings:**
+A. is significantly worse than that of concrete buildings
+B. is similar to that of concrete buildings under standardised tests
+C. cannot yet be reliably predicted
+D. depends primarily on the type of adhesive used
+
+**6. According to the 2021 University of British Columbia analysis, replacing concrete with mass timber in a mid-rise residential building:**
+A. eliminates the embodied carbon of the structure
+B. reduces embodied carbon by roughly forty per cent
+C. increases embodied carbon in the short term
+D. offsets emissions from cement production entirely
+
+**7. The passage states that the future growth of mass timber will depend chiefly on:**
+A. further improvements in the material's technical performance
+B. approval of designs above twenty-five storeys
+C. the willingness of the construction industry to change habits
+D. reductions in the cost of transporting timber
+
+**8. Regarding the environmental case for mass timber, the passage suggests it:**
+A. justifies replacing all concrete construction as soon as possible
+B. would remain sound even if forests were harvested more intensively
+C. holds only where forests are sustainably managed and transport is short
+D. depends on future improvements to cement manufacturing
+
+---
+
+## Bloque C — Y/N/NG (3 preguntas)
+
+*Do the following statements agree with the **claims of the writer** in the passage? Write **YES / NO / NOT GIVEN**.*
+
+**9.** Wooden buildings are inherently more dangerous in fires than concrete ones.
+
+**10.** Mass timber is the answer to the climate problem in the construction sector.
+
+**11.** Timber construction was more common than steel and concrete in urban areas throughout the twentieth century.
+
+---
+
+## Bloque D — Summary Completion (2 huecos)
+
+*Complete the summary. Choose **NO MORE THAN TWO WORDS** from the passage for each answer.*
+
+Cross-laminated timber panels bear structural loads because their layers are arranged with the grain at **(12) ______**. When exposed to fire, the panel's outer surface develops a **(13) ______** that protects the timber beneath.
+
+---
+
+### ✍️ Respuestas
+
+| # | Tipo | Respuesta | Tiempo bloque: ___ | 2ª pasada (S/N): ___ |
+|---|---|---|---|---|
+| 1 | T/F/NG | ___ | | |
+| 2 | T/F/NG | ___ | | |
+| 3 | T/F/NG | ___ | | |
+| 4 | T/F/NG | ___ | | |
+| 5 | MC | ___ | | |
+| 6 | MC | ___ | | |
+| 7 | MC | ___ | | |
+| 8 | MC | ___ | | |
+| 9 | Y/N/NG | ___ | | |
+| 10 | Y/N/NG | ___ | | |
+| 11 | Y/N/NG | ___ | | |
+| 12 | Summary | ___ | | |
+| 13 | Summary | ___ | | |
+
+---
+
+## 🔴 SEGUNDA PASADA OBLIGATORIA (5 min)
+
+Barrido rápido, 5 capas:
+1. **Cuantificadores** — *most · all · significantly · chiefly · entirely*
+2. **Verbos de relación** — *depends on · justifies · comparable · substantially*
+3. **Grado modal** — *the answer · only where · well established*
+4. **Rango numérico** — *exceeded one thousand · above four storeys*
+5. **Hecho vs opinión** — *analysis estimated · enthusiasts present*
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO después de la 2ª pasada</b></summary>
+
+### T/F/NG
+
+| # | Correcta | Por qué |
+|---|---|---|
+| **1** | **TRUE** | *"fire regulations that dated from the aftermath of major nineteenth-century blazes"* — paráfrasis directa |
+| **2** | **NOT GIVEN** | El texto dice que **la CLT** está hecha de softwood, pero no dice que **todas** las CLT actualmente producidas lo sean. Cuantificador *"all… currently produced"* no está respaldado — quizá hay excepciones no mencionadas |
+| **3** | **TRUE** | *"by 2024 the number had passed a thousand"* = *"had exceeded one thousand"*. Paráfrasis directa |
+| **4** | **FALSE** | Texto: *"Building codes… have been rewritten in several jurisdictions to permit taller structures"* y *"current codes allow mass timber for buildings up to roughly twenty-five storeys"*. Enunciado dice *"still prohibit above four storeys"* — opuesto |
+
+### MC
+
+| # | Correcta | Trampa |
+|---|---|---|
+| **5** | **B** | *"perform comparably to concrete ones"* = *similar to concrete*. A opuesta, C opuesta (*extensively tested*, *predictable period*), D no dicho |
+| **6** | **B** | *"reduces the embodied carbon… by around forty per cent"* = literal. A/D fuerzan (*eliminates/offsets entirely*), C opuesta |
+| **7** | **C** | ⭐ **META — grado modal.** *"depends less on the material's technical merits… than on the willingness of the construction industry to depart from a century of habitual practice"*. A opuesta (dice *"less on technical merits"*), B fabrica, D no dicho |
+| **8** | **C** | ⭐ **Grado modal.** *"makes sense where forests are sustainably managed and where transport distances are short"* = *"only where… and…"*. A opuesta (autor lo llama *overstatement*), B opuesta (*may already be at their limits*), D no dicho |
+
+### Y/N/NG
+
+| # | Correcta | Trampa |
+|---|---|---|
+| **9** | **NO** | ⭐ **Posición planteada para tumbarla.** *"Contrary to the widespread assumption that wooden buildings are inherently more dangerous, well-designed mass-timber structures perform comparably"*. Autor **rechaza** el enunciado |
+| **10** | **NO** | ⭐ **Posición planteada para tumbarla + META.** *"Enthusiasts for the material sometimes present it as the answer to the climate problem… This is an overstatement"*. Autor rechaza literal |
+| **11** | **NOT GIVEN** | El texto dice que la madera fue *"pushed out of urban skylines"* por reg fires (implica que estuvo), pero **no compara** su prevalencia con acero/hormigón a lo largo del siglo XX. La comparación no está hecha |
+
+### Summary
+
+| # | Correcta | Anclaje | Límite |
+|---|---|---|---|
+| **12** | **right angles** | *"glued together with their grain running at right angles"* | 2 palabras ✅ |
+| **13** | **char** *o* **layer of char** | *"forms a layer of char on its surface that insulates the core"* | 1 o 3 palabras — la del límite es *char* (1) o *layer of char* (3, excede). **La respuesta segura es "char"** |
+
+### Trampas plantadas
+
+- **Preg 2** — cuantificador *all* + acotador temporal *currently produced* → NG (los dos filtros no están en el texto)
+- **Preg 7** — META de grado modal: *depends less on… than on…* → la respuesta está en la segunda parte
+- **Preg 8** — la condición *only where… and…* (doble condición)
+- **Preg 9 y 10** — posiciones planteadas para tumbarlas (herencia Y/N/NG)
+- **Preg 11** — dato no comparado, sólo mencionado un lado
+- **Preg 13** — trampa del límite de palabras (como en Summary nº 1)
+
+### Calibración
+
+- 11-13/13 → **listo para el pasaje completo real (40 preg)** la semana próxima
+- 8-10/13 → semana próxima otra ronda de este formato antes de escalar
+- ≤ 7/13 → fin de semana revisión intensiva por tipo antes de reintentar
+
+</details>
+
+### Al terminar
+- [ ] Anotar puntaje por bloque (T/F/NG · MC · Y/N/NG · Summary) y global
+- [ ] Tiempo bloque + tiempo 2ª pasada + cuáles cambiaste
+- [ ] Cuál bloque costó más
+- [ ] Comparar rendimiento con drills individuales por tipo
+
