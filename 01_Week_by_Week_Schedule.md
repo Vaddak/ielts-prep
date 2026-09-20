@@ -6,24 +6,39 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — domingo 20 de septiembre · recuperar vie + sáb + dom
+## 👉 RETOMAR AQUÍ — lunes 21 de septiembre · queda el Task 2
 
-**Bloque 1 ✅ PASAJE COMPLETO Nº1 — 11/12 = 92% en 23:00 de 25.**
-MC 4/4 · Y/N/NG 3/3 · Summary 1/1 · **T/F/NG 3/4**. Único error: la #4, **4ª ocurrencia del patrón nº2**. Ítem 13 anulado.
+**Domingo 20 ✅ bloque 1 hecho: PASAJE COMPLETO Nº1 — 11/12 = 92% en 23:00 de 25.**
+MC 4/4 · Y/N/NG 3/3 · Summary 1/1 · **T/F/NG 3/4**. Cinco de seis trampas esquivadas.
 **→ Calibración: lista para el pasaje real de 40 preguntas.**
+Único error: la #4, **4ª ocurrencia del patrón nº2**. Técnica nueva abajo. Ítem 13 anulado.
 
 ---
 
-### El plan de hoy
+### El plan del lunes (~65 min)
 
-| | Min | Tarea | De qué día |
-|---|---|---|---|
-| [x] 1 | 25 | 🔴 **Pasaje completo nº1** — *mass timber* | viernes |
-| | 10 | ☕ pausa de verdad | |
-| [ ] 2 | 40 | ✍️ **TASK 2 nº5 — prompt 6**, *Discussion* *(abajo)* | sábado |
-| [ ] 3 | 25 | 📊 Post-mortem y patrones | sáb + dom |
+| | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 40 | ✍️ **TASK 2 nº5 — prompt 6**, *Discussion* *(brief completo abajo)* |
+| [ ] 2 | 25 | 📊 Post-mortem del ensayo + patrones de la semana |
 
-**Compresión:** el bloque 3 del domingo era *"revisión por tipo"* en abstracto. **Se hace sobre los datos de hoy**, que ya traen el desglose por los cuatro tipos.
+**Todo el Reading de la semana 9 está cerrado y registrado.** Lo único que queda pendiente de sáb+dom es esta tarea de escritura.
+
+---
+
+## 🎯 LA TÉCNICA NUEVA — las dos candidatas
+
+Sale de la pregunta 4 del pasaje.
+
+> **Cuando un enunciado tiene MÁS DE UNA palabra que podría cargar el peso, compruébalas TODAS antes de decidir.**
+> Si **una sola** encuentra la frase que la hace imposible → **FALSE**, aunque las demás queden abiertas.
+> **`NOT GIVEN` exige que NINGUNA quede resuelta.**
+
+En la #4 las candidatas eran `most jurisdictions` · `prohibit` · `above four storeys`. Se ancló en la primera — **y su razonamiento sobre ella era correcto** (*several* ≠ *most*). Pero *"current codes allow… up to roughly twenty-five storeys"* resolvía las otras dos.
+
+⚠️ **Y el eco numérico:** *"four storeys"* aparece dos veces en el pasaje, pero en el **conteo de edificios**, no en los códigos. Añadir a la 2ª pasada: **¿el número que encontré está en el MISMO contexto que el del enunciado?**
+
+✅ **Lo que NO es el problema:** acertó los dos `NG` legítimos. **No sobreusa `NG`** — se le escapa un `False` cuando hay varias candidatas.
 
 ---
 

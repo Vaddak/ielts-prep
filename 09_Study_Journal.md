@@ -1214,3 +1214,47 @@ Y/N/NG cerrado después de 3 drills en 2 días (5/8 → 6/8 → 5/6). El bucle t
 
 Mañana viernes 18: pasaje completo cronometrado a escala real por primera vez.
 
+
+
+---
+
+## 📆 Domingo 20 de septiembre de 2026 — recuperación de vie + sáb + dom
+
+Sesión planificada en tres bloques (~90 min). **Se completó el bloque 1.** Los bloques 2 y 3 pasan al lunes 21.
+
+| | Bloque | Resultado |
+|---|---|---|
+| 1 | 🔴 **Pasaje completo nº1** — *The Return of Mass Timber* | **11/12 · 92%** · 23:00 de 25 |
+| 2 | ✍️ Task 2 nº5, prompt 6 *(Discussion)* | ⏭️ **lunes 21** |
+| 3 | 📊 Post-mortem y patrones | ⏭️ **lunes 21** |
+
+### 🎉 Primer pasaje a escala real, y sale en la banda alta
+
+Cuatro tipos mezclados, 13 preguntas, el formato de **un tercio del examen**. **MC 4/4 · Y/N/NG 3/3 · Summary 1/1 · T/F/NG 3/4.** Cinco de las seis trampas plantadas, esquivadas — incluidas las dos marcadas como más difíciles: la **META de grado modal** (*depends less on… than on…*) y la **doble condición** (*only where… and…*).
+
+**Y el tiempo es la otra mitad de la noticia:** 23 minutos de 25, **con la segunda pasada hecha**. En el examen son 20 por pasaje. El ritmo ya es el real.
+
+> **La tabla de calibración del propio ejercicio: 11–13/13 → lista para el pasaje completo de 40 preguntas.**
+
+### 🔴 El único error, y es el patrón más viejo del log
+
+La pregunta 4 — *"codes in most jurisdictions still prohibit mass timber above four storeys"* — es la **4ª ocurrencia** de *Not Given donde iba False*, abierto desde el 8 de septiembre.
+
+Pero el diagnóstico se afinó mucho. **Se ancló en `most jurisdictions` y su razonamiento sobre esa palabra era correcto**: el texto dice *several*, que no respalda *most*. Lo que no comprobó es que `prohibit above four storeys` **sí** quedaba resuelto por *"current codes allow… up to roughly twenty-five storeys"*.
+
+> ### La técnica que sale de aquí — **las dos candidatas**
+> Si un enunciado tiene **más de una** palabra que podría cargar el peso, **hay que comprobarlas todas**.
+> **Una sola** que encuentre la frase que la hace imposible → **FALSE**.
+> **`NOT GIVEN` exige que NINGUNA quede resuelta.**
+
+Y apareció un distractor nuevo: ***"four storeys"* aparece dos veces en el pasaje**, pero en el conteo de edificios, no en los códigos. **Eco numérico** — el número reciclado en otro contexto hace parecer revisada una parte del enunciado que no lo está.
+
+### ✅ Lo que cambia el diagnóstico de *NG*
+
+**Acertó los dos `NG` legítimos** del pasaje: el del cuantificador (*all CLT panels currently produced*) y el del dato no comparado (#11). **No sobreusa `NG`.** Lo que se le escapa es un `False` concreto **cuando hay varias palabras candidatas**. Es un problema más pequeño y más operativo que el que teníamos anotado.
+
+### ⚠️ El ítem 13 — segunda vez que detecta un enunciado defectuoso
+
+*"develops **a** ______"* con límite de dos palabras: *layer of char* encaja y son tres; *char* cumple el límite y no es inglés en esa frase. **No hay respuesta válida.** Lo cazó ella, igual que el ítem 11 del 12 de septiembre.
+
+**Cómo me sentí:** —
