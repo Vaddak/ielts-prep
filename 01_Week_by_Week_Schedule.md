@@ -6,84 +6,72 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — viernes 18 de septiembre
+## 👉 RETOMAR AQUÍ — domingo 20 de septiembre · recuperar vie + sáb + dom
 
-**Jueves 17 ✅** — Y/N/NG nº 3: **5/6 = 83%** · Y/N/NG cerrado · Task 1 refresh hecho.
-
-Sub-regla nueva: hecho empírico citado sin objeción (*reported · found · showed*) = afirmación del autor. Detalle en `04_Reading_Module.md`.
-
-**Racha Y/N/NG:** 5/8 → 6/8 → 5/6.
+**Bloque 1 ✅ PASAJE COMPLETO Nº1 — 11/12 = 92% en 23:00 de 25.**
+MC 4/4 · Y/N/NG 3/3 · Summary 1/1 · **T/F/NG 3/4**. Único error: la #4, **4ª ocurrencia del patrón nº2**. Ítem 13 anulado.
+**→ Calibración: lista para el pasaje real de 40 preguntas.**
 
 ---
 
-### Viernes 18 — 🔴 PASAJE COMPLETO CRONOMETRADO
+### El plan de hoy
 
-**Primer intento a escala real.** Todo Reading visto, todas las trampas anotadas.
+| | Min | Tarea | De qué día |
+|---|---|---|---|
+| [x] 1 | 25 | 🔴 **Pasaje completo nº1** — *mass timber* | viernes |
+| | 10 | ☕ pausa de verdad | |
+| [ ] 2 | 40 | ✍️ **TASK 2 nº5 — prompt 6**, *Discussion* *(abajo)* | sábado |
+| [ ] 3 | 25 | 📊 Post-mortem y patrones | sáb + dom |
 
-**Formato:** un pasaje largo con ~13 preguntas mezclando tipos (T/F/NG, MC, Y/N/NG, Sentence/Summary Completion). Es **un tercio del examen real** (que tiene 3 pasajes · 40 preguntas · 60 min).
+**Compresión:** el bloque 3 del domingo era *"revisión por tipo"* en abstracto. **Se hace sobre los datos de hoy**, que ya traen el desglose por los cuatro tipos.
 
-**Tiempo:** 20 min bloque + 5 min segunda pasada.
+---
 
-**Reglas duras del día:**
+## ✍️ TASK 2 Nº5 — mantenimiento semana 9 · prompt 6
 
-1. **Segunda pasada obligatoria** — aunque sobren 10 min después del bloque
-2. **Capas de la 2ª pasada:** cuantificadores · verbos de relación (META) · grado modal · rango numérico · hecho vs opinión
-3. **La palabra *measurable*** — gancho suelto identificado el jueves. Si aparece, tratar como afirmación firme
+> *As automation and artificial intelligence continue to advance, many traditional jobs will disappear. Some believe this will create new opportunities, while others fear widespread unemployment.*
+>
+> ***Discuss both views and give your own opinion.***
 
-Te lo armo autocontenido en `13_Reading_Archive.md` cuando arranques mañana.
+**Tipo: Discussion.** Los cuatro tipos ya están escritos; esto es **mantenimiento**, y este prompt se eligió a propósito.
 
-### Semana 9 — estado
+### 🎯 Por qué este prompt, y qué se mide hoy
 
-| Día | |
+El 12-sep los dos bodies **argumentaron lo mismo con el mismo ejemplo**. Un *Discuss both views* **hace imposible ese fallo**: los bodies tienen que sostener **posiciones opuestas**.
+
+**Las tres cosas que se miden:**
+
+1. 🔴 **La palabra que carga el peso.** *Discuss both views **and give your own opinion*** son **DOS tareas**. Si falta la opinión propia, TA cae sí o sí
+2. 🔴 **Topic sentences.** La primera oración de cada body = la tesis del párrafo, **con la palabra clave del enunciado**. El 12-sep no las tuvo ninguno
+3. 🔴 **Que sobre tiempo para corregir.** El 12-sep los cuatro errores más visibles (`society are`, `need of`, `the United States`, `that/than`) **ya estaban en el error log**: se reconocen, no se cazan sin la pasada final
+
+### La estructura
+
+| | |
 |---|---|
-| Lun 14 ✅✅✅✅ | T2→v4 · MC1 · MC2 · META identificada |
-| Mar 15 ✅✅✅✅ | Summary 8/8 · anti-deb 9/10 · Y/N/NG 5→6/8 |
-| Mié 16 ✅ | Libre real |
-| Jue 17 ✅ | Y/N/NG nº 3: 5/6 · Task 1 refresh |
-| Vie 18 | 🔴 Pasaje completo cronometrado |
-| Sáb 19 | Task 2 mantenimiento (40 min) + revisar pasaje |
-| Dom 20 | Revisión por tipo · patrones |
+| **Intro** | Parafrasear + *"this essay will examine both perspectives before arguing that…"* — **tu postura ya aquí** |
+| **Body 1** | La visión de **las oportunidades nuevas**, presentada **de buena fe** |
+| **Body 2** | El temor al **desempleo masivo**, también de buena fe |
+| **Conclusión** | **Tu opinión, explícita.** No *"ambas tienen razón"* |
+
+⚠️ **La trampa del tipo:** presentar una de las dos visiones como un hombre de paja para tumbarla. **Las dos se defienden bien; tu opinión llega en la conclusión.**
+💡 *Discussion* admite el matiz: *"the second view is more persuasive **in the short term**, although…"*
+
+**Reparto (40 min):** 0–8 planificar · 8–31 escribir sin mirar atrás · **31–40 corregir**.
+📏 **250 mínimo · 270–300 objetivo.** Contar **sobre el texto**.
+🔴 Tecleado, Bloc de notas, **sin corrector**. Pegar en `11_Writing_Baseline_Essays.md`.
 
 ---
 
-## ✍️ EL CHECKLIST DE CORRECCIÓN
+## 🎯 LA TÉCNICA NUEVA DE HOY — las dos candidatas
 
-### 🔴 Primero lo estructural — es lo que vale la banda
+Sale de la pregunta 4 del pasaje.
 
-- [ ] **Intro nueva.** Postura **con grado**, sin *"while some argue"*:
-  > *…**This essay largely agrees that it is the decisive factor**, since engineering solutions address the physical causes of emissions directly, **although political regulation remains necessary to deploy them at scale**.*
-- [ ] **Topic sentence en el Body 1**, con la palabra del enunciado:
-  > *Technological innovation is decisive **because it attacks the physical source of emissions**, which no amount of regulation can do on its own.*
-- [ ] **Topic sentence en el Body 2 que COMPARE con otro factor** — ahí es donde se responde *"most important"*:
-  > *It is also **the factor that scales fastest**, since each improvement in efficiency spreads globally without requiring political consensus.*
-- [ ] **Cambiar el ejemplo del Body 2** para que no repita el de energía del Body 1
+> **Cuando un enunciado tiene MÁS DE UNA palabra que podría cargar el peso, compruébalas TODAS antes de decidir.**
+> Si **una sola** encuentra una frase que la haga imposible → **FALSE**, aunque las demás queden abiertas.
+> **`NOT GIVEN` exige que NINGUNA quede resuelta.**
 
-### Después lo gramatical
-
-- [ ] Los **dos empalmes de comas** → punto y seguido: *…quality of life**.** Every process…* · *…thirty years**.** Data shows…*
-- [ ] `society **is**` · `**need** natural resources` (no *the need of*) · `in **the** United States` · `smaller sizes **than** older models`
-- [ ] `processes` ×2 · `**temporary** option` · `the **search for**` · `humans **access** them` · `impact **on**` · `an increase **of** around 20%`
-- [ ] `research **into** how humankind **can address**` *(§4.11)*
-- [ ] Ortografía: `mitigate the` · `humankind` · `significant` · `fossil`
-
-### 🔴 Al final
-
-- [ ] **Tras cada cambio, releer la oración hasta el punto final.** *(Patrón de correcciones que traen errores: 5 ocurrencias.)*
-- [ ] Contar las palabras **sobre el texto**, no a ojo
-
----
-
-## 🎯 LA LECCIÓN DE LA SEMANA — vale para los dos módulos
-
-| | Dónde miró el ojo | Dónde estaba el peso |
-|---|---|---|
-| **Reading #7** | *traced to* | ***single*** factory |
-| **Writing prompt 5** | *technological innovation… climate change* | ***the most important factor*** |
-
-> ## Antes de responder, subraya la palabra del enunciado que define lo que hay que probar.
-> En **T/F/NG** decide entre `FALSE` y `NOT GIVEN`.
-> En **Task 2** decide qué tesis hay que defender.
-> **Y esa palabra debe aparecer en la primera oración de cada body.**
+En la #4 las candidatas eran `most jurisdictions` · `prohibit` · `above four storeys`. Se ancló en la primera — **y su razonamiento sobre ella era correcto**. Pero *"current codes allow… up to roughly twenty-five storeys"* resolvía las otras dos.
 
 ---
 

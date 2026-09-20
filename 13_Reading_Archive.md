@@ -15,13 +15,14 @@
 | 2026-09-10 | Matching Headings | 5 | **4** | 80% | 5:06 |
 | 2026-09-11 | Sentence Completion nº1 | 7 | **7** | **100%** | 8:26 |
 | 2026-09-12 | **Pasaje integrado nº1** *(3 tipos)* | 10 *(1 anulada)* | **8** | **80%** | 15:56 |
+| 2026-09-20 | 🔴 **PASAJE COMPLETO nº1** *(4 tipos, escala real)* | 12 *(1 anulada)* | **11** | **92%** | 23:00 |
 
 ### Patrones vivos
 
 | | Patrón | Estado |
 |---|---|---|
 | 1 | **Pasada de cuantificadores** (*only · usually · most · every*) | ✅ **cerrado el 8-sep** — falló por la mañana, acertado por la tarde |
-| 2 | **Elige *Not Given* cuando la respuesta es *False*** | 🔴 **3 ocurrencias.** Árbol de decisión en `04_Reading_Module.md` |
+| 2 | **Elige *Not Given* cuando la respuesta es *False*** | 🔴 **4ª ocurrencia el 20-sep** (#4, *building codes*). **Es el ÚNICO error del pasaje completo.** Ver la técnica de las dos palabras candidatas, abajo |
 | 3 | Deducir de más en los *Not Given* legítimos | ⚠️ **apareció el 12-sep** en la #7: *eastern China* ≠ una fábrica → dedujo *False* donde el texto callaba |
 | 4 | ✅ **Matching Headings: trampa de la oración única** | ✅ **cerrada en 2 días** — cayó el 10-sep (párrafo E), esquivada el 12-sep |
 | 5 | 🆕 **Calcular en vez de copiar** en sentence completion | 1 ocurrencia, en un ítem defectuoso. *"Choose from the passage"*: si la respuesta exige una operación, no es la respuesta |
@@ -1443,3 +1444,96 @@ Barrido rápido, 5 capas:
 - [ ] Cuál bloque costó más
 - [ ] Comparar rendimiento con drills individuales por tipo
 
+
+
+---
+
+# ✍️ RESULTADOS — PASAJE COMPLETO Nº1 · 20 de septiembre
+
+## **11/12 · 92%** · 23:00 de 25 *(1 ítem anulado)*
+
+| Bloque | Resultado |
+|---|---|
+| **T/F/NG** | **3/4** |
+| **Multiple Choice** | **4/4** ✅ |
+| **Yes/No/NG** | **3/3** ✅ |
+| **Summary Completion** | **1/1** ✅ *(1 anulado)* |
+
+| # | Tipo | Suya | Correcta | |
+|---|---|---|---|---|
+| 1 | T/F/NG | T | T | ✅ |
+| 2 | T/F/NG | **NG** | NG | ✅ trampa del cuantificador *all + currently produced* |
+| 3 | T/F/NG | T | T | ✅ |
+| 4 | T/F/NG | **NG** | **FALSE** | 🔴 |
+| 5 | MC | B | B | ✅ |
+| 6 | MC | B | B | ✅ |
+| 7 | MC | **C** | C | ✅ ⭐ **META de grado modal** *(depends less on… than on…)* |
+| 8 | MC | **C** | C | ✅ ⭐ doble condición *only where… and…* |
+| 9 | Y/N/NG | NO | NO | ✅ ⭐ posición planteada para tumbarla |
+| 10 | Y/N/NG | NO | NO | ✅ ⭐ posición planteada + META |
+| 11 | Y/N/NG | **NG** | NG | ✅ dato no comparado |
+| 12 | Summary | right angles | right angles | ✅ |
+| ~~13~~ | Summary | *layer of char* | *char* | ⚠️ **anulado** |
+
+**Cinco de las seis trampas plantadas, esquivadas.** Las dos ⭐ de META y la doble condición eran las diseñadas como más difíciles.
+
+---
+
+## 🔴 La pregunta 4 — encontró UNA palabra que carga el peso, pero no LA palabra
+
+> *"Building codes in **most jurisdictions** still **prohibit** mass timber for structures **above four storeys**."*
+
+Hay **tres** candidatas a palabra clave en ese enunciado. Ella se ancló en **`most jurisdictions`** — y el razonamiento fue correcto: el texto dice *"several jurisdictions"*, que no respalda *most*. **Eso solo, es análisis de banda 8.**
+
+Pero el párrafo 4 dice, sin acotar a ninguna jurisdicción:
+
+> *"**current codes allow** mass timber for buildings up to **roughly twenty-five storeys**"*
+
+Esa frase hace **imposible** el enunciado, y por eso es `FALSE`, no `NG`. **El peso estaba en `prohibit above four storeys`**, no en `most`.
+
+### La técnica que sale de aquí — **las dos candidatas**
+
+> **Cuando un enunciado tiene más de una palabra que podría cargar el peso, hay que comprobarlas TODAS antes de decidir.**
+> Si **una sola** de ellas encuentra una frase que la haga imposible → **FALSE**, aunque las otras queden abiertas.
+> **`NOT GIVEN` exige que NINGUNA de las candidatas quede resuelta.**
+
+⚠️ **Y el distractor numérico:** *"four storeys"* aparece dos veces en el pasaje, pero en el **conteo de edificios** (*fewer than fifty… above four storeys* / *by 2024… passed a thousand*), no en los códigos. El número se recicla en otro contexto — **eco numérico**.
+
+---
+
+## 🎯 El contraste que importa
+
+| | |
+|---|---|
+| **Lo nuevo y difícil** | META de grado modal, doble condición, dos posiciones planteadas para tumbar, NG del cuantificador, NG del dato no comparado → **9/9** |
+| **Lo viejo** | *Not Given* donde iba *False* → **4ª ocurrencia** |
+
+**Todo lo aprendido en las últimas dos semanas resistió a escala real.** Lo único que cayó es el patrón nº2, que lleva abierto desde el 8 de septiembre.
+
+**Y la calibración de `NG` ya no es mala en general:** acertó los dos *NG* legítimos (#2 y #11), incluido el del cuantificador. **No sobreusa NG — se le escapa un `False` concreto cuando hay más de una palabra candidata.** Es un diagnóstico mucho más fino que "confunde F con NG".
+
+---
+
+## ⚠️ Por qué se anula el ítem 13
+
+El hueco decía *"develops **a** (13) ______ that protects the timber beneath"* con límite de **dos palabras**. El texto dice *"forms **a layer of char** on its surface"*.
+
+- **`layer of char`** encaja gramaticalmente pero son **tres palabras** → pasada del límite
+- **`char`** cumple el límite pero *"develops a char"* **no es inglés correcto**
+
+**No existe respuesta de dos palabras que funcione.** El enunciado debía decir *"develops a surface ______"* o *"develops ______ on its surface"*.
+
+> ### 🔴 SEGUNDA VEZ que pasa lo mismo
+> El 12-sep se anuló el ítem 11 por esto exacto: *"return to 1980 values **in about** ______"* pedía una duración y la respuesta era una fecha.
+> **Las dos veces ella detectó el desajuste gramatical y las dos veces tenía razón.**
+>
+> **La regla operativa para el examen real, donde los ítems SÍ están bien construidos:**
+> **si la respuesta que encaja gramaticalmente excede el límite, no es la respuesta** — hay otra formulación en el texto. Busca otra vez antes de entregar una sobrelímite, porque el límite se penaliza **mecánicamente**, sin mirar el sentido.
+
+---
+
+## 📊 Calibración — según la tabla del propio ejercicio
+
+**11–13/13 → listo para el pasaje completo real de 40 preguntas.**
+
+Y con tiempo de sobra: **23 de 25 minutos**, con la segunda pasada hecha. En el examen son **20 min por pasaje** — va **dentro del ritmo real**.
