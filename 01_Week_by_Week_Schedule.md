@@ -6,23 +6,39 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — lunes 21 de septiembre · queda el Task 2
+## 👉 RETOMAR AQUÍ — martes 22 sep, en casa · post-mortem semana 9
 
-**Domingo 20 ✅ bloque 1 hecho: PASAJE COMPLETO Nº1 — 11/12 = 92% en 23:00 de 25.**
-MC 4/4 · Y/N/NG 3/3 · Summary 1/1 · **T/F/NG 3/4**. Cinco de seis trampas esquivadas.
-**→ Calibración: lista para el pasaje real de 40 preguntas.**
-Único error: la #4, **4ª ocurrencia del patrón nº2**. Técnica nueva abajo. Ítem 13 anulado.
+**Hoy ✅** — Task 2 nº 5 (Discussion, prompt 6) cerrado en **v3 · ~6.5 sólido / 7**. Texto y correcciones en `11_Writing_Baseline_Essays.md`.
+
+| Versión | Banda | Clave |
+|---|---|---|
+| v1 | ~6 | cero empalmes de coma · tesis desviada a *ética* |
+| v2 | ~6.5 | topic sentences ✅ · conclusión contradecía tesis |
+| v3 | ~6.5/7 | tesis = conclusión ✅ · 2 typos (*emininate, given rose*) |
+
+**Falsos amigos (7):** *result · apparently · retire · experimented · offer · employs · supposed*
 
 ---
 
-### El plan del lunes (~65 min)
+### Lo que sigue en casa (~25 min) — POST-MORTEM SEMANA 9
 
-| | Min | Tarea |
+| # | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 40 | ✍️ **TASK 2 nº5 — prompt 6**, *Discussion* *(brief completo abajo)* |
-| [ ] 2 | 25 | 📊 Post-mortem del ensayo + patrones de la semana |
+| [ ] 1 | 10 | Releer `07_Error_Log.md` desde el 14-sep. Hacer una lista de **patrones cerrados** vs **abiertos** |
+| [ ] 2 | 10 | Releer las sub-reglas nuevas de `04_Reading_Module.md`: META · rango numérico abierto · hecho vs opinión · las dos candidatas · *no measurable* |
+| [ ] 3 | 5 | Escribir en `09_Study_Journal.md` los **3 patrones** a vigilar en la semana 10 |
 
-**Todo el Reading de la semana 9 está cerrado y registrado.** Lo único que queda pendiente de sáb+dom es esta tarea de escritura.
+**Referencia para el paso 1** (lo que yo veo):
+- ✅ Cerrados: empalme de coma · pregunta indirecta · posición planteada (Y/N/NG) · cuantificadores · límite de palabras
+- 🟠 Abiertos: *measurable* como afirmación firme · las dos candidatas (T/F/NG) · bodies desequilibrados · typos sin corrector · falsos amigos nuevos
+
+### Semana 10 — lo que viene
+
+- 🔴 **Pasaje real completo: 3 pasajes · 40 preg · 60 min** (calibración del 20-sep: lista)
+- Task 2 nº 6 (Opinion) aplicando la regla de bodies equilibrados
+- Task 1 cronometrado (lleva desde el 1-sep sin uno completo)
+
+**Recordatorio:** en semana hay tiempo extra. No omitir nada y pedir más ejercicios si sobra.
 
 ---
 

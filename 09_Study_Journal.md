@@ -1258,3 +1258,17 @@ Y apareció un distractor nuevo: ***"four storeys"* aparece dos veces en el pasa
 *"develops **a** ______"* con límite de dos palabras: *layer of char* encaja y son tres; *char* cumple el límite y no es inglés en esa frase. **No hay respuesta válida.** Lo cazó ella, igual que el ítem 11 del 12 de septiembre.
 
 **Cómo me sentí:** —
+
+### 2026-09-22 — Task 2 nº 5 (Discussion): v1 → v3 en una sesión
+
+Antes de escribir: teoría de estructura Discussion (bodies espejo de 4 oraciones, voz de terceros, conclusión con postura explícita).
+
+- **v1 ~6 en frío** (el nº 4 arrancó en 5.5). **Primer ensayo con cero empalmes de coma.** Ejemplos distintos por body.
+- **v2 ~6.5**: 19/21 filas aplicadas, topic sentences con palabra clave. Pero la conclusión reescrita contradecía la tesis.
+- **v3 ~6.5 sólido / 7**: tesis = conclusión. Solo 2 typos al copiar.
+
+Falso amigo nº 6 y 7: **employs** (empleos) y **supposed** (suponían).
+Regla que queda: **si un body tiene 4 oraciones, el otro también.**
+
+Pendiente: post-mortem semana 9 (sigue en casa).
+
