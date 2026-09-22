@@ -561,3 +561,19 @@ In conclusion, while artificial intelligence and automation encourage new opport
 - Errores nuevos en la conclusión: *where→were · lose→loss · During→Throughout · increment→gains*
 - Body 2 repite *to reduce costs* dos veces
 
+## v3 — 22-sep · **~Band 6.5 sólido, rozando 7** · CERRADO
+
+As artificial intelligence and automation continue to advance, many traditional jobs will no longer be needed. Some people believe this change will create new opportunities, while others argue that unemployment rates will increase. This essay will examine both views before arguing that, although job losses are real, the opportunities created by these technologies are likely to outweigh them.
+
+Those who believe that automation will create new opportunities argue that it makes everyday tasks far more efficient. These tools can contribute to the transformation of the fields in which they are applied and can create new opportunities for workers and clients. For example, since free models of AI can create robust apps in a short time at no cost, some nutritionists and diet professionals are able to collect, process and analyze data while clients can track and follow their plans with more comfort. This ease removes the barrier that data collection and analysis represent for both clients and professionals, promoting new ways to follow processes related to health habits.
+
+Critics, however, fear that automation will lead to widespread unemployment, as companies replace workers in order to reduce costs. While some processes and jobs remain the same after the integration of these technologies, others will disappear entirely, causing a rise in unemployment rates. For example, over the last two years graphic designers reported a drop in employment rates. A large proportion of illustrations are now made with AI and some companies no longer hire designers.
+
+In conclusion, while automation will undoubtedly emininate some jobs, it also creates new roles and ways of working. In my view, the opportunities are likely to outweigh the losses. Throughout history, technological advances have automated tasks once performed by workers, yet the resulting gains in productivity have given rose to entirely new industries. Provided that workers are supported during the transition, AI is likely to follow the same path.
+
+### Corrección v3
+- Las 3 filas de la v2 aplicadas ✅ · tesis y conclusión dicen lo mismo ✅
+- 2 typos al copiar: *emininate → eliminate* · *given rose → given rise*
+- Lo que queda para 7: Body 2 (~70 palabras) más corto que Body 1 (~105): falta una oración de mecanismo en el Body 2
+- **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5 sólido/7 en 3 versiones (el nº 4 necesitó 4 para llegar a 6.5)
+
