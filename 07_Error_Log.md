@@ -294,6 +294,7 @@ After every timed practice or mock exam:
 | 2026-09-20 | ✅ **Calibración de *NG* — diagnóstico afinado** | Reading | Acertó los **dos `NG` legítimos** (#2 cuantificador *all… currently produced*, #11 dato no comparado) | **No sobreusa NG.** Se le escapa un `False` concreto **cuando hay más de una palabra candidata**. Diagnóstico mucho más fino que *"confunde F con NG"* |
 | 2026-09-20 | ⚠️ **Ítem 13 anulado — 2ª vez el mismo defecto** | Reading · método | *"develops **a** (13) ______"*, límite 2 palabras. *layer of char* = 3 y encaja; *char* cumple el límite pero *"develops a char"* no es inglés. **No existe respuesta válida** | **Lo detectó ella, por segunda vez** (la 1ª: ítem 11 del 12-sep). **Regla para el examen real:** si la respuesta que encaja gramaticalmente excede el límite, **no es la respuesta** — el límite se penaliza mecánicamente |
 
+| **2026-09-22** | Task 2 nº 5 v1 (Discussion, 40 min) | Writing | **~Band 6 en frío** (nº 4 v1 fue ~5.5). Cero empalmes de coma. Ejemplos distintos en cada body ✅. Fallos: topic sentences sin palabra clave (2ª vez), tesis desviada a *ética* en vez de elegir visión, **sujeto omitido** (*where are applied*), falso amigo nuevo **employs → employment**, *it is clear that* (META) | Topic sentence = palabra del enunciado en la oración 1. Nunca omitir sujeto: *where **they** are applied*. *empleos* = **jobs / employment** |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay

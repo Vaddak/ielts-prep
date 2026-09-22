@@ -516,3 +516,31 @@ En la v3 aceptó la oración modelo *"Whereas international regulation on meat c
 - [ ] `how humankind can address` (§4.11)
 - [ ] Las 4 tipografías
 - [ ] 🔴 **Tras cada cambio, releer la oración hasta el punto final** (patrón de correcciones que traen errores)
+
+---
+
+# ✍️ TASK 2 Nº 5 — Prompt 6 (Discussion) · 22-sep
+
+> *As automation and artificial intelligence continue to advance, many traditional jobs will disappear. Some believe this will create new opportunities, while others fear widespread unemployment. Discuss both views and give your own opinion.*
+
+## v1 — 22-sep · 40 min (sobró 1:25) · ~350 palabras · **~Band 6** — NO SE TOCA
+
+Whereas artificial intelligence and automation keep increasing their development, many traditional jobs will no longer be needed. Some people believe this change will create new opportunities, while others argue that unemployment rates will increase. This essay contends that automation and artificial intelligence are tools that combined with ethics provide a higher quality of life for everyone.
+
+Artificial intelligence and automation are remarkable tools thought to improve efficiency and provide better results in every-day tasks. These tools can contribute in the transformation of the fields where are applied and can create new opportunities for workers and clients. For example, since free models of artificial intelligence can create robust apps in a short time with no cost, some nutricionists and diet professionals are able to collect, process and analyze data while clients can track and follow their plans with more comfort. This easeness removes the barrier that data collection and analysis mean for both clients and professionals, promoting new ways to follow processes related with health habits.
+
+Nevertheless, it must be acknowledged that the strong influence of artificial intelligence and its ease to automate processes in all fields requires ethics barriers. While some processes and jobs remain the same after the integration of artificial intelligence, others will be replaced to reduce costs, causing a rise in unemployment rates. For example, over the last two years graphic designers reported a drop in employment rates. A large part of illustrations are now made with artificial intelligence and some companies do not hire designers anymore.
+
+In conclusion, while artificial intelligence and automation encourage new opportunities and provide improvements in performance, it is clear that these tools must integrate and promote changes in processes instead of causing increments in unemployment. In my view, the processes where automation and arificial intelligence are now essential must be planned to integrate workers in their flow, in order to guarantee employs and high quality performance provided for both humans and technologic tools. The industry must adapt to guarantee sufficient conditions for workers while integrate these tools.
+
+## 🔍 Corrección v1
+
+| Criterio | Banda | |
+|---|---|---|
+| TA | 6 | Dos visiones ✅ · opinión explícita ✅ · pero la tesis responde *cómo debería ser* (ética) y no *cuál visión pesa más* |
+| CC | 6 | 4 párrafos limpios, *Nevertheless* bien · topic sentences sin la palabra clave · *artificial intelligence and automation* repetido 8 veces |
+| LR | 6 | *remarkable, robust, acknowledged* ✅ · errores: *easeness, employs, nutricionists, related with* |
+| GR | 6 | Estructuras complejas ✅ · **cero empalmes de coma** ✅ · errores: sujeto omitido, *while integrate*, *a large part of… are* |
+
+**Tabla de correcciones literales:** ver chat 22-sep (21 filas) — aplicar en v2 **tachando cada fila**.
+
