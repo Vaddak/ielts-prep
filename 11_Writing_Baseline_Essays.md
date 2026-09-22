@@ -544,3 +544,20 @@ In conclusion, while artificial intelligence and automation encourage new opport
 
 **Tabla de correcciones literales:** ver chat 22-sep (21 filas) — aplicar en v2 **tachando cada fila**.
 
+## v2 — 22-sep · **~Band 6.5 (la conclusión la frena)**
+
+As artificial intelligence and automation keep increasing their development, many traditional jobs will no longer be needed. Some people believe this change will create new opportunities, while others argue that unemployment rates will increase. This essay will examine both views before arguing that, although job losses are real, the opportunities created by these technologies are likely to outweigh them.
+
+Those who believe that automation will create new opportunities argue that it makes everyday tasks far more efficient. These tools can contribute to the transformation of the fields in which they are applied and can create new opportunities for workers and clients. For example, since free models of AI can create robust apps in a short time at no cost, some nutritionists and diet professionals are able to collect, process and analyze data while clients can track and follow their plans with more comfort. This ease removes the barrier that data collection and analysis represent for both clients and professionals, promoting new ways to follow processes related to health habits.
+
+Critics, however, fear that automation will lead to widespread uneployment, as companies replace workers in order to reduce costs. While some processes and jobs remain the same after the integration of these technologies, others will be replaced to reduce costs, causing a rise in unemployment rates. For example, over the last two years graphic designers reported a drop in employment rates. A large proportion of illustrations are now made with AI and some companies no longer hire designers.
+
+In conclusion, while artificial intelligence and automation encourage new opportunities and provide improvements in performance, I believe these tools should integrate and promote changes in processes instead of causing rises in unemployment. During history, new techniques and advances supposed automation in processes that where done by workers, leading to the lose of their jobs, but the increment in the performance allowed other processes to be born and the most important reason, allowed the development of advanced techniques.
+
+### Corrección v2
+- 19 de 21 filas aplicadas. Intro y bodies ya están en banda 6.5-7 (topic sentences con la palabra clave ✅)
+- 🔴 **La conclusión contradice la tesis**: la intro dice *opportunities outweigh*; la conclusión vuelve al *should* normativo
+- Falso amigo nº 7: **supposed** (suponer ≠ suppose) → *involved / entailed*
+- Errores nuevos en la conclusión: *where→were · lose→loss · During→Throughout · increment→gains*
+- Body 2 repite *to reduce costs* dos veces
+
