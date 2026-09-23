@@ -1272,3 +1272,19 @@ Regla que queda: **si un body tiene 4 oraciones, el otro también.**
 
 Pendiente: post-mortem semana 9 (sigue en casa).
 
+### 2026-09-23 — Post-mortem semana 9 (deuda del domingo 20)
+
+**Autoevaluación vs datos.** Ella marcó 12 de 13 patrones como abiertos; los datos dicen 6 cerrados (empalme, pregunta indirecta, cuantificadores, posición planteada, topic sentences, 2ª pasada), 2 en camino (META, rango numérico) y 5 abiertos. **Se cierran en los datos antes que en la sensación.**
+
+Releyó las sub-reglas de Reading (paso 2 ✅).
+
+### 🎯 Los 3 patrones de la semana 10
+
+1. **Las dos candidatas** — en T/F/NG, comprobar TODAS las palabras que pueden cargar el peso antes de marcar NG
+2. **Bodies equilibrados** — si un body tiene 4 oraciones, el otro también
+3. **Barrido final de palabra** — últimos 3 min de cada Writing: typos + los 7 falsos amigos (*result · apparently · retire · experimented · offer · employs · supposed*)
+
+En vigilancia: *no measurable X* (probar en el pasaje real).
+
+**Semana 9 cerrada sin deuda.**
+

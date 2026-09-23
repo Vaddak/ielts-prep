@@ -852,4 +852,60 @@ En la ronda 3 apareció ***growidening***: al cambiar *growth* por *widening*, l
 | v3 | Intro reescrita · *eased traffic flow* · *accommodate* — pero entró *growidening* |
 | **final** | *widening* · *main road* · *converted into* · paralelismo del Overview → **~6.5** |
 
+---
+
+# ⏱️ MIÉRCOLES 23 SEP — TASK 1 Nº 5 · TABLA, CRONOMETRADA
+
+> **Autocontenido.** Formato nuevo: **tabla con eje temporal** (sí hay tendencias: *rise, fall, overtake*).
+
+## El enunciado
+
+> *The table below shows the number of passenger journeys (in millions) made on four types of public transport in a European city in 2000, 2010 and 2020.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+| Transport | 2000 | 2010 | 2020 |
+|---|---|---|---|
+| Bus | 120 | 105 | 80 |
+| Metro | 60 | 95 | 140 |
+| Tram | 15 | 30 | 45 |
+| Bike-sharing | 0 | 10 | 38 |
+
+## El reparto de los 20 minutos
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** Sin escribir. ① ¿quién sube, quién baja? ② ¿algún cambio de posiciones? ③ ¿algo que empieza de cero? |
+| 1–3 | **Intro** — parafrasear. **Una** oración |
+| 3–6 | **Overview** — **dos** oraciones · **cero dígitos** · los cuatro medios representados |
+| 6–11 | **Detalle 1** — 4 oraciones |
+| 11–16 | **Detalle 2** — 4 oraciones *(⚖️ mismo tamaño que el 1 — patrón semana 10)* |
+| **16–20** | 🔴 **Corregir.** Nada nuevo |
+
+## Los 4 minutos de corrección
+
+1. **¿Llegué a 150?**
+2. **Artículos** (§4.7): barrido de `the`, luego de `a/an`
+3. **¿Dígitos en el Overview? ¿Los cuatro aparecen? ¿Expliqué algún porqué?**
+4. 🆕 **Barrido final de palabra** (patrón semana 10): typos + los 7 falsos amigos
+5. Registro: *number → the figure for*
+
+<details>
+<summary><b>👀 PISTAS — abrir SOLO después de escribir</b></summary>
+
+**El titular:** el metro **supera al bus** y se convierte en el medio más usado — inversión de posiciones (*overtake*).
+**El único que baja:** el bus. Los otros tres suben.
+**Lo que empieza de cero:** bike-sharing (*did not exist in 2000*, *emerged*).
+**Agrupación sugerida:** Detalle 1 = bus y metro (los grandes, que se cruzan) · Detalle 2 = tram y bike-sharing (los pequeños, que crecen).
+**Léxico:** *overtake · more than doubled · tripled · a third · steady decline · from a standing start · the figure for · respectively*.
+⚠️ **Ojo:** 45 es el **triple** de 15 — *tripled*. 140 es más del doble de 60 — *more than doubled*. §4.9: *double/half/a third* sin artículo.
+
+</details>
+
+## ✍️ Task 1 nº 5 — texto: **PEGAR AQUÍ**
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+
 
