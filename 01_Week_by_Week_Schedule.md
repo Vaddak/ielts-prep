@@ -6,25 +6,38 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — miércoles 23 sep · semana 10 arranca
+## 👉 RETOMAR AQUÍ — jueves 24 de septiembre
 
-**Semana 9 cerrada sin deuda** ✅ (post-mortem del domingo hecho hoy).
+**Miércoles 23 ✅✅✅✅** — el día del avance:
 
-### 🎯 Los 3 patrones de la semana 10
-1. **Las dos candidatas** (T/F/NG)
-2. **Bodies equilibrados** (Writing)
-3. **Barrido final de palabra**: typos + 7 falsos amigos
+| | Resultado |
+|---|---|
+| Post-mortem semana 9 | ✅ |
+| Task 1 nº 5 (tabla) | **v4 ~7** — modelo de referencia |
+| Task 2 nº 6 (Opinion) | **v3 ~6.5/7** |
+| 🎯 **Reading completo nº 1** | **34/40 → ~Band 7.5** (42 de 60 min) |
+
+> *"Por primera vez siento que sí avancé, tanto en reading como en writing."*
+
+### ⚠️ Tres reglas nuevas del Reading completo
+1. **Antes de cada bloque, leer la instrucción y decir en voz baja "Yes-No" o "True-False"** (3ª vez que escribe T/F en un Y/N/NG)
+2. ***showed / found / demonstrated* sin *but* después → YES o NO, nunca NG** (2ª vez)
+3. **El heading cubre el párrafo entero**, no la frase más llamativa (3ª vez)
 
 ---
 
-### Semana 10 — plan
+### Jueves 24 — los tipos de Reading que faltan
 
-| # | Tarea | Estado |
+| # | Min | Tarea |
 |---|---|---|
-| 1 | ⏱️ Task 1 nº 5, tabla | ✅ v4 ~7 |
-| 2 | ✍️ Task 2 nº 6, Opinion | ✅ v3 ~6.5/7 |
-| 3 | 🔴 Pasaje real completo: 3 pasajes · 40 preg · 60 min *(en `13_Reading_Archive.md`)* | 👉 ahora |
-| 4 | Revisión de la semana 10 | [ ] |
+| [ ] 1 | 10 | Teoría **Matching Information** (¿qué párrafo contiene X?) |
+| [ ] 2 | 20 | Ejercicio Matching Information cronometrado |
+| [ ] 3 | 25 | **Matching Features + Matching Sentence Endings** (teoría corta + ejercicio) |
+
+### Lo que viene después
+- Table / Flow-chart / Diagram completion + Short-answer questions
+- 🔴 **Simulacro nº 2 con pasajes de longitud real** (~800 palabras cada uno) — medir el ritmo real
+- Writing: mantener un Task 1 y un Task 2 por semana (patrones: bodies equilibrados · barrido final · parar en el min 31)
 
 **En semana hay tiempo extra: no omitir nada y pedir más ejercicios si sobra.**
 

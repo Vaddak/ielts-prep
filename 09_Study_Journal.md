@@ -1288,3 +1288,18 @@ En vigilancia: *no measurable X* (probar en el pasaje real).
 
 **Semana 9 cerrada sin deuda.**
 
+### 2026-09-23 (bis) — El día en que se sintió el avance
+
+| | |
+|---|---|
+| Post-mortem semana 9 | ✅ deuda saldada |
+| Task 1 nº 5 (tabla) | v1 ~5.5–6 → **v4 ~7** |
+| Task 2 nº 6 (Opinion) | v1 ~6 → **v3 ~6.5/7** · *"fluí, no me enredé ni sentí pánico"* |
+| **Reading completo nº 1** | **34/40 → ~Band 7.5** en 42 de 60 min |
+
+**Cómo me sentí:** *"estoy muy contenta, por primera vez siento que sí avancé, tanto en reading como en writing"*.
+
+Lo que lo respalda en datos: Reading ya en la banda meta en el primer simulacro completo; los dos Writing de hoy cerraron en ~7 y la primera versión de cada uno salió sin pánico.
+
+Abiertos para la semana: hecho endosado leído como NG (2ª vez) · T/F en Y/N/NG (3ª vez) · heading de una sola oración (3ª vez) · ritmo con pasajes de longitud real.
+
