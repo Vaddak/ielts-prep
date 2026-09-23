@@ -21,9 +21,9 @@
 
 | # | Tarea | Estado |
 |---|---|---|
-| 1 | ⏱️ **Task 1 nº 5**, tabla, 20 min *(en `12_Task1_Archive.md`)* | 👉 ahora |
-| 2 | ✍️ Task 2 nº 6, Opinion, 40 min | [ ] |
-| 3 | 🔴 Pasaje real completo: 3 pasajes · 40 preg · 60 min | [ ] |
+| 1 | ⏱️ Task 1 nº 5, tabla | ✅ v4 ~7 |
+| 2 | ✍️ Task 2 nº 6, Opinion | ✅ v3 ~6.5/7 |
+| 3 | 🔴 Pasaje real completo: 3 pasajes · 40 preg · 60 min *(en `13_Reading_Archive.md`)* | 👉 ahora |
 | 4 | Revisión de la semana 10 | [ ] |
 
 **En semana hay tiempo extra: no omitir nada y pedir más ejercicios si sobra.**

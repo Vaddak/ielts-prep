@@ -1537,3 +1537,297 @@ El hueco decía *"develops **a** (13) ______ that protects the timber beneath"* 
 **11–13/13 → listo para el pasaje completo real de 40 preguntas.**
 
 Y con tiempo de sobra: **23 de 25 minutos**, con la segunda pasada hecha. En el examen son **20 min por pasaje** — va **dentro del ritmo real**.
+
+
+---
+
+# 🔴 PASAJE REAL COMPLETO Nº 1 — 3 pasajes · 40 preguntas · 60 min
+
+> **Autocontenido. Simulación del examen real.** Un solo cronómetro de 60 min para todo.
+
+## ⏱️ Reglas duras
+
+| Min | Qué |
+|---|---|
+| 0–17 | Pasaje 1 (preg 1–13) |
+| 17–20 | 2ª pasada del pasaje 1 |
+| 20–37 | Pasaje 2 (preg 14–26) |
+| 37–40 | 2ª pasada del pasaje 2 |
+| 40–57 | Pasaje 3 (preg 27–40) — el más difícil |
+| 57–60 | 2ª pasada del pasaje 3 |
+
+- Si un pasaje se alarga, **pasa al siguiente en su minuto** y vuelve al final si sobra tiempo. Una pregunta en blanco vale lo mismo que una mal
+- **Patrones de la semana 10:** las dos candidatas (T/F/NG) · *no measurable X* = afirmación firme · límite de palabras
+- **No abras la clave** hasta que el cronómetro llegue a 60
+
+---
+
+## 📖 PASAJE 1 — *The Language of Bees*
+
+In 1973, Karl von Frisch shared the Nobel Prize for decoding the "waggle dance" of the honeybee. When a forager returns to the hive after finding a rich source of food, she performs a figure-of-eight movement on the vertical surface of the comb. The straight central run, during which the bee vibrates her abdomen, communicates both the direction and the distance of the food.
+
+Direction is encoded relative to the sun. If the bee runs straight upwards, the food lies in the direction of the sun; a run angled 40 degrees to the right of vertical indicates food 40 degrees to the right of the sun. Distance is indicated by the duration of the waggle run: roughly, each second of waggling corresponds to about one kilometre of flight, although the precise ratio varies between colonies and even between individual bees.
+
+Von Frisch's interpretation was not universally accepted at first. In the 1960s, the American biologist Adrian Wenner argued that bees located food mainly by smell, and that the dance was largely irrelevant. The dispute lasted for more than two decades. It was finally settled in the 1990s, when researchers built a robotic bee that performed dances in the hive; recruits flew to the locations the robot indicated, even when no scent was provided.
+
+More recent work has shown that the dance is only one part of a complex information system. Foragers also carry the scent of the flowers they have visited, and experienced bees often ignore dances altogether, returning instead to sites they already know. A 2005 study using radar tracking found that fewer than half of the bees that attended a dance actually flew to the advertised location. In dense, food-rich environments, colonies that were prevented from reading dances — by being placed in a horizontal hive in diffuse light — collected food just as efficiently as normal colonies.
+
+The dance appears to be most valuable when food is scarce and patchy. In such conditions, a single rich source may be many kilometres away and hard to find by chance. Researchers in India found that disrupting the dance reduced food collection significantly in tropical forests, where flowering trees are widely scattered, but had no measurable effect in agricultural landscapes. The waggle dance, it seems, is less a universal language than a specialised tool for difficult conditions.
+
+### Preguntas 1–6
+
+*Do the following statements agree with the information in the passage? Write **TRUE / FALSE / NOT GIVEN**.*
+
+**1.** Von Frisch was the only person awarded the 1973 Nobel Prize for this work.
+**2.** The waggle dance is performed on a horizontal surface inside the hive.
+**3.** The link between the length of the waggle run and flight distance is identical for all bees.
+**4.** Most biologists in the 1960s supported Wenner's theory.
+**5.** The robotic bee experiment showed that bees could use dance information without the help of scent.
+**6.** Most bees that watch a dance fly to the location it indicates.
+
+### Preguntas 7–10
+
+*Complete the sentences. Choose **ONE WORD ONLY** from the passage for each answer.*
+
+**7.** During the straight run, the bee vibrates its ______.
+**8.** The direction of the food is shown in relation to the ______.
+**9.** In the 2005 study, bees were followed using ______.
+**10.** Colonies unable to read dances were kept in a horizontal hive with ______ light.
+
+### Preguntas 11–13
+
+*Choose the correct letter, **A, B, C** or **D**.*
+
+**11.** What does the passage say about experienced bees?
+A. They often return to places they already know instead of following dances.
+B. They perform dances more often than younger bees.
+C. They are unable to interpret the dances of other bees.
+D. They rely on scent alone to find food.
+
+**12.** The study in India found that disrupting the dance:
+A. reduced food collection in every type of environment.
+B. had a significant effect only where flowering trees were widely scattered.
+C. had a small but noticeable effect in agricultural landscapes.
+D. increased the bees' use of scent.
+
+**13.** The writer's main conclusion is that the waggle dance:
+A. is a universal language shared by all bees.
+B. is mainly useful when food is hard to find.
+C. was overestimated by von Frisch's critics.
+D. is less important than scent in all environments.
+
+---
+
+## 📖 PASAJE 2 — *Why Cities Are Getting Hotter*
+
+**A.** On a still summer evening, the centre of a large city can be as much as 7°C warmer than the surrounding countryside. This phenomenon, known as the urban heat island, was first described by Luke Howard in London in 1818, who recorded that the city was consistently warmer than nearby rural areas at night.
+
+**B.** The main causes are well understood. Dark surfaces such as asphalt and roofing absorb solar radiation during the day and release it slowly after sunset. Buildings reduce wind speed and trap heat between them, while the replacement of vegetation with concrete removes the cooling effect of evaporation from leaves and soil. Waste heat from vehicles, air conditioning and industry adds a further contribution.
+
+**C.** The consequences are more than a matter of comfort. During the European heatwave of 2003, which caused an estimated 70,000 deaths, mortality in Paris was highest in the densest central districts. Higher temperatures also increase demand for electricity, as residents turn to air conditioning, which in turn releases more heat into the streets — a feedback loop that can worsen conditions in the hottest neighbourhoods.
+
+**D.** The effects are not distributed evenly. In many cities, low-income neighbourhoods have fewer trees and more paved surfaces than wealthier districts. A study of 108 American cities found that formerly redlined areas — districts once denied mortgage lending — were on average 2.6°C hotter in summer than other areas of the same city.
+
+**E.** Several cooling strategies have been tested. Painting roofs white or light grey can reduce roof surface temperatures by up to 30°C and lower indoor temperatures in buildings without air conditioning. Planting street trees provides shade and evaporative cooling, although the benefits take years to appear as trees mature. Some cities, such as Medellín in Colombia, have created networks of green corridors along roads and waterways; officials report that temperatures along the corridors fell by around 2°C within three years.
+
+**F.** None of these measures is sufficient on its own. White roofs can increase glare and, in cold climates, raise winter heating costs. Trees require water, which may be scarce during the very droughts that accompany heatwaves. Planners increasingly argue that heat must be treated as a design problem across the whole city, combining materials, vegetation and building layout rather than relying on a single solution.
+
+### Preguntas 14–19
+
+*Choose the correct heading for each paragraph A–F from the list below. There are more headings than paragraphs.*
+
+**List of Headings**
+i. The limits of any single measure
+ii. A Colombian success story
+iii. Why built-up areas hold on to heat
+iv. An effect first recorded two centuries ago
+v. Europe's deadliest summer
+vi. Unequal exposure within one city
+vii. Risks to health and a self-reinforcing cycle
+viii. Testing ways to cool the city
+
+**14.** Paragraph A · **15.** Paragraph B · **16.** Paragraph C · **17.** Paragraph D · **18.** Paragraph E · **19.** Paragraph F
+
+### Preguntas 20–23
+
+*Choose the correct letter, **A, B, C** or **D**.*
+
+**20.** Luke Howard observed that London was:
+A. 7°C warmer than the countryside.
+B. warmer than nearby rural areas at night.
+C. cooler than the countryside during the day.
+D. warmer than the countryside only in summer.
+
+**21.** Air conditioning is mentioned in paragraph C as:
+A. the main cause of the urban heat island.
+B. part of a cycle that can make heat worse.
+C. a solution introduced in Paris after 2003.
+D. the reason mortality was highest in central districts.
+
+**22.** The study of 108 American cities found that formerly redlined areas were:
+A. up to 2.6°C hotter than wealthier areas nationwide.
+B. on average 2.6°C hotter than other parts of the same city.
+C. hotter because they used more air conditioning.
+D. the hottest areas in every city studied.
+
+**23.** The passage suggests that street trees:
+A. cool cities almost immediately.
+B. take time before their benefits appear.
+C. are more effective than white roofs.
+D. need no water in cold climates.
+
+### Preguntas 24–26
+
+*Complete the sentences. Choose **NO MORE THAN TWO WORDS** from the passage for each answer.*
+
+**24.** In cold climates, white roofs may lead to higher ______.
+**25.** Water for trees may be scarce during ______.
+**26.** Planners argue that heat should be treated as a ______ across the whole city.
+
+---
+
+## 📖 PASAJE 3 — *The Trouble with Forecasts*
+
+Every year, economists, political analysts and technology experts publish thousands of predictions about the future. Governments rely on them to plan budgets, companies to set investment strategy, and citizens to decide how to vote. The widespread assumption is that experts forecast significantly better than ordinary people. The evidence for this assumption is weaker than most of us would like.
+
+The most famous test was conducted by the psychologist Philip Tetlock, who between 1984 and 2003 collected over 28,000 predictions from 284 experts in politics and economics. When the results were scored, the average expert performed only slightly better than random guessing, and worse than simple statistical rules such as "assume nothing will change". Commentators have often summarised this as proof that experts are no better than chimpanzees throwing darts. That summary goes too far. Tetlock himself found large differences between individuals, and some experts were consistently more accurate than others.
+
+What distinguished the better forecasters was not their field or their credentials but their style of thinking. Tetlock borrowed the philosopher Isaiah Berlin's distinction between hedgehogs, who know one big thing and interpret everything through it, and foxes, who know many small things and are suspicious of grand theories. Foxes made more accurate predictions, especially over longer time horizons. Unfortunately, hedgehogs make better television: their confident, simple narratives are more attractive to the media, and so the least accurate experts are often the most visible.
+
+Tetlock's later research, a forecasting tournament funded by the US intelligence community between 2011 and 2015, showed that forecasting ability can be improved. Volunteers who received a one-hour training session on basic probability reasoning improved their accuracy by around ten per cent, and the best amateurs — so-called superforecasters — outperformed professional intelligence analysts who had access to classified information. It would be a mistake, however, to conclude that expertise is worthless. The superforecasters relied heavily on information produced by specialists; what they added was the discipline to combine it carefully and to update their views as new evidence arrived.
+
+The lesson, then, is not that we should ignore experts but that we should judge them differently. We ought to ask whether a forecaster states predictions precisely enough to be checked, whether they keep a public record of their accuracy, and whether they change their minds when the facts change. Few commentators meet these standards today. Until audiences demand them, the loudest voices will continue to be rewarded over the most reliable ones.
+
+### Preguntas 27–32
+
+*Do the following statements agree with the **claims of the writer**? Write **YES / NO / NOT GIVEN**.*
+
+**27.** The evidence that experts forecast better than ordinary people is strong.
+**28.** Tetlock's results prove that experts are no better than chimpanzees throwing darts.
+**29.** Tetlock's study included more economists than political experts.
+**30.** The media tend to give the most attention to the least accurate experts.
+**31.** Training in probability reasoning can improve forecasting accuracy.
+**32.** Superforecasters succeeded because they ignored information from specialists.
+
+### Preguntas 33–36
+
+*Choose the correct letter, **A, B, C** or **D**.*
+
+**33.** According to the writer, the better forecasters were distinguished by:
+A. their academic field.
+B. their professional qualifications.
+C. the way they reasoned.
+D. their access to data.
+
+**34.** Why does the writer mention television?
+A. to show that hedgehogs are more accurate than foxes
+B. to explain why inaccurate experts receive more attention
+C. to criticise foxes for avoiding the media
+D. to suggest that broadcasters should hire forecasters
+
+**35.** In the forecasting tournament, the one-hour training:
+A. made volunteers as accurate as superforecasters.
+B. raised accuracy by roughly a tenth.
+C. was given only to intelligence analysts.
+D. doubled the volunteers' accuracy.
+
+**36.** The writer's main recommendation is that we should:
+A. stop consulting experts altogether.
+B. rely only on superforecasters.
+C. evaluate experts using different criteria.
+D. trust the experts with the best credentials.
+
+### Preguntas 37–40
+
+*Complete the summary. Choose **NO MORE THAN TWO WORDS** from the passage for each answer.*
+
+Tetlock found that, on average, experts did only slightly better than **(37)** ______ and worse than simple statistical rules. The better forecasters behaved like foxes rather than **(38)** ______. In a later tournament, the best amateurs outperformed professional analysts who could use **(39)** ______. The writer argues that forecasters should keep a public record of their **(40)** ______.
+
+---
+
+## ✍️ Hoja de respuestas
+
+**Tiempo total:** ___ · **¿Respeté los minutos por pasaje?** ___
+
+| # | Resp | # | Resp | # | Resp | # | Resp |
+|---|---|---|---|---|---|---|---|
+| 1 | | 11 | | 21 | | 31 | |
+| 2 | | 12 | | 22 | | 32 | |
+| 3 | | 13 | | 23 | | 33 | |
+| 4 | | 14 | | 24 | | 34 | |
+| 5 | | 15 | | 25 | | 35 | |
+| 6 | | 16 | | 26 | | 36 | |
+| 7 | | 17 | | 27 | | 37 | |
+| 8 | | 18 | | 28 | | 38 | |
+| 9 | | 19 | | 29 | | 39 | |
+| 10 | | 20 | | 30 | | 40 | |
+
+---
+
+<details>
+<summary><b>🔑 CLAVE — abrir SOLO al llegar al minuto 60</b></summary>
+
+### Pasaje 1
+| # | | Por qué |
+|---|---|---|
+| 1 | **FALSE** | *shared the Nobel Prize* |
+| 2 | **FALSE** | *vertical surface of the comb* |
+| 3 | **FALSE** | *varies between colonies and even between individual bees* |
+| 4 | **NOT GIVEN** | Solo se dice lo que argumentó Wenner, no cuántos lo apoyaban |
+| 5 | **TRUE** | *even when no scent was provided* |
+| 6 | **FALSE** | ⭐ Las dos candidatas: *most* vs *fewer than half* |
+| 7 | **abdomen** | |
+| 8 | **sun** | |
+| 9 | **radar** | |
+| 10 | **diffuse** | |
+| 11 | **A** | *returning instead to sites they already know* |
+| 12 | **B** | ⭐ *no measurable effect in agricultural landscapes* = sin efecto → C es falsa |
+| 13 | **B** | *a specialised tool for difficult conditions* · A es la opción absoluta (META) |
+
+### Pasaje 2
+| # | | Por qué |
+|---|---|---|
+| 14 | **iv** | Howard, 1818 |
+| 15 | **iii** | Causas: superficies, edificios, calor residual |
+| 16 | **vii** | ⭐ *v* cubre solo una oración (patrón de Matching Headings del 10-sep) |
+| 17 | **vi** | |
+| 18 | **viii** | ⭐ *ii* cubre solo una oración (Medellín) |
+| 19 | **i** | *None of these measures is sufficient on its own* |
+| 20 | **B** | A son los 7°C de hoy, no de Howard |
+| 21 | **B** | *feedback loop* |
+| 22 | **B** | ⭐ A cambia *on average* por *up to* y *same city* por *nationwide* |
+| 23 | **B** | *take years to appear* |
+| 24 | **heating costs** | ⭐ Límite: *winter heating costs* son 3 palabras |
+| 25 | **droughts** | |
+| 26 | **design problem** | |
+
+### Pasaje 3
+| # | | Por qué |
+|---|---|---|
+| 27 | **NO** | *The evidence for this assumption is weaker…* |
+| 28 | **NO** | ⭐ Posición planteada para tumbarla: *That summary goes too far* |
+| 29 | **NOT GIVEN** | |
+| 30 | **YES** | *the least accurate experts are often the most visible* |
+| 31 | **YES** | ⭐ Hallazgo endosado: *showed that forecasting ability can be improved* |
+| 32 | **NO** | *relied heavily on information produced by specialists* |
+| 33 | **C** | *style of thinking* |
+| 34 | **B** | |
+| 35 | **B** | *around ten per cent* = *roughly a tenth* |
+| 36 | **C** | *judge them differently* · A es la versión absoluta (META) |
+| 37 | **random guessing** | |
+| 38 | **hedgehogs** | |
+| 39 | **classified information** | |
+| 40 | **accuracy** | |
+
+### Conversión aproximada a banda (Academic)
+| Aciertos | Banda |
+|---|---|
+| 39–40 | 9 |
+| 37–38 | 8.5 |
+| 35–36 | 8 |
+| 33–34 | 7.5 |
+| 30–32 | 7 |
+| 27–29 | 6.5 |
+| 23–26 | 6 |
+
+</details>
