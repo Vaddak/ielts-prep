@@ -1831,3 +1831,20 @@ Tetlock found that, on average, experts did only slightly better than **(37)** _
 | 23–26 | 6 |
 
 </details>
+
+### ✍️ Resultado — 23 sep · **34/40 → ~Band 7.5** · 42 de 60 min
+
+| Pasaje | Aciertos | Falladas |
+|---|---|---|
+| 1 | 11/13 | 2 (NG → FALSE) · 4 (FALSE → NG) |
+| 2 | 11/13 | 16 (v → vii) · 24 (*glare* → *heating costs*) |
+| 3 | 12/14 | 31 (NG → YES) · 32 (escribió **F** en un Y/N/NG; el concepto *No* era correcto) |
+
+**Patrones:**
+- **Eco léxico** (2): *horizontal* aparece en otro contexto (la colmena horizontal) y la hizo dudar de *vertical surface*, que contradice directo
+- **Sobre-inferir** (4): el texto dice *not universally accepted*, no dice cuántos apoyaban a Wenner
+- **Heading de una sola oración** (16): *v* cubre solo la frase de 2003 — el patrón del 10-sep
+- **El calificador ancla** (24): *in cold climates* apunta a *heating costs*; *glare* es general
+- **Hecho endosado** (31): *research… showed that* = afirmación del autor (sub-regla del 17-sep, 2ª vez)
+- **Formato**: 3ª vez que usa T/F en un Y/N/NG
+- **Tiempo**: 42 min con pasajes ~40 % más cortos que los reales → al ritmo real serían ~58–60 min
