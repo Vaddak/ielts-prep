@@ -491,7 +491,25 @@ Ese injerto trae de vuelta **el empalme de comas** y ***demand of internet***, l
 
 ## ✍️ Task 1 nº 2 — texto: **PEGAR AQUÍ**
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de corrección?** ___
+**Tiempo real:** 19:55 · **Palabras:** ~245 · **¿4 min de corrección?** No
+
+### v1 — 23 sep · **~Band 5.5–6** — NO SE TOCA
+
+The graph below shows the number of millions of passenger journeys made on four different types of public transport over two decades in a European city.
+
+Overall, it is clear that across time, every transport type increased their passenger journeys but the Bus. However, this decrease in passenger journeys made on Bus remained this transport method even more common than Tham and Bike-sharing.
+
+The number of passenger journeys (in millions) made on bus declined around fifteen per cent in the first ten years, while the decline in 2020 is around twenty five per cent. On the other hand, the figure for the metro, tram and bike-sharing growed considerably. The number of passenger journeys made on metro rose more than thirty per cent in the fisrt ten years and more than fifty per cent in the last ten years of the study.
+
+The growth for the Tram and bike-sharing is even more significant. Tram journeys doubled their number for 2010 and their increase for 2020 were about two point five their initial value. Finally, bike-sharing had zero passenger journeys in 2000 but the figure climbed to 10 million ten years later, and for 2020 it was around three point eight times higher. Even with the accelerated increased presented in Tram and Bike-sharing passenger journeys, it remained below than the millions of passenger journeys made on bus in 2020.
+
+### 🔍 Corrección v1
+- 🔴 **Faltó el titular:** el metro **supera al bus** (60 vs 120 → 140 vs 80). No aparece en ninguna parte
+- 🔴 **Datos inexactos:** tram 15→45 es el **triple** (no 2.5) · metro 95→140 es +47% (no "más de 50%")
+- Porcentajes en vez de cifras: en Task 1 se reportan **los números de la tabla**
+- Concordancia: *every type… **its*** · *their increase **was*** · *tram and bike-sharing → **they** remained*
+- *graph → table* · *growed → grew* · *below than → below* · typos *Tham, fisrt*
+- Sin 4 min de corrección → barrido final no hecho (patrón 3 de la semana 10)
 The chart compares the percentage of households in five European countries that owned four selected home appliances in 2024.
 
 Overall, washing machines are near-universal across all five countries, while ownership of the other three appliances varies considerably. The widest variation by far lies in air conditioning, which is common in southern Europe but virtually absent in the north.
