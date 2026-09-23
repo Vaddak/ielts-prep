@@ -633,5 +633,23 @@ In conclusion, while automation will undoubtedly emininate some jobs, it also cr
 
 ## ✍️ Texto: **PEGAR AQUÍ**
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿Paré en el min 31?** ___ · **¿Barrido final?** ___
+**Tiempo real:** 22 min (sobraron 18, usó tiempo para rectificar) · **Palabras:** ~330 · *"fluí mucho, no me enredé ni sentí pánico"*
+
+### v1 — 23 sep · **~Band 6** — NO SE TOCA
+
+Some people argue that governments should invest in public transport instead of building new roads. In this essay I largely agree in more public transport investment as the best solution to traffic problems.
+
+Since the substantial growth presented in many cities over the last two hundred years, transport methods remained reduced to cars and trains. In the last century in America, a several number of new roads were build, giving more space to hundreds of cars that were bought in a short time, while train systems could not outweigh the transport demand due to poor investment. Compared to Europe, where all the territory is fully connected by trains, American cities do not present the equivalent infrastructure. Principal cities such like Texas and New York are not connected, while others like Paris and Amsterdam are since decades.
+
+Public transport is, by contrast, the solution to traffic problems that emerged with the growth of the population. Studies in different cities around the world over the last ten years demonstrate that despite the number of persons living in a city, public transport decreased traffic problems in less time that in other cities where its infrastructure is poor and main roads were widely constructed. In Bogota, a large number of roads were build and fixed while the public transport sector remained reduced to a few buses operating in the city, as a consequence, Bogota has one of the worst traffic rates in America.
+
+In conclusion, while cities are in a constant growing, public transport investment is the key to guarantee quality of life related to daily transportation. I completely agree with the evidence that shows a reduction of traffic in cities with strong public transport systems instead of those with several number of roads and poor public transportation infrastructure.
+
+### Corrección v1
+- 🔴 **Grado inconsistente:** intro *largely agree* → conclusión *completely agree*. Y *agree with the evidence* ≠ estar de acuerdo con el enunciado
+- 🔴 Body 1 cuenta historia, no da una razón. *Texas* es un estado, no una ciudad
+- Empalme de coma con *as a consequence* (Body 2) — vuelve tras el nº 5 limpio
+- Falso amigo nº 8: **America** (= EE. UU. en inglés) → *Latin America / the Americas*
+- *build→built · several number→large number · that→than · since decades→for decades · persons→people*
+- ✅ Bodies equilibrados (~100/~95) · usó el tiempo sobrante para corregir · ejemplo Bogotá concreto
 
