@@ -943,3 +943,18 @@ The growth of tram and bike-sharing was even more significant. Tram journeys dou
 - 🔴 Costura: *rose more than doubled, rising* (regla "no coser" del 28-ago)
 - 🔴 *by 2010* → *by 2020* — el aviso estaba en prosa debajo de la tabla y no entró (regla del 2-sep)
 - Filas 1, 4 y 9 sin aplicar · *Tram journeys… **their*** (plural)
+
+### v3 — 23 sep · **~Band 6.5 sólido / 7** · CERRADO
+
+The table below shows the number of millions of passenger journeys made on four different types of public transport over two decades in a European city.
+
+Overall, the metro overtook the bus to become the most widely used form of public transport, while the bus was the only mode to decline. Tram and bike-sharing both grew steadily, the latter from a standing start.
+
+The number of passenger journeys made by bus fell from 120 million in 2000 to 105 million in 2010, and then more sharply to 80 million in 2020. On the other hand, the figures for the other three modes grew considerably. Metro journeys more than doubled, rising from 60 to 140 million and overtaking the bus by 2020.
+
+The growth of tram and bike-sharing was even more significant. Tram journeys doubled to 30 million by 2010 and tripled their original figure by 2020, reaching 45 million. Finally, bike-sharing had zero passenger journeys in 2000 but the figure climbed to 10 million ten years later, before reaching 38 million in 2020. Despite this rapid growth, both tram and Bike-sharing remained well below the figure for the bus in 2020.
+
+### Corrección v3
+- 6 de 7 filas ✅ · sin costuras ✅ · *their* con *journeys* ✅
+- Quedan: intro *number of millions of* (fila 1) · *Bike-sharing* con mayúscula · *On the other hand → By contrast*
+- **Progresión:** v1 ~5.5–6 → v2 ~6.5 → v3 ~6.5/7
