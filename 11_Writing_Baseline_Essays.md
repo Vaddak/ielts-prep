@@ -669,3 +669,18 @@ In conclusion, I largely agree that governments should prioritise public transpo
 - *America*: ella quiso decir el continente. En inglés *America* sola = EE. UU.; continente = *the Americas*. Aquí los ejemplos del Body 1 son de EE. UU. → *the United States*
 - 🔴 *now viable* → *not viable* (typo que invierte el sentido)
 - Quedan: *Europewhere* · *present* (≠ tener) · *in less time that* · *were build* (Body 2)
+
+### v3 — 23 sep · **~Band 6.5 sólido / 7** · CERRADO
+
+Some people argue that governments should invest in public transport instead of building new roads. I largely agree that investing in public transport is a more effective solution to traffic problems than building new roads.
+
+The main reason I support this view is that building new roads does not solve congestion; it simply encourages more people to drive. In the last century in United States, a large number of new roads were built, giving more space to millions of cars that were bought in a short time, while train systems could not keep up with the demand due to poor investment. Compared to Europe, where most major cities are connected by rail, American cities do not have the equivalent infrastructure. Major cities such as Houston and New York are not linked by high-speed rail, whereas Paris and Amsterdam have been connected for decades.
+
+By contrast, public transport offers a more effective solution to problems that emerged with population growth. Studies in different cities around the world over the last ten years demonstrate that regardless of the size of a city’s population, public transport reduces congestion more quickly than in cities where public transport infrastructure is poor and main roads were widely constructed. In Bogota, a large number of roads were built and repaired, while the public transport sector remained reduced to a few buses operating in the city; as a consequence, Bogota has some of the worst traffic congestion in Latin America.
+
+In conclusion, I largely agree that governments should prioritise public transport over new roads. As cities continue to grow, building more roads only attracts more cars, whereas efficient public transport can move far more people with less congestion. Nevertheless, new roads may still be necessary in rural areas where public transport is not viable.
+
+### Corrección v3
+- 8/8 filas ✅ · grado constante · concesión que justifica *largely*
+- Queda: *in United States* → *in **the** United States* (§4.7, mismo error del 12-sep)
+- **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5/7
