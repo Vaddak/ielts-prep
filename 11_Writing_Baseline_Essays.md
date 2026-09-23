@@ -577,3 +577,61 @@ In conclusion, while automation will undoubtedly emininate some jobs, it also cr
 - Lo que queda para 7: Body 2 (~70 palabras) más corto que Body 1 (~105): falta una oración de mecanismo en el Body 2
 - **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5 sólido/7 en 3 versiones (el nº 4 necesitó 4 para llegar a 6.5)
 
+
+---
+
+# ✍️ TASK 2 Nº 6 — Prompt 7 (Opinion) · 23-sep
+
+> *Some people think that governments should spend money on improving public transport rather than on building new roads. To what extent do you agree or disagree?*
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+## En qué se diferencia de Discussion
+
+| | Discussion (nº 5) | **Opinion (hoy)** |
+|---|---|---|
+| Postura | Solo en intro y conclusión | **Desde la intro y en todo el ensayo** |
+| Bodies | Uno por visión, voz de terceros | **Los dos defienden TU postura**, con tu voz |
+| Visión contraria | Un body entero | Como mucho **una concesión + refutación** dentro del Body 2 |
+
+**Palabra que carga el peso:** *to what extent*. Se responde con **grado**, no con sí/no: *largely agree · completely agree · agree only partly*.
+
+## Estructura
+
+| | Oraciones | Contenido |
+|---|---|---|
+| **Intro** | 2–3 | Parafrasear + **postura con grado**: *"I largely agree that…"* |
+| **Body 1** | 4 | Topic sentence (razón 1, con *public transport*) → mecanismo → ejemplo → cierre |
+| **Body 2** | 4 | Topic sentence (razón 2) → mecanismo → ejemplo → cierre · *(opcional: "Admittedly, … However, …")* |
+| **Conclusión** | 2–3 | Postura con **el mismo grado** de la intro + la razón más fuerte |
+
+## 🎯 Los 3 patrones de la semana 10 aplicados
+
+1. ⚖️ **Bodies equilibrados**: 4 oraciones y 4 oraciones, ~80–90 palabras cada uno
+2. 🔍 **Barrido final**: los últimos 3 min, solo typos y los 7 falsos amigos (*result · apparently · retire · experimented · offer · employs · supposed*)
+3. ⏱️ **Parar de escribir en el min 31**, aunque falte una oración
+
+## Reparto (40 min)
+
+| Min | Qué |
+|---|---|
+| 0–8 | Planificar: postura + grado · 2 razones · 1 ejemplo por razón |
+| 8–31 | Escribir sin mirar atrás |
+| 31–37 | Corregir: artículos · concordancia (*its/their*, sujeto-verbo) · empalmes de coma · tesis = conclusión |
+| 37–40 | 🔍 Barrido final de palabra |
+
+📏 **250 mínimo · 270–300 objetivo.** Bloc de notas, sin corrector.
+
+<details>
+<summary><b>💡 Ideas — abrir SOLO si te bloqueas planificando</b></summary>
+
+- **A favor del transporte público:** menos tráfico y emisiones · accesible para quien no tiene coche · un metro mueve más personas por euro invertido · las carreteras nuevas generan más tráfico (*induced demand*)
+- **Concesión posible:** en zonas rurales las carreteras siguen siendo necesarias
+- **Léxico:** *congestion · emissions · infrastructure · commuters · affordable · induced demand · long-term investment · rural areas*
+
+</details>
+
+## ✍️ Texto: **PEGAR AQUÍ**
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿Paré en el min 31?** ___ · **¿Barrido final?** ___
+
