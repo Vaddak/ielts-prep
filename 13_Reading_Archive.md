@@ -1889,7 +1889,93 @@ Tetlock found that, on average, experts did only slightly better than **(37)** _
 8. a description of how a particular technique identifies a material
 9. a reason why a proposed alternative may not work in natural conditions
 
-**Respuestas:** 1 ___ · 2 ___ · 3 ___ · 4 ___ · 5 ___ · 6 ___ · 7 ___ · 8 ___ · 9 ___
+**Respuestas:** 1 C · 2 B · 3 D · 4 A · 5 C · 6 F · 7 G · 8 C · 9 H
+**Tiempo real:** 13:40
+
+### ✅ Resultado — 24 sep · **7/9** · 13:40 de 20 min (sobraron 6:20)
+
+| # | Tuya | Clave | |
+|---|---|---|---|
+| 1 | C | C | ✅ *which explains why long-term datasets remain scarce* |
+| 2 | B | B | ✅ *fleece jacket… shed… in one domestic wash* |
+| 3 | D | D | ✅ *surface samples vs cores from the riverbed of the Rhine* |
+| 4 | A | A | ✅ *This assumption began to change in 2012* |
+| 5 | C | **E** | ❌ ver abajo |
+| 6 | F | **H** | ❌ ver abajo |
+| 7 | G | G | ✅ *easy to enforce because the beads served no essential function* |
+| 8 | C | C | ✅ *identifies the polymer by the way it absorbs light* |
+| 9 | H | H | ✅ *biodegradable… may behave much like conventional plastic in a cold river* |
+
+**Letras repetidas:** C (1, 8) y H (6, 9). Hubo párrafos sin usar (F).
+
+**Nº5 (C → E).** C sí describe un método lento, pero *slow* es un inconveniente **del método**, no de *a group of laboratory studies*. La pista estaba en la palabra de categoría + el grupo: E dice *Laboratory experiments have shown…* y luego *Critics point out, however, that these experiments typically use concentrations far higher…* → *limitation* = *critics… however*. **Regla:** la limitación tiene que ser **del sujeto que nombra la pregunta** (estudios de laboratorio).
+
+**Nº6 (F → H).** F habla de un riesgo posible (*could move up the food chain*), pero eso **no es una predicción de niveles** futuros. H: *researchers expect the volume… to keep rising for at least two decades* = *prediction about future levels*. **Regla:** *prediction* = verbo de futuro + **cantidad** (*expect… to rise*). *Could* es posibilidad, no predicción.
+
+**Patrón del día:** en los dos fallos elegiste un párrafo con **una palabra parecida** (*slow*, *could*) sin comprobar que el **sujeto completo** de la pregunta coincidiera. Es la trampa de "la palabra repetida" de la teoría.
+
+---
+
+# 🧩 JUEVES 24 SEP — MATCHING FEATURES + SENTENCE ENDINGS Nº1 · ⏱️ 20 min
+
+> **Autocontenido.** Teoría en `04_Reading_Module.md` (al final). Pasaje de ~650 palabras, 12 preguntas.
+
+## The Science of Sleep and Memory
+
+The idea that sleep helps us remember is far from new. As early as 1924, the American psychologists John Jenkins and Karl Dallenbach asked two students to memorise lists of nonsense syllables and tested them after periods of either sleep or ordinary daytime activity. Recall was consistently better after sleep. Jenkins and Dallenbach, however, interpreted this as a passive effect: sleep, they argued, simply protected memories from the interference caused by new information during waking hours.
+
+This passive view dominated for several decades. It was challenged in the 1990s by the Israeli neuroscientist Avi Karni, who trained volunteers on a visual task and found that performance improved after a night's sleep even without any further practice. Crucially, when participants were woken each time they entered rapid eye movement (REM) sleep, the improvement disappeared. For Karni, this showed that the sleeping brain was actively doing something with the memory, not merely sheltering it.
+
+Research since then has focused on what that "something" might be. The German researcher Jan Born has spent much of his career studying slow-wave sleep, the deepest phase of the night. According to Born, memories are initially stored in the hippocampus, a region that learns quickly but has limited capacity. During slow-wave sleep, he proposes, these memories are replayed and gradually transferred to the cortex, where they become more stable and are linked to existing knowledge. In one of his best-known experiments, volunteers who smelled a rose scent while learning, and smelled it again during slow-wave sleep, remembered considerably more the following day.
+
+Not everyone accepts that sleep's role is so constructive. The American psychiatrist Giulio Tononi has put forward what he calls the synaptic homeostasis hypothesis. During the day, Tononi argues, the connections between neurons grow stronger as we learn, but this growth consumes energy and cannot continue indefinitely. Sleep, in his view, is when the brain weakens most connections, keeping only the strongest. Memory improves not because important traces are reinforced, but because unimportant ones are removed, making the useful signals easier to detect. Tononi does not deny that replay occurs; he simply doubts it is the main mechanism.
+
+Other scientists have concentrated on practical implications. The British researcher Penelope Lewis has examined whether short daytime naps offer the same benefits as a full night. Her studies suggest that a nap of around ninety minutes, long enough to include slow-wave sleep, can produce gains comparable to overnight sleep for some types of learning, particularly the memorisation of facts. Shorter naps, she found, refresh attention but do little for memory.
+
+Meanwhile, Matthew Walker in the United States has warned about the consequences of sleep loss. In one study, students who were kept awake for a whole night showed a forty per cent reduction in their ability to form new memories the following day, compared with those who had slept normally. Walker has argued that this finding has direct relevance for schools, where early start times may force teenagers to study while chronically underslept. Critics, including some of his fellow sleep scientists, have accused him of presenting preliminary findings with more certainty than the data justify.
+
+Despite these disagreements, most researchers now agree on a basic point: sleep is not a period when the brain switches off. Whether it strengthens, reorganises or prunes, the sleeping brain is working on the day's experience.
+
+---
+
+## Preguntas 1–6 · Matching Features
+
+*Match each statement with the correct researcher, **A–F**. **NB** You may use any letter more than once.*
+
+**A** Jenkins and Dallenbach · **B** Avi Karni · **C** Jan Born · **D** Giulio Tononi · **E** Penelope Lewis · **F** Matthew Walker
+
+1. Sleep improves memory by removing weaker information.
+2. A certain duration of sleep is needed for memory benefits.
+3. Interrupting a specific stage of sleep prevented improvement.
+4. Sleep benefits memory mainly by shielding it from new input.
+5. Research findings should influence the organisation of education.
+6. An external cue presented during sleep improved recall.
+
+## Preguntas 7–11 · Matching Sentence Endings
+
+*Complete each sentence with the correct ending, **A–G**.*
+
+7. The results of the 1924 study
+8. The hippocampus
+9. Tononi's hypothesis
+10. Naps shorter than ninety minutes
+11. Some of Walker's colleagues
+
+**A** can store information rapidly but not in large amounts.
+**B** accepts that memories are replayed during sleep.
+**C** believe his conclusions go beyond the evidence.
+**D** were explained without reference to any activity in the brain.
+**E** improve alertness rather than memory.
+**F** is where memories become permanently linked to existing knowledge.
+**G** have failed to be repeated in later experiments.
+
+## Pregunta 12 · 🔁 repaso Y/N/NG (instrucción: ¡léela!)
+
+*Does the following statement agree with the claims of the writer? Write **YES**, **NO** or **NOT GIVEN**.*
+
+12. Scientists now broadly agree that the brain remains active during sleep.
+
+**Respuestas:** 1 ___ · 2 ___ · 3 ___ · 4 ___ · 5 ___ · 6 ___ · 7 ___ · 8 ___ · 9 ___ · 10 ___ · 11 ___ · 12 ___
 **Tiempo real:** ___
 
-> 🔑 La clave te la doy en el chat cuando me pegues las respuestas.
+> 🔑 La clave te la doy en el chat.

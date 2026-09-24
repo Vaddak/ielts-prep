@@ -10,9 +10,9 @@
 
 | # | Min | Tarea | Estado |
 |---|---|---|---|
-| 1 | 10 | Teoría Matching Information (`04_Reading_Module.md`, al final) | 👉 ahora |
-| 2 | 20 | Matching Information nº1, 9 preguntas (`13_Reading_Archive.md`, al final) | [ ] |
-| 3 | 25 | Matching Features + Matching Sentence Endings | [ ] |
+| 1 | 10 | Teoría Matching Information | ✅ |
+| 2 | 20 | Matching Information nº1 | ✅ **7/9** en 13:40 |
+| 3 | 25 | Teoría + Matching Features y Sentence Endings nº1, 12 preguntas (`13_Reading_Archive.md`, al final) | 👉 ahora |
 
 **Reglas del simulacro del 23:** leer la instrucción de cada bloque · *showed/found* ≠ NG · heading = párrafo entero.
 

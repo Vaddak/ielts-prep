@@ -762,3 +762,32 @@ Cada afirmación empieza con un sustantivo que dice **qué tipo de frase** busca
 - 🔴 **La palabra repetida**: la palabra clave aparece en un párrafo **sin** la categoría pedida (se menciona *cost*, pero la pregunta pide *a comparison of costs*)
 - 🔴 **"Letra usada = descartada"**: falso, pueden repetirse
 - 🔴 **Formato**: la respuesta es **una letra**, no un número ni una frase
+
+## 🆕 SUB-REGLA (24-sep) — Matching Information: el sujeto completo
+La categoría (*limitation, prediction*) tiene que aplicarse **al sujeto que nombra la pregunta**.
+- *a limitation of **laboratory studies*** → no vale un método lento en otro párrafo; busca *critics… however* **sobre esos estudios**
+- *a **prediction** about future **levels*** → verbo de futuro + cantidad (*expect… to keep rising*). *Could* = posibilidad, no predicción
+
+
+---
+
+# 🧩 MATCHING FEATURES + MATCHING SENTENCE ENDINGS — teoría · 24-sep
+
+## Matching Features
+Te dan una **lista de personas, lugares o fechas** (A, B, C…) y unas afirmaciones. Hay que decir **quién dijo o hizo qué**.
+
+**Método:**
+1. **Escanea primero los nombres** en el texto y enciérralos. Son fáciles de encontrar (mayúsculas, fechas)
+2. Una persona puede aparecer **en varios lugares** del texto: lee **todo** lo que se dice de ella
+3. Las afirmaciones **no van en orden**; las opciones **se pueden repetir** y algunas sobran
+4. 🔴 **Trampa:** el texto cita a A **hablando de** la idea de B. La idea pertenece a quien la **sostiene**, no a quien la nombra (*Smith rejected Lee's claim that…* → la afirmación es de **Lee**)
+
+## Matching Sentence Endings
+Te dan el **inicio de una oración** (preguntas) y una lista de **finales** (A–G). Hay más finales que preguntas.
+
+**Método:**
+1. **Sí van en orden** del texto
+2. Localiza el inicio en el texto con su palabra clave
+3. Elige el final que dice **lo mismo que el texto**, no el que solo suena bien
+4. 🔴 **Doble filtro:** primero descarta los finales que **no encajan gramaticalmente** (verbo, singular/plural). Suelen quedar 2 o 3. Luego decide **con el texto**
+5. 🔴 **Trampa:** varios finales son **verdaderos según el texto**, pero corresponden a **otro inicio**. La unión tiene que ser la que el texto hace
