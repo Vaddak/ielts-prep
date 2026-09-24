@@ -721,3 +721,44 @@ El *reported* + ausencia de objeción = el autor hace suyo el hallazgo. Y de hec
 3. ¿Es postura ajena citada sin marcador de aprobación? → NG
 4. ¿Es postura ajena que el autor plantea para tumbar? → mirar después del *but/however/misplaced*
 
+---
+
+# 🧩 MATCHING INFORMATION — teoría (10 min) · 24-sep
+
+## Qué es
+*"Which paragraph contains the following information?"* Te dan afirmaciones y hay que decir **en qué párrafo (A, B, C…)** aparece cada una.
+
+## En qué se diferencia de Matching Headings
+| Headings | Matching Information |
+|---|---|
+| Resume **todo** el párrafo | Es **un detalle** de una o dos oraciones |
+| Cada párrafo tiene un heading | Hay párrafos que **no se usan** y otros que **se usan dos veces** (*NB You may use any letter more than once*) |
+| Suelen cubrir los párrafos en orden | **NO van en orden** |
+
+⚠️ Aquí tu patrón *"el heading cubre solo una oración"* **se invierte**: en Matching Information la respuesta **sí** está en una sola oración. No busques el tema del párrafo: busca **el dato**.
+
+## El sustantivo de categoría
+Cada afirmación empieza con un sustantivo que dice **qué tipo de frase** buscar:
+
+| La pregunta dice… | Busca en el texto… |
+|---|---|
+| *a reference to / a mention of* | cualquier alusión |
+| *an example of* | *for instance, such as*, un caso concreto |
+| *a reason for / an explanation of* | *because, due to, since, which explains why* |
+| *a comparison between* | *whereas, than, unlike, ten times as many* |
+| *a description of a method / process* | pasos: *first, then, is placed, is measured* |
+| *a prediction* | *will, is expected to, for the next two decades* |
+| *a criticism / a limitation* | *however, critics, fail, drawback* |
+| *a figure / statistic* | un número |
+
+## El método (en este orden)
+1. **Lee las afirmaciones primero** y subraya: ① el sustantivo de categoría ② una palabra clave rara (nombre, número, término técnico)
+2. **En el examen, deja este bloque para el final** del pasaje: resuelve antes los otros bloques y así ya conoces el texto
+3. Lee **párrafo por párrafo** y, al terminar cada uno, pregunta: *¿alguna afirmación está aquí?*
+4. Las pistas vienen **parafraseadas**: *a decline in funding* = *budgets were cut*
+5. Si la categoría no coincide, **no es**: si la pregunta pide *a reason* y el párrafo da el dato sin el porqué, sigue buscando
+
+## Las trampas
+- 🔴 **La palabra repetida**: la palabra clave aparece en un párrafo **sin** la categoría pedida (se menciona *cost*, pero la pregunta pide *a comparison of costs*)
+- 🔴 **"Letra usada = descartada"**: falso, pueden repetirse
+- 🔴 **Formato**: la respuesta es **una letra**, no un número ni una frase

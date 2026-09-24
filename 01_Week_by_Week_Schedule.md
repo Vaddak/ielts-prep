@@ -6,38 +6,15 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — jueves 24 de septiembre
+## 👉 RETOMAR AQUÍ — jueves 24 sep · Matching
 
-**Miércoles 23 ✅✅✅✅** — el día del avance:
+| # | Min | Tarea | Estado |
+|---|---|---|---|
+| 1 | 10 | Teoría Matching Information (`04_Reading_Module.md`, al final) | 👉 ahora |
+| 2 | 20 | Matching Information nº1, 9 preguntas (`13_Reading_Archive.md`, al final) | [ ] |
+| 3 | 25 | Matching Features + Matching Sentence Endings | [ ] |
 
-| | Resultado |
-|---|---|
-| Post-mortem semana 9 | ✅ |
-| Task 1 nº 5 (tabla) | **v4 ~7** — modelo de referencia |
-| Task 2 nº 6 (Opinion) | **v3 ~6.5/7** |
-| 🎯 **Reading completo nº 1** | **34/40 → ~Band 7.5** (42 de 60 min) |
-
-> *"Por primera vez siento que sí avancé, tanto en reading como en writing."*
-
-### ⚠️ Tres reglas nuevas del Reading completo
-1. **Antes de cada bloque, leer la instrucción y decir en voz baja "Yes-No" o "True-False"** (3ª vez que escribe T/F en un Y/N/NG)
-2. ***showed / found / demonstrated* sin *but* después → YES o NO, nunca NG** (2ª vez)
-3. **El heading cubre el párrafo entero**, no la frase más llamativa (3ª vez)
-
----
-
-### Jueves 24 — los tipos de Reading que faltan
-
-| # | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 10 | Teoría **Matching Information** (¿qué párrafo contiene X?) |
-| [ ] 2 | 20 | Ejercicio Matching Information cronometrado |
-| [ ] 3 | 25 | **Matching Features + Matching Sentence Endings** (teoría corta + ejercicio) |
-
-### Lo que viene después
-- Table / Flow-chart / Diagram completion + Short-answer questions
-- 🔴 **Simulacro nº 2 con pasajes de longitud real** (~800 palabras cada uno) — medir el ritmo real
-- Writing: mantener un Task 1 y un Task 2 por semana (patrones: bodies equilibrados · barrido final · parar en el min 31)
+**Reglas del simulacro del 23:** leer la instrucción de cada bloque · *showed/found* ≠ NG · heading = párrafo entero.
 
 **En semana hay tiempo extra: no omitir nada y pedir más ejercicios si sobra.**
 

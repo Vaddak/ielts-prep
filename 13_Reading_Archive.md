@@ -1848,3 +1848,48 @@ Tetlock found that, on average, experts did only slightly better than **(37)** _
 - **Hecho endosado** (31): *research… showed that* = afirmación del autor (sub-regla del 17-sep, 2ª vez)
 - **Formato**: 3ª vez que usa T/F en un Y/N/NG
 - **Tiempo**: 42 min con pasajes ~40 % más cortos que los reales → al ritmo real serían ~58–60 min
+
+---
+
+# 🧩 JUEVES 24 SEP — MATCHING INFORMATION Nº1 · ⏱️ 20 min
+
+> **Autocontenido.** Lee antes la teoría en `04_Reading_Module.md` (§ Matching Information, al final). Pasaje de ~720 palabras (**longitud real**).
+
+## Microplastics in Freshwater
+
+**A** For decades, research on plastic pollution focused almost exclusively on the oceans, where floating debris was easy to photograph and quantify. Rivers and lakes were assumed to be little more than channels carrying waste to the sea. This assumption began to change in 2012, when a team sampling the Laurentian Great Lakes in North America found particle concentrations comparable to, and in some locations higher than, those recorded in the notorious Pacific garbage patch.
+
+**B** Microplastics are generally defined as fragments smaller than five millimetres. Some are manufactured at that size, such as the abrasive beads once common in facial scrubs, while the majority are secondary particles formed as larger items break down under sunlight and friction. A single synthetic fleece jacket, according to one laboratory study, can shed more than a thousand fibres in one domestic wash, and most wastewater plants are not designed to retain particles that small.
+
+**C** Measuring how much plastic a river contains is surprisingly difficult. The standard approach involves towing a fine net behind a boat, drying the collected material, and then examining each fragment under a microscope. Suspected plastics are confirmed using infrared spectroscopy, which identifies the polymer by the way it absorbs light. The process is slow: a single sample may take a trained technician an entire day to analyse, which explains why long-term datasets remain scarce.
+
+**D** Moreover, nets capture only what floats near the surface. Denser polymers, such as PVC, sink quickly and accumulate in sediments, where they may remain for centuries. When researchers in Germany compared surface samples with cores taken from the riverbed of the Rhine, they found that the sediment contained roughly ten times as many particles per unit volume. Estimates based solely on surface sampling, they concluded, almost certainly understate the true scale of the problem.
+
+**E** The biological consequences are still being established. Laboratory experiments have shown that freshwater invertebrates such as water fleas ingest microplastics readily, apparently mistaking them for algae. Individuals that consumed large quantities grew more slowly and produced fewer offspring. Critics point out, however, that these experiments typically use concentrations far higher than those found in natural waters, so their relevance to wild populations remains uncertain.
+
+**F** A more immediate concern for many scientists is the role of plastic particles as carriers. Their surfaces readily absorb persistent chemicals, including pesticides and industrial compounds, which can reach concentrations on a particle up to a million times higher than in the surrounding water. Because fish feed on invertebrates, and humans eat fish, there is a plausible route by which these contaminants could move up the food chain, although the extent to which this happens in practice has not been quantified.
+
+**G** Policy responses have so far been uneven. Several countries, among them Canada, the United Kingdom and New Zealand, banned microbeads in cosmetics between 2015 and 2018, a measure that was relatively easy to enforce because the beads served no essential function. Fibres from clothing present a harder challenge. France has passed legislation requiring all new washing machines sold from 2025 to be fitted with microfibre filters, but most governments have yet to follow its lead, partly because manufacturers argue that the filters raise costs for consumers.
+
+**H** Looking ahead, researchers expect the volume of plastic entering freshwater systems to keep rising for at least two decades, driven by growing consumption in rapidly urbanising regions. Some are optimistic about biodegradable alternatives, yet these materials often break down only under the high temperatures of industrial composting and may behave much like conventional plastic in a cold river. Most specialists therefore argue that reducing the use of plastic at source will do more than any clean-up technology.
+
+---
+
+## Preguntas 1–9
+
+*Which paragraph, **A–H**, contains the following information? Write the correct letter. **NB** You may use any letter more than once.*
+
+1. a reason why little long-term data exists
+2. an example of a product that releases plastic during normal use
+3. a comparison between two locations in a single river
+4. a reference to a finding that changed the view of where plastic pollution occurs
+5. a limitation of a group of laboratory studies
+6. a prediction about future levels of plastic pollution
+7. an explanation of why one type of regulation was simple to introduce
+8. a description of how a particular technique identifies a material
+9. a reason why a proposed alternative may not work in natural conditions
+
+**Respuestas:** 1 ___ · 2 ___ · 3 ___ · 4 ___ · 5 ___ · 6 ___ · 7 ___ · 8 ___ · 9 ___
+**Tiempo real:** ___
+
+> 🔑 La clave te la doy en el chat cuando me pegues las respuestas.
