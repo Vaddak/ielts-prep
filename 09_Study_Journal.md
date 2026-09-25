@@ -1303,3 +1303,10 @@ Lo que lo respalda en datos: Reading ya en la banda meta en el primer simulacro 
 
 Abiertos para la semana: hecho endosado leído como NG (2ª vez) · T/F en Y/N/NG (3ª vez) · heading de una sola oración (3ª vez) · ritmo con pasajes de longitud real.
 
+### 2026-09-24 — Matching Information (tipo nuevo)
+
+- Teoría Matching Information ✅ · ejercicio nº1 (~720 palabras, longitud real): **7/9 en 13:40 de 20**
+- Fallos 5 y 6: eligió por una palabra parecida (*slow*, *could*) sin comprobar el sujeto completo → sub-regla nueva
+- Dijo que "no fue tan intuitivo": es el cambio de chip respecto a Headings (aquí la respuesta sí está en una sola oración)
+- Teoría Matching Features + Sentence Endings leída ✅. **Ejercicio de 12 preguntas pendiente en casa**
+

@@ -12,7 +12,8 @@
 |---|---|---|---|
 | 1 | 10 | Teoría Matching Information | ✅ |
 | 2 | 20 | Matching Information nº1 | ✅ **7/9** en 13:40 |
-| 3 | 25 | Teoría + Matching Features y Sentence Endings nº1, 12 preguntas (`13_Reading_Archive.md`, al final) | 👉 ahora |
+| 3a | 5 | Teoría Matching Features + Sentence Endings | ✅ leída |
+| 3b | 20 | ⏱️ Ejercicio *The Science of Sleep and Memory*, 12 preguntas (`13_Reading_Archive.md`, al final) | 👉 **en casa**: pegar respuestas + tiempo en el chat |
 
 **Reglas del simulacro del 23:** leer la instrucción de cada bloque · *showed/found* ≠ NG · heading = párrafo entero.
 
