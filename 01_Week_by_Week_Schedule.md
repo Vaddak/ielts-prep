@@ -6,18 +6,60 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — jueves 24 sep · Matching
+## 👉 RETOMAR AQUÍ — domingo 27 sep · la deuda real es Listening
 
-| # | Min | Tarea | Estado |
-|---|---|---|---|
-| 1 | 10 | Teoría Matching Information | ✅ |
-| 2 | 20 | Matching Information nº1 | ✅ **7/9** en 13:40 |
-| 3a | 5 | Teoría Matching Features + Sentence Endings | ✅ leída |
-| 3b | 20 | ⏱️ Ejercicio *The Science of Sleep and Memory*, 12 preguntas (`13_Reading_Archive.md`, al final) | 👉 **en casa**: pegar respuestas + tiempo en el chat |
+**Semana 10 (21–27 sep) en los hechos:** Reading completo **34/40 ≈ Band 7.5** · Task 1 nº5 → ~7 · Task 2 nº5 y nº6 → ~6.5/7 · Matching Information **7/9**. **Semana excelente.**
 
-**Reglas del simulacro del 23:** leer la instrucción de cada bloque · *showed/found* ≠ NG · heading = párrafo entero.
+> # 🔴 PERO la semana 10 del cronograma era LISTENING, y no se tocó.
+> **Listening: 0 prácticas en toda la preparación.** El módulo se leyó el 6 de agosto y desde entonces no hay un solo ejercicio, un solo puntaje ni una sola fila en el error log.
+> **Speaking:** módulo leído el 9 de agosto, **0 grabaciones**.
+>
+> **Quedan 6 semanas** (examen: sábado 7 de noviembre). **Dos de los cuatro módulos siguen sin medir.**
 
-**En semana hay tiempo extra: no omitir nada y pedir más ejercicios si sobra.**
+---
+
+### El plan de hoy
+
+| | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 20 | ⏱️ **Matching Features + Sentence Endings** — *The Science of Sleep and Memory*, 12 preguntas *(final de `13_Reading_Archive.md`)* — **deuda del jueves 24** |
+| [ ] 2 | 15 | 🎧 **Listening — primer diagnóstico.** Una Sección 1 + una Sección 4 con audio real |
+| [ ] 3 | 10 | Registrar y reordenar las 6 semanas que quedan |
+
+**La deuda de Reading es UNA sola tarea.** Todo lo demás de vie/sáb/dom estaba asignado a Listening, que se replanifica entero.
+
+---
+
+## 🎧 LISTENING — por qué esto es lo urgente ahora
+
+| Módulo | Estado | Medido |
+|---|---|---|
+| **Reading** | ✅ **en la meta** — 34/40 ≈ 7.5 | sí |
+| **Writing** | ⚠️ ~6.5–7 corregido, ~6 en frío | sí |
+| **Listening** | 🔴 **sin tocar** | **no** |
+| **Speaking** | 🔴 **sin tocar** *(módulo leído)* | **no** |
+
+**La banda global es el promedio de las cuatro.** Con Reading 7.5 y Writing 6.5, para un global de 7.5 hacen falta Listening y Speaking **altos** — y hoy no se sabe ni de qué punto se parte.
+
+**La buena noticia:** Listening es, para un perfil como el suyo, **el módulo que más rápido sube**. Las trampas son mecánicas (ortografía, números, singular/plural, corrección en el aire) y se cierran con repetición, no con años de inglés.
+
+### 🔴 Lo que NO puedo hacer yo
+
+**No puedo reproducir audio.** El Listening necesita una fuente externa. Las tres que sirven:
+
+| Fuente | Qué es |
+|---|---|
+| **`ieltsonlinetests.com`** | Tests completos gratis, con audio y corrección automática. **El más práctico para empezar** |
+| **Cambridge IELTS 15–19** | El material oficial. Audios completos en YouTube buscando *"Cambridge IELTS 18 Listening Test 1"* |
+| **British Council — *Take IELTS*** | Una prueba oficial gratuita, formato idéntico al examen |
+
+### Lo que sí hago yo, y es la mitad del trabajo
+
+- **La técnica antes de escuchar** — predicción, tipo de respuesta esperada, las trampas de cada sección
+- **El post-mortem de cada test** — clasificar cada error en *comprensión* vs *trampa mecánica*, que son dos problemas distintos con dos remedios distintos
+- **El registro** en `07_Error_Log.md` y `08_Mock_Exam_Tracker.md`, igual que con Reading
+
+> ⚠️ **El dato de logística que ya está anotado y cambia la práctica:** el examen es por computador → **2 minutos de revisión al final, no 10**, y **sin corrector ortográfico**. Las respuestas se escriben **mientras** se escucha.
 
 ---
 
