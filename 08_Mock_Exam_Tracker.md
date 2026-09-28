@@ -9,6 +9,7 @@
 | Mock | Date | Listening | Reading | Writing | Speaking | **Overall** |
 |---|---|---|---|---|---|---|
 | Diagnostic (Wk 2) | | | | | | |
+| **Parciales** | **Sep 2026** | **6.0** *(27-sep, ½ test)* | **7.5** *(23-sep)* | ~6.5 | — | **~6.5–7** |
 | Mock #1 (Wk 15) | | | | | | |
 | Mock #2 (Wk 17) | | | | | | |
 | Mock #3 (Wk 19) | | | | | | |
@@ -295,6 +296,45 @@ Las tres pérdidas de banda del día **nacen todas antes de escribir la primera 
 ### Am I on track for 7.5?
 
 ### Any last adjustments before exam day?
+
+---
+
+## 🎧 PRIMERA MEDICIÓN DE LISTENING — 27 de septiembre de 2026
+
+**Cambridge IELTS 18, Test 1.** Secciones **1** (la más fácil) y **4** (la más difícil) — los dos extremos.
+**Primer contacto con el módulo en toda la preparación.**
+
+| Sección | Aciertos | |
+|---|---|---|
+| **Sección 1** — *Transport survey* | **7/10** | errores: 1 · 2 · 7 |
+| **Sección 4** — *Elephant translocation* | **5/10** | errores: 31 · 35 · 37 · 38 · 39 |
+| **TOTAL** | **12/20 = 60%** | **≈ Band 6.0** *(24/40 equivalente)* |
+
+### 🎯 Lo que hace que este 6.0 sea una buena noticia
+
+**6 de los 8 errores no son de comprensión:** 3 casillas en blanco, 2 números (*thirty/thirteen*, *22/24*) y 1 de ortografía (*FANCES* por *fences*). **Solo 2 son de escucha real** — y las dos rozaron la respuesta (*chests* por *sides*, *community* por *employment*).
+
+> **Cerrando solo blancos + números + ortografía: 12/20 → 16–18/20 ≈ Band 7–8.**
+> **Sin mejorar una sola palabra de inglés.**
+
+### Los cuatro módulos, por fin todos medidos
+
+| Módulo | Banda | Medido |
+|---|---|---|
+| **Reading** | **7.5** | 23-sep, test completo 34/40 |
+| **Writing** | ~6.5–7 corregido · ~6 en frío | 23-sep |
+| **Listening** | **6.0** | **27-sep** *(media prueba)* |
+| **Speaking** | — | 🔴 **sin medir** |
+
+**Global estimado con lo que hay: ~6.5–7.** Meta: **7.5**.
+
+### Las tres prioridades que salen del diagnóstico
+
+1. 🔴 **Cero casillas en blanco** — 3 puntos gratis perdidos hoy
+2. 🔴 **Números** — *-teen* vs *-ty*, drill corto y repetido
+3. 🔴 **Ortografía al escribir mientras escucha** — sin corrector en el examen
+
+⚠️ **Sesgo de la medición:** se hicieron las secciones 1 y 4 saltando la 2 y la 3, que son de dificultad intermedia. La estimación es orientativa; **la medición buena es el test completo de 40 preguntas**.
 
 ---
 

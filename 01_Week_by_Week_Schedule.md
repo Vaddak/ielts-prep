@@ -6,60 +6,77 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — domingo 27 sep · la deuda real es Listening
+## 👉 RETOMAR AQUÍ — lunes 28 sep · Listening, las tres reglas mecánicas
 
-**Semana 10 (21–27 sep) en los hechos:** Reading completo **34/40 ≈ Band 7.5** · Task 1 nº5 → ~7 · Task 2 nº5 y nº6 → ~6.5/7 · Matching Information **7/9**. **Semana excelente.**
-
-> # 🔴 PERO la semana 10 del cronograma era LISTENING, y no se tocó.
-> **Listening: 0 prácticas en toda la preparación.** El módulo se leyó el 6 de agosto y desde entonces no hay un solo ejercicio, un solo puntaje ni una sola fila en el error log.
-> **Speaking:** módulo leído el 9 de agosto, **0 grabaciones**.
->
-> **Quedan 6 semanas** (examen: sábado 7 de noviembre). **Dos de los cuatro módulos siguen sin medir.**
+**Domingo 27 ✅ doble cierre.**
+🏆 **Matching Features + Sentence Endings: 12/12 en 15:14** → **todos los tipos de Reading vistos y practicados**.
+🎧 **Primera medición de Listening: 12/20 = 60% ≈ Band 6.0** *(Cambridge 18 T1, secciones 1 y 4)*.
 
 ---
 
-### El plan de hoy
+## 📊 LOS CUATRO MÓDULOS — por fin casi todos medidos
+
+| Módulo | Banda | |
+|---|---|---|
+| **Reading** | **7.5** | ✅ en la meta → pasa a mantenimiento |
+| **Writing** | ~6.5–7 corregido · **~6 en frío** | la brecha frío/corregido es la métrica |
+| **Listening** | **6.0** | 🆕 primera medición |
+| **Speaking** | — | 🔴 **sin medir, 0 grabaciones** |
+
+**Global estimado ~6.5–7. Meta 7.5.** Quedan **6 semanas** (examen: sábado 7 nov).
+
+---
+
+## 🎯 EL DIAGNÓSTICO DE LISTENING — 6 de 8 errores no son de inglés
+
+| Categoría | Nº | ¿Más inglés lo arregla? |
+|---|---|---|
+| 🔴 Casillas **en blanco** (7 · 37 · 39) | **3** | **No** |
+| 🔴 **Números** (#1 *DW13/DW30* · #2 *22/24*) | **2** | **No** |
+| 🔴 **Ortografía** (#31 `FANCES` / *fences*) | **1** | **No** |
+| ⚠️ Comprensión (#35 *chests/sides* · #38 *community/employment*) | **2** | Sí — y las dos rozaron |
+
+> # Cerrando blancos + números + ortografía: **12/20 → 16–18/20 ≈ Band 7–8.**
+> **Sin mejorar una sola palabra de inglés.**
+
+### 🔴 LAS TRES REGLAS — se aplican desde el próximo audio
+
+1. **CERO CASILLAS EN BLANCO.** En Listening **no hay penalización por error**. Vacía vale 0; adivinada vale 0 o 1. Si no oíste nada, escribe **una palabra plausible del tipo correcto**
+2. **SI PIERDES UN HUECO, SALTA AL SIGUIENTE.** Las tres en blanco cayeron al **final de cada bloque**: quedarse pegada arrastra las siguientes. **El ojo por delante del audio, nunca por detrás**
+3. **NÚMEROS: escribir en el momento y releer.** ***-teen*** lleva el acento **al final** (*thir-TEEN*); ***-ty*** al **principio** (*THIR-ty*)
+
+⚠️ **Y la regla de la paráfrasis (#38):** en Listening la respuesta es **la palabra literal del audio**. *community* captaba el tema; la palabra era *employment*. Igual que en Reading: *"choose from the passage"*.
+
+---
+
+## 📅 EL PLAN DE LAS 6 SEMANAS — reordenado
+
+**Reading pasa a mantenimiento. Listening y Speaking pasan al centro.**
+
+| Semana | Foco |
+|---|---|
+| **Sep 28 – Oct 4** | 🎧 **Listening intensivo** — secciones 2 y 3 (sin tocar) + drill de números + 1 test completo el sábado · Writing 1 tarea · Reading 1 pasaje |
+| **Oct 5 – 11** | 🎤 **Speaking** Partes 1 y 2, grabando · Listening 2 tests · Writing 1 tarea |
+| **Oct 12 – 18** | 🎤 Speaking Parte 3 + mock de Speaking · Listening 2 tests · Writing 1 tarea |
+| **Oct 19 – 25** | 🏁 **Mock completo nº1** (4 módulos, condiciones reales) + post-mortem |
+| **Oct 26 – Nov 1** | Trabajo dirigido sobre lo que falle el mock · Mock nº2 |
+| **Nov 2 – 7** | Repaso ligero, sin material nuevo. **Descanso el viernes 6** |
+
+### 👉 ACCIÓN PENDIENTE — vale horas de material
+
+**Revisar el correo de confirmación de la inscripción y activar el acceso gratuito** (*Road to IELTS — Last Minute* en British Council, o *IELTS Ready Member* en IDP). **Trae tests de Listening completos con audio oficial.** Ya está pagado.
+
+---
+
+## 🎧 EL PLAN DEL LUNES 28 (~35 min)
 
 | | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 20 | ⏱️ **Matching Features + Sentence Endings** — *The Science of Sleep and Memory*, 12 preguntas *(final de `13_Reading_Archive.md`)* — **deuda del jueves 24** |
-| [ ] 2 | 15 | 🎧 **Listening — primer diagnóstico.** Una Sección 1 + una Sección 4 con audio real |
-| [ ] 3 | 10 | Registrar y reordenar las 6 semanas que quedan |
+| [ ] 1 | 10 | 🔢 **Drill de números** — dictado de 20 números y fechas, con *-teen/-ty* mezclados |
+| [ ] 2 | 20 | 🎧 **Cambridge 18 T1, Secciones 2 y 3** — las dos que faltan, para completar el test |
+| [ ] 3 | 5 | Registrar. **Aplicar las tres reglas: cero blancos, saltar, números** |
 
-**La deuda de Reading es UNA sola tarea.** Todo lo demás de vie/sáb/dom estaba asignado a Listening, que se replanifica entero.
-
----
-
-## 🎧 LISTENING — por qué esto es lo urgente ahora
-
-| Módulo | Estado | Medido |
-|---|---|---|
-| **Reading** | ✅ **en la meta** — 34/40 ≈ 7.5 | sí |
-| **Writing** | ⚠️ ~6.5–7 corregido, ~6 en frío | sí |
-| **Listening** | 🔴 **sin tocar** | **no** |
-| **Speaking** | 🔴 **sin tocar** *(módulo leído)* | **no** |
-
-**La banda global es el promedio de las cuatro.** Con Reading 7.5 y Writing 6.5, para un global de 7.5 hacen falta Listening y Speaking **altos** — y hoy no se sabe ni de qué punto se parte.
-
-**La buena noticia:** Listening es, para un perfil como el suyo, **el módulo que más rápido sube**. Las trampas son mecánicas (ortografía, números, singular/plural, corrección en el aire) y se cierran con repetición, no con años de inglés.
-
-### 🔴 Lo que NO puedo hacer yo
-
-**No puedo reproducir audio.** El Listening necesita una fuente externa. Las tres que sirven:
-
-| Fuente | Qué es |
-|---|---|
-| **`ieltsonlinetests.com`** | Tests completos gratis, con audio y corrección automática. **El más práctico para empezar** |
-| **Cambridge IELTS 15–19** | El material oficial. Audios completos en YouTube buscando *"Cambridge IELTS 18 Listening Test 1"* |
-| **British Council — *Take IELTS*** | Una prueba oficial gratuita, formato idéntico al examen |
-
-### Lo que sí hago yo, y es la mitad del trabajo
-
-- **La técnica antes de escuchar** — predicción, tipo de respuesta esperada, las trampas de cada sección
-- **El post-mortem de cada test** — clasificar cada error en *comprensión* vs *trampa mecánica*, que son dos problemas distintos con dos remedios distintos
-- **El registro** en `07_Error_Log.md` y `08_Mock_Exam_Tracker.md`, igual que con Reading
-
-> ⚠️ **El dato de logística que ya está anotado y cambia la práctica:** el examen es por computador → **2 minutos de revisión al final, no 10**, y **sin corrector ortográfico**. Las respuestas se escriben **mientras** se escucha.
+**Al terminar la 2 y la 3 tendremos el test completo de 40 preguntas y la banda real de Listening**, no la estimada.
 
 ---
 

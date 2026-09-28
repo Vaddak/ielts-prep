@@ -1342,6 +1342,19 @@ Al buscar qué se había omitido de verdad en la semana, el hallazgo no fue Read
 
 **Quedan 6 semanas** (examen: sábado 7 de noviembre). La banda global es el promedio de los cuatro. El esfuerzo de siete semanas fue real y dio resultados reales — **pero se concentró en los dos módulos que ya se estaban midiendo.**
 
+### 🎧 Y el mismo día se hizo la primera medición
+
+**Cambridge 18, Test 1, Secciones 1 y 4: 12/20 = 60% ≈ Band 6.0.** Los cuatro módulos ya tienen número, menos Speaking.
+
+**Pero el número importa menos que el reparto de los 8 errores:** 3 casillas **en blanco**, 2 de **números** (*DW13* por *DW30*, *22* por *24 April*), 1 de **ortografía** (`FANCES` por *fences*) y **solo 2 de comprensión real** — y las dos rozaron (*chests* por *sides*, *community* por *employment*).
+
+> **Cerrando blancos, números y ortografía: 12/20 → 16–18/20 ≈ Band 7–8, sin mejorar una palabra de inglés.**
+
+Las tres en blanco cayeron **al final de cada bloque de preguntas** — el patrón anunciado antes de empezar: quedarse pegada en un hueco perdido arrastra los siguientes.
+
 **Limitación operativa registrada:** el Listening necesita **audio externo** (ieltsonlinetests.com · Cambridge IELTS 15–19 en YouTube · British Council *Take IELTS*). Lo que sí se hace aquí: la técnica previa, el post-mortem separando **fallo de comprensión** de **trampa mecánica**, y el registro.
 
 **Cómo me sentí:** —
+
+
+**Y el examen ya está comprado:** IELTS Academic, sábado 7 de noviembre, por computador. Queda activar el material oficial gratuito que viene con la inscripción (*Road to IELTS* / *IELTS Ready Member*), que trae tests de Listening con audio oficial.

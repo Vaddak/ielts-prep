@@ -30,9 +30,37 @@ After every timed practice or mock exam:
 
 ## Listening Errors
 
-| Date | Section (1–4) | Question Type | What I Got Wrong | Why the Correct Answer Was Right | Pattern? |
+> 🎧 **Primera medición: 27 de septiembre de 2026.** Cambridge 18, Test 1, Secciones 1 y 4. **12/20 = 60% ≈ Band 6.0.**
+> **6 de los 8 errores NO son de comprensión.** Detalle abajo.
+
+| Date | Section | Question Type | What I Got Wrong | Why the Correct Answer Was Right | Pattern? |
 |---|---|---|---|---|---|
-| | | | | | |
+| 2026-09-27 | 1 | Note completion | **#1 postcode:** escribió `DW13 7YZ`, era **`DW30 7YZ`** | *thirty* ≠ *thirteen* | 🔴 **NÚMEROS — la trampa -teen/-ty.** Categoría nº1 |
+| 2026-09-27 | 1 | Note completion | **#2 fecha:** escribió `22 April`, era **`24 April`** | — | 🔴 **NÚMEROS.** 2ª ocurrencia el mismo día |
+| 2026-09-27 | 1 | Note completion | **#7 EN BLANCO.** Era **`evening`** | *frequency of buses in the evening* | 🔴 **BLANCOS.** Y en la Sección 1, la más fácil |
+| 2026-09-27 | 4 | Note completion | **#31:** escribió `FANCES`, era **`fences`** | Daño a las **cercas** del parque | 🔴 **ORTOGRAFÍA.** La oyó bien; la perdió al escribir |
+| 2026-09-27 | 4 | Note completion | **#35:** escribió `chests`, era **`sides`** | *turned on their **sides** to avoid damage to their lungs* | ⚠️ **COMPRENSIÓN** — parte del cuerpo equivocada |
+| 2026-09-27 | 4 | Note completion | **#37 EN BLANCO.** Era **`feet`** | *data including the size of their tusks and **feet*** | 🔴 **BLANCOS** |
+| 2026-09-27 | 4 | Note completion | **#38:** escribió `community`, era **`employment`** | *employment opportunities* | ⚠️ **COMPRENSIÓN / paráfrasis** — captó el tema, no la palabra. **La respuesta es la palabra literal del audio** |
+| 2026-09-27 | 4 | Note completion | **#39 EN BLANCO.** Era **`weapons`** | *a reduction in the number of poachers and **weapons*** | 🔴 **BLANCOS.** 3ª del día |
+
+### 🎯 EL DIAGNÓSTICO — 6 de 8 errores no son de inglés
+
+| Categoría | Nº | Preguntas | ¿Se arregla con más inglés? |
+|---|---|---|---|
+| 🔴 **Blancos** | **3** | 7 · 37 · 39 | **No.** En Listening **no hay penalización**: una casilla vacía vale 0, una adivinada vale 0 o 1 |
+| 🔴 **Números** | **2** | 1 · 2 | **No.** *thirty/thirteen*, *fifty/fifteen* — drill de 10 minutos |
+| 🔴 **Ortografía** | **1** | 31 | **No.** La oyó bien. El examen no tiene corrector |
+| ⚠️ **Comprensión** | **2** | 35 · 38 | Sí, pero las dos rozaron: parte del cuerpo vecina y sinónimo del tema |
+
+> ## Techo inmediato, sin mejorar una sola palabra de inglés:
+> **12/20 → 16–18/20 (80–90%) ≈ Band 7–8**, solo cerrando blancos, números y ortografía.
+
+**Las tres reglas que salen de aquí:**
+
+1. 🔴 **NUNCA dejar un hueco en blanco.** Si no oíste nada, escribe una palabra plausible del tipo correcto
+2. 🔴 **Los números se escriben en el momento y se releen.** *-teen* lleva el acento al final; *-ty* al principio
+3. 🔴 **Si pierdes un hueco, salta al siguiente.** Las tres en blanco cayeron al final de cada bloque: quedarse pegada arrastra a las siguientes
 
 ---
 
