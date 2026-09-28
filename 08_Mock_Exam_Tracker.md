@@ -298,6 +298,19 @@ Las tres pérdidas de banda del día **nacen todas antes de escribir la primera 
 
 ---
 
+## 🎟️ INSCRIPCIÓN CONFIRMADA — 27 de septiembre de 2026
+
+**El examen está comprado.** IELTS Academic, **sábado 7 de noviembre de 2026**, por computador.
+
+> ### ⚠️ ACCIÓN PENDIENTE — material oficial gratuito
+> Al inscribirse, el centro **da acceso a material oficial de preparación** (British Council: *Road to IELTS — Last Minute*, unas 30 h; IDP: *IELTS Ready Member*).
+> **Incluye tests de Listening completos con audio oficial**, que es exactamente lo que falta.
+> 👉 **Revisar el correo de confirmación de la inscripción y activar ese acceso.** Es gratis y ya está pagado.
+
+**Datos por completar:** centro · hora de reporte · fecha y hora del Speaking *(suele ser otro día)*.
+
+---
+
 ## Exam Day Notes
 
 **Test center:** ___________  
