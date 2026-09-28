@@ -72,7 +72,7 @@
 
 | | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 10 | 🔢 **Drill de números** — dictado de 20 números y fechas, con *-teen/-ty* mezclados |
+| [ ] 1 | 10 | 🔢 **Drill de números** — **montado en `05_Listening_Module.md`, al final.** Partes A y B sin audio (regla del acento + cómo se dicen fechas, teléfonos y códigos); parte C con audio |
 | [ ] 2 | 20 | 🎧 **Cambridge 18 T1, Secciones 2 y 3** — las dos que faltan, para completar el test |
 | [ ] 3 | 5 | Registrar. **Aplicar las tres reglas: cero blancos, saltar, números** |
 

@@ -225,3 +225,100 @@ After every practice session, log in `07_Error_Log.md`:
 4. One specific thing to listen for next time
 
 After 5 sessions, your error patterns will be clear. Most students have 1–2 recurring traps that account for the majority of their lost marks. Fix those and the score jumps.
+
+
+---
+
+# 🔢 DRILL DE NÚMEROS — creado el 27 de septiembre
+
+*Nace de la primera medición: **2 de los 8 errores fueron números** (`DW13` por `DW30`, `22 April` por `24 April`). Es la categoría nº1 y se cierra con mecánica, no con más inglés.*
+
+## Parte A — la regla del acento *(5 min, sin audio)*
+
+> ## ***-TEEN*** → el acento va **AL FINAL**
+> ## ***-ty*** → el acento va **AL PRINCIPIO**
+
+| 13 · *thir-**TEEN*** | 30 · ***THIR**-ty* |
+|---|---|
+| 14 · *four-**TEEN*** | 40 · ***FOR**-ty* ⚠️ *sin la `u` de four* |
+| 15 · *fif-**TEEN*** | 50 · ***FIF**-ty* |
+| 16 · *six-**TEEN*** | 60 · ***SIX**-ty* |
+| 17 · *seven-**TEEN*** | 70 · ***SEV**-en-ty* |
+| 18 · *eigh-**TEEN*** | 80 · ***EIGH**-ty* |
+| 19 · *nine-**TEEN*** | 90 · ***NINE**-ty* |
+
+**Ejercicio de producción — dilas en voz alta, alternando, 10 veces:**
+*thir-**TEEN*** → ***THIR**-ty* → *four-**TEEN*** → ***FOR**-ty* → *fif-**TEEN*** → ***FIF**-ty*
+
+**Por qué funciona:** el oído reconoce mucho más rápido lo que la boca ya sabe producir. Es el mismo principio del vocabulario activo vs pasivo.
+
+⚠️ **Y la pista de apoyo:** el `-ty` suele sonar **más corto y cortado**; el `-teen` **se estira**. Si la palabra parece terminar de golpe, es `-ty`.
+
+---
+
+## Parte B — cómo se DICEN los números en el examen *(5 min, sin audio)*
+
+**El fallo no siempre es oír mal: a veces es no saber cómo se lee lo que oíste.**
+
+| Se dice | Se escribe |
+|---|---|
+| *"double four"* | **44** |
+| *"triple seven"* | **777** |
+| *"oh" / "zero"* en teléfonos | **0** — *"five oh two"* = **502** |
+| *"nought point five"* | **0.5** |
+| *"two thousand **and** twenty-four"* | **2024** — el *and* británico **no es un dígito** |
+| *"a hundred and fifty"* | **150** |
+| *"half past nine"* | **9.30** |
+| *"quarter to eight"* | **7.45** |
+| *"the twenty-second of April"* | **22 April** |
+| *"April the twenty-second"* | **22 April** |
+| *"nineteen ninety-one"* | **1991** |
+
+### Fechas — el formato que siempre puntúa
+
+> **`22 April`** o **`22nd April`** o **`April 22`** — las tres valen.
+> ⚠️ **Nunca** escribas solo `22/4` si el hueco pide palabras, y **nunca** inviertas día y mes.
+
+### Códigos postales y matrículas
+
+Se deletrean **letra a letra y dígito a dígito**: *"D – W – three – oh – seven – Y – Z"* = **DW30 7YZ**.
+🔴 **Escríbelos carácter por carácter MIENTRAS los dicen.** No esperes a tener el bloque completo: se te cae la mitad.
+
+---
+
+## Parte C — captura de números sobre audio real *(10 min)*
+
+**Necesita audio.** Sirve cualquier Cambridge Listening (Test 1–4, cualquier sección), o el material oficial de la inscripción.
+
+**El ejercicio no es responder preguntas. Es solo esto:**
+
+1. Pon una **Sección 1** cualquiera *(es la más densa en números)*
+2. **Sin mirar las preguntas**, escribe **todos los números que oigas**, en orden: precios, fechas, horas, teléfonos, códigos, cantidades
+3. Vuelve a escuchar y **corrige tu lista**
+
+**Qué mide:** la velocidad de tu mano, no tu comprensión. En el examen los números hay que escribirlos **mientras siguen hablando**.
+
+### Al terminar
+- [ ] ¿Cuántos números capturaste en la primera pasada vs la segunda?
+- [ ] ¿Alguno fue `-teen` / `-ty`?
+- [ ] ¿Alguno se te cayó por escribirlo **después** en vez de **durante**?
+
+---
+
+## 🔴 Las tres reglas que gobiernan todo el módulo
+
+*(Del diagnóstico del 27-sep. Van a la vista en cada práctica.)*
+
+> ### 1. CERO CASILLAS EN BLANCO
+> En Listening **no hay penalización por respuesta incorrecta**. Vacía vale **0**; adivinada vale **0 o 1**.
+> Si no oíste nada: escribe **una palabra plausible del tipo correcto**.
+
+> ### 2. SI PIERDES UN HUECO, SALTA AL SIGUIENTE
+> El error caro no es fallar uno: es **quedarse pegada** y perder los tres siguientes.
+> **El ojo por delante del audio, nunca por detrás.**
+
+> ### 3. LA RESPUESTA ES LA PALABRA LITERAL
+> No un sinónimo tuyo. *(27-sep, #38: escribió `community`, el audio decía `employment`.)*
+> Igual que *"choose from the passage"* en Reading.
+
+⚠️ **Recordatorio de formato:** el examen es **por computador** → **2 minutos** de revisión al final, **no 10**, y **sin corrector ortográfico**.
