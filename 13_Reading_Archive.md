@@ -16,6 +16,9 @@
 | 2026-09-11 | Sentence Completion nº1 | 7 | **7** | **100%** | 8:26 |
 | 2026-09-12 | **Pasaje integrado nº1** *(3 tipos)* | 10 *(1 anulada)* | **8** | **80%** | 15:56 |
 | 2026-09-20 | 🔴 **PASAJE COMPLETO nº1** *(4 tipos, escala real)* | 12 *(1 anulada)* | **11** | **92%** | 23:00 |
+| 2026-09-23 | 🏁 **TEST COMPLETO nº1** *(3 pasajes, 40 preg)* | 40 | **34** | **85%** | 42:00 de 60 |
+| 2026-09-24 | Matching Information nº1 | 9 | **7** | 78% | 13:40 |
+| 2026-09-27 | **Matching Features + Sentence Endings nº1** *(2 tipos nuevos)* | 12 | **12** | **100%** 🏆 | 15:14 |
 
 ### Patrones vivos
 
@@ -1979,3 +1982,69 @@ Despite these disagreements, most researchers now agree on a basic point: sleep 
 **Tiempo real:** ___
 
 > 🔑 La clave te la doy en el chat.
+
+
+---
+
+## 🔑 CLAVE — Matching Features + Sentence Endings nº1 · 27 de septiembre
+
+# 🏆 12/12 · 100% · 15:14 de 20
+
+**Dos tipos de pregunta nuevos, primer intento, sin un solo error.**
+
+### Matching Features — 6/6
+
+| # | Afirmación | Correcta | Anclaje |
+|---|---|---|---|
+| 1 | *removing weaker information* | **D** Tononi | *"the brain weakens most connections… unimportant ones are removed"* |
+| 2 | *a certain duration is needed* | **E** Lewis | *"a nap of around ninety minutes, long enough to include slow-wave sleep"* |
+| 3 | *interrupting a stage prevented improvement* | **B** Karni | *"woken each time they entered REM… the improvement disappeared"* |
+| 4 | *shielding it from new input* | **A** Jenkins & Dallenbach | *"simply protected memories from the interference caused by new information"* |
+| 5 | *should influence education* | **F** Walker | *"direct relevance for schools, where early start times…"* |
+| 6 | *an external cue improved recall* | **C** Born | *"smelled a rose scent while learning, and smelled it again during slow-wave sleep"* |
+
+### Matching Sentence Endings — 5/5
+
+| # | Sujeto | Correcta | Anclaje |
+|---|---|---|---|
+| 7 | *The results of the 1924 study* | **D** | *"interpreted this as a passive effect"* — sin mención de actividad cerebral |
+| 8 | *The hippocampus* | **A** | *"learns quickly but has limited capacity"* |
+| 9 | *Tononi's hypothesis* | **B** | *"Tononi does not deny that replay occurs"* |
+| 10 | *Naps shorter than ninety minutes* | **E** | *"Shorter naps… refresh attention but do little for memory"* |
+| 11 | *Some of Walker's colleagues* | **C** | *"accused him of presenting preliminary findings with more certainty than the data justify"* |
+
+### Y/N/NG de repaso — 1/1
+
+**12 · YES** — *"most researchers now agree on a basic point: sleep is not a period when the brain switches off"*.
+
+---
+
+## 🎯 Las cuatro trampas plantadas, las cuatro esquivadas
+
+**1. El *NB* falso.** La instrucción decía *"You may use any letter more than once"* — y **ninguna se repitió**: A–F, una cada una. Es presión pura, diseñada para que dudes de un emparejamiento correcto. **No picó.**
+
+**2. La #8 — el atributo del vecino.** El final **F** (*"where memories become permanently linked to existing knowledge"*) describe **el córtex**, y la frase está en el mismo párrafo del hippocampus. **Marcó A**, que es la definición literal del sujeto correcto.
+
+> **Es exactamente la trampa que la tumbó el jueves 24** en las preguntas 5 y 6 de Matching Information: elegir por una palabra parecida sin comprobar **el sujeto completo**. **Cerrada en tres días.**
+
+**3. La #9 — el investigador contra sí mismo.** Tononi es el escéptico del replay, así que el final esperable era *"rejects…"*. El texto dice lo contrario: *"does not deny that replay occurs; he simply doubts it is the main mechanism"*. **Marcó B.** Matiz de grado modal leído bien.
+
+**4. El final G sin usar** (*"have failed to be repeated in later experiments"*) — plausible para el estudio de 1924, **nunca dicho**. No lo forzó.
+
+---
+
+## Estado de los tipos de pregunta de Reading
+
+| Tipo | Último resultado |
+|---|---|
+| T/F/NG | 3/4 *(patrón nº2 abierto)* |
+| Matching Headings | 3/3 |
+| Multiple Choice | 4/4 |
+| Yes/No/NG | 3/3 + 1/1 |
+| Sentence Completion | 7/7 |
+| Summary Completion | 8/8 · 1/1 |
+| Matching Information | 7/9 |
+| **Matching Features** | **6/6** 🆕 |
+| **Matching Sentence Endings** | **5/5** 🆕 |
+
+> ✅ **TODOS los tipos de pregunta de Reading están vistos y practicados.** El único patrón que sigue abierto es el nº2 (*NG donde va False*).

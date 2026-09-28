@@ -1310,3 +1310,38 @@ Abiertos para la semana: hecho endosado leído como NG (2ª vez) · T/F en Y/N/N
 - Dijo que "no fue tan intuitivo": es el cambio de chip respecto a Headings (aquí la respuesta sí está en una sola oración)
 - Teoría Matching Features + Sentence Endings leída ✅. **Ejercicio de 12 preguntas pendiente en casa**
 
+
+
+---
+
+### 2026-09-27 — 🏆 12/12 y la alarma de Listening
+
+**Bloque 1 — deuda del jueves saldada, y con nota perfecta.**
+
+**Matching Features + Sentence Endings nº1: 12/12 = 100% en 15:14 de 20.** Dos tipos de pregunta nuevos, primer intento, sin un solo error. Las cuatro trampas plantadas, esquivadas — incluida la del *NB* falso (*"may use any letter more than once"* cuando ninguna se repetía) y la del atributo del vecino en la pregunta 8 (el córtex descrito en el párrafo del hippocampus).
+
+> **Esa pregunta 8 es la misma trampa que la tumbó el 24 de septiembre** en Matching Information — elegir por una palabra parecida sin comprobar el sujeto completo. **Cerrada en tres días.**
+
+**Con esto, TODOS los tipos de pregunta de Reading están vistos y practicados.** El único patrón que sigue abierto es el nº2 (*NG donde va False*).
+
+### 🔴 La revisión que había que hacer, y lo que encontró
+
+Al buscar qué se había omitido de verdad en la semana, el hallazgo no fue Reading:
+
+> **La semana 10 del cronograma (21–27 sep) era la semana de Listening completa** — predicción, secciones 1 a 4, trampas, test cronometrado el sábado. **Se ocupó entera con Reading y Writing.**
+>
+> **Listening: 0 prácticas en toda la preparación.** Módulo leído el 6 de agosto; desde entonces ni un ejercicio, ni un puntaje, ni una fila en el error log.
+> **Speaking: 0 grabaciones.** Módulo leído el 9 de agosto.
+
+| Módulo | Estado | ¿Medido? |
+|---|---|---|
+| Reading | ✅ **en la meta** — 34/40 ≈ 7.5 | sí |
+| Writing | ⚠️ ~6.5–7 corregido, ~6 en frío | sí |
+| **Listening** | 🔴 sin tocar | **no** |
+| **Speaking** | 🔴 sin tocar | **no** |
+
+**Quedan 6 semanas** (examen: sábado 7 de noviembre). La banda global es el promedio de los cuatro. El esfuerzo de siete semanas fue real y dio resultados reales — **pero se concentró en los dos módulos que ya se estaban midiendo.**
+
+**Limitación operativa registrada:** el Listening necesita **audio externo** (ieltsonlinetests.com · Cambridge IELTS 15–19 en YouTube · British Council *Take IELTS*). Lo que sí se hace aquí: la técnica previa, el post-mortem separando **fallo de comprensión** de **trampa mecánica**, y el registro.
+
+**Cómo me sentí:** —
