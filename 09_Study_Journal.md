@@ -1389,3 +1389,24 @@ Material completo montado en `05_Listening_Module.md`.
 **Nota de método:** fue ella quien decidió explorar el portal en vez de seguir el plan escrito, y fue la decisión correcta — material oficial, corregido solo, con transcript. **El plan está para servirle, no al revés.**
 
 **Cómo me sentí:** *"estoy mal en deletreo, demasiado mal"* — frustración nombrada con precisión, que es como se arreglan las cosas.
+
+### 2026-09-29 — Portal explorado: respuestas del mock del 28 RECUPERADAS
+
+El portal (IELTS Ready Premium, British Council) **guarda el mock**: History → View result muestra lo que ella escribió, qué está bien y qué está mal, con **transcript resaltado y explicación por pregunta** (icono ℹ️). La regla del papel sigue siendo buena, pero no se perdió nada.
+
+**Sección 1 (formulario): 6/10. Tres de los cuatro fallos son la MISMA letra:**
+
+| # | Escribió | Correcto | Qué pasó |
+|---|---|---|---|
+| 2 | rs6ga7 | **RI6GH7** | *I* ("ai") → S; *H* ("eich") → A |
+| 4 | pi365 | **PA365** | *A* ("ei") → I |
+| 5 | a6 | **E6** | *E* ("ii") → A |
+| 8 | pants | — | comprensión |
+
+> 🔴 **El problema de deletreo tiene nombre: las vocales inglesas.** En inglés **A** suena "ei", **E** suena "ii", **I** suena "ai" — lo contrario de lo que el oído hispano espera. Y **H** = "eich", **G** = "yi", **J** = "yei".
+
+Sección 4: *flamable* → **flammable** (ortografía, doble m) · *slicks* → **largest** (palabra de la pregunta, no del audio).
+
+Otras cosas del portal: biblioteca de Practice con **Note completion (123) · Multiple choice (127) · Matching (117) · Table (51) · Map labelling (38) · Flow chart (37)**; clases en vivo gratuitas; 25 mocks por módulo.
+⚠️ **El perfil del portal dice que el examen es el 14.11.2026** — el plan usa el **7 de noviembre**. Verificar en el correo de confirmación cuál es la fecha real.
+

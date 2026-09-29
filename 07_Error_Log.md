@@ -338,6 +338,7 @@ After every timed practice or mock exam:
 | 2026-09-27 | ✅ **Grado modal en Matching Sentence Endings** | Reading | Preg 9: Tononi es el escéptico del replay, pero el texto dice *"does not deny that replay occurs; he simply **doubts** it is the main mechanism"*. Marcó *accepts that memories are replayed* | El patrón META/grado modal aguanta en un tipo de pregunta nuevo |
 | **2026-09-27** | 🔴 **LISTENING Y SPEAKING SIN MEDIR — 6 semanas para el examen** | Planificación | **Listening: 0 prácticas** desde que se leyó el módulo el 6-ago. **Speaking: 0 grabaciones** desde el 9-ago. La semana 10 del cronograma era Listening entera y se ocupó con Reading y Writing | 🔴 **La banda global es el promedio de los cuatro módulos.** Con Reading 7.5 y Writing 6.5, el global depende de dos módulos de los que no hay ni un dato |
 
+| **2026-09-28** | Mock oficial Listening (recuperado del portal el 29) | Listening | Sección 1: 6/10. **3 fallos = vocales deletreadas**: RI6GH7→rs6ga7, PA365→pi365, E6→a6. S4: *flamable* (flammable), *slicks* (largest) | Tabla de letras: **A=ei · E=ii · I=ai · H=eich · G=yi · J=yei · R=aa · Y=wai**. Drill diario de 3 min |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
