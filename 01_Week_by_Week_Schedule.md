@@ -1,6 +1,6 @@
 # Week-by-Week Schedule
 **30 min/day Mon–Fri (ampliado a 45–60 min desde el 10 de agosto para recuperar atraso) | 60 min Sat–Sun**
-**Examen objetivo: sábado 7 de noviembre de 2026**
+**Examen: sábado 14 de noviembre de 2026** *(comprado; corregido el 29-sep, antes decía 7)*
 
 > Use `[ ]` → `[x]` to check off each day as you complete it.
 
@@ -72,7 +72,7 @@ Respuestas perdidas — primera vez con el portal. 👉 **Desde ahora: papel al 
 
 ---
 
-## 📅 EL PLAN DE LAS 6 SEMANAS — reordenado
+## 📅 EL PLAN DE LAS 7 SEMANAS — reordenado (examen 14 nov)
 
 **Reading pasa a mantenimiento. Listening y Speaking pasan al centro.**
 
@@ -83,7 +83,8 @@ Respuestas perdidas — primera vez con el portal. 👉 **Desde ahora: papel al 
 | **Oct 12 – 18** | 🎤 Speaking Parte 3 + mock de Speaking · Listening 2 tests · Writing 1 tarea |
 | **Oct 19 – 25** | 🏁 **Mock completo nº1** (4 módulos, condiciones reales) + post-mortem |
 | **Oct 26 – Nov 1** | Trabajo dirigido sobre lo que falle el mock · Mock nº2 |
-| **Nov 2 – 7** | Repaso ligero, sin material nuevo. **Descanso el viernes 6** |
+| **Nov 2 – 8** | 🆕 **Semana extra:** Mock nº3 + el módulo más bajo (Listening o Speaking) |
+| **Nov 9 – 14** | Repaso ligero, sin material nuevo. **Descanso el viernes 13** |
 
 ### 👉 ACCIÓN PENDIENTE — vale horas de material
 
@@ -597,12 +598,12 @@ En dos días cayeron dos cuellos de botella: la gramática de interferencia (adj
 
 | Día | Fecha | Tarea |
 |---|---|---|
-| [ ] Lun | Nov 2 | Ligero: leer solo los **patrones** de tu error log, no cada entrada |
-| [ ] Mar | Nov 3 | Ligero: plantillas de Writing y lenguaje de Task 1. Nada más |
-| [ ] Mié | Nov 4 | Speaking: 1 práctica relajada. Sin autocrítica |
-| [ ] Jue | Nov 5 | Descanso. Logística: documento de identidad, ubicación del centro, qué llevar |
-| [ ] Vie | Nov 6 | Descanso total. Dormir bien |
-| [ ] **Sáb** | **Nov 7** | **IELTS ACADEMIC** |
+| [ ] Lun | Nov 9 | Ligero: leer solo los **patrones** de tu error log, no cada entrada |
+| [ ] Mar | Nov 10 | Ligero: plantillas de Writing y lenguaje de Task 1. Nada más |
+| [ ] Mié | Nov 11 | Speaking: 1 práctica relajada. Sin autocrítica |
+| [ ] Jue | Nov 12 | Descanso. Logística: documento de identidad, ubicación del centro, qué llevar |
+| [ ] Vie | Nov 13 | Descanso total. Dormir bien |
+| [ ] **Sáb** | **Nov 14** | **IELTS ACADEMIC** |
 
 > El Speaking suele agendarse en un día distinto (antes o después del escrito). Confirmar la fecha al reservar y ajustar esta semana.
 

@@ -369,7 +369,7 @@ El portal no las guardó y era la primera vez que lo usaba. **No hay desglose po
 
 ## 🎟️ INSCRIPCIÓN CONFIRMADA — 27 de septiembre de 2026
 
-**El examen está comprado.** IELTS Academic, **sábado 7 de noviembre de 2026**, por computador.
+**El examen está comprado.** IELTS Academic, **sábado 14 de noviembre de 2026**, por computador.
 
 > ### ⚠️ ACCIÓN PENDIENTE — material oficial gratuito
 > Al inscribirse, el centro **da acceso a material oficial de preparación** (British Council: *Road to IELTS — Last Minute*, unas 30 h; IDP: *IELTS Ready Member*).

@@ -1,7 +1,7 @@
 # Study Journal
 *Registro diario del proceso de preparación IELTS*
 
-**Meta:** 7.5–8.0 | **Examen:** sábado 7 de noviembre de 2026 | **Inicio:** Mayo 2026
+**Meta:** 7.5–8.0 | **Examen:** sábado 14 de noviembre de 2026 | **Inicio:** Mayo 2026
 
 ---
  
@@ -1408,5 +1408,5 @@ El portal (IELTS Ready Premium, British Council) **guarda el mock**: History →
 Sección 4: *flamable* → **flammable** (ortografía, doble m) · *slicks* → **largest** (palabra de la pregunta, no del audio).
 
 Otras cosas del portal: biblioteca de Practice con **Note completion (123) · Multiple choice (127) · Matching (117) · Table (51) · Map labelling (38) · Flow chart (37)**; clases en vivo gratuitas; 25 mocks por módulo.
-⚠️ **El perfil del portal dice que el examen es el 14.11.2026** — el plan usa el **7 de noviembre**. Verificar en el correo de confirmación cuál es la fecha real.
+✅ **Fecha confirmada por ella: el examen es el sábado 14 de noviembre** (no el 7). El plan gana **una semana extra** → quedan 7 semanas.
 
