@@ -1410,3 +1410,4 @@ Sección 4: *flamable* → **flammable** (ortografía, doble m) · *slicks* → 
 Otras cosas del portal: biblioteca de Practice con **Note completion (123) · Multiple choice (127) · Matching (117) · Table (51) · Map labelling (38) · Flow chart (37)**; clases en vivo gratuitas; 25 mocks por módulo.
 ✅ **Fecha confirmada por ella: el examen es el sábado 14 de noviembre** (no el 7). El plan gana **una semana extra** → quedan 7 semanas.
 
+**Cierre del 29 en la oficina:** tabla de letras entregada; Note completion ×2 queda **para casa**.

@@ -6,14 +6,40 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 29 sep · deletreo y números
+## 👉 RETOMAR AQUÍ — martes 29 sep, EN CASA · deletreo
 
-**Lunes 28 ✅ MOCK OFICIAL DE LISTENING COMPLETO: Band 6.0.**
-4 secciones, 40 preguntas, cronometrado. **Confirma la estimación del domingo (6.0 sobre media prueba).**
-Respuestas perdidas — primera vez con el portal. 👉 **Desde ahora: papel al lado.**
+**Hoy en la oficina ✅:** bloque 1 (deletreo) releído · portal explorado · **respuestas del mock del 28 recuperadas** · fecha corregida: **examen sábado 14 nov** (7 semanas).
 
-**Y nombró sus tres debilidades:** deletreo · mapas · acento británico. **Las tres mecánicas.**
-📗 **Material completo en `05_Listening_Module.md`** → sección *"Las tres debilidades nombradas"*.
+### 🔴 El hallazgo: 3 de 4 fallos de la Sección 1 = vocales deletreadas
+*RI6GH7 → rs6ga7 · PA365 → pi365 · E6 → a6*
+
+| Letra | Suena | | Letra | Suena |
+|---|---|---|---|---|
+| **A** | "ei" | | **H** | "eich" |
+| **E** | "ii" | | **G** | "yi" |
+| **I** | "ai" | | **J** | "yei" |
+| **R** | "aa" | | **Y** | "wai" |
+
+### 🏠 En casa (~35 min)
+
+| | Min | Tarea |
+|---|---|---|
+| [ ] 1 | 3 | Memorizar la tabla de arriba |
+| [ ] 2 | 25 | Portal → **Practice → Listening → Practice → Note completion** → **2 sets** (el primero es el ejercicio 24785) |
+| [ ] 3 | 5 | Revisar el ℹ️ de cada fallo y **clasificar**: letra / número / ortografía / comprensión |
+
+**Reglas:** de corrido, **sin pausar ni rebobinar** · papel al lado · `*` en las adivinadas · cero blancos · *thir-**TEEN*** ≠ ***THIR**-ty*
+
+💡 **Si no anotas:** el portal guarda todo en **History** → *View result*. Mañana lo leo de ahí.
+
+### 📅 Resto de la semana
+| Día | |
+|---|---|
+| **Mié 30** | 🗺️ Practice: **Map labelling** (debilidad nº2) · 🎓 clase gratis *Part 1 Listening* en el portal |
+| **Jue 1** | 🎧 Practice: Sección 3 (varios hablantes) + ✍️ 1 Task 2 |
+| **Vie 2** | 📖 Reading mantenimiento: 1 pasaje (T/F/NG) |
+| **Sáb 3** | 🏁 **Mock de Listening nº2** cronometrado → comparar con el 6.0 |
+| **Dom 4** | 📊 Post-mortem + arrancar **Speaking** |
 
 ---
 
