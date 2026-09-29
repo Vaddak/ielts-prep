@@ -6,24 +6,47 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — lunes 28 sep · Listening, las tres reglas mecánicas
+## 👉 RETOMAR AQUÍ — martes 29 sep · deletreo y números
 
-**Domingo 27 ✅ doble cierre.**
-🏆 **Matching Features + Sentence Endings: 12/12 en 15:14** → **todos los tipos de Reading vistos y practicados**.
-🎧 **Primera medición de Listening: 12/20 = 60% ≈ Band 6.0** *(Cambridge 18 T1, secciones 1 y 4)*.
+**Lunes 28 ✅ MOCK OFICIAL DE LISTENING COMPLETO: Band 6.0.**
+4 secciones, 40 preguntas, cronometrado. **Confirma la estimación del domingo (6.0 sobre media prueba).**
+Respuestas perdidas — primera vez con el portal. 👉 **Desde ahora: papel al lado.**
+
+**Y nombró sus tres debilidades:** deletreo · mapas · acento británico. **Las tres mecánicas.**
+📗 **Material completo en `05_Listening_Module.md`** → sección *"Las tres debilidades nombradas"*.
 
 ---
 
-## 📊 LOS CUATRO MÓDULOS — por fin casi todos medidos
+## 🎧 EL PLAN DEL MARTES 29 (~35 min)
 
-| Módulo | Banda | |
+| | Min | Tarea |
 |---|---|---|
-| **Reading** | **7.5** | ✅ en la meta → pasa a mantenimiento |
-| **Writing** | ~6.5–7 corregido · **~6 en frío** | la brecha frío/corregido es la métrica |
-| **Listening** | **6.0** | 🆕 primera medición |
-| **Speaking** | — | 🔴 **sin medir, 0 grabaciones** |
+| [ ] 1 | 5 | 📗 Releer **el bloque 1 (deletreo)** de `05_Listening_Module.md`. Solo ese |
+| [ ] 2 | 25 | 🎧 **Portal → Practice → Form / Note completion** *(tipos de Sección 1)*. **Dos sets si alcanza** |
+| [ ] 3 | 5 | Registrar |
 
-**Global estimado ~6.5–7. Meta 7.5.** Quedan **6 semanas** (examen: sábado 7 nov).
+### 🎯 Por qué empezamos por aquí y no por los mapas
+
+**Form completion sale en TODAS las secciones 1 de todos los tests.** Los mapas salen a veces. Y este tipo de ejercicio drilla **las dos categorías mecánicas del error log a la vez**: **deletreo** y **números**.
+
+🔴 **Papel al lado. `*` en las adivinadas.** Sin eso, el puntaje miente.
+
+**Las reglas, a la vista:** cero blancos · si pierdes, salta · la palabra literal · *thir-**TEEN*** ≠ ***THIR**-ty* · **Z = *zed***
+
+---
+
+## 📅 LA SEMANA (Sep 29 – Oct 4) — Listening intensivo
+
+| Día | |
+|---|---|
+| **Mar 29** | 🎧 Practice: **Form / Note completion** *(deletreo + números)* |
+| **Mié 30** | 🗺️ Practice: **Map / Plan labelling** — la debilidad nº2. **Dedo en el mapa** |
+| **Jue 1** | 🎧 Practice: **Sección 3** *(varios hablantes: ¿quién dijo qué?)* + ✍️ 1 Task 2 |
+| **Vie 2** | 📖 Reading mantenimiento: 1 pasaje completo *(T/F/NG, el patrón abierto)* |
+| **Sáb 3** | 🏁 **MOCK DE LISTENING Nº2, cronometrado** — con papel. **Comparar con el 6.0** |
+| **Dom 4** | 📊 Post-mortem + arrancar **Speaking** *(0 grabaciones todavía)* |
+
+> **La medición del sábado es la que dice si el trabajo de la semana movió la aguja.**
 
 ---
 

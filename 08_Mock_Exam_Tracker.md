@@ -9,7 +9,7 @@
 | Mock | Date | Listening | Reading | Writing | Speaking | **Overall** |
 |---|---|---|---|---|---|---|
 | Diagnostic (Wk 2) | | | | | | |
-| **Parciales** | **Sep 2026** | **6.0** *(27-sep, ½ test)* | **7.5** *(23-sep)* | ~6.5 | — | **~6.5–7** |
+| **Parciales** | **Sep 2026** | **6.0** *(28-sep, mock oficial completo)* | **7.5** *(23-sep)* | ~6.5 | — | **~6.5–7** |
 | Mock #1 (Wk 15) | | | | | | |
 | Mock #2 (Wk 17) | | | | | | |
 | Mock #3 (Wk 19) | | | | | | |
@@ -335,6 +335,35 @@ Las tres pérdidas de banda del día **nacen todas antes de escribir la primera 
 3. 🔴 **Ortografía al escribir mientras escucha** — sin corrector en el examen
 
 ⚠️ **Sesgo de la medición:** se hicieron las secciones 1 y 4 saltando la 2 y la 3, que son de dificultad intermedia. La estimación es orientativa; **la medición buena es el test completo de 40 preguntas**.
+
+---
+
+## 🏁 MOCK OFICIAL DE LISTENING Nº1 — 28 de septiembre de 2026
+
+**Portal oficial de práctica** *(acceso incluido con la inscripción)*. Test completo: **4 secciones, 40 preguntas, cronometrado.**
+
+# **Band 6.0**
+
+> ### ✅ La estimación del 27-sep se confirmó
+> Media prueba (secciones 1 y 4) dio **6.0 estimado**. El test oficial completo dio **6.0 real**.
+> **El método de diagnóstico de este repo produce números fiables.**
+
+### ⚠️ Las respuestas se perdieron
+
+El portal no las guardó y era la primera vez que lo usaba. **No hay desglose por pregunta de este intento.**
+👉 **Regla permanente: papel al lado, respuestas anotadas también ahí, y `*` en las adivinadas.**
+
+### Lo que sí quedó — y es lo importante
+
+**Ella nombró sus tres debilidades**, sin que nadie se las sugiriera:
+
+| | Debilidad | Tipo |
+|---|---|---|
+| 1 | **Deletreo** — *"demasiado mal"* | 🔴 mecánica · **set cerrado de 26 letras** |
+| 2 | **Mapas** — *"no sigo el hilo"* | 🔴 técnica · punto de partida y dedo en el mapa |
+| 3 | **Acento británico** | ⚠️ fonética · **predecible** (R muda, vocales, léxico) |
+
+**Las tres son entrenables y ninguna es "no entiendo inglés".** Material completo en `05_Listening_Module.md`, sección *Las tres debilidades nombradas*.
 
 ---
 

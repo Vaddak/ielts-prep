@@ -1358,3 +1358,34 @@ Las tres en blanco cayeron **al final de cada bloque de preguntas** — el patr�
 
 
 **Y el examen ya está comprado:** IELTS Academic, sábado 7 de noviembre, por computador. Queda activar el material oficial gratuito que viene con la inscripción (*Road to IELTS* / *IELTS Ready Member*), que trae tests de Listening con audio oficial.
+
+
+---
+
+### 2026-09-28 — Mock oficial de Listening: **Band 6.0**, y las tres debilidades nombradas
+
+Entró al portal oficial de práctica que viene con la inscripción y **cambió el plan**: en vez de completar Cambridge 18 a pedazos, hizo el **mock completo cronometrado, 4 secciones, 40 preguntas**.
+
+# Band 6.0
+
+> **La estimación del día anterior (6.0 sobre media prueba) se confirmó exacta con el test completo.** El método de diagnóstico produce números fiables.
+
+**Las respuestas se perdieron** — primera vez usando el portal. Regla permanente que sale de ahí: **papel al lado**, respuestas anotadas también en papel, y `*` en las adivinadas.
+
+### Lo que sí quedó, y vale más que el desglose
+
+**Nombró sus tres debilidades sola:** *"estoy mal en deletreo, demasiado mal. También en mapas, no sigo el hilo, y el inglés británico no es tan fácil"*.
+
+**Las tres son mecánicas o técnicas. Ninguna es comprensión.** Es el mismo veredicto del 27-sep por otra vía.
+
+| | Debilidad | Por qué es buena noticia |
+|---|---|---|
+| 1 | **Deletreo** | Set **cerrado** de 26 letras. No es inglés: es una lista. 🇬🇧 **Z = *zed***, no *zee* |
+| 2 | **Mapas** | Es un problema de **punto de partida**, no de vocabulario. Dedo en el mapa y girar con el hablante |
+| 3 | **Acento británico** | **Predecible**: R muda (*car* → *cah*), vocales (*can't* → *kahnt*), y léxico (*fortnight*, *ground floor*, *car park*) |
+
+Material completo montado en `05_Listening_Module.md`.
+
+**Nota de método:** fue ella quien decidió explorar el portal en vez de seguir el plan escrito, y fue la decisión correcta — material oficial, corregido solo, con transcript. **El plan está para servirle, no al revés.**
+
+**Cómo me sentí:** *"estoy mal en deletreo, demasiado mal"* — frustración nombrada con precisión, que es como se arreglan las cosas.

@@ -322,3 +322,146 @@ Se deletrean **letra a letra y dígito a dígito**: *"D – W – three – oh �
 > Igual que *"choose from the passage"* en Reading.
 
 ⚠️ **Recordatorio de formato:** el examen es **por computador** → **2 minutos** de revisión al final, **no 10**, y **sin corrector ortográfico**.
+
+
+---
+
+# 🇬🇧 LAS TRES DEBILIDADES NOMBRADAS — 28 de septiembre
+
+*Creado tras el primer mock oficial completo (**Band 6.0**). Ella las nombró sola: **deletreo · mapas · acento británico**. Las tres son mecánicas, y por eso las tres se entrenan.*
+
+> **Leer esta sección antes de cada práctica de Listening.**
+
+---
+
+## 1️⃣ EL DELETREO — un set CERRADO de 26 cosas
+
+**No es "mejorar el inglés": es aprenderse una lista.** Por eso es el de mejor retorno de todo el módulo.
+
+> ## 🇬🇧 En británico, **Z = "zed"**, no *"zee"*.
+> Si el oído espera *zee*, esa letra pasa sin registrarse.
+
+### Los choques que se comen respuestas
+
+| Se confunden | Suenan | Truco |
+|---|---|---|
+| **G / J** | *jee* / *jay* | **G** rima con *see* · **J** rima con *day* |
+| **A / E / I** | *ay* / *ee* / *eye* | |
+| **M / N** | *em* / *en* | **M** empieza con la boca cerrada |
+| **S / F / X** | *ess* / *eff* / *ex* | |
+| **B / V / P / D** | *bee* / *vee* / *pee* / *dee* | |
+| **U / W** | *you* / *double-you* | **W** son tres sílabas |
+
+### Las cinco que no suenan como se escriben
+
+| **H** = *aitch* ❗ | **R** = *ar* | **Y** = *why* | **W** = *double-you* | **Z** = *zed* 🇬🇧 |
+|---|---|---|---|---|
+
+### Cómo dictan de verdad
+
+- *"That's **J** for Jones — **J-O-N-E-S**"* → deletrean **y** dan palabra de apoyo
+- *"**double L**"* → **LL** · *"**double O**"* → **OO**
+- *"It's Claxby — **C-L-A-X-B-Y**"*
+
+> 🔴 **Escribir letra por letra MIENTRAS las dicen.** Esperar a tener el nombre completo en la cabeza pierde la mitad.
+> ✅ **Evidencia de que sí puede:** el 27-sep escribió `Claxby` correcto. Cuando escribe en directo, le sale.
+
+---
+
+## 2️⃣ LOS MAPAS — el problema es el punto de partida
+
+*"No sigo el hilo"* es literal: describen **una ruta**. Sin saber dónde estás parada, el resto es ruido.
+
+> ## Los 30 segundos antes del audio deciden el bloque entero
+> 1. **Encuentra el *you are here*** — la entrada, el mostrador, el norte
+> 2. **Pon el dedo ahí.** Literalmente, en la pantalla
+> 3. **El dedo se mueve con la voz.** No se levanta hasta el final
+
+**La trampa de fondo:** *left* y *right* son **desde donde camina el hablante**, no desde donde tú miras el plano. Cuando él gira, tu izquierda cambia. **Si sigues con el dedo, giras con él.**
+
+### El vocabulario que hay que reconocer al vuelo
+
+| | |
+|---|---|
+| **opposite** | enfrente ⚠️ no *opuesto* |
+| **adjacent to · next to · beside** | al lado |
+| **behind / in front of** | detrás / delante |
+| **at the far end** | al fondo del todo |
+| **halfway along** | a mitad de camino |
+| **go past** | pasar **de largo** ⚠️ |
+| **go through** | atravesar |
+| **bear left** | inclinarse a la izquierda *(sin girar del todo)* |
+| **take the first turning on your right** | primera a la derecha |
+| **set back from the road** | retranqueado |
+| **overlooking** | con vistas a |
+| **in the corner · at the junction** | en la esquina · en el cruce |
+| **just before / just beyond** | justo antes / justo después |
+
+> ⚠️ **LA TRAMPA Nº1 DE LOS MAPAS:** *"go past the library"* = la biblioteca **queda atrás**. Mucha gente marca la biblioteca.
+
+---
+
+## 3️⃣ EL ACENTO BRITÁNICO — distinto de forma PREDECIBLE
+
+Y lo predecible se entrena.
+
+### La clave nº1: **la R no se pronuncia** *(salvo antes de vocal)*
+
+| Se escribe | Suena |
+|---|---|
+| **car** | *cah* |
+| **farm** | *fahm* |
+| **water** | *wa-tuh* |
+| **teacher** | *tee-chuh* |
+| **park** | *pahk* |
+| **card** | *cahd* |
+
+**Muchas palabras "que no reconoce" son palabras que sí sabe, sin su R.**
+
+### Las vocales que más cambian
+
+| | 🇺🇸 | 🇬🇧 |
+|---|---|---|
+| **can't** | *kænt* | ***kahnt*** — suena a *"carnt"* |
+| **dance · path · bath · class** | *æ* | ***ah*** |
+| **not · dog** | *ah* | ***o*** redonda |
+| **schedule** | *skedyul* | ***shedyul*** |
+
+> ⚠️ ***can't*** **es la peor:** suena tan distinta que se oye como otra palabra — **y cambia el sentido de la frase al opuesto**.
+
+### 🔴 Y esto vale tanto como la fonética: el VOCABULARIO británico
+
+IELTS es británico. Estas salen **todo el tiempo** en las secciones 1 y 2:
+
+| 🇬🇧 | = |
+|---|---|
+| **car park** | parqueadero *(no *parking lot*)* |
+| **lift** | ascensor |
+| **flat** | apartamento |
+| **queue** | fila |
+| **timetable** | horario |
+| **postcode** | código postal |
+| **term** | trimestre académico |
+| **tutorial** | clase en grupo pequeño ⚠️ |
+| **fortnight** | **dos semanas** ⚠️ |
+| **high street** | calle principal |
+| **pavement** | andén |
+| **rubbish / bin** | basura / caneca |
+| **holiday** | vacaciones |
+| **ground floor** | primer piso ⚠️ **el *first floor* británico es el SEGUNDO** |
+
+> **`fortnight` y `ground floor` son trampas directas de respuesta.**
+
+---
+
+## 🔴 LA REGLA OPERATIVA DEL PORTAL
+
+**Papel al lado, siempre.** Escribir las respuestas **también en papel** mientras se escucha:
+- el portal puede perderlas *(pasó el 28-sep)*
+- permite marcar con `*` **las adivinadas**, que son las que el puntaje esconde
+
+| | |
+|---|---|
+| ✅ Acertada y segura | sabe |
+| 🎲 **Acertada pero adivinada** | **no sabe** — cuenta como fallo en el diagnóstico |
+| ❌ Fallada | |
