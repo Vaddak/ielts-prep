@@ -28,7 +28,7 @@
 | | Min | Tarea |
 |---|---|---|
 | [ ] 1 | 40 | ✍️ **Task 2 cronometrado** (Writing: 1 por semana) |
-| [ ] 2 | 15 | 🎧 1 set de Note completion (deletreo) |
+| [x] 2 | — | 🎧 Note completion nº3 → **adelantado el 30: 3/4** |
 
 ### Resto de la semana
 | Día | |

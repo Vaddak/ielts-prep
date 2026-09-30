@@ -1444,4 +1444,8 @@ Becas universitarias → requisito principal (B, A, E, D). Sin errores con 6 opc
 **Multiple choice nº1 (ej. 27028, Atacama): 4/4** 🏆 — las 4 con tres opciones mencionadas y dos descartadas.
 
 **Cierre del 30:** 6 sets, **20/28**. Tipos de Sección 3 (matching + multiple choice): **8/8**. Los fallos del día son todos de **escritura** (ortografía, formato, sinónimo, cambiar respuesta), ninguno de comprensión ni de orientación.
+**Note completion nº3 (ej. 24790): 3/4** — six ✅ **klein** ✅ (apellido deletreado, primer deletreo limpio) ✅ website ✅ (el error del set 1, corregido)
+- *180* → **185**: *one hundred and eighty-**five***. Esquivó el distractor (*it used to be 200*) pero perdió la cola del número → **en números largos, esperar a que termine la cifra antes de escribir**.
+
+**Total del día: 7 sets, 23/32.** Jueves 1 queda solo el Task 2.
 
