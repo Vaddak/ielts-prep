@@ -343,6 +343,7 @@ After every timed practice or mock exam:
 | **2026-09-28** | Mock oficial Listening (recuperado del portal el 29) | Listening | Sección 1: 6/10. **3 fallos = vocales deletreadas**: RI6GH7→rs6ga7, PA365→pi365, E6→a6. S4: *flamable* (flammable), *slicks* (largest) | Tabla de letras: **A=ei · E=ii · I=ai · H=eich · G=yi · J=yei · R=aa · Y=wai**. Drill diario de 3 min |
 | **2026-09-30** | Note completion ×2 (portal) | Listening | **7/10.** *webside* (website) · *THONT* (THORNE, deletreado) · *PARK* (Willow Room, distractor). Números 4/4 ✅ · vocales A/E/I 0 errores ✅ | Deletreo: escribir **letra por letra** lo que dictan, no la palabra que suena. Palabras conocidas: escribirlas como se escriben. Mirar las palabras alrededor del hueco (*The ___ Room*) |
 | **2026-09-30** | Map labelling nº1 (portal) | Listening | **3/5.** *camp fire* (campfire: ONE WORD ONLY) · *forest* (lake: el plan cambia tras *but*) | Compuestos de una palabra: *campfire, website, notebook*. En el audio, lo que viene **después de *but / actually / instead*** es la respuesta |
+| **2026-09-30** | Map labelling nº2 (portal) | Listening | **2/5.** Cambió *coins* (correcta) por *manuscripts* · *bathrooms* por **toilets** (sinónimo propio) · *caffee* (cafe) | **No cambiar la primera respuesta** sin contradicción explícita. Escribir **la palabra del audio**, nunca un sinónimo. *cafe* = 1 f |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay

@@ -1431,3 +1431,11 @@ Ayer en casa no hizo nada; hoy recupera lo del 29 y lo del 30. Tabla de letras r
 
 **Día completo: 10/15.** Solo 1 de 5 fallos fue del mapa en sí; la orientación funcionó.
 
+**Map labelling nº2 (ej. 32339): 2/5** — statue ✅ headphones ✅
+- *manuscripts* → **coins**: **había escrito *coins* y lo cambió.** El audio: *However, immediately in front of these displays… coins*. El *however* marcaba la respuesta. 🔴 **Regla: la primera respuesta no se cambia salvo que el audio la contradiga explícitamente.**
+- *bathrooms* → **toilets**: sinónimo propio en vez de la palabra literal (*use words from the recording*). Además *but… actually located* = el cambio de plan otra vez.
+- *caffee* → **cafe**: ortografía.
+
+**Resultado:** 3 fallos, **cero de orientación**: se ubicó bien en el mapa las 5 veces. Los fallos son **disciplina** (cambiar, parafrasear, deletrear).
+**Día completo: 12/20** en 4 sets.
+
