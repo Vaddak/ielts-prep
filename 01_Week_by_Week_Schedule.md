@@ -20,6 +20,23 @@
 | **I** | "ai" | | **J** | "yei" |
 | **R** | "aa" | | **Y** | "wai" |
 
+> ## 🔴 POR QUÉ FALLAN, Y NO ES CASUALIDAD
+> **Los nombres de las vocales en inglés SUENAN como otras letras en español.** La intuición no es que falte: es que **apunta a la letra equivocada**.
+>
+> | Oyes en inglés | Tu oído español quiere escribir | Es |
+> |---|---|---|
+> | **A** — *"ei"* | E · I | **A** |
+> | **E** — *"ii"* | I | **E** |
+> | **I** — *"ai"* | A · AI | **I** |
+>
+> **Y la colisión A/H es real, no distracción:** *"**ai**tch"* **empieza con el sonido de la A**. Por eso `H` salió `a` en `RI6GH7`. La diferencia está en lo que viene **después**: la A termina ahí; la H sigue con *"-tch"*.
+>
+> ### El drill, 90 segundos, en voz alta
+> **A – E – I** … **A – E – I** … *"ei – ii – ai"*, diez veces seguidas.
+> Luego **A – H** … **A – H**: *"ei – eitch"*.
+> **La boca enseña al oído.** Es el mismo principio de *thir-TEEN / THIR-ty*.
+
+
 ### 🏠 En casa (~35 min)
 
 | | Min | Tarea |
@@ -40,39 +57,6 @@
 | **Vie 2** | 📖 Reading mantenimiento: 1 pasaje (T/F/NG) |
 | **Sáb 3** | 🏁 **Mock de Listening nº2** cronometrado → comparar con el 6.0 |
 | **Dom 4** | 📊 Post-mortem + arrancar **Speaking** |
-
----
-
-## 🎧 EL PLAN DEL MARTES 29 (~35 min)
-
-| | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 5 | 📗 Releer **el bloque 1 (deletreo)** de `05_Listening_Module.md`. Solo ese |
-| [ ] 2 | 25 | 🎧 **Portal → Practice → Form / Note completion** *(tipos de Sección 1)*. **Dos sets si alcanza** |
-| [ ] 3 | 5 | Registrar |
-
-### 🎯 Por qué empezamos por aquí y no por los mapas
-
-**Form completion sale en TODAS las secciones 1 de todos los tests.** Los mapas salen a veces. Y este tipo de ejercicio drilla **las dos categorías mecánicas del error log a la vez**: **deletreo** y **números**.
-
-🔴 **Papel al lado. `*` en las adivinadas.** Sin eso, el puntaje miente.
-
-**Las reglas, a la vista:** cero blancos · si pierdes, salta · la palabra literal · *thir-**TEEN*** ≠ ***THIR**-ty* · **Z = *zed***
-
----
-
-## 📅 LA SEMANA (Sep 29 – Oct 4) — Listening intensivo
-
-| Día | |
-|---|---|
-| **Mar 29** | 🎧 Practice: **Form / Note completion** *(deletreo + números)* |
-| **Mié 30** | 🗺️ Practice: **Map / Plan labelling** — la debilidad nº2. **Dedo en el mapa** |
-| **Jue 1** | 🎧 Practice: **Sección 3** *(varios hablantes: ¿quién dijo qué?)* + ✍️ 1 Task 2 |
-| **Vie 2** | 📖 Reading mantenimiento: 1 pasaje completo *(T/F/NG, el patrón abierto)* |
-| **Sáb 3** | 🏁 **MOCK DE LISTENING Nº2, cronometrado** — con papel. **Comparar con el 6.0** |
-| **Dom 4** | 📊 Post-mortem + arrancar **Speaking** *(0 grabaciones todavía)* |
-
-> **La medición del sábado es la que dice si el trabajo de la semana movió la aguja.**
 
 ---
 

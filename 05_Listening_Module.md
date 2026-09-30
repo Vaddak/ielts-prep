@@ -352,6 +352,30 @@ Se deletrean **letra a letra y dígito a dígito**: *"D – W – three – oh �
 | **B / V / P / D** | *bee* / *vee* / *pee* / *dee* | |
 | **U / W** | *you* / *double-you* | **W** son tres sílabas |
 
+### 🔴 LA RAÍZ DEL PROBLEMA — las vocales están CRUZADAS entre español e inglés
+
+*Confirmado el 29-sep con las respuestas recuperadas del mock del 28: **3 de los 4 fallos de la Sección 1 fueron vocales deletreadas** (`RI6GH7`→`rs6ga7` · `PA365`→`pi365` · `E6`→`a6`).*
+
+**No es que falte intuición. Es que la intuición apunta a la letra equivocada:**
+
+| Oyes en inglés | El oído español quiere escribir | Es |
+|---|---|---|
+| **A** — *"ei"* | E · I | **A** |
+| **E** — *"ii"* | I | **E** |
+| **I** — *"ai"* | A · AI | **I** |
+
+> **Y la colisión A/H es real:** *"**ai**tch"* **empieza con el sonido de la A**. Por eso la `H` de `RI6GH7` salió `a`.
+> **La diferencia está en lo que viene después:** la **A** termina ahí; la **H** sigue con *"-tch"*. **Espera el final de la letra antes de escribirla.**
+
+### El drill de 90 segundos — en voz alta, a diario
+
+**A – E – I** … *"ei – ii – ai"*, **diez veces seguidas**.
+Luego **A – H** … *"ei – eitch"*, **diez veces**.
+
+**La boca enseña al oído.** Mismo principio que *thir-TEEN / THIR-ty*: lo que sabes producir, lo reconoces más rápido.
+
+⚠️ **Y en códigos alfanuméricos** (postcodes, referencias, matrículas) **no hay contexto que te salve**. En una palabra normal, si oyes mal una letra el resto de la palabra te corrige. En `PA365` no hay nada que corrija. **Por eso los códigos son donde más duele.**
+
 ### Las cinco que no suenan como se escriben
 
 | **H** = *aitch* ❗ | **R** = *ar* | **Y** = *why* | **W** = *double-you* | **Z** = *zed* 🇬🇧 |
@@ -362,6 +386,24 @@ Se deletrean **letra a letra y dígito a dígito**: *"D – W – three – oh �
 - *"That's **J** for Jones — **J-O-N-E-S**"* → deletrean **y** dan palabra de apoyo
 - *"**double L**"* → **LL** · *"**double O**"* → **OO**
 - *"It's Claxby — **C-L-A-X-B-Y**"*
+
+### ⚠️ Y aparte: la ortografía de PALABRAS completas
+
+*Sección 4 del mock del 28: `flamable` por **flammable**.*
+
+**Eso no es deletreo: es interferencia del español.** *Inflamable* lleva **una** `m`; *flammable* lleva **dos**. La familia de palabras que dobla consonante en inglés y no en español es corta y vale la pena tenerla vista:
+
+| Español | Inglés |
+|---|---|
+| infla**m**able | fla**mm**able |
+| co**m**ité | co**mm**ittee |
+| reco**m**endar | reco**mm**end |
+| nece**s**ario | nece**ss**ary |
+| dire**cc**ión | addre**ss** ⚠️ *y con doble d* |
+| profe**s**ional | profe**ss**ional |
+| aco**m**odar | acco**mm**odate ⚠️ *doble c Y doble m* |
+
+> **`accommodation` es la palabra más frecuente de la Sección 1 de todo el IELTS** *(alojamiento de estudiantes)*. **Doble c, doble m.** Vale la pena memorizarla sola.
 
 > 🔴 **Escribir letra por letra MIENTRAS las dicen.** Esperar a tener el nombre completo en la cabeza pierde la mitad.
 > ✅ **Evidencia de que sí puede:** el 27-sep escribió `Claxby` correcto. Cuando escribe en directo, le sale.
