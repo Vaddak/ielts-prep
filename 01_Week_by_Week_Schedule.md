@@ -29,6 +29,9 @@
 |---|---|---|
 | [ ] 1 | 40 | ✍️ **Task 2 cronometrado** (Writing: 1 por semana) |
 | [x] 2 | — | 🎧 Note completion nº3 → **adelantado el 30: 3/4** |
+| [ ] 3 | 35 | 🏁 **MOCK DE LISTENING Nº2** completo y cronometrado (portal → Practice → Listening → Take a mock test → **timed**) → comparar con el 6.0 |
+
+⚠️ **No estará vie 2, sáb 3 ni dom 4.** El mock se adelanta al jueves; Reading de mantenimiento y arranque de Speaking pasan al **lunes 5**.
 
 ### Resto de la semana
 | Día | |
