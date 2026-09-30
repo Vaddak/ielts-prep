@@ -1441,4 +1441,7 @@ Ayer en casa no hizo nada; hoy recupera lo del 29 y lo del 30. Tabla de letras r
 
 **Adelanto del jueves (Sección 3) — Matching to categories nº1 (ej. 24556): 4/4** 🏆
 Becas universitarias → requisito principal (B, A, E, D). Sin errores con 6 opciones para 4 huecos. Adelanta porque teme no poder estudiar el fin de semana.
+**Multiple choice nº1 (ej. 27028, Atacama): 4/4** 🏆 — las 4 con tres opciones mencionadas y dos descartadas.
+
+**Cierre del 30:** 6 sets, **20/28**. Tipos de Sección 3 (matching + multiple choice): **8/8**. Los fallos del día son todos de **escritura** (ortografía, formato, sinónimo, cambiar respuesta), ninguno de comprensión ni de orientación.
 

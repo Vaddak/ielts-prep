@@ -6,56 +6,35 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 29 sep, EN CASA · deletreo
+## 👉 RETOMAR AQUÍ — jueves 1 oct
 
-**Hoy en la oficina ✅:** bloque 1 (deletreo) releído · portal explorado · **respuestas del mock del 28 recuperadas** · fecha corregida: **examen sábado 14 nov** (7 semanas).
+**Miércoles 30 ✅ (+ deuda del 29 + adelanto del jueves): 6 sets de Listening en el portal, 20/28**
 
-### 🔴 El hallazgo: 3 de 4 fallos de la Sección 1 = vocales deletreadas
-*RI6GH7 → rs6ga7 · PA365 → pi365 · E6 → a6*
+| Set | Puntaje |
+|---|---|
+| Note completion ×2 | 7/10 |
+| Map labelling ×2 | 5/10 — **orientación 10/10**, fallos de escritura |
+| Matching to categories | **4/4** |
+| Multiple choice | **4/4** |
 
-| Letra | Suena | | Letra | Suena |
-|---|---|---|---|---|
-| **A** | "ei" | | **H** | "eich" |
-| **E** | "ii" | | **G** | "yi" |
-| **I** | "ai" | | **J** | "yei" |
-| **R** | "aa" | | **Y** | "wai" |
+### 🔴 Las 4 reglas de escritura que salieron hoy
+1. **Deletreo:** escribir letra por letra lo que dictan (*THORNE*, no *thont*) · A=ei · E=ii · I=ai
+2. **Palabra literal del audio**, nunca sinónimo (*toilets*, no *bathrooms*)
+3. **ONE WORD ONLY** → compuestos juntos: *campfire, website, notebook*
+4. **No cambiar la primera respuesta** sin contradicción explícita (*coins*)
+👂 Después de *but / actually / however / instead* viene la respuesta.
 
-> ## 🔴 POR QUÉ FALLAN, Y NO ES CASUALIDAD
-> **Los nombres de las vocales en inglés SUENAN como otras letras en español.** La intuición no es que falte: es que **apunta a la letra equivocada**.
->
-> | Oyes en inglés | Tu oído español quiere escribir | Es |
-> |---|---|---|
-> | **A** — *"ei"* | E · I | **A** |
-> | **E** — *"ii"* | I | **E** |
-> | **I** — *"ai"* | A · AI | **I** |
->
-> **Y la colisión A/H es real, no distracción:** *"**ai**tch"* **empieza con el sonido de la A**. Por eso `H` salió `a` en `RI6GH7`. La diferencia está en lo que viene **después**: la A termina ahí; la H sigue con *"-tch"*.
->
-> ### El drill, 90 segundos, en voz alta
-> **A – E – I** … **A – E – I** … *"ei – ii – ai"*, diez veces seguidas.
-> Luego **A – H** … **A – H**: *"ei – eitch"*.
-> **La boca enseña al oído.** Es el mismo principio de *thir-TEEN / THIR-ty*.
-
-
-### 🏠 En casa (~35 min)
-
+### Jueves 1 oct (la Sección 3 ya está adelantada)
 | | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 3 | Memorizar la tabla de arriba |
-| [ ] 2 | 25 | Portal → **Practice → Listening → Practice → Note completion** → **2 sets** (el primero es el ejercicio 24785) |
-| [ ] 3 | 5 | Revisar el ℹ️ de cada fallo y **clasificar**: letra / número / ortografía / comprensión |
+| [ ] 1 | 40 | ✍️ **Task 2 cronometrado** (Writing: 1 por semana) |
+| [ ] 2 | 15 | 🎧 1 set de Note completion (deletreo) |
 
-**Reglas:** de corrido, **sin pausar ni rebobinar** · papel al lado · `*` en las adivinadas · cero blancos · *thir-**TEEN*** ≠ ***THIR**-ty*
-
-💡 **Si no anotas:** el portal guarda todo en **History** → *View result*. Mañana lo leo de ahí.
-
-### 📅 Resto de la semana
+### Resto de la semana
 | Día | |
 |---|---|
-| **Mié 30** | 🗺️ Practice: **Map labelling** (debilidad nº2) · 🎓 clase gratis *Part 1 Listening* en el portal |
-| **Jue 1** | 🎧 Practice: Sección 3 (varios hablantes) + ✍️ 1 Task 2 |
 | **Vie 2** | 📖 Reading mantenimiento: 1 pasaje (T/F/NG) |
-| **Sáb 3** | 🏁 **Mock de Listening nº2** cronometrado → comparar con el 6.0 |
+| **Sáb 3** | 🏁 **Mock de Listening nº2** cronometrado → comparar con el 6.0 *(puede no estar el finde: si es así, hacerlo el viernes)* |
 | **Dom 4** | 📊 Post-mortem + arrancar **Speaking** |
 
 ---
