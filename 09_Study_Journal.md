@@ -1411,3 +1411,17 @@ Otras cosas del portal: biblioteca de Practice con **Note completion (123) · Mu
 ✅ **Fecha confirmada por ella: el examen es el sábado 14 de noviembre** (no el 7). El plan gana **una semana extra** → quedan 7 semanas.
 
 **Cierre del 29 en la oficina:** tabla de letras entregada; Note completion ×2 queda **para casa**.
+
+### 2026-09-30 — Note completion ×2 en el portal (deuda del 29 saldada)
+
+Ayer en casa no hizo nada; hoy recupera lo del 29 y lo del 30. Tabla de letras repasada ✅.
+
+| Set | Puntaje | Fallos |
+|---|---|---|
+| 1 (ej. 24785) | **3/4** | *webside* → **website** (ortografía: la *t* final suena suave) |
+| 2 (ej. 24789) | **4/6** | *THONT* → **THORNE** (deletreado T-H-O-R-N-E) · *PARK* → **Willow** (Room) |
+
+**Total: 7/10.** Números perfectos: 55, 45, 9:45 y la fecha (July) ✅. **Cero errores de vocales A/E/I**: la tabla funcionó.
+- *THONT*: en el deletreo se le fue la **R** y la **E** final. La R británica tras vocal casi no suena (*Thorne* ≈ "thoon") → **cuando deletrean, escribir letra por letra, no la palabra que se oyó**.
+- *PARK*: distractor — el audio menciona un lugar, pero la respuesta es el nombre de la **sala** (*Willow Room*). Leer qué va antes y después del hueco: *The ___ Room*.
+
