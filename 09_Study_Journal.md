@@ -1425,3 +1425,9 @@ Ayer en casa no hizo nada; hoy recupera lo del 29 y lo del 30. Tabla de letras r
 - *THONT*: en el deletreo se le fue la **R** y la **E** final. La R británica tras vocal casi no suena (*Thorne* ≈ "thoon") → **cuando deletrean, escribir letra por letra, no la palabra que se oyó**.
 - *PARK*: distractor — el audio menciona un lugar, pero la respuesta es el nombre de la **sala** (*Willow Room*). Leer qué va antes y después del hueco: *The ___ Room*.
 
+**Map labelling nº1 (ej. 32338): 3/5** — kitchens ✅ showers ✅ wetland ✅
+- *camp fire* → **campfire**: entendió bien, pero la instrucción dice **ONE WORD ONLY** y escribió dos → **error de formato**, no de mapa.
+- *forest* → **lake**: "no capté el último nombre". El audio dice que el área iba a ser para *eco-lodges*, **pero** como el lago es tan popular, los construirán en otro lugar → **el plan cambia a mitad de frase**: la respuesta es lo que queda después del *but*. Bien que no dejó el blanco.
+
+**Día completo: 10/15.** Solo 1 de 5 fallos fue del mapa en sí; la orientación funcionó.
+

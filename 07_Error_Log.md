@@ -342,6 +342,7 @@ After every timed practice or mock exam:
 | 2026-09-29 | ⚠️ **Ortografía de palabras: consonante doble** | Listening · Writing | S4 del mock: `flamable` por **flammable**. Interferencia del español (*inflamable*, una `m`) | Familia: *flammable · committee · recommend · necessary · address · professional · **accommodation*** ← **la palabra más frecuente de la Sección 1 del IELTS** |
 | **2026-09-28** | Mock oficial Listening (recuperado del portal el 29) | Listening | Sección 1: 6/10. **3 fallos = vocales deletreadas**: RI6GH7→rs6ga7, PA365→pi365, E6→a6. S4: *flamable* (flammable), *slicks* (largest) | Tabla de letras: **A=ei · E=ii · I=ai · H=eich · G=yi · J=yei · R=aa · Y=wai**. Drill diario de 3 min |
 | **2026-09-30** | Note completion ×2 (portal) | Listening | **7/10.** *webside* (website) · *THONT* (THORNE, deletreado) · *PARK* (Willow Room, distractor). Números 4/4 ✅ · vocales A/E/I 0 errores ✅ | Deletreo: escribir **letra por letra** lo que dictan, no la palabra que suena. Palabras conocidas: escribirlas como se escriben. Mirar las palabras alrededor del hueco (*The ___ Room*) |
+| **2026-09-30** | Map labelling nº1 (portal) | Listening | **3/5.** *camp fire* (campfire: ONE WORD ONLY) · *forest* (lake: el plan cambia tras *but*) | Compuestos de una palabra: *campfire, website, notebook*. En el audio, lo que viene **después de *but / actually / instead*** es la respuesta |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
