@@ -1439,3 +1439,6 @@ Ayer en casa no hizo nada; hoy recupera lo del 29 y lo del 30. Tabla de letras r
 **Resultado:** 3 fallos, **cero de orientación**: se ubicó bien en el mapa las 5 veces. Los fallos son **disciplina** (cambiar, parafrasear, deletrear).
 **Día completo: 12/20** en 4 sets.
 
+**Adelanto del jueves (Sección 3) — Matching to categories nº1 (ej. 24556): 4/4** 🏆
+Becas universitarias → requisito principal (B, A, E, D). Sin errores con 6 opciones para 4 huecos. Adelanta porque teme no poder estudiar el fin de semana.
+
