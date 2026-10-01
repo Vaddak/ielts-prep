@@ -684,3 +684,55 @@ In conclusion, I largely agree that governments should prioritise public transpo
 - 8/8 filas ✅ · grado constante · concesión que justifica *largely*
 - Queda: *in United States* → *in **the** United States* (§4.7, mismo error del 12-sep)
 - **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5/7
+
+---
+
+# ✍️ TASK 2 Nº 7 — Problem–Solution · 1-oct · ⏱️ 40 min
+
+> **Autocontenido.** Tipo *Problem–Solution*: solo lo habías hecho una vez, en el ensayo 2 (agosto). Es el tipo de la clase en vivo de hoy en el portal.
+
+## El enunciado
+
+> *The amount of electronic waste, such as old phones and computers, is increasing rapidly around the world.*
+>
+> ***What problems does this cause, and what solutions can be proposed?***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+## La estructura (Problem–Solution)
+
+| Párrafo | Oraciones | Qué va |
+|---|---|---|
+| **Intro** | 2 | Parafrasear + *"This essay will examine… and propose…"*. **Sin opinión** |
+| **Body 1: PROBLEMAS** | 4 | Topic sentence con **los dos problemas** → mecanismo → ejemplo → consecuencia |
+| **Body 2: SOLUCIONES** | 4 | Topic sentence con **las dos soluciones** → mecanismo → ejemplo → por qué funcionaría |
+| **Conclusión** | 2 | Resumen + **cuál solución es más viable** |
+
+⚖️ **Bodies equilibrados:** si el 1 tiene 4 oraciones, el 2 también.
+🔴 **La premisa no se demuestra** (lección del ensayo 2). *"E-waste is increasing"* ya es un dato: empieza directo con los problemas.
+🔗 **Cada solución responde a un problema.** Si el problema 1 es X, la solución 1 lo ataca.
+
+## El reparto de los 40 minutos
+| Min | Qué |
+|---|---|
+| 0–5 | Plan en papel: 2 problemas, 2 soluciones emparejadas, 1 ejemplo para cada body |
+| 5–10 | Intro |
+| 10–20 | Body 1 |
+| 20–30 | Body 2 |
+| 30–35 | Conclusión |
+| **35–40** | 🔴 **Barrido final:** typos, falsos amigos (*result · apparently · retire · experimented · offer · employs · supposed · America*), artículos, ¿250 palabras? |
+
+<details>
+<summary><b>👀 PISTAS: abrir SOLO si te bloqueas en el plan</b></summary>
+
+**Problemas posibles:** sustancias tóxicas (plomo, mercurio) que contaminan el suelo y el agua · exportación a países en desarrollo con reciclaje informal y riesgos para la salud · pérdida de materiales valiosos (oro, cobre, tierras raras).
+**Soluciones posibles:** *right to repair* y diseño modular (vida útil más larga) · responsabilidad extendida del productor (*take-back schemes*) · reciclaje formal certificado.
+**Léxico:** *hazardous · discard · dispose of · landfill · leach into · built-in obsolescence · extend the lifespan · take-back scheme · hold manufacturers accountable*.
+💡 **Tu ventaja:** eres ingeniera electrónica. Un ejemplo técnico concreto (PCB, baterías de litio) vale más que uno genérico.
+
+</details>
+
+## ✍️ v1: PEGAR AQUÍ
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿5 min de barrido?** ___
+
