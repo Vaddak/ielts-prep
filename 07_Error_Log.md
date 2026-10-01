@@ -344,6 +344,7 @@ After every timed practice or mock exam:
 | **2026-09-30** | Note completion ×2 (portal) | Listening | **7/10.** *webside* (website) · *THONT* (THORNE, deletreado) · *PARK* (Willow Room, distractor). Números 4/4 ✅ · vocales A/E/I 0 errores ✅ | Deletreo: escribir **letra por letra** lo que dictan, no la palabra que suena. Palabras conocidas: escribirlas como se escriben. Mirar las palabras alrededor del hueco (*The ___ Room*) |
 | **2026-09-30** | Map labelling nº1 (portal) | Listening | **3/5.** *camp fire* (campfire: ONE WORD ONLY) · *forest* (lake: el plan cambia tras *but*) | Compuestos de una palabra: *campfire, website, notebook*. En el audio, lo que viene **después de *but / actually / instead*** es la respuesta |
 | **2026-09-30** | Map labelling nº2 (portal) | Listening | **2/5.** Cambió *coins* (correcta) por *manuscripts* · *bathrooms* por **toilets** (sinónimo propio) · *caffee* (cafe) | **No cambiar la primera respuesta** sin contradicción explícita. Escribir **la palabra del audio**, nunca un sinónimo. *cafe* = 1 f |
+| **2026-10-01** | Mock Listening nº2 (portal, timed) | Listening | **24/40 ≈ 6.0.** 5 de ortografía de palabras entendidas (*contends, fourty, Zeland, two millions, chipping*) · 1 blanco (postcode) · 10 de comprensión/opciones. Vocales A/E/I: 0 ✅ | Lista fija de ortografía (forty, Zealand, contents, *two million*). **Cero blancos**: si no se oye el código, escribir algo con el formato (letra-número) |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay

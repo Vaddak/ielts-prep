@@ -1449,3 +1449,21 @@ Becas universitarias → requisito principal (B, A, E, D). Sin errores con 6 opc
 
 **Total del día: 7 sets, 23/32.** Jueves 1 queda solo el Task 2.
 
+### 2026-10-01 — 🏁 Mock de Listening nº2 (portal, timed, 27:23): **24/40 ≈ Band 6.0**
+
+Igual que el 28-sep. Por sección: S1 **6/10** · S2+S3 (opciones) **13/20** · S4 (notas) **5/10**.
+
+| Tipo de fallo | Nº | Cuáles |
+|---|---|---|
+| 🔴 **Ortografía de palabra que sí entendió** | **5** | *contends* (contents) · *fourty* (forty) · *Zeland* (Zealand) · *two millions* (two million, sin -s) · *chipping* (Chepping, nombre propio) |
+| 🔴 **Casilla en blanco** | **1** | postcode **WE3 9HT** |
+| Comprensión / distractor | 3 | *television* (hair-dryer) · *count* (S4-33) · *rising water* (S4-34) |
+| Opciones (S2 mapa/plano, S3 matching) | 7 | 3 en el plano de la S2, 2 en la S2 MC, 2 en matching S3 |
+
+> **6 de los 16 fallos son mecánicos** (ortografía + blanco). Con esos: **30/40 ≈ Band 7.0**.
+> Las **vocales A/E/I ya no aparecen** ✅. El deletreo de letras se arregló; ahora el problema es **la ortografía de palabras comunes**.
+
+**Lista de ortografía para memorizar:** forty (sin u) · Zealand · contents · *two/three million* (sin -s detrás de un número) · cafe · website · campfire · flammable
+
+Un sobreconteo de opciones: el portal muestra marcado tanto la elegida como la correcta; 7 preguntas de opción con fallo.
+
