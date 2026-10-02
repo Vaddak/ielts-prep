@@ -830,4 +830,4 @@ In conclusion, while larg-scale recycling programmes are a rapid solution to the
 - 1 typo al copiar: *larg-scale* → **large-scale** (+ doble espacio tras *waste,*)
 - Lo que queda para 7: la idea de marketing (*presents overconsumption as a lifestyle*) no tiene **mecanismo ni ejemplo**; una oración más (*e.g. annual launch campaigns that present last year's model as outdated*) la cerraría
 - **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5 sólido/7 en 3 versiones (igual que el nº5 y el nº6)
-
+- ✅ **v3 final (1-oct):** *larg-scale* → **large-scale** corregido por ella. Texto limpio de typos.
