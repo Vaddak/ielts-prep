@@ -1468,4 +1468,4 @@ Igual que el 28-sep. Por sección: S1 **6/10** · S2+S3 (opciones) **13/20** · 
 Un sobreconteo de opciones: el portal muestra marcado tanto la elegida como la correcta; 7 preguntas de opción con fallo.
 
 **Task 2 nº7 v1 (Problem–Solution, e-waste): ~Band 6 en frío**, 319 palabras en 37:29. Premisa no demostrada ✅ (lección del ensayo 2 aplicada). Frenos: bodies 123/86, Body 2 sin ejemplo, ortografía de palabras conocidas (**la misma fuga que el Listening de hoy**), falsos amigos *actual* e *increment*. 26 sustituciones para la v2.
-
+**Task 2 nº7 v2: ~6.5.** 24/26 filas aplicadas, bodies 118/97. Quedan 8 filas (empalme de coma en la fila 18, ejemplo fuera de lugar, *disscused*).

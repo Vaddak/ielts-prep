@@ -788,3 +788,29 @@ In conclusion, while standard and massive recycling protocols are a rapid soluti
 
 **Falsos amigos nº 9 y 10:** ***actual*** (= real) · ***increment*** (= incremento técnico; en ensayo: *increase*).
 
+## ✍️ v2 — 1-oct · **~Band 6.5**
+
+**Palabras:** 322 (46 / 118 / 97 / 61)
+
+Over recent decades, the amount of electronic waste has increased rapidly all over the world. In this essay, the problems it causes, particularly pollution, will be disscused and some solutions will be presented, with a focus on the role of manufacturers and marketing in reducing waste.
+
+The main problem caused by electronic waste is the lack of recycling protocols and tools when these devices are no longer useful, which contributes significantly to environmental pollution. Compared to other kinds of waste such as paper and glass which are made of simple materials and can be recycled easily, electronic waste is made of multiple materials such as metal, plastic and chemicals. Components such as batteries require special treatment due to the hazardous chemicals they contain and when they are not disposed of properly, they end up polluting. Furthermore, over the last decades, electronic devices such as phones and computers are designed to have a short lifespan, forcing people to acquire new ones and discard them frequently.
+
+Although recycling programs are needed to reduce and reuse electronic waste,  the role played by the electronics industry is essential. Manufacturers must develop electronic devices with a long lifetime that are easy to repair. However, durable products alone are not enough, marketing also plays a key role. Nowadays, marketing presents overconsumption as a lifestyle. Modular components such as modular batteries allow devices such as phones and computers to be used even for a longer time. Consequently, both manufacturers and marketing must be oriented to offer electronic devices that last longer and are designed to be recycled easily.
+
+In conclusion, while standard and massive recycling protocols are a rapid solution to the increase in electronic waste, manufacturers and marketing are the ones who can prevent it from growing in the future. The proper disposal and treatment of existing devices is a short-term solution, whereas a world without overconsumption can only be achieved through the electronics industry and responsible marketing.
+
+### 🔍 Corrección v2 · **~Band 6.5** (TA 6.5 · CC 6.5 · LR 6.5 · GR 6.5)
+
+✅ 24 de 26 filas aplicadas · bodies 118 / 97 (antes 123 / 86) · falsos amigos *actual* e *increment* eliminados · concordancia ×3 corregida · ejemplo técnico propio añadido (fila 21).
+
+| # | Párrafo | Dice | Cambiar por | Por qué |
+|---|---|---|---|---|
+| 1 | Intro | disscused | discussed | 🔴 fila 4 de la v1 sin aplicar del todo |
+| 2 | B1 | they end up polluting. | they end up polluting water sources. | *pollute* necesita objeto: se perdió *sources of water* |
+| 3 | B1 | over the last decades, electronic devices… are designed | over the last decades, electronic devices… have been designed | *over the last decades* → present perfect |
+| 4 | B2 | However, durable products alone are not enough, marketing also plays a key role. | However, durable products alone are not enough; marketing also plays a key role. | 🔴 empalme de coma: la fila 18 llevaba **punto y coma** |
+| 5 | B2 | (orden) la oración *Modular components…* después de *Nowadays, marketing…* | **moverla justo después de** *…that are easy to repair.* | 🔗 el ejemplo es de **fabricantes**, no de marketing: va pegado a su idea |
+| 6 | B2 | Modular components such as modular batteries allow devices such as phones and computers to be used even for a longer time. | For example, replaceable batteries and modular components allow phones and computers to be used for much longer. | *such as* ×2 en una oración · *even for a longer time* → *for much longer* · arranca con *For example* |
+| 7 | B2 | must be oriented to offer | must work together to offer | *oriented to* es calco del español |
+| 8 | Concl | standard and massive recycling protocols | large-scale recycling programmes | *massive* suena a "enorme"; *large-scale* es el registro |
