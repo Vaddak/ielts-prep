@@ -732,7 +732,59 @@ In conclusion, I largely agree that governments should prioritise public transpo
 
 </details>
 
-## ✍️ v1: PEGAR AQUÍ
+## ✍️ v1 — 1-oct · **~Band 6** — NO SE TOCA
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿5 min de barrido?** ___
+**Tiempo real:** 37:29 · **Palabras:** 319 (49 / 123 / 86 / 61) · **¿5 min de barrido?** No (2:31)
+
+Since the last decades, the amount of electronic wasted has increased rapidly over all the world. In this essay, some consequences such as a growth in pollution will be disscused and some solutions will be presented, including the importance of marketing oriented to reduce and reuse these electronics devices.
+
+The main problem caused by electronic waste is the lack of recycling protocols and tools when these devices are not longer useful, leading it to highly contribute with environmental pollution. Compared to other kind of waste such as paper and glass made of simple materials and with standard and easy recycling processes, electronic waste is made of multiple materials such as metal, plastic and chemicals. Components such as batteries requires special treatment due to the chemicals inside of it and when the dispose of them is not appropiate, they ends polluting sources of water. Furthermore, over the last decades, electronic devices such as phones and computers are thought to have a short lifetime, forcing people to adquire new ones and discard them frequently.
+
+Although, recycling programs are needed to reduce and reuse electronic waste,  the role played by electronic industry is essential. Manufacturers must develop electronic devices with a long lifetime and with ease to be repaired. But not only a high quality in electronic devices is needed, the role marketing plays is also important. Nowdays, marketing is oriented to present overconsumption like a lifestyle. Consequently, both manufacturers and marketing must be oriented to offer electronic devices able to have a long lifetime and being thought to easily recycle.
+
+In conclusion, while standard and massive recycling protocols are a rapid solution to the increment of electronic waste, manufacturers and marketing are the ones who avoids the future increment on this waste. The correct dispose and treatment of the actual electronic devices is a short-time solution, whereas a world without overconsumption can be thought throught the electronic industry and the marketing.
+
+### 🔍 Corrección v1 · **~Band 6** (TA 6 · CC 6 · LR 6 · GR 6)
+
+✅ **Lo bueno:** 319 palabras · terminó con tiempo · estructura Problem–Solution correcta · **no demostró la premisa** (lección del ensayo 2 aplicada) · la conclusión distingue solución a corto y a largo plazo (buena idea, y eso es lo que pide *"más viable"*).
+
+🔴 **Lo que la frena en 6:**
+1. **Bodies desequilibrados:** Body 1 = 123 palabras, Body 2 = 86 (patrón de la semana 10, 3ª vez)
+2. **Body 2 sin ejemplo concreto.** Y la ventaja de ingeniera no se usó en ninguno de los dos bodies
+3. **Ortografía de palabras que conoce** (la misma fuga del Listening de hoy): *wasted, disscused, appropiate, adquire, Nowdays, throught*
+4. **Falsos amigos nuevos:** *actual* (= real, no "actual") · *increment* (= aumento en pasos fijos; se dice *increase*)
+5. **Concordancia sujeto–verbo** ×3: *batteries requires · they ends · manufacturers… who avoids*
+
+### Las sustituciones (aplicar fila por fila para la v2)
+
+| # | Párrafo | Dice | Cambiar por | Por qué |
+|---|---|---|---|---|
+| 1 | Intro | Since the last decades | Over recent decades | *since* + punto en el tiempo, no período |
+| 2 | Intro | electronic wasted | electronic waste | sustantivo, no participio |
+| 3 | Intro | over all the world | all over the world | orden fijo |
+| 4 | Intro | some consequences such as a growth in pollution will be disscused | the problems it causes, particularly pollution, will be discussed | ortografía + el enunciado dice *problems* |
+| 5 | Intro | including the importance of marketing oriented to reduce and reuse these electronics devices | with a focus on the role of manufacturers and marketing in reducing waste | *electronics devices* → *electronic devices*; más corto |
+| 6 | B1 | are not longer useful | are no longer useful | *no longer* |
+| 7 | B1 | leading it to highly contribute with environmental pollution | which contributes significantly to environmental pollution | *contribute **to*** |
+| 8 | B1 | other kind of waste | other kinds of waste | plural tras *other* |
+| 9 | B1 | made of simple materials and with standard and easy recycling processes | which are made of simple materials and can be recycled easily | paralelismo |
+| 10 | B1 | batteries requires | batteries require | concordancia |
+| 11 | B1 | the chemicals inside of it | the hazardous chemicals they contain | plural + léxico |
+| 12 | B1 | when the dispose of them is not appropiate, they ends polluting | when they are not disposed of properly, they end up polluting | *dispose* es verbo · *appropriate* · *end up* |
+| 13 | B1 | are thought to have a short lifetime | are designed to have a short lifespan | *thought* ≠ diseñado |
+| 14 | B1 | adquire | acquire / buy | 🔴 ortografía española |
+| 15 | B2 | Although, recycling programs are needed | Although recycling programmes are needed | sin coma tras *although* |
+| 16 | B2 | the role played by electronic industry | the role played by the electronics industry | artículo + *electronics industry* |
+| 17 | B2 | with ease to be repaired | that are easy to repair | estructura |
+| 18 | B2 | But not only a high quality in electronic devices is needed, the role marketing plays is also important. | However, durable products alone are not enough; marketing also plays a key role. | empalme de coma + *But* al inicio |
+| 19 | B2 | Nowdays, marketing is oriented to present overconsumption like a lifestyle | Nowadays, marketing presents overconsumption as a lifestyle | ortografía · *like* → *as* |
+| 20 | B2 | able to have a long lifetime and being thought to easily recycle | that last longer and are designed to be recycled easily | paralelismo |
+| 21 | B2 | ➕ añadir antes de *Consequently* | **Una oración de ejemplo concreto** (ej. *For example, smartphones with replaceable batteries and modular components…*) | ⚖️ equilibrar con el Body 1 |
+| 22 | Concl | the increment of electronic waste | the increase in electronic waste | falso amigo |
+| 23 | Concl | the ones who avoids the future increment on this waste | are the ones who can prevent it from growing in the future | concordancia + *avoid* ≠ *prevent* |
+| 24 | Concl | The correct dispose and treatment of the actual electronic devices | The proper disposal and treatment of existing devices | *disposal* (sustantivo) · 🔴 *actual* = real |
+| 25 | Concl | short-time solution | short-term solution | colocación fija |
+| 26 | Concl | can be thought throught the electronic industry and the marketing | can only be achieved through the electronics industry and responsible marketing | *throught* → *through* · sin *the* ante *marketing* |
+
+**Falsos amigos nº 9 y 10:** ***actual*** (= real) · ***increment*** (= incremento técnico; en ensayo: *increase*).
 
