@@ -814,3 +814,20 @@ In conclusion, while standard and massive recycling protocols are a rapid soluti
 | 6 | B2 | Modular components such as modular batteries allow devices such as phones and computers to be used even for a longer time. | For example, replaceable batteries and modular components allow phones and computers to be used for much longer. | *such as* ×2 en una oración · *even for a longer time* → *for much longer* · arranca con *For example* |
 | 7 | B2 | must be oriented to offer | must work together to offer | *oriented to* es calco del español |
 | 8 | Concl | standard and massive recycling protocols | large-scale recycling programmes | *massive* suena a "enorme"; *large-scale* es el registro |
+
+## ✍️ v3 — 1-oct · **~Band 6.5 sólido, rozando 7** · CERRADO
+
+Over recent decades, the amount of electronic waste has increased rapidly all over the world. In this essay, the problems it causes, particularly pollution, will be discussed and some solutions will be presented, with a focus on the role of manufacturers and marketing in reducing waste.
+
+The main problem caused by electronic waste is the lack of recycling protocols and tools when these devices are no longer useful, which contributes significantly to environmental pollution. Compared to other kinds of waste such as paper and glass which are made of simple materials and can be recycled easily, electronic waste is made of multiple materials such as metal, plastic and chemicals. Components such as batteries require special treatment due to the hazardous chemicals they contain and when they are not disposed of properly, they end up polluting sources of water. Furthermore, over the last decades, electronic devices such as phones and computers have been designed to have a short lifespan, forcing people to acquire new ones and discard them frequently.
+
+Although recycling programs are needed to reduce and reuse electronic waste,  the role played by the electronics industry is essential. Manufacturers must develop electronic devices with a long lifetime that are easy to repair. For example, replaceable batteries and modular components allow phones and computers to be used for much longer. However, durable products alone are not enough; marketing also plays a key role. Nowadays, marketing presents overconsumption as a lifestyle. Consequently, both manufacturers and marketing must work together to offer electronic devices that last longer and are designed to be recycled easily.
+
+In conclusion, while larg-scale recycling programmes are a rapid solution to the increase in electronic waste, manufacturers and marketing are the ones who can prevent it from growing in the future. The proper disposal and treatment of existing devices is a short-term solution, whereas a world without overconsumption can only be achieved through the electronics industry and responsible marketing.
+
+### Corrección v3
+- **Las 8 filas de la v2 aplicadas** ✅ · el ejemplo ahora va pegado a su idea · punto y coma correcto
+- 1 typo al copiar: *larg-scale* → **large-scale** (+ doble espacio tras *waste,*)
+- Lo que queda para 7: la idea de marketing (*presents overconsumption as a lifestyle*) no tiene **mecanismo ni ejemplo**; una oración más (*e.g. annual launch campaigns that present last year's model as outdated*) la cerraría
+- **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5 sólido/7 en 3 versiones (igual que el nº5 y el nº6)
+

@@ -6,39 +6,21 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — jueves 1 oct
+## 👉 RETOMAR AQUÍ — lunes 5 oct (vie 2 – dom 4 fuera)
 
-**Miércoles 30 ✅ (+ deuda del 29 + adelanto del jueves): 6 sets de Listening en el portal, 20/28**
+**Jueves 1 ✅:** 🏁 Mock Listening nº2 **24/40 ≈ 6.0** (vocales A/E/I: 0 errores ✅ · nueva fuga: ortografía de palabras conocidas) · ✍️ Task 2 nº7 (Problem–Solution) **v1 ~6 → v3 ~6.5/7**.
 
-| Set | Puntaje |
-|---|---|
-| Note completion ×2 | 7/10 |
-| Map labelling ×2 | 5/10 — **orientación 10/10**, fallos de escritura |
-| Matching to categories | **4/4** |
-| Multiple choice | **4/4** |
+### 🔴 La fuga común de Listening y Writing: ortografía de palabras que SÍ sabe
+**Lista:** forty · Zealand · contents · *two million* (sin -s) · cafe · website · campfire · flammable · discussed · appropriate · acquire · nowadays · through
+**Falsos amigos (10):** result · apparently · retire · experimented · offer · employs · supposed · America · **actual** · **increment**
 
-### 🔴 Las 4 reglas de escritura que salieron hoy
-1. **Deletreo:** escribir letra por letra lo que dictan (*THORNE*, no *thont*) · A=ei · E=ii · I=ai
-2. **Palabra literal del audio**, nunca sinónimo (*toilets*, no *bathrooms*)
-3. **ONE WORD ONLY** → compuestos juntos: *campfire, website, notebook*
-4. **No cambiar la primera respuesta** sin contradicción explícita (*coins*)
-👂 Después de *but / actually / however / instead* viene la respuesta.
-
-### Jueves 1 oct (la Sección 3 ya está adelantada)
+### Lunes 5 oct — arranca la semana de Speaking
 | | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 40 | ✍️ **Task 2 cronometrado** (Writing: 1 por semana) |
-| [x] 2 | — | 🎧 Note completion nº3 → **adelantado el 30: 3/4** |
-| [ ] 3 | 35 | 🏁 **MOCK DE LISTENING Nº2** completo y cronometrado (portal → Practice → Listening → Take a mock test → **timed**) → comparar con el 6.0 |
-
-⚠️ **No estará vie 2, sáb 3 ni dom 4.** El mock se adelanta al jueves; Reading de mantenimiento y arranque de Speaking pasan al **lunes 5**.
-
-### Resto de la semana
-| Día | |
-|---|---|
-| **Vie 2** | 📖 Reading mantenimiento: 1 pasaje (T/F/NG) |
-| **Sáb 3** | 🏁 **Mock de Listening nº2** cronometrado → comparar con el 6.0 *(puede no estar el finde: si es así, hacerlo el viernes)* |
-| **Dom 4** | 📊 Post-mortem + arrancar **Speaking** |
+| [ ] 1 | 5 | Repasar la lista de ortografía de arriba |
+| [ ] 2 | 15 | 📖 Reading mantenimiento: 1 pasaje T/F/NG (pendiente del viernes) |
+| [ ] 3 | 30 | 🎤 **Speaking: primera grabación.** Releer `06_Speaking_Module.md` Parte 1 + grabar 4 preguntas de Parte 1 (o el Speaking mock del portal) |
+| [ ] 4 | 10 | 🎧 1 set de Listening del portal: plano/mapa de Sección 2 (3 fallos en el mock) |
 
 ---
 
