@@ -970,3 +970,51 @@ The number of passenger journeys made by bus fell from 120 million in 2000 to 10
 The growth of tram and bike-sharing was even more significant. Tram journeys doubled to 30 million by 2010 and tripled their original figure by 2020, reaching 45 million. Finally, bike-sharing had zero passenger journeys in 2000 but the figure climbed to 10 million ten years later, before reaching 38 million in 2020. Despite this rapid growth, both tram and bike-sharing remained well below the figure for the bus in 2020.
 
 - Los 3 detalles de la v3 aplicados. Cero errores detectados. **Modelo de referencia para tablas.**
+
+---
+
+# ⏱️ JUEVES 8 OCT — TASK 1 Nº 6 · GRÁFICO DE LÍNEAS · 20 min
+
+> **Autocontenido.** Formato: **line graph** (los datos van en tabla porque aquí no hay imagen; en el examen verías 4 líneas). Lo nuevo: **cuatro líneas que se cruzan** y un **punto máximo** en una de ellas.
+
+## El enunciado
+
+> *The graph below shows the percentage of electricity generated from renewable sources in four countries between 2000 and 2020.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words. You have 20 minutes.**
+
+| Country | 2000 | 2005 | 2010 | 2015 | 2020 |
+|---|---|---|---|---|---|
+| Colombia | 70 | 72 | 68 | 65 | 74 |
+| Germany | 6 | 10 | 17 | 30 | 45 |
+| United Kingdom | 3 | 4 | 7 | 25 | 43 |
+| Japan | 10 | 9 | 9 | 15 | 20 |
+
+## El reparto de los 20 minutos
+
+| Min | Qué |
+|---|---|
+| **0–1** | ⏱️ **Los 60 segundos.** ① ¿quién sube, quién baja? ② ¿se cruzan líneas? ③ ¿hay un máximo o un mínimo destacado? |
+| 1–3 | **Intro**: parafrasear, una oración |
+| 3–6 | **Overview**: dos oraciones · **cero dígitos** · los cuatro países representados |
+| 6–11 | **Detalle 1**: 4 oraciones |
+| 11–16 | **Detalle 2**: 4 oraciones *(⚖️ mismo tamaño)* |
+| **16–20** | 🔴 **Barrido:** ¿150? · artículos · ¿dígitos en el Overview? · ortografía · falsos amigos (*actual, increment*…) |
+
+<details>
+<summary><b>👀 PISTAS: abrir SOLO después de escribir</b></summary>
+
+**El titular:** Colombia es, de lejos, el país con mayor proporción durante todo el período, aunque **fluctúa** (cae hasta 2015 y se recupera). Los otros tres **crecen**, sobre todo Alemania y Reino Unido.
+**El cruce:** el Reino Unido **supera a Japón** entre 2010 y 2015 y casi **alcanza a Alemania** en 2020.
+**Agrupación sugerida:** Detalle 1 = Colombia y Japón (los que se mueven poco o fluctúan) · Detalle 2 = Alemania y Reino Unido (crecimiento rápido).
+**Léxico:** *fluctuate · dip to a low of · recover · overtake · surge · more than sevenfold · fourteenfold · remain well below · by far the highest*.
+⚠️ **Porcentajes:** se dice *the proportion rose **from** 6% **to** 45%*, no *rose 39%* (eso serían **puntos porcentuales**: *rose by 39 percentage points*).
+
+</details>
+
+## ✍️ Task 1 nº 6: PEGAR AQUÍ
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de barrido?** ___
+
