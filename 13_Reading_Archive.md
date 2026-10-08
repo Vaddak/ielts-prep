@@ -2091,7 +2091,26 @@ For now, the night train occupies an unusual position: widely admired, increasin
 
 International sleeper services face several practical difficulties. Trains must follow different national safety rules and frequently replace their **8** ______ at borders, while track **9** ______ make up around one third of operating costs. Because new carriages take years to arrive, operators often use **10** ______ carriages, some over forty years old.
 
-**Respuestas:** 1 ___ · 2 ___ · 3 ___ · 4 ___ · 5 ___ · 6 ___ · 7 ___ · 8 ___ · 9 ___ · 10 ___
-**Tiempo real:** ___
+**Respuestas:** 1 T · 2 NG · 3 F · 4 F · 5 T · 6 T · 7 T · 8 locomotives · 9 operators · 10 refurbished
+**Tiempo real:** 12:28 (sobraron 7:32)
 
-> 🔑 La clave te la doy en el chat.
+### ✅ Resultado — 8 oct · **7/10**
+
+| # | Tuya | Clave | |
+|---|---|---|---|
+| 1 | T | T | ✅ *each carriage carries far fewer passengers than a daytime coach* |
+| 2 | NG | NG | ✅ *bought* — el precio no aparece |
+| 3 | F | F | ✅ *less to ticket prices than to…* |
+| 4 | F | F | ✅ *depend heavily on how the electricity… is produced* |
+| 5 | T | **NG** | ❌ ver abajo |
+| 6 | T | T | ✅ *reduced… to just two lines by 2017* |
+| 7 | T | **F** | ❌ ver abajo |
+| 8 | locomotives | locomotives | ✅ |
+| 9 | operators | **access fees** | ❌ ver abajo |
+| 10 | refurbished | refurbished | ✅ |
+
+**Nº5 (T → NG).** Las encuestas registraron que la gente **dijo** elegir el tren. Si lo **siguieron haciendo** después: *Whether such stated intentions translate into lasting changes in behaviour is less clear*. El texto dice explícitamente que **no se sabe** → NG. 🔴 **Patrón nuevo, el inverso del habitual:** marcó T completando con lógica lo que el texto deja abierto. *Is less clear / remains uncertain / has not been established* = **NG** casi siempre.
+
+**Nº7 (T → F).** *ordered in 2018, did not enter service until the end of 2023* = **más de 5 años**. *Within two years* lo contradice → F. La duda era correcta: **cuando hay dos fechas, restar siempre**. Además, *did not… until* ya anuncia una espera larga.
+
+**Nº9 (operators → access fees).** *track ___ make up around one third of operating costs*: lo que **compone costos** es dinero, no personas. El texto: *each national track operator charges its own **access fee**. …these **fees** account for a third of the cost*. 🔴 **Regla del summary:** comprobar que la palabra encaje **en significado con el verbo** (*make up costs* → algo que cuesta), no solo que esté cerca en el texto.
