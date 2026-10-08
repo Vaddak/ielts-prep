@@ -26,8 +26,10 @@
 ### Jue 8 – vie 9 (días de trabajo: 20–30 min)
 | | Tarea |
 |---|---|
-| [ ] Jue 8 | Releer `06_Speaking_Module.md` **Parte 1** (15 min) + lista de ortografía (5 min) |
-| [ ] Vie 9 | 🎤 **Grabar 4 preguntas de Parte 1** → transcribir (celular o *Dictar* de Word, sin corregir) → pegar en el chat **= primera medición** |
+| [ ] Jue 8 (oficina) | 📖 Pasaje T/F/NG + summary, 20 min (`13_Reading_Archive.md`, al final) → ✍️ Task 1 cronometrado → 🎧 plano S2 del portal |
+| [ ] Vie 9 | Releer `06_Speaking_Module.md` Parte 1 + lista de ortografía |
+
+🎤 **Todo el Speaking se graba en casa el puente** (puede hablar sin parar). En la oficina: Reading, Writing y Listening.
 
 ### 🏖️ El puente (~1.5 h por día)
 | Día | Bloque 1 | Bloque 2 | Bloque 3 |
