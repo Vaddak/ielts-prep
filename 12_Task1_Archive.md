@@ -1014,7 +1014,40 @@ The growth of tram and bike-sharing was even more significant. Tram journeys dou
 
 </details>
 
-## ✍️ Task 1 nº 6: PEGAR AQUÍ
+## ✍️ Task 1 nº 6 — v1 · 8 oct · **~Band 5.5** — NO SE TOCA
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿4 min de barrido?** ___
+**Tiempo real:** ~19:27 · **Palabras:** 226 (19 / 60 / 35 / 71 / 41) · **¿4 min de barrido?** No
+
+The line graph below shows the percentage of electricity generated from renewables sources in for nations in two decades.
+Overall, European countries such as Germany and United Kingdom presented a remarkable increase, whereas Japan remain steadily the first ten years and proceed to rise. Colombia since the first year showed the highest figure compared to the numbers in 2020 for the others three countries. After 2000, the percentages for Colombia oscillated in small values to finally increase in 2020.
+Between 2000 and 2010, Germany doubled the percentages of United Kingdom, whereas 2015 and 2020 the electricity produced from renewable sources in United Kingdom remained lower, these two countries showed similar values that increased gradually.
+For Japan and Colombia the percentage of electricity generated was not growing year by year as for Germany and United Kingdom. Instead of that, both countries, Japan and Colombia, had a highest amount of electricity produced since 2000. In 2005, while Colombia rose from 70% to 72%, Japan declined 1% and remained constant in 2010. In 2015, Japan started to increase and in 2020 doubled its first percentage presented in 2000.
+Finally, while Colombia showed a drop during 2010 and 2015, in 2020 had the highest percentage of electricity generated in all the data presented. Colombia since 2000 recorded the highest figure, even higher than the figures recorded in Germany in 2020.
+
+### 🔍 Corrección v1 · **~Band 5.5** (TA 5 · CC 5.5 · LR 6 · GR 5.5)
+
+**¿Divagó?** Sí. **Colombia aparece en 4 párrafos** y su idea principal ("es la más alta") se repite **tres veces**, mientras que **Alemania y Reino Unido no tienen ni una cifra** (6 → 45, 3 → 43). Es lo más caro del texto: el crecimiento más grande del gráfico quedó sin datos.
+
+| Problema | Dónde |
+|---|---|
+| 🔴 Dígitos en el Overview | *2020*, *2000* |
+| 🔴 Datos clave ausentes | Alemania y Reino Unido: cero cifras |
+| 🔴 Dato falso | *Japan and Colombia had a highest amount… since 2000*: Japón nunca es el más alto |
+| 🔴 Párrafos desequilibrados | 35 / 71 / 41 palabras; Colombia partida en dos párrafos |
+| Empalme de coma | *…remained lower, these two countries showed…* |
+
+### Las sustituciones
+
+| # | Dice | Cambiar por | Por qué |
+|---|---|---|---|
+| 1 | The line graph below shows | The line graph illustrates | no copiar el enunciado |
+| 2 | renewables sources in for nations in two decades | renewable sources in four countries between 2000 and 2020 | *renewable* adjetivo · *four* · período exacto |
+| 3 | Overall, European countries such as Germany and United Kingdom presented a remarkable increase, whereas Japan remain steadily the first ten years and proceed to rise. | Overall, the proportion of renewable electricity rose in Germany, the UK and Japan, with the two European countries experiencing by far the most rapid growth. | sin dígitos · *the UK* · concordancia (*remain/proceed*) |
+| 4 | Colombia since the first year showed the highest figure… [hasta el final del párrafo] | Colombia, by contrast, fluctuated slightly but remained the country with the highest share throughout the period. | **una** oración, **cero dígitos**, sin repetir |
+| 5 | Between 2000 and 2010, Germany doubled the percentages of United Kingdom, whereas 2015 and 2020… gradually. | Germany's share rose steadily from 6% in 2000 to 45% in 2020. The UK started from an even lower base of 3% and grew slowly until 2010, when it reached 7%. It then surged to 25% in 2015 and to 43% in 2020, almost catching up with Germany. | 🔴 **las cifras que faltaban** · sin empalme |
+| 6 | For Japan and Colombia… [párrafos 4 y 5 completos] | Colombia's figure was consistently far higher, starting at 70%. It fluctuated slightly, dipping to a low of 65% in 2015, before recovering to a peak of 74% in 2020. Japan, in contrast, remained almost unchanged at around 9–10% for the first decade, then doubled to 20% by 2020. Even so, it stayed well below the other three countries. | **un solo** párrafo de 4 oraciones · elimina el dato falso y las repeticiones |
+
+**Estructura correcta de la v2:** Intro (1) · Overview (2, sin dígitos) · **Detalle 1 = Alemania + UK** (3–4) · **Detalle 2 = Colombia + Japón** (4). **Cuatro párrafos, no cinco.**
+
+**Regla para el examen:** *Si ya lo dijiste en el Overview, en el detalle solo se añaden **cifras**, no se repite la idea.*
 
