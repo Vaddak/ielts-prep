@@ -6,21 +6,43 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — lunes 5 oct (vie 2 – dom 4 fuera)
+## 👉 RETOMAR AQUÍ — jueves 8 oct · plan del puente (sáb 10 – lun 12 festivo)
 
-**Jueves 1 ✅:** 🏁 Mock Listening nº2 **24/40 ≈ 6.0** (vocales A/E/I: 0 errores ✅ · nueva fuga: ortografía de palabras conocidas) · ✍️ Task 2 nº7 (Problem–Solution) **v1 ~6 → v3 ~6.5/7**.
+**Lun 5 – mié 7: sin estudio** (trabajo pesado). Faltan **5 semanas** (examen sáb 14 nov).
 
-### 🔴 La fuga común de Listening y Writing: ortografía de palabras que SÍ sabe
-**Lista:** forty · Zealand · contents · *two million* (sin -s) · cafe · website · campfire · flammable · discussed · appropriate · acquire · nowadays · through
-**Falsos amigos (10):** result · apparently · retire · experimented · offer · employs · supposed · America · **actual** · **increment**
-
-### Lunes 5 oct — arranca la semana de Speaking
-| | Min | Tarea |
+### 📊 Dónde está
+| Módulo | Banda | Estado |
 |---|---|---|
-| [ ] 1 | 5 | Repasar la lista de ortografía de arriba |
-| [ ] 2 | 15 | 📖 Reading mantenimiento: 1 pasaje T/F/NG (pendiente del viernes) |
-| [ ] 3 | 30 | 🎤 **Speaking: primera grabación.** Releer `06_Speaking_Module.md` Parte 1 + grabar 4 preguntas de Parte 1 (o el Speaking mock del portal) |
-| [ ] 4 | 10 | 🎧 1 set de Listening del portal: plano/mapa de Sección 2 (3 fallos en el mock) |
+| Reading | 7.5 | ✅ en la meta — solo mantenimiento |
+| Writing | ~6 frío · ~6.5/7 corregido | ⚠️ subir la v1 |
+| Listening | 6.0 (×2) | ⚠️ fuga de ortografía |
+| **Speaking** | **—** | 🔴 **sin medir. Es LA deuda** |
+
+### 🔴 Lo que se debe
+1. 🎤 **Primera grabación de Speaking** (semana del 5 entera era Speaking P1+P2)
+2. 📖 1 pasaje de Reading T/F/NG (desde el vie 2)
+3. 🎧 1 plano/mapa de Sección 2
+
+### Jue 8 – vie 9 (días de trabajo: 20–30 min)
+| | Tarea |
+|---|---|
+| [ ] Jue 8 | Releer `06_Speaking_Module.md` **Parte 1** (15 min) + lista de ortografía (5 min) |
+| [ ] Vie 9 | 🎤 **Grabar 4 preguntas de Parte 1** → transcribir (celular o *Dictar* de Word, sin corregir) → pegar en el chat **= primera medición** |
+
+### 🏖️ El puente (~1.5 h por día)
+| Día | Bloque 1 | Bloque 2 | Bloque 3 |
+|---|---|---|---|
+| **Sáb 10** | 🎤 Parte 2: teoría + 2 cue cards grabadas (1 min prep + 2 min) | 🎧 Plano S2 + 1 set Note completion | 📖 Pasaje T/F/NG |
+| **Dom 11** | 🎤 Parte 3: teoría + 4 preguntas grabadas | ✍️ Task 1 cronometrado (20 min) | 🎧 Multiple choice S4 (5/10 en el mock) |
+| **Lun 12** | 🏁 **Express Mock del portal** (25 min, 4 módulos) o **Speaking mock** | ✍️ Task 2 cronometrado **con barrido de 5 min** | 📊 Post-mortem + plan semana 13–18 |
+
+### Lo que viene después
+| Semana | Foco |
+|---|---|
+| Oct 13–18 | Speaking P1–P3 a diario (15 min) + Listening 2 sets/día |
+| Oct 19–25 | 🏁 **Mock completo nº1** (4 módulos) |
+| Oct 26 – Nov 8 | Lo que falle + Mocks nº2 y nº3 |
+| Nov 9–14 | Repaso ligero · examen sáb 14 |
 
 ---
 
