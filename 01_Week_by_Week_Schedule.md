@@ -26,7 +26,8 @@
 ### Jue 8 – vie 9 (días de trabajo: 20–30 min)
 | | Tarea |
 |---|---|
-| [ ] Jue 8 (oficina) | 📖 Pasaje T/F/NG + summary, 20 min (`13_Reading_Archive.md`, al final) → ✍️ Task 1 cronometrado → 🎧 plano S2 del portal |
+| [x] Jue 8 (oficina) | 📖 Reading **7/10** ✅ · ✍️ Task 1 nº6 **v1 ~5.5 → v2 ~7** ✅ |
+| [ ] Jue 8 (casa) | 🎧 **Plano S2**: portal → Practice → Listening → Practice → **Map labelling** (10 min). Regla: palabra literal, ONE WORD, no cambiar la primera respuesta |
 | [ ] Vie 9 | Releer `06_Speaking_Module.md` Parte 1 + lista de ortografía |
 
 🎤 **Todo el Speaking se graba en casa el puente** (puede hablar sin parar). En la oficina: Reading, Writing y Listening.
