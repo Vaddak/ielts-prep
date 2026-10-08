@@ -1051,3 +1051,15 @@ Finally, while Colombia showed a drop during 2010 and 2015, in 2020 had the high
 
 **Regla para el examen:** *Si ya lo dijiste en el Overview, en el detalle solo se añaden **cifras**, no se repite la idea.*
 
+### v2 — 8 oct · **~Band 7** · CERRADO (~170 palabras, 4 párrafos)
+
+The line graph below illustrates the percentage of electricity generated from renewable sources in four countries between 2000 and 2020.
+Overall, the proportion of renewable electricity rose in Germany, the UK and Japan, with the two European countries experiencing by far the most rapid growth. Colombia, by contrast, fluctuated slightly but remained the country with the highest share throughout the period.
+Germany´s share rose steadily from 6% in 2000 to 45% in 2020. The UK started from an even lower base of 3% and grew slowly until 2010, when it reached 7%. It then surged to 25% in 2015 and to 43% in 2020, almost catching up with Germany.
+Colombia´s figure was consistently far higher, starting at 70%. It fluctuated slightly, dipping to a low of 65% in 2015, before recovering to a peak of 74% in 2020. Japan, in contrast, remained almost unchanged at around 9-10% for the first decade, then doubled to 20% by 2020. Even so, it stayed well below the other three countries.
+
+**Corrección v2:** las 6 filas aplicadas ✅ · Overview sin dígitos ✅ · 4 párrafos equilibrados (60 / 50) ✅
+- Detalle: *Germany´s* usa tilde (´) en vez de apóstrofo (') → en el examen usar la tecla **'** (junto al 0 / la Ñ en teclado español, o junto al Enter en teclado inglés)
+- Detalle: *below* se puede quitar (sigue copiando el enunciado)
+- ⚠️ **Ojo:** la v2 es en su mayoría texto de las sustituciones. **Es el modelo de referencia para líneas**, no una medida de su nivel en frío. La medida es la v1 (~5.5).
+

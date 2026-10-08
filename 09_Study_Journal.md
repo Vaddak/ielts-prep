@@ -1472,3 +1472,9 @@ Un sobreconteo de opciones: el portal muestra marcado tanto la elegida como la c
 **Task 2 nº7 v3: ~6.5 sólido / 7, cerrado.** Las 8 filas aplicadas; solo *larg-scale*.
 
 **Cierre del jueves 1:** mock de Listening nº2 (24/40, 6.0, vocales cerradas, ortografía abierta) + Task 2 nº7 v1→v3. **No estará vie 2 – dom 4.** Retoma el lunes 5.
+
+### 2026-10-08 — Oficina: Reading + Task 1 (Speaking pasa al puente)
+
+- 📖 Reading mantenimiento (night trains): **7/10 en 12:28**. Patrón nuevo, el inverso: T asumiendo lo que el texto deja abierto (*is less clear* = NG). Ella misma: *"asumí demás"*. Dos fechas → restar. Summary: la palabra debe encajar con el verbo.
+- ✍️ Task 1 nº6 (líneas): **v1 ~5.5 → v2 ~7**. Ella misma detectó que divagó: Colombia repetida en 4 párrafos y Alemania/UK sin cifras. Regla: **Overview = ideas, detalle = cifras**.
+
