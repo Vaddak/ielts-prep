@@ -1478,3 +1478,13 @@ Un sobreconteo de opciones: el portal muestra marcado tanto la elegida como la c
 - 📖 Reading mantenimiento (night trains): **7/10 en 12:28**. Patrón nuevo, el inverso: T asumiendo lo que el texto deja abierto (*is less clear* = NG). Ella misma: *"asumí demás"*. Dos fechas → restar. Summary: la palabra debe encajar con el verbo.
 - ✍️ Task 1 nº6 (líneas): **v1 ~5.5 → v2 ~7**. Ella misma detectó que divagó: Colombia repetida en 4 párrafos y Alemania/UK sin cifras. Regla: **Overview = ideas, detalle = cifras**.
 
+### 2026-10-11 — 🎤 PRIMERA MEDICIÓN DE SPEAKING: **~Band 6–6.5**
+
+Domingo del puente, *"a fuego"*. Dijo: *"voy muy mal en todo"* y *"a lo mejor estoy nerviosa y por eso evado el tema"*. Los datos dicen otra cosa: Reading 7.5, Writing ~7 corregido, Listening 6.0 con fugas mecánicas.
+
+**Método descubierto:** el **micrófono de la app transcribe con muletillas incluidas** (*um, I I, we we*) → sirve para medir fluidez, léxico y gramática.
+
+Parte 1, 6 preguntas: FC 6 · LR 6.5 · GR 6. Habla con pasión y sin bloquearse; el problema es **la longitud** (110–180 palabras por respuesta) y **las repeticiones cuando se emociona**. Mejor respuesta: la 3 (Medellín), casi sin muletillas.
+
+**Con esto, los 4 módulos tienen número.** Global estimado: (7.5 + 6.5 + 6 + 6.5) / 4 ≈ **6.5**.
+
