@@ -113,3 +113,26 @@
 
 ### 🔴 El patrón de la Parte 2
 **Las dos tarjetas duraron ~1:15 de 2:00.** Solución en la preparación: **4 palabras clave, una por punto**, y **una frase de reflexión anotada** para el final (*"Looking back…"*, *"What I find most inspiring is…"*). Hablar **20–30 s por punto**.
+
+## Cue card nº2 — REPETICIÓN con el método de 4 líneas · **~Band 6.5** ⬆️
+
+> The person I would like to talk about is Carolina Mora. She's a scientific director of our research group. At IMEC in Belgium. I met her the last year when I was doing the interviews to get into a research internship there. I knew her that I knew that she was the scientific director of this group that researched about IC design and electronics. because she's from my university. She's also an electronics engineer as me. And when I knew the work she was doing, the research, she was doing there, I fell in love with this topic. So I could get into this internship. And I started working with her All the work she has done is linked directly with IC design. The chips she has designed and she was collaborated with are thought to explore the brain signals explore the heart signals so it's electronic oriented to medicine and inspires me because she's also from my university like I said before so I feel that I, I can achieve what she has done
+
+**~190 palabras (~1:35, antes 1:15).** ✅ Apertura limpia · **los 4 puntos en orden** · *research group* y *at IMEC* corregidos · información nueva y concreta (chips para señales cerebrales y cardíacas).
+
+| Dijo | Mejor | Por qué |
+|---|---|---|
+| **a** scientific director of **our** research group | **the** scientific director of **a** research group | artículos |
+| I met her **the** last year | I met her last year | 🔴 3ª vez hoy |
+| when I was doing the interviews to get into | when I was **interviewing for** | |
+| I knew her that I knew that | I already knew that | reinicio |
+| researched **about** | **researches** | *research* sin *about* |
+| **as** me | **like** me | |
+| when I **knew** the work | when I **found out about** her work | *know* ≠ descubrir |
+| **So I could** get into this internship | **and I managed to** get the internship | *managed to* = logré |
+| she **was collaborated with** | she **has collaborated on** | voz activa |
+| are **thought** to explore | are **designed** to **monitor** | 🔴 *thought* por diseñado (igual que en el Task 2 nº7) |
+| electronic oriented to medicine | **biomedical electronics** | |
+| (cierre) and inspires me because… like I said before | **What I find most inspiring is that** we started from the same place, so I know I can achieve it too. | sin repetir; frase de cierre preparada |
+
+**Progreso en 5 minutos:** +20 s y +0.5 banda solo con el método de preparación.
