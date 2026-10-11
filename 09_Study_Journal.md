@@ -1488,3 +1488,8 @@ Parte 1, 6 preguntas: FC 6 · LR 6.5 · GR 6. Habla con pasión y sin bloquearse
 
 **Con esto, los 4 módulos tienen número.** Global estimado: (7.5 + 6.5 + 6 + 6.5) / 4 ≈ **6.5**.
 
+
+**Map labelling nº3 (ej. 32340): 3/5** — stairs ✅ greenhouses ✅ wildflowers ✅ · *felt* → **field** · *sheep* → **shed** (tras *actually*).
+Ella: *"escuché bien todo pero no entendía a qué palabra se referían"* → **no es oído ni ortografía: es vocabulario de lugares que no conoce de oído.** Orientación: 3 mapas seguidos sin error ✅.
+
+**Vocabulario de mapas y planos (para memorizar):** field · shed · barn · greenhouse · pond · orchard · hedge · fence · gate · path · footbridge · car park · reception · cloakroom · toilets · café · kiosk · bandstand · fountain · courtyard · entrance hall · ground floor · first floor · stairs · lift · corridor · picnic area · playground · viewing platform · visitor centre
