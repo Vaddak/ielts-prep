@@ -69,3 +69,47 @@
 
 ### 🎯 Para la próxima
 **Parte 1 = 2–3 oraciones, 20–30 segundos.** Las historias largas (CERN, Medellín) se guardan para la **Parte 2**, donde valen oro.
+
+---
+
+# 🎤 DOMINGO 11 OCT — PARTE 2 · CUE CARDS Nº1 Y Nº2
+
+**Formato:** 1 min de preparación (palabras clave en papel) → **2 minutos** hablando sin interrupción.
+**Meta:** 220–250 palabras · cubrir los puntos **en orden** · 30–40 s de reflexión al final.
+
+## Cue card nº1 — *Describe a goal you hope to achieve in the future* · **~Band 6**
+
+> Le call I have to the goal I want to achieve in the future is working in the space electronics industry. I decided to work on this I decided I wanted to work on electronics industry linked directly with the space. Since I was like in the middle of my career, when I was a teenager, I wanted to study electronics engineering because I loved robotics and I loved physics. And I remember I always wanted to work in CERN that is in Europe. Right now, I want to. I want to work in industries such as ESA or NASA. And I need to first get enrolled in a master program next year. I will apply for I will apply to some master programs in Europe and then I hope I can work on my fourth semester doing my thesis. In an industry related to space this goal is important to me because I will feel so relaxed as so released as an electronics engineer because it's the top for me
+
+**~150 palabras (~1:15).** Los 3 puntos cubiertos en orden ✅. Cierre abrupto en el punto que más vale (*why*).
+
+| Dijo | Mejor | Por qué |
+|---|---|---|
+| Le call I have to the goal… | The goal I'd like to talk about is… | apertura limpia |
+| in the middle of my **career** | **halfway through my degree** | 🔴 falso amigo: *career* = carrera profesional; carrera universitaria = *degree* |
+| work **in** CERN | work **at** CERN | |
+| **industries** such as ESA or NASA | **agencies** such as ESA or NASA | |
+| get enrolled in a master program | enrol in a master's programme | |
+| work **on** my fourth semester | **in** my fourth semester | |
+| so relaxed… so **released** | **fulfilled** | 🔴 *released* = liberada (de la cárcel) |
+| it's the top for me | it's my dream job | |
+
+## Cue card nº2 — *Describe a person who has inspired you* · **~Band 6**
+
+> The person that inspired me actually the last year twenty twenty five was the scientific director of IMEC about group in IMEC in Belgium. She is from Medellin also. She's also an electronics engineer from my university. And she's like a genius. She really inspires me because she's also from my university. She's not from a another country I mean we have the same conditions and that really inspires me because I know I could achieve the things she has achieved she works as the scientific director in a very important researching group in IMEC she travels all the time because she represents the group and she's the top leader working in electronics advance, working in IC design. I knew them the last year because I wanted to do an internship in IMEC. And the the designs they do in this group are amazing.
+
+**~150 palabras (~1:15).** Idea central muy potente (*same conditions → I could achieve it too*). Puntos **fuera de orden**: el *why* apareció en la 4ª oración y el *how you know her* al final.
+
+| Dijo | Mejor | Por qué |
+|---|---|---|
+| The person that inspired me actually the last year… of IMEC about group | The person I'd like to talk about is the scientific director of a research group at IMEC, in Belgium | apertura limpia |
+| **the** last year | last year | sin artículo |
+| she's **like** a genius | she's **brilliant** | *like* de relleno |
+| **a another** country | another country | |
+| **researching** group | **research** group | 🔴 2ª vez hoy (antes *researching centers*) |
+| electronics advance | **advanced electronics** | orden adjetivo + sustantivo |
+| I **knew them** the last year | I **came across her work** last year | *know* = conocer ya; *came across / got to know* = conocer por primera vez · *them* → *her* |
+| **in** IMEC | **at** IMEC | |
+
+### 🔴 El patrón de la Parte 2
+**Las dos tarjetas duraron ~1:15 de 2:00.** Solución en la preparación: **4 palabras clave, una por punto**, y **una frase de reflexión anotada** para el final (*"Looking back…"*, *"What I find most inspiring is…"*). Hablar **20–30 s por punto**.
