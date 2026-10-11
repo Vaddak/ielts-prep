@@ -13,9 +13,9 @@
 ### Domingo 11 (~1.5 h)
 | | Min | Tarea |
 |---|---|---|
-| [ ] 1 | 25 | 🎤 **Parte 1, set nº1: 6 preguntas grabadas** (`14_Speaking_Archive.md`) → transcribir → pegar = **primera medición de Speaking** |
-| [ ] 2 | 30 | 🎤 Parte 2: teoría (`06_Speaking_Module.md` §Part 2) + **2 cue cards** grabadas (1 min prep + 2 min) |
-| [ ] 3 | 15 | 🎧 Map labelling del portal (pendiente del jueves) + 1 Note completion |
+| [x] 1 | 25 | 🎤 **Parte 1, set nº1: 6 preguntas grabadas** (`14_Speaking_Archive.md`) → transcribir → pegar = **primera medición de Speaking** |
+| [x] 2 | 30 | 🎤 Parte 2: teoría (`06_Speaking_Module.md` §Part 2) + **2 cue cards** grabadas (1 min prep + 2 min) |
+| [x] 3 | 15 | 🎧 Map labelling del portal (pendiente del jueves) + 1 Note completion |
 | [ ] 4 | 10 | Lista de ortografía + falsos amigos |
 
 ### Lunes 12 (~1.5 h)

@@ -1493,3 +1493,7 @@ Parte 1, 6 preguntas: FC 6 · LR 6.5 · GR 6. Habla con pasión y sin bloquearse
 Ella: *"escuché bien todo pero no entendía a qué palabra se referían"* → **no es oído ni ortografía: es vocabulario de lugares que no conoce de oído.** Orientación: 3 mapas seguidos sin error ✅.
 
 **Vocabulario de mapas y planos (para memorizar):** field · shed · barn · greenhouse · pond · orchard · hedge · fence · gate · path · footbridge · car park · reception · cloakroom · toilets · café · kiosk · bandstand · fountain · courtyard · entrance hall · ground floor · first floor · stairs · lift · corridor · picnic area · playground · viewing platform · visitor centre
+
+**Note completion nº4 (ej. 24791): 5/5** 🏆 — fatigue · Friday · library · community · August. Primer set perfecto; *fatigue* bien escrita.
+
+**Cierre del domingo 11:** Speaking P1 (~6–6.5, primera medición) · P2 ×3 (6 → 6.5 con el método de 4 líneas) · Listening mapa 3/5 + notas 5/5.
