@@ -136,3 +136,5 @@
 | (cierre) and inspires me because… like I said before | **What I find most inspiring is that** we started from the same place, so I know I can achieve it too. | sin repetir; frase de cierre preparada |
 
 **Progreso en 5 minutos:** +20 s y +0.5 banda solo con el método de preparación.
+
+> ⏱️ **Corrección de dato (ella):** todas las tarjetas duraron **2 minutos completos**, no ~1:15. Entonces el problema no es la duración sino el **ritmo**: ~75–95 palabras por minuto (natural: 120–150). Hay **pausas largas** que la transcripción no muestra. Meta: más palabras en los mismos 2 min → las 4 líneas de preparación dan qué decir sin detenerse a pensar.
