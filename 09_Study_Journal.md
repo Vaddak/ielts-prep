@@ -1497,3 +1497,11 @@ Ella: *"escuché bien todo pero no entendía a qué palabra se referían"* → *
 **Note completion nº4 (ej. 24791): 5/5** 🏆 — fatigue · Friday · library · community · August. Primer set perfecto; *fatigue* bien escrita.
 
 **Cierre del domingo 11:** Speaking P1 (~6–6.5, primera medición) · P2 ×3 (6 → 6.5 con el método de 4 líneas) · Listening mapa 3/5 + notas 5/5.
+
+### 2026-10-12 — 🏁 Speaking mock oficial: **6.0 en los cuatro criterios**
+
+Parte 3 (role models) por la mañana: ~6, con fluidez mejor que el domingo, pero sin contraargumento. Después, el **Speaking mock del portal con FlexCheck: Band 6.0** (FC 6 · LR 6 · GR 6 · **P 6**). La estimación hecha a partir de las transcripciones coincidió.
+
+| Reading | Writing | Listening | Speaking | **Global** |
+|---|---|---|---|---|
+| 7.5 | ~6.5 | 6.0 | 6.0 | **6.5** (6.5 redondeado) |

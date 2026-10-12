@@ -48,3 +48,14 @@
 - 🔴 **Falta la L en las 4 respuestas.** Nunca presentó el otro lado. Es lo que separa un 6 de un 7 en la Parte 3.
 - 🔴 ***Having said that*** **se usa para introducir un contraste**, no para concluir. Para cerrar: *So overall… / On balance…*
 - Repetidos de ayer: ***used to*** por presente, ***will say*** por ***I'd say***.
+
+---
+
+# 🏁 LUNES 12 OCT — SPEAKING MOCK DEL PORTAL (FlexCheck) · **Band 6.0**
+
+| Fluency & Coherence | Lexical Resource | Grammar | **Pronunciation** |
+|---|---|---|---|
+| 6.0 | 6.0 | 6.0 | **6.0** |
+
+Hecho en Chrome: el panel del navegador de la app bloquea el micrófono.
+**Confirma la estimación de Claude** (FC 6 · LR 6.5 · GR 6 a partir de las transcripciones). **Pronunciation 6.0: ya está medida.** Perfil plano: no hay un criterio que hunda la nota; subir los cuatro a la vez.
