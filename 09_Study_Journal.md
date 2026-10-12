@@ -1505,3 +1505,6 @@ Parte 3 (role models) por la mañana: ~6, con fluidez mejor que el domingo, pero
 | Reading | Writing | Listening | Speaking | **Global** |
 |---|---|---|---|---|
 | 7.5 | ~6.5 | 6.0 | 6.0 | **6.5** (6.5 redondeado) |
+
+**Tarde del 12:** drill de hábitos (4/6; *I will say* es el más fuerte) + Parte 3 set nº2 (tecnología): **6 → 6.5**. Aprendió *Having said that* entre una pregunta y la siguiente, y empezó las 3 respuestas con *I'd say*. Task 2 pasa al martes.
+

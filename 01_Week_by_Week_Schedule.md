@@ -6,28 +6,31 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — domingo 11 + lunes 12 (festivo) · A FUEGO
+## 👉 RETOMAR AQUÍ — martes 13 oct
 
-**Vie 9 – sáb 10 sin estudio.** Compromiso de ella: *"en la semana prometo no atrasarme"*. Faltan **5 semanas** (examen sáb 14 nov).
+**Puente ✅ (dom 11 + lun 12): Speaking medido y trabajado.**
 
-### Domingo 11 (~1.5 h)
+| Reading | Writing | Listening | Speaking (mock oficial) | **Global** |
+|---|---|---|---|---|
+| 7.5 | ~6.5 | 6.0 | **6.0** (FC 6 · LR 6 · GR 6 · P 6) | **≈ 6.5** |
+
+### 🎤 Lo que sale del Speaking (detalle en `14_Speaking_Archive.md`)
+- **Vocabulario:** 84–86 % A1–A2 según FlexCheck → **2 palabras B2 por respuesta**
+- **Hábitos:** ***I'd say*** (no *I will say*) · ***for*** *a few years* (no *since*) · ***usually*** (no *used to*) · ***related to*** · ***at night*** · ***pretend*** = fingir
+- **Parte 3:** ***Having said that*** = cambiar de lado → ***On balance*** = cerrar
+- **Pronunciación:** la **-ng** final (*running*)
+- **Fluidez:** hablar 20 % más lento + frases puente en vez de *emm*
+
+### Martes 13 (día de trabajo, ~1 h)
 | | Min | Tarea |
 |---|---|---|
-| [x] 1 | 25 | 🎤 **Parte 1, set nº1: 6 preguntas grabadas** (`14_Speaking_Archive.md`) → transcribir → pegar = **primera medición de Speaking** |
-| [x] 2 | 30 | 🎤 Parte 2: teoría (`06_Speaking_Module.md` §Part 2) + **2 cue cards** grabadas (1 min prep + 2 min) |
-| [x] 3 | 15 | 🎧 Map labelling del portal (pendiente del jueves) + 1 Note completion |
-| [ ] 4 | 10 | Lista de ortografía + falsos amigos |
+| [ ] 1 | 40 | ✍️ **Task 2 en frío + barrido de 5 min** (pendiente del lunes) — meta: v1 en 6.5 |
+| [ ] 2 | 10 | 🎤 Drill en voz alta: *I'd say ×5 · for a few years · I usually · related to · at night* |
+| [ ] 3 | 10 | 🎧 1 set de Listening (portal) |
 
-### Lunes 12 (~1.5 h)
-| | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 30 | 🎤 Parte 3: teoría (§Part 3, fórmula OEL + hedging) + 4 preguntas grabadas |
-| [ ] 2 | 40 | ✍️ **Task 2 en frío con barrido de 5 min** — meta: que la v1 salga en 6.5 |
-| [ ] 3 | 20 | 🏁 **Speaking mock del portal** (o Express Mock) → la banda de pronunciación |
-
-### Semana 13–18 (días de trabajo, 45 min/día)
-Speaking 15 min diario (grabar en casa) · Listening 2 sets del portal · alternando 1 Task 1 / 1 Task 2 / 1 pasaje de Reading.
-**Sigue:** Oct 19–25 🏁 **Mock completo nº1**.
+### Semana 13–18 (días de trabajo)
+Cada día: 🎤 15 min de Speaking (3 preguntas de Parte 3 con *Having said that + On balance*, o 1 cue card) · 🎧 1–2 sets de Listening · alternar ✍️ Task 1 / Task 2 / 📖 Reading.
+**Sigue:** Oct 19–25 🏁 **Mock completo nº1** (4 módulos).
 
 ---
 
