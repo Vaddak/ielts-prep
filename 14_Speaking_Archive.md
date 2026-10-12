@@ -59,3 +59,24 @@
 
 Hecho en Chrome: el panel del navegador de la app bloquea el micrófono.
 **Confirma la estimación de Claude** (FC 6 · LR 6.5 · GR 6 a partir de las transcripciones). **Pronunciation 6.0: ya está medida.** Perfil plano: no hay un criterio que hunda la nota; subir los cuatro a la vez.
+
+### Feedback de FlexCheck (leído del portal)
+> *"Your score is limited by frequent grammatical errors, some noticeable pronunciation issues, and hesitations that affect your fluency. To improve to a Band 7.0, focus on grammatical accuracy, refining your pronunciation of specific sounds, and speaking more smoothly."*
+
+**Temas:** P1 salud y tiempo libre · P2 *favourite film or TV programme* (The Big Bang Theory) · P3 radio, TV, cine (8 preguntas, ~58 s cada una; la transcripción de la P3 no se muestra en la versión gratuita).
+
+**Pronunciación marcada:** *HIIT* (dijo "hip hip") · *running* (dijo "runnin": se come la **-ng** final) · *new* (sonó "net") · *healthier*.
+
+**Vocabulario por nivel (P1):** A1 **73%** · A2 11% · B1 4% · B2 0% · otros 12%. En P2: A1 69% · **B2 1%** (*cheer*). 🔴 **Casi todo el vocabulario es A1–A2.** Para un 7 hay que meter palabras B2–C1 **en cada respuesta**.
+
+**Errores repetidos que aparecen también en el mock:**
+| Error | Veces en el mock | Correcto |
+|---|---|---|
+| ***since a few years*** | **3** | ***for** a few years* / *in recent years* + present perfect |
+| ***I will say*** | 1 | *I'd say* |
+| ***used to*** para el presente (*I used to go to the gym. That's the first thing I do*) | 1 | *I usually go* |
+| ***related with*** | 2 | ***related to*** |
+| *hang out **to** the nearest cafe* | 1 | *hang out **at*** |
+| *three or four **years**, hours* | 1 | se corrigió sola ✅ |
+
+> **Los mismos errores que salieron el domingo y hoy en la práctica → son hábitos fijos.** Con 5 semanas, la estrategia es **drill de estos 6** hasta que salgan solos.
