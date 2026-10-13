@@ -831,3 +831,40 @@ In conclusion, while larg-scale recycling programmes are a rapid solution to the
 - Lo que queda para 7: la idea de marketing (*presents overconsumption as a lifestyle*) no tiene **mecanismo ni ejemplo**; una oración más (*e.g. annual launch campaigns that present last year's model as outdated*) la cerraría
 - **Progresión:** v1 ~6 → v2 ~6.5 → v3 ~6.5 sólido/7 en 3 versiones (igual que el nº5 y el nº6)
 - ✅ **v3 final (1-oct):** *larg-scale* → **large-scale** corregido por ella. Texto limpio de typos.
+
+---
+
+# ✍️ TASK 2 Nº 8 — EN FRÍO · Two-part question · 13-oct (noche, en casa) · ⏱️ 40 min
+
+> **Autocontenido.** ⚠️ **No leas el enunciado hasta tener el cronómetro listo.** Tipo nuevo: **Two-part question** (dos preguntas directas). La meta: **que la v1 salga en 6.5** usando el barrido de 5 min.
+
+## La estructura (Two-part question)
+| Párrafo | Oraciones | Qué va |
+|---|---|---|
+| Intro | 2 | Parafrasear + responder **las dos preguntas en una frase** (la tesis) |
+| Body 1 | 4 | **Respuesta a la pregunta 1**: topic sentence → mecanismo → ejemplo → consecuencia |
+| Body 2 | 4 | **Respuesta a la pregunta 2**: igual. ⚖️ Mismo tamaño que el Body 1 |
+| Conclusión | 2 | Las dos respuestas, resumidas |
+
+🔴 **Cada pregunta se contesta de forma DIRECTA.** Si te preguntan *why?*, das razones; si te preguntan *is this positive or negative?*, eliges y lo dices.
+
+## Barrido final (min 35–40)
+¿250 palabras? · artículos · concordancia (sujeto plural → verbo sin -s) · ortografía (*acquire, through, nowadays, discussed, appropriate*) · falsos amigos (*actual, increment, pretend, career, thought* = diseñado ✗) · ¿bodies equilibrados?
+
+---
+
+<details>
+<summary><b>📝 EL ENUNCIADO: abrir SOLO con el cronómetro listo</b></summary>
+
+> *Nowadays, many young people choose to study or work abroad for several years.*
+>
+> ***Why do they make this choice? Is this a positive or negative development for their home countries?***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+</details>
+
+## ✍️ v1: PEGAR AQUÍ (o en el chat)
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿5 min de barrido?** ___
+

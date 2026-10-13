@@ -28,7 +28,7 @@
 | 🎧 Table completion | **4/4** |
 | 🎧 Flow chart (adelanto mié) | **5/6** |
 | 📖 Reading urban noise (adelanto jue) | **10/12** · Headings **6/6** |
-| ✍️ **Task 2 en frío** | 👉 **pendiente: esta noche** (40 min + barrido 5 min). Pedir el enunciado en el chat |
+| ✍️ **Task 2 nº8 en frío** | 👉 **esta noche en casa**: al final de `11_Writing_Baseline_Essays.md` (enunciado escondido; abrir con el cronómetro listo). Pegar la v1 en el chat |
 
 ### 📅 Resto de la semana
 | Día | 🎤 Speaking (15 min) | 🎧 Listening | ✍️📖 Bloque grande |
