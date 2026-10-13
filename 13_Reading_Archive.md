@@ -2114,3 +2114,64 @@ International sleeper services face several practical difficulties. Trains must 
 **Nº7 (T → F).** *ordered in 2018, did not enter service until the end of 2023* = **más de 5 años**. *Within two years* lo contradice → F. La duda era correcta: **cuando hay dos fechas, restar siempre**. Además, *did not… until* ya anuncia una espera larga.
 
 **Nº9 (operators → access fees).** *track ___ make up around one third of operating costs*: lo que **compone costos** es dinero, no personas. El texto: *each national track operator charges its own **access fee**. …these **fees** account for a third of the cost*. 🔴 **Regla del summary:** comprobar que la palabra encaje **en significado con el verbo** (*make up costs* → algo que cuesta), no solo que esté cerca en el texto.
+
+---
+
+# 📖 MARTES 13 OCT (adelanto del jueves) — HEADINGS + T/F/NG · ⏱️ 20 min
+
+> **Autocontenido.** ~750 palabras (longitud real). 12 preguntas. Patrones abiertos: **el heading cubre el párrafo ENTERO** · **NG donde va False** · **no asumir lo que el texto deja abierto**.
+
+## The Science of Urban Noise
+
+**A** Cities have always been noisy, but the nature of urban sound has changed dramatically. In medieval towns, the dominant noises were human and animal: market traders, church bells, horses on cobblestones. Since the twentieth century, however, mechanical sources have taken over. Road traffic is now responsible for most of the noise that city dwellers are exposed to, followed by railways, aircraft and construction. Unlike earlier sounds, which rose and fell with the rhythms of the day, traffic noise is almost continuous, and in many large cities it barely drops even after midnight.
+
+**B** For a long time, noise was treated as a nuisance rather than a health problem. That view has shifted considerably. The World Health Organization now estimates that, in Western Europe alone, more than a million healthy years of life are lost every year because of traffic noise. The most obvious mechanism is disturbed sleep: even sounds that do not wake a person can trigger brief increases in heart rate and blood pressure. Over many years, researchers believe, these repeated stress responses may contribute to cardiovascular disease, although separating the effect of noise from that of air pollution, which tends to occur in the same places, remains a significant methodological challenge.
+
+**C** Children appear to be particularly vulnerable. A well-known study conducted near Munich airport in the 1990s compared pupils before and after a new airport opened. Children living under the new flight path showed a decline in reading ability and long-term memory, while those near the old airport, which had closed, improved over the same period. Similar findings have since been reported around London's Heathrow airport. The researchers were careful to note, however, that the differences were modest, and that factors such as the quality of teaching were not fully controlled.
+
+**D** Measuring noise is more complicated than it might seem. Sound is usually expressed in decibels, a logarithmic scale on which an increase of ten units represents a sound that most people perceive as roughly twice as loud. Official noise maps typically report an average level over a full day, weighted to penalise night-time noise. Critics argue that such averages hide what matters most to residents: a street with steady traffic and one with occasional very loud motorbikes may have the same average, yet people living in the second street usually report far greater annoyance.
+
+**E** Cities have experimented with a range of responses. The most effective, according to most engineers, is to reduce noise at its source. Low-noise road surfaces, which contain small air pockets that absorb sound, can lower traffic noise by three to five decibels, although their performance declines as the pores become clogged with dirt. Lower speed limits also help: at speeds above about 40 kilometres per hour, most of the noise from a car comes not from its engine but from its tyres on the road. Electric vehicles, therefore, offer smaller benefits on fast roads than many people assume.
+
+**F** Where noise cannot be reduced at source, it can sometimes be blocked. Noise barriers along motorways are now common in many European countries, and well-designed buildings can place bedrooms on a quiet side facing away from the street. Vegetation is often promoted as a solution, but a narrow line of trees has little measurable effect on sound levels. Its value appears to be largely psychological: residents who can see greenery from their windows tend to report less annoyance, even when the decibel readings are identical.
+
+**G** Some researchers argue that the focus on reducing loudness has been too narrow. A growing field known as soundscape design treats sound as a resource as well as a pollutant. Rather than simply making places quieter, soundscape designers try to make them sound better, for example by adding the sound of moving water to a public square to mask traffic. Early projects in cities such as Sheffield and Stockholm have been popular with the public, but whether they produce measurable health benefits has yet to be demonstrated.
+
+---
+
+## Preguntas 1–6 · Matching Headings
+
+*Choose the correct heading for paragraphs **B–G** from the list below. (Paragraph A is done as an example: **x**.)*
+
+**i** Why a single number can be misleading
+**ii** Tackling the problem where it begins
+**iii** Evidence of effects on learning
+**iv** The rising cost of building quieter cities
+**v** Changing ideas about the dangers of noise
+**vi** Protection that works better for the mind than the ear
+**vii** A new approach that values sound
+**viii** The impact of aircraft on property prices
+**x** ~~How the sources of city noise have changed~~ *(ejemplo, A)*
+
+1. Paragraph B ___
+2. Paragraph C ___
+3. Paragraph D ___
+4. Paragraph E ___
+5. Paragraph F ___
+6. Paragraph G ___
+
+## Preguntas 7–12 · TRUE / FALSE / NOT GIVEN
+
+*Do the following statements agree with the information given in the passage?* ⚠️ **Lee la instrucción.**
+
+7. In medieval towns, most noise came from mechanical sources.
+8. Noise that does not wake people up can still affect their bodies.
+9. The Munich study proved that aircraft noise was the only cause of the children's decline.
+10. Most people perceive a ten-decibel increase as making a sound twice as loud.
+11. Electric cars are much quieter than petrol cars at all speeds.
+12. The soundscape project in Sheffield was more popular than the one in Stockholm.
+
+**Respuestas:** 1 ___ · 2 ___ · 3 ___ · 4 ___ · 5 ___ · 6 ___ · 7 ___ · 8 ___ · 9 ___ · 10 ___ · 11 ___ · 12 ___
+**Tiempo real:** ___
+
+> 🔑 La clave te la doy en el chat.
