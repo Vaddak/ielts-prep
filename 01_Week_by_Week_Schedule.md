@@ -21,12 +21,23 @@
 - **Pronunciación:** la **-ng** final (*running*)
 - **Fluidez:** hablar 20 % más lento + frases puente en vez de *emm*
 
-### Martes 13 (día de trabajo, ~1 h)
-| | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 40 | ✍️ **Task 2 en frío + barrido de 5 min** (pendiente del lunes) — meta: v1 en 6.5 |
-| [ ] 2 | 10 | 🎤 Drill en voz alta: *I'd say ×5 · for a few years · I usually · related to · at night* |
-| [ ] 3 | 10 | 🎧 1 set de Listening (portal) |
+### Martes 13 ✅ (+ adelantos de mié y jue)
+| | Resultado |
+|---|---|
+| 🎤 Drill de hábitos | **7/7** (ni un *I will say*) |
+| 🎧 Table completion | **4/4** |
+| 🎧 Flow chart (adelanto mié) | **5/6** |
+| 📖 Reading urban noise (adelanto jue) | **10/12** · Headings **6/6** |
+| ✍️ **Task 2 en frío** | 👉 **pendiente: esta noche** (40 min + barrido 5 min). Pedir el enunciado en el chat |
+
+### 📅 Resto de la semana
+| Día | 🎤 Speaking (15 min) | 🎧 Listening | ✍️📖 Bloque grande |
+|---|---|---|---|
+| **Mié 14** | 1 cue card (4 líneas + *What I find most…*) | ~~Flow chart~~ ✅ → 1 Multiple choice | ✍️ **Task 1 en frío** (*Overview = ideas, detalle = cifras*) |
+| **Jue 15** | 3 preguntas Parte 3 (*Having said that* + *On balance*) | 1 mapa (lista de lugares) | ~~Reading~~ ✅ → libre / ponerse al día |
+| **Vie 16** | Drill de hábitos nuevo (+ *the last year*, *too many*) | Multiple choice S4 | ✍️ Task 2 nº2 |
+| **Sáb 17** | Speaking mock (en Chrome) | 🏁 **Mock de Listening nº3** | |
+| **Dom 18** | | | 📊 Revisión + preparar **Mock completo nº1** |
 
 ### Semana 13–18 (días de trabajo)
 Cada día: 🎤 15 min de Speaking (3 preguntas de Parte 3 con *Having said that + On balance*, o 1 cue card) · 🎧 1–2 sets de Listening · alternar ✍️ Task 1 / Task 2 / 📖 Reading.
