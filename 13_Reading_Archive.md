@@ -2171,7 +2171,24 @@ International sleeper services face several practical difficulties. Trains must 
 11. Electric cars are much quieter than petrol cars at all speeds.
 12. The soundscape project in Sheffield was more popular than the one in Stockholm.
 
-**Respuestas:** 1 ___ · 2 ___ · 3 ___ · 4 ___ · 5 ___ · 6 ___ · 7 ___ · 8 ___ · 9 ___ · 10 ___ · 11 ___ · 12 ___
-**Tiempo real:** ___
+**Respuestas:** 1 v · 2 iii · 3 i · 4 ii · 5 vi · 6 vii · 7 F · 8 T · 9 NG · 10 T · 11 F · 12 F
+**Tiempo real:** 10:34 (sobraron 9:26)
 
-> 🔑 La clave te la doy en el chat.
+### ✅ Resultado — 13 oct · **10/12**
+
+**Headings: 6/6** 🏆 — esquivó los dos distractores (*iv* costo, *viii* precios de vivienda: palabras sueltas del texto que no cubren ningún párrafo). **El patrón "heading de una sola oración" (abierto desde el 10-sep) no apareció.**
+
+| # | Tuya | Clave | |
+|---|---|---|---|
+| 7 | F | F | ✅ *mechanical sources have taken over* desde el siglo XX |
+| 8 | T | T | ✅ *even sounds that do not wake a person can trigger…* |
+| 9 | NG | **F** | ❌ |
+| 10 | T | T | ✅ |
+| 11 | F | F | ✅ *smaller benefits on fast roads* |
+| 12 | F | **NG** | ❌ |
+
+**Nº9 (NG → F).** *proved that aircraft noise was the **only** cause*. El texto: *the differences were modest, and factors such as the quality of teaching were **not fully controlled***. Si otros factores no se controlaron, **no se probó que fuera la única causa** → el texto **contradice** la afirmación → F. 🔴 Palabras absolutas en la pregunta (*only, all, never, proved*) + un texto que pone límites = **FALSE**, no NG. **Patrón nº2, otra vez** (NG donde va F).
+
+**Nº12 (F → NG).** *Early projects in cities such as Sheffield and Stockholm have been popular*: los dos son populares, pero el texto **no los compara**. Sin comparación no hay contradicción → NG. Marcó F porque *asumió* que eran iguales.
+
+> **Regla para distinguir:** **F** = el texto dice algo que **choca** con la afirmación. **NG** = el texto **no dice nada** sobre ese punto. En la 9 el texto sí habla de la causa (y la limita). En la 12 el texto no habla de cuál fue más popular.
