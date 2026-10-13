@@ -1508,3 +1508,9 @@ Parte 3 (role models) por la mañana: ~6, con fluidez mejor que el domingo, pero
 
 **Tarde del 12:** drill de hábitos (4/6; *I will say* es el más fuerte) + Parte 3 set nº2 (tecnología): **6 → 6.5**. Aprendió *Having said that* entre una pregunta y la siguiente, y empezó las 3 respuestas con *I'd say*. Task 2 pasa al martes.
 
+
+### 2026-10-13 — Drill 7/7 + Table completion 4/4
+
+- 🎤 **Drill de hábitos con preguntas nuevas: 7/7.** Ni un *I will say*. *Having said that* con cambio real de lado. B2: *eventually, overwhelmed, strategic*. Quedan: ***the last year*** (3ª vez), ***too many*** = muchas, *black novel* → **crime fiction**, *since I was born I was living* → *I've lived*.
+- 🎧 **Table completion nº1 (ej. 24488): 4/4** 🏆 — questions · presentation · **155** (número largo, completo) · **s.jenkins** (deletreo de email limpio).
+- Nota operativa: el portal **solo admite una sesión**; abrir en Chrome cierra la del panel. Listening/Reading en el panel; Speaking mock en Chrome y leer en History.
