@@ -354,6 +354,7 @@ After every timed practice or mock exam:
 | **2026-10-13** | Reading (urban noise, 10:34 de 20) | Reading | **10/12. Headings 6/6** (patrón de una sola oración no apareció). 9: NG por **F** (*proved… only cause* vs *not fully controlled*) · 12: F por **NG** (dos ciudades populares, sin comparación) | Palabra absoluta (*only, all, proved*) + texto que la limita = **F**. Comparación que el texto no hace = **NG** |
 | **2026-10-14** | 🎧 Listening MC nº1 (Port Blossom) | Listening | **3/4.** Q1 C (sea) → B (headland): marcó la primera opción mencionada; la correcta venía después de *while… the most significant influence is* | En MC, esperar el marcador de prioridad o giro (*the main / most / actually / but*) antes de marcar |
 | **2026-10-14** | 🎧 Map labelling nº3 (reserva con lago) | Listening | **3/5** (igual que el 11-oct). Q4 E→B: *"you may have noticed when you arrived"* = está junto a la entrada · Q5 B→G: *south-west corner* y marcó el norte | Antes del audio: ubicar las **entradas** y la brújula. *south-west* = abajo a la izquierda. *when you arrived / on your way in* = cerca de la entrada |
+| **2026-10-14** | 🎧 Map labelling nº4 (teatro, interior) | Listening | **1/5.** Se perdió en la 2 y arrastró el error a las siguientes. Cambió la 1 cuando ya estaba bien | Plano interior: anclar en **escenario/entrada** (*in front of / behind / upper side / top-left*). Si te pierdes, suelta esa y engánchate a la siguiente. No cambiar una respuesta sin una razón concreta |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
