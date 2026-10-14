@@ -1516,3 +1516,4 @@ Parte 3 (role models) por la mañana: ~6, con fluidez mejor que el domingo, pero
 - Nota operativa: el portal **solo admite una sesión**; abrir en Chrome cierra la del panel. Listening/Reading en el panel; Speaking mock en Chrome y leer en History.
 - 🎧 **Flow chart nº1 (ej. 24612, proceso de escribir un ensayo): 5/6.** Nº2: eligió *G key arguments*; era **F basic outline** (la pista: *to establish a **simple structure*** = *basic outline*). Opciones de letra (A–H) con 2 distractores.
 **MC nº2 (centro deportivo): 3/3 ✅** Aplicó la regla de esperar *the most / the main / the easiest* justo después del fallo. Regla consolidada.
+**Map nº3 (reserva natural con lago): 3/5.** 1–3 bien (H, F, J). Q4 Information Centre E→**B** (*"which you may have noticed when you arrived"* = junto a la **entrada** norte). Q5 Car park B→**G** (*"in the south-west corner"*; marcó el norte). Patrón del mapa: pistas indirectas (*when you arrived* = entrada) y puntos cardinales compuestos.
