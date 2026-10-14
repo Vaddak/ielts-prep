@@ -1515,3 +1515,4 @@ Parte 3 (role models) por la mañana: ~6, con fluidez mejor que el domingo, pero
 - 🎧 **Table completion nº1 (ej. 24488): 4/4** 🏆 — questions · presentation · **155** (número largo, completo) · **s.jenkins** (deletreo de email limpio).
 - Nota operativa: el portal **solo admite una sesión**; abrir en Chrome cierra la del panel. Listening/Reading en el panel; Speaking mock en Chrome y leer en History.
 - 🎧 **Flow chart nº1 (ej. 24612, proceso de escribir un ensayo): 5/6.** Nº2: eligió *G key arguments*; era **F basic outline** (la pista: *to establish a **simple structure*** = *basic outline*). Opciones de letra (A–H) con 2 distractores.
+**MC nº2 (centro deportivo): 3/3 ✅** Aplicó la regla de esperar *the most / the main / the easiest* justo después del fallo. Regla consolidada.
