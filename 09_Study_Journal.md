@@ -1521,3 +1521,5 @@ Parte 3 (role models) por la mañana: ~6, con fluidez mejor que el domingo, pero
 
 ### 2026-10-15 (jueves) — 🎧 Map nº5 (gimnasio, en frío): **4/5** ✅
 De 1/5 ayer a 4/5 hoy. Se guio con *the far right*. Q5 Physiotherapy Room: adivinó F; la pista era *"the **second room to the right of the main entrance**, next to the weights room"* → contar puertas desde la entrada. Queja suya: *"no hay un recorrido consecuente, se salta de lugar en lugar"*. Es normal: cada pregunta trae su **propia ancla** (entrada, pared izquierda, piscina…), y en vez de seguir un recorrido hay que reanclar en cada pregunta.
+**Note completion: 100%** ✅ (sin fugas de ortografía).
+**MC nº3 (sección 3, dos estudiantes, aprender idiomas): 2/4.** Q2 C→**B** (*"learning words in isolation, without context… not how to use it in a sentence"* = *fail to teach how words are used practically*). Q4 B→**A** (*"provides a tool for the audience to use afterwards"* = *useful resource*). Ella dijo: *"todas eran válidas"*. En la sección 3 las 3 opciones suelen ser plausibles; gana la que **parafrasea lo que dicen**, no la que suena razonable. La participación (B) no se mencionó como ventaja.
