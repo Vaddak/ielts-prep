@@ -355,6 +355,7 @@ After every timed practice or mock exam:
 | **2026-10-14** | 🎧 Listening MC nº1 (Port Blossom) | Listening | **3/4.** Q1 C (sea) → B (headland): marcó la primera opción mencionada; la correcta venía después de *while… the most significant influence is* | En MC, esperar el marcador de prioridad o giro (*the main / most / actually / but*) antes de marcar |
 | **2026-10-14** | 🎧 Map labelling nº3 (reserva con lago) | Listening | **3/5** (igual que el 11-oct). Q4 E→B: *"you may have noticed when you arrived"* = está junto a la entrada · Q5 B→G: *south-west corner* y marcó el norte | Antes del audio: ubicar las **entradas** y la brújula. *south-west* = abajo a la izquierda. *when you arrived / on your way in* = cerca de la entrada |
 | **2026-10-14** | 🎧 Map labelling nº4 (teatro, interior) | Listening | **1/5.** Se perdió en la 2 y arrastró el error a las siguientes. Cambió la 1 cuando ya estaba bien | Plano interior: anclar en **escenario/entrada** (*in front of / behind / upper side / top-left*). Si te pierdes, suelta esa y engánchate a la siguiente. No cambiar una respuesta sin una razón concreta |
+| **2026-10-15** | 🎧 Map labelling nº5 (gimnasio) | Listening | **4/5** (de 1/5). Q5 adivinó: *second room to the right of the main entrance, next to the weights room* | Cada pregunta tiene su propia ancla: **reanclar** en cada pregunta y contar habitaciones desde ella (*second room to the right of…*) |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
