@@ -6,44 +6,31 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 13 oct
+## 👉 RETOMAR AQUÍ — viernes 16 oct (tarde libre en casa)
 
-**Puente ✅ (dom 11 + lun 12): Speaking medido y trabajado.**
+**Faltan 29 días (examen: sáb 14 nov).** Bandas: R 7.5 · W ~6.5 corregido / ~6 en frío · L 6.0 (subiendo) · S 6.0 → global ≈6.5.
 
-| Reading | Writing | Listening | Speaking (mock oficial) | **Global** |
-|---|---|---|---|---|
-| 7.5 | ~6.5 | 6.0 | **6.0** (FC 6 · LR 6 · GR 6 · P 6) | **≈ 6.5** |
+### Listening mié 14 – jue 15 (todo en el portal)
+| Ejercicio | Resultado | Regla aprendida |
+|---|---|---|
+| MC nº1 / nº2 | 3/4 → **3/3** | Esperar *the main / the most / actually* antes de marcar |
+| Mapa nº3 / nº4 / nº5 | 3/5 → 1/5 → **4/5** | Ancla (entrada/escenario/brújula), **reanclar en cada pregunta**, contar desde el ancla; si te pierdes, soltar y seguir |
+| Note completion | **100%** | Ortografía limpia |
+| MC nº3 / nº4 (sección 3) | 2/4 → **5/6** | **Frase espejo**: no la opción más lógica, la que reformula. *agree to do* = decisión final |
+| Mapa nº6 | ⏳ abierto, sin hacer | — |
 
-### 🎤 Lo que sale del Speaking (detalle en `14_Speaking_Archive.md`)
-- **Vocabulario:** 84–86 % A1–A2 según FlexCheck → **2 palabras B2 por respuesta**
-- **Hábitos:** ***I'd say*** (no *I will say*) · ***for*** *a few years* (no *since*) · ***usually*** (no *used to*) · ***related to*** · ***at night*** · ***pretend*** = fingir
-- **Parte 3:** ***Having said that*** = cambiar de lado → ***On balance*** = cerrar
-- **Pronunciación:** la **-ng** final (*running*)
-- **Fluidez:** hablar 20 % más lento + frases puente en vez de *emm*
+### 🔴 HOY viernes, tarde libre: en este orden
+1. ✍️ **Task 2 nº8 en frío** (40 min, cronómetro ANTES de abrir el enunciado): al final de `11_Writing_Baseline_Essays.md`. Pegar la v1 en el chat con tiempo y palabras. **Lleva 3 días aplazado: va primero.**
+2. 🎤 **Parte 3 ×3** (en voz alta, con el micrófono de la app), con *I'd say* + *Having said that* + *On balance*.
+3. 🎤 Drill nuevo: *last year* (sin *the*) · *too much / too many* (= demasiado) · *I'd say*.
+4. 🎧 Si sobra energía: mapa (portal).
 
-### Martes 13 ✅ (+ adelantos de mié y jue)
-| | Resultado |
+### Fin de semana
+| Día | Qué |
 |---|---|
-| 🎤 Drill de hábitos | **7/7** (ni un *I will say*) |
-| 🎧 Table completion | **4/4** |
-| 🎧 Flow chart (adelanto mié) | **5/6** |
-| 📖 Reading urban noise (adelanto jue) | **10/12** · Headings **6/6** |
-| ✍️ **Task 2 nº8 en frío** | 👉 **esta noche en casa**: al final de `11_Writing_Baseline_Essays.md` (enunciado escondido; abrir con el cronómetro listo). Pegar la v1 en el chat |
-
-### 📅 Resto de la semana
-| Día | 🎤 Speaking (15 min) | 🎧 Listening | ✍️📖 Bloque grande |
-|---|---|---|---|
-| **Mié 14** | 1 cue card (4 líneas + *What I find most…*) | ~~Flow chart~~ ✅ → 1 Multiple choice | ✍️ **Task 1 en frío** (*Overview = ideas, detalle = cifras*) |
-| **Jue 15** | 3 preguntas Parte 3 (*Having said that* + *On balance*) | 1 mapa (lista de lugares) | ~~Reading~~ ✅ → libre / ponerse al día |
-| **Vie 16** | Drill de hábitos nuevo (+ *the last year*, *too many*) | Multiple choice S4 | ✍️ Task 2 nº2 |
-| **Sáb 17** | Speaking mock (en Chrome) | 🏁 **Mock de Listening nº3** | |
-| **Dom 18** | | | 📊 Revisión + preparar **Mock completo nº1** |
-
-### Semana 13–18 (días de trabajo)
-Cada día: 🎤 15 min de Speaking (3 preguntas de Parte 3 con *Having said that + On balance*, o 1 cue card) · 🎧 1–2 sets de Listening · alternar ✍️ Task 1 / Task 2 / 📖 Reading.
-**Sigue:** Oct 19–25 🏁 **Mock completo nº1** (4 módulos).
-
----
+| Sáb 17 | Speaking mock en Chrome · Listening mock nº3 |
+| Dom 18 | Repaso + Task 1 en frío |
+| 19–25 oct | Mock completo nº1 |
 
 ## 🎯 EL DIAGNÓSTICO DE LISTENING — 6 de 8 errores no son de inglés
 

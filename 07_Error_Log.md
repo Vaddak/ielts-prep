@@ -357,6 +357,7 @@ After every timed practice or mock exam:
 | **2026-10-14** | 🎧 Map labelling nº4 (teatro, interior) | Listening | **1/5.** Se perdió en la 2 y arrastró el error a las siguientes. Cambió la 1 cuando ya estaba bien | Plano interior: anclar en **escenario/entrada** (*in front of / behind / upper side / top-left*). Si te pierdes, suelta esa y engánchate a la siguiente. No cambiar una respuesta sin una razón concreta |
 | **2026-10-15** | 🎧 Map labelling nº5 (gimnasio) | Listening | **4/5** (de 1/5). Q5 adivinó: *second room to the right of the main entrance, next to the weights room* | Cada pregunta tiene su propia ancla: **reanclar** en cada pregunta y contar habitaciones desde ella (*second room to the right of…*) |
 | **2026-10-15** | 🎧 MC nº3 (sección 3, discusión de estudiantes) | Listening | **2/4.** Q2 C→B (*in isolation, without context* = *not how words are used*) · Q4 B→A (*a tool to use afterwards* = *useful resource*); eligió lo que sonaba lógico | En sección 3 todas parecen válidas: elegir la que **reformula lo que se dice**, no la más razonable. Si una opción no tiene una frase espejo en el audio, descartarla |
+| **2026-10-15** | 🎧 MC nº4 (sección 3) | Listening | **5/6.** Q4 A→B: se mencionan las dos cosas y se acuerda una (*present it as a future trend*) | En *agree / decide*: buscar la **decisión final** (*let's / we can / we should*), no lo mencionado de paso |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
