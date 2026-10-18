@@ -864,7 +864,64 @@ In conclusion, while larg-scale recycling programmes are a rapid solution to the
 
 </details>
 
-## ✍️ v1: PEGAR AQUÍ (o en el chat)
+## ✍️ v1 — 18-oct · **34 min** (sobraron 6) · **300 palabras** · **~Band 6.0**
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿5 min de barrido?** ___
+*Intro 59 · B1 100 · B2 97 · conclusión 44.* ⚠️ **El barrido de 5 min no se hizo.**
+
+> 🔴 **EL FALLO GRANDE — el veredicto salió invertido.**
+> *"…the general overview of their home countries could have a **positive** impact."*
+> Faltaba un *not*. Todo el ensayo defiende que el brain drain **perjudica** al país de origen, y la frase que lo sentencia decía lo contrario.
+> **Es el patrón *"el veredicto en preguntas de sí o no"*, abierto desde el 6-sep.**
+
+**Los 8 de gramática:** *A example* · *can not* · *may improved* · *countries **who*** · *the home countries **of them*** · *the **need of** professionals* ← **el error vivo más antiguo (9-ago)** · *remained* (tiempo) · **coma entre sujeto y verbo** 🆕 · punto y coma por coma en aposición.
+
+**Los 4 de léxico:** ***principal*** (falso amigo: en inglés = *director de colegio*) · ***local* countries** *(y escribe* home countries *bien 3 veces después)* · *the **general overview*** · ***restricting** … **of***.
+
+> ### 🆕 COMA ENTRE SUJETO Y VERBO
+> *"Those students who cannot afford private institutions**,** find…"*
+> En español se hace con sujetos largos. **En inglés, nunca.**
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6.0 | 6.0 | 6.5 | 5.5 | **~6.0** |
+
+## v2 — **296 palabras** · **~Band 6.5** ✅
+
+Las 12 correcciones aplicadas; veredicto explícito y correcto.
+
+> 🔴 **Pero la corrección introdujo DOS errores — patrón nº5, 6ª ocurrencia:**
+> - **`overal`** *(una L)* — esa palabra **no existía en la v1**
+> - **`their local countries`** — arregló *the home countries of them* **y de paso cambió `home` por `local`**, justo la palabra marcada como incorrecta en el mismo mensaje
+
+**Quedaron 7:** *overal* · *impact **in*** (→ *on*, logueado el 12-sep) · *local countries* ×2 · *received/found* (tiempos) · *collaborate with* · *the well-known phenomenon brain drain*.
+
+## ✅ v3 — **FINAL · ~Band 6.5 sólido, rozando 7** · CERRADO
+
+Los 7 aplicados. Veredicto explícito, tiempos coherentes, léxico consistente.
+
+> ⚠️ **7ª ocurrencia del patrón, en miniatura:** *collaborate with* → ***contribute with***.
+> Cambió el verbo y **dejó la preposición vieja colgando**. ***contribute*** va solo o con ***to***, nunca con ***with*** — es calco de *contribuir **con***.
+
+**Lo que queda, menor:** *Over the last years* → **In recent years** · *after their master* → **master's**.
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6.5 | 6.5 | 6.5–7 | 6.5 | **~6.5 sólido / 7** |
+
+---
+
+## 🎯 LAS DOS LECCIONES DEL ENSAYO Nº8
+
+> ### 1. La última frase de cada body es un VEREDICTO. Léela SOLA, en voz alta.
+> Dentro del párrafo la cabeza la completa con lo que querías decir. **Aislada, no.** 20 segundos por body; hoy valían medio punto.
+
+> ### 2. Tras cada cambio, releer la ORACIÓN ENTERA hasta el punto final.
+> No la palabra cambiada. **Las tres fugas de hoy** (`overal`, `local`, `contribute **with**`) **nacieron todas al corregir.**
+
+### 📈 Y el dato que importa
+
+**v1 → v3 en DOS rondas.** Los ensayos nº5, 6 y 7 necesitaron **tres**.
+**34 minutos, con 6 de sobra, y el barrido sin hacer.** Esos 6 minutos habrían cazado *a example*, *can not*, *may improved*, la coma y el punto y coma — **5 de los 8**. La v1 misma habría salido en 6.5.
+
+> 🔴 **El examen solo ve la v1. No falta inglés: faltan los minutos que ya sobran.**
 

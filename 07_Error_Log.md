@@ -359,6 +359,15 @@ After every timed practice or mock exam:
 | **2026-10-15** | 🎧 MC nº3 (sección 3, discusión de estudiantes) | Listening | **2/4.** Q2 C→B (*in isolation, without context* = *not how words are used*) · Q4 B→A (*a tool to use afterwards* = *useful resource*); eligió lo que sonaba lógico | En sección 3 todas parecen válidas: elegir la que **reformula lo que se dice**, no la más razonable. Si una opción no tiene una frase espejo en el audio, descartarla |
 | **2026-10-15** | 🎧 MC nº4 (sección 3) | Listening | **5/6.** Q4 A→B: se mencionan las dos cosas y se acuerda una (*present it as a future trend*) | En *agree / decide*: buscar la **decisión final** (*let's / we can / we should*), no lo mencionado de paso |
 
+| **2026-10-18** | ✍️ **Task 2 nº8 en frío** — *two-part question* (tipo nuevo), 300 palabras en 34 min | Writing | **v1 ~6.0 → v3 ~6.5 sólido/7 en 2 rondas** *(los nº5–7 necesitaron 3)*. Bodies 100/97, el equilibrio más fino hasta ahora | Estructura del tipo nuevo entendida: B1 = pregunta 1, B2 = pregunta 2 |
+| 2026-10-18 | 🔴 **Veredicto invertido en la última frase del Body 2** | Writing · TA/CC | Escribió *"could have a **positive** impact"* donde todo el ensayo defiende lo contrario. Faltaba un *not* | **Patrón *"el veredicto en preguntas de sí o no"*, abierto desde el 6-sep.** 🆕 **Regla: leer la última frase de cada body SOLA, en voz alta** |
+| 2026-10-18 | 🆕 **Coma entre sujeto y verbo** | Writing · GR | *"Those students who cannot afford private institutions**,** find…"* | Hábito del español con sujetos largos. **En inglés nunca se separan** |
+| 2026-10-18 | 🔴 **Correcciones que traen errores — 6ª y 7ª ocurrencia** | Writing · método | v2 introdujo **`overal`** (no existía en la v1) y cambió `home countries` → **`local countries`**, la palabra marcada como incorrecta en el mismo mensaje. v3: *collaborate with* → ***contribute with***, dejando la preposición vieja colgando | 🔴 **La regla del checklist se saltó: tras cada cambio, releer la ORACIÓN ENTERA hasta el punto final** |
+| 2026-10-18 | ⚠️ **`need of` — error vivo más antiguo** | Writing · GR | *"due to the **need of** professionals"* | **Logueado el 9 de agosto.** 70 días abierto |
+| 2026-10-18 | ⚠️ **Falsos amigos nuevos** | Writing · LR | ***principal*** por *main* (en inglés = director de colegio) · ***contribute with*** (calco de *contribuir con*) · ***local* countries** por *home countries* | |
+| 2026-10-18 | 🔴 **El barrido final no se hizo, con 6 min de sobra** | Writing · método | Terminó en 34 de 40. **5 de los 8 errores de gramática eran cazables** sin saber más inglés | **El examen solo ve la v1.** La brecha frío/corregido no es de inglés: es de minutos sin gastar |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
