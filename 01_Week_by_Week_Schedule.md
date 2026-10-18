@@ -74,18 +74,6 @@
 
 ---
 
-## 🎧 EL PLAN DEL LUNES 28 (~35 min)
-
-| | Min | Tarea |
-|---|---|---|
-| [ ] 1 | 10 | 🔢 **Drill de números** — **montado en `05_Listening_Module.md`, al final.** Partes A y B sin audio (regla del acento + cómo se dicen fechas, teléfonos y códigos); parte C con audio |
-| [ ] 2 | 20 | 🎧 **Cambridge 18 T1, Secciones 2 y 3** — las dos que faltan, para completar el test |
-| [ ] 3 | 5 | Registrar. **Aplicar las tres reglas: cero blancos, saltar, números** |
-
-**Al terminar la 2 y la 3 tendremos el test completo de 40 preguntas y la banda real de Listening**, no la estimada.
-
----
-
 ## 🎯 LA TÉCNICA NUEVA — las dos candidatas
 
 Sale de la pregunta 4 del pasaje.
@@ -99,54 +87,6 @@ En la #4 las candidatas eran `most jurisdictions` · `prohibit` · `above four s
 ⚠️ **Y el eco numérico:** *"four storeys"* aparece dos veces en el pasaje, pero en el **conteo de edificios**, no en los códigos. Añadir a la 2ª pasada: **¿el número que encontré está en el MISMO contexto que el del enunciado?**
 
 ✅ **Lo que NO es el problema:** acertó los dos `NG` legítimos. **No sobreusa `NG`** — se le escapa un `False` cuando hay varias candidatas.
-
----
-
-## ✍️ TASK 2 Nº5 — mantenimiento semana 9 · prompt 6
-
-> *As automation and artificial intelligence continue to advance, many traditional jobs will disappear. Some believe this will create new opportunities, while others fear widespread unemployment.*
->
-> ***Discuss both views and give your own opinion.***
-
-**Tipo: Discussion.** Los cuatro tipos ya están escritos; esto es **mantenimiento**, y este prompt se eligió a propósito.
-
-### 🎯 Por qué este prompt, y qué se mide hoy
-
-El 12-sep los dos bodies **argumentaron lo mismo con el mismo ejemplo**. Un *Discuss both views* **hace imposible ese fallo**: los bodies tienen que sostener **posiciones opuestas**.
-
-**Las tres cosas que se miden:**
-
-1. 🔴 **La palabra que carga el peso.** *Discuss both views **and give your own opinion*** son **DOS tareas**. Si falta la opinión propia, TA cae sí o sí
-2. 🔴 **Topic sentences.** La primera oración de cada body = la tesis del párrafo, **con la palabra clave del enunciado**. El 12-sep no las tuvo ninguno
-3. 🔴 **Que sobre tiempo para corregir.** El 12-sep los cuatro errores más visibles (`society are`, `need of`, `the United States`, `that/than`) **ya estaban en el error log**: se reconocen, no se cazan sin la pasada final
-
-### La estructura
-
-| | |
-|---|---|
-| **Intro** | Parafrasear + *"this essay will examine both perspectives before arguing that…"* — **tu postura ya aquí** |
-| **Body 1** | La visión de **las oportunidades nuevas**, presentada **de buena fe** |
-| **Body 2** | El temor al **desempleo masivo**, también de buena fe |
-| **Conclusión** | **Tu opinión, explícita.** No *"ambas tienen razón"* |
-
-⚠️ **La trampa del tipo:** presentar una de las dos visiones como un hombre de paja para tumbarla. **Las dos se defienden bien; tu opinión llega en la conclusión.**
-💡 *Discussion* admite el matiz: *"the second view is more persuasive **in the short term**, although…"*
-
-**Reparto (40 min):** 0–8 planificar · 8–31 escribir sin mirar atrás · **31–40 corregir**.
-📏 **250 mínimo · 270–300 objetivo.** Contar **sobre el texto**.
-🔴 Tecleado, Bloc de notas, **sin corrector**. Pegar en `11_Writing_Baseline_Essays.md`.
-
----
-
-## 🎯 LA TÉCNICA NUEVA DE HOY — las dos candidatas
-
-Sale de la pregunta 4 del pasaje.
-
-> **Cuando un enunciado tiene MÁS DE UNA palabra que podría cargar el peso, compruébalas TODAS antes de decidir.**
-> Si **una sola** encuentra una frase que la haga imposible → **FALSE**, aunque las demás queden abiertas.
-> **`NOT GIVEN` exige que NINGUNA quede resuelta.**
-
-En la #4 las candidatas eran `most jurisdictions` · `prohibit` · `above four storeys`. Se ancló en la primera — **y su razonamiento sobre ella era correcto**. Pero *"current codes allow… up to roughly twenty-five storeys"* resolvía las otras dos.
 
 ---
 

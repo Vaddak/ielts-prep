@@ -8,12 +8,31 @@
 
 | Mock | Date | Listening | Reading | Writing | Speaking | **Overall** |
 |---|---|---|---|---|---|---|
-| Diagnostic (Wk 2) | | | | | | |
-| **Parciales** | **Sep 2026** | **6.0** *(28-sep, mock oficial completo)* | **7.5** *(23-sep)* | ~6.5 | — | **~6.5–7** |
-| Mock #1 (Wk 15) | | | | | | |
-| Mock #2 (Wk 17) | | | | | | |
-| Mock #3 (Wk 19) | | | | | | |
-| **Real Exam** | | | | | | **TARGET: 7.5+** |
+| **Reading — test completo** | **23-sep** | — | **7.5** *(34/40)* | — | — | |
+| **Listening — mock oficial nº1** | **28-sep** | **6.0** | — | — | — | |
+| **Listening — mock oficial nº2** | **1-oct** | **6.0** *(24/40, 27:23)* | — | — | — | |
+| **Speaking — mock oficial (FlexCheck)** | **12-oct** | — | — | — | **6.0** *(FC 6 · LR 6 · GR 6 · P 6)* | |
+| 🧭 **ESTADO A 18-OCT** | | **6.0** ⬆️ | **7.5** ✅ | **~6.5** corregido · **~6** en frío | **6.0** | **≈ 6.5** |
+| Mock completo nº1 | *19–25 oct* | | | | | |
+| Mock completo nº2 | *26 oct – 1 nov* | | | | | |
+| Mock completo nº3 | *2–8 nov* | | | | | |
+| **EXAMEN REAL** | **sáb 14 nov** | | | | | **META: 7.5+** |
+
+### 📐 La aritmética que decide el plan
+
+La banda global es el **promedio de los cuatro, redondeado al 0.5 más cercano**.
+
+| Escenario | L | R | W | S | Promedio | **Global** |
+|---|---|---|---|---|---|---|
+| **Hoy** | 6.0 | 7.5 | 6.5 | 6.0 | 6.50 | **6.5** |
+| Subiendo **solo Listening** a 7 | 7.0 | 7.5 | 6.5 | 6.0 | 6.75 | **7.0** |
+| **+ Speaking a 6.5** | 7.0 | 7.5 | 6.5 | 6.5 | 6.875 | **7.0** |
+| **+ Writing a 7** | 7.0 | 7.5 | 7.0 | 6.5 | 7.00 | **7.0** |
+| 🎯 **Ruta a 7.5** | **7.5** | 7.5 | **7.0** | **7.0** | 7.25 | **7.5** |
+
+> **Para 7.5 global hacen falta +1.5 en Listening, +0.5 en Writing y +1.0 en Speaking.**
+> **Listening es el de mayor recorrido y el más mecánico:** el mock del 1-oct tenía **6 fallos de ortografía y blancos** de 16. Solo con esos, 24/40 → 30/40 = **Band 7.0**.
+> ⚠️ **Muchos programas aceptan 7.0 global con 6.5 mínimo por banda.** Conviene verificar el requisito exacto de RADMEP / EMIMEP / SSIS: puede que 7.0 ya sirva, y eso cambia dónde vale la pena apretar.
 
 ---
 
