@@ -6,31 +6,56 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — viernes 16 oct (tarde libre en casa)
+## 👉 RETOMAR AQUÍ — domingo 18 oct · tarde completa en casa
 
-**Faltan 29 días (examen: sáb 14 nov).** Bandas: R 7.5 · W ~6.5 corregido / ~6 en frío · L 6.0 (subiendo) · S 6.0 → global ≈6.5.
+**Vie 16 y sáb 17: sin sesión.** Todo lo de esos dos días se concentra hoy.
+**Faltan 27 días** (examen: sáb 14 nov). Bandas: **R 7.5 · W ~6.5/~6 frío · L 6.0 · S 6.0 → global ≈6.5**.
 
-### Listening mié 14 – jue 15 (todo en el portal)
-| Ejercicio | Resultado | Regla aprendida |
-|---|---|---|
-| MC nº1 / nº2 | 3/4 → **3/3** | Esperar *the main / the most / actually* antes de marcar |
-| Mapa nº3 / nº4 / nº5 | 3/5 → 1/5 → **4/5** | Ancla (entrada/escenario/brújula), **reanclar en cada pregunta**, contar desde el ancla; si te pierdes, soltar y seguir |
-| Note completion | **100%** | Ortografía limpia |
-| MC nº3 / nº4 (sección 3) | 2/4 → **5/6** | **Frase espejo**: no la opción más lógica, la que reformula. *agree to do* = decisión final |
-| Mapa nº6 | ⏳ abierto, sin hacer | — |
+### 🔴 El plan de la tarde (~105 min + pausas)
 
-### 🔴 HOY viernes, tarde libre: en este orden
-1. ✍️ **Task 2 nº8 en frío** (40 min, cronómetro ANTES de abrir el enunciado): al final de `11_Writing_Baseline_Essays.md`. Pegar la v1 en el chat con tiempo y palabras. **Lleva 3 días aplazado: va primero.**
-2. 🎤 **Parte 3 ×3** (en voz alta, con el micrófono de la app), con *I'd say* + *Having said that* + *On balance*.
-3. 🎤 Drill nuevo: *last year* (sin *the*) · *too much / too many* (= demasiado) · *I'd say*.
-4. 🎧 Si sobra energía: mapa (portal).
+| | Min | Tarea | Por qué en ese orden |
+|---|---|---|---|
+| [ ] 1 | **40** | ✍️ **TASK 2 Nº8 EN FRÍO** *(final de `11_Writing_Baseline_Essays.md`)* | **Lleva 5 días aplazado.** Y la escritura en frío exige cerebro fresco: va primero |
+| | 10 | ☕ pausa real | |
+| [ ] 2 | **35** | 🏁 **LISTENING MOCK Nº3**, portal, cronometrado, papel al lado | **Es la medición de la semana.** Último mock: 1-oct, 24/40 |
+| | 10 | ☕ pausa | |
+| [ ] 3 | **20** | 🎤 **Parte 3 ×3** en voz alta + drill de hábitos | |
+| [ ] 4 | **10** | Registrar las tres cosas | |
 
-### Fin de semana
-| Día | Qué |
+### ✂️ Lo que se sacrifica hoy, y por qué
+
+- **Mapa nº6** — los mapas ya subieron de 1/5 a 4/5. Un ejercicio suelto no mueve la banda; el mock sí los incluye
+- **Speaking mock nº2** — ya hay uno del 12-oct. Repetirlo mide; **practicar Parte 3 mejora**. Con 27 días, mejorar gana
+
+### 🎯 Lo que se mide en cada bloque
+
+**Task 2 nº8** — tipo nuevo (*two-part question*). La meta **no es un 7 corregido**: es que **la v1 salga en 6.5**. Son los 5 minutos de barrido final los que deciden.
+
+**Listening mock nº3** — las tres fugas del mock del 1-oct:
+| 🔴 Ortografía de palabras que SÍ entendió | 5 fallos | *forty · Zealand · contents · two million (sin -s)* |
+| 🔴 Casilla en blanco | 1 | **cero blancos** |
+| Opciones (mapa + matching) | 7 | **frase espejo** · **reanclar en cada pregunta** |
+
+> **Solo cerrando ortografía y blancos: 24/40 → 30/40 = Band 7.0.** Un punto entero de global.
+
+**Parte 3** — *I'd say* para abrir · *Having said that* para el contraargumento · *On balance* para cerrar.
+Hábitos a matar: ***the* last year** (3ª vez) · ***too many*** = *muchos* · *I will say*.
+
+---
+
+### 📅 LA SEMANA — mock completo
+
+| Día | |
 |---|---|
-| Sáb 17 | Speaking mock en Chrome · Listening mock nº3 |
-| Dom 18 | Repaso + Task 1 en frío |
-| 19–25 oct | Mock completo nº1 |
+| **Lun 19 – vie 23** | Oficina: drills cortos del portal · 1 Task 1 · Parte 2 grabada |
+| **🏁 Sáb 24** | **MOCK COMPLETO Nº1** — L + R + W seguidos, condiciones reales. Speaking aparte |
+| **Dom 25** | 📊 Post-mortem completo + plan de las 3 semanas finales |
+
+### ⚠️ VERIFICAR — cambia la estrategia
+
+**El requisito exacto de IELTS de RADMEP / EMIMEP / SSIS.** Muchos Erasmus Mundus piden **7.0 global con mínimo 6.5 por banda**, no 7.5. Si es 7.0, la meta está a **medio punto** y el plan de las últimas 3 semanas cambia.
+
+---
 
 ## 🎯 EL DIAGNÓSTICO DE LISTENING — 6 de 8 errores no son de inglés
 
