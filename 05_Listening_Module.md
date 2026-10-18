@@ -507,3 +507,70 @@ IELTS es británico. Estas salen **todo el tiempo** en las secciones 1 y 2:
 | ✅ Acertada y segura | sabe |
 | 🎲 **Acertada pero adivinada** | **no sabe** — cuenta como fallo en el diagnóstico |
 | ❌ Fallada | |
+
+
+---
+
+# 🎯 LA PARTE 4 — POR QUÉ SE PIERDE EL HILO *(18 de octubre)*
+
+*Creado tras el mock nº3 (Band 6.0): la Parte 1 salió limpia y **la Parte 4 se cayó entera**. Su observación, textual: **"comenzó a dar respuestas ahí mismo, no hubo un contexto"**.*
+
+## 🔴 Eso NO es distracción. Es cómo está construida la Parte 4.
+
+**La Parte 1 te regala un calentamiento:** hay un ejemplo resuelto, hay saludos, hay charla. La primera respuesta real llega al cabo de medio minuto largo, y para entonces el oído ya se acostumbró a la voz.
+
+**La Parte 4 no tiene nada de eso.** Una frase de encuadre y **la respuesta a la 31 ya está pasando**. No hay ejemplo, no hay segundo hablante, no hay pausa a la mitad.
+
+> ### Consecuencia: en la Parte 4, los segundos de lectura previa NO son opcionales. Son la sección.
+> Si llegas a la 31 sin saber qué palabra esperas, **entras ya por detrás** — y en un monólogo sin pausas, **el retraso no se recupera solo**.
+
+---
+
+## ✅ Protocolo 1 — ANTES del audio: marcar el TIPO de cada hueco
+
+Por cada hueco, una palabra al lado. No la respuesta: **el tipo**.
+
+| Hueco | Lo que se anota |
+|---|---|
+| *its rate of **(31)** was much faster* | sustantivo — algo del sol que se mide |
+| *will grow… in approx. **(33)** years* | **número + magnitud** |
+| *a white **(35)** star* | sustantivo — tipo de estrella |
+| *at the same time as **(38)** that took place in…* | **un suceso, no un lugar** |
+
+**Con el tipo anotado, la palabra salta sola cuando pasa** — y las vecinas dejan de parecer candidatas. *(El 18-oct escribió `Argentina`, un país, donde el hueco pedía un suceso: eran los disturbios de mayo de 1980.)*
+
+---
+
+## ✅ Protocolo 2 — CUANDO te pierdes: el encabezado es la puerta
+
+**Las notas en pantalla son el mapa.** La Parte 4 viene partida en bloques con encabezado, y **cada encabezado es un punto de reenganche**.
+
+*Ejemplo del 18-oct:*
+| Bloque | Huecos |
+|---|---|
+| **Solar Flares** — *"When the sun was in an earlier stage…"* | 31–32 |
+| **"The sun…"** | 33–35 |
+| **"Solar flares…"** | 36–37 |
+| **"Effects of solar flares"** | 38–40 |
+
+### Los cinco pasos
+
+1. **Suelta el hueco.** Ya no existe
+2. **Salta el ojo al SIGUIENTE ENCABEZADO** — no a la siguiente línea
+3. **Espera** a que el hablante entre en ese tema (*"Now, as for the effects…"*)
+4. **Reengancha ahí** y sigue normal
+5. **Al final, rellena los huecos muertos** con algo del tipo correcto
+
+> 🔴 **El error del 18-oct fue perseguir al hablante** en vez de esperarlo en el bloque siguiente.
+> Por eso las invenciones no salieron al azar: salieron de palabras que estaban sonando en ese momento (*brightness* → hueco 31, *250 million* → hueco 33, *atmosphere* → hueco 39). **Iba corriendo detrás del audio.**
+>
+> **El ancla no es el audio. Es el encabezado.**
+
+✅ **Es la misma regla que arregló los mapas**: del 1/5 del 14-oct al 4/5 del 15-oct, reanclando en cada pregunta.
+
+---
+
+## ✅ Y lo de inventar: estuvo BIEN
+
+**Cero casillas en blanco se cumplió**, perdida y al final de 32 minutos. Eso es disciplina de examen.
+**Lo que falla no es inventar: es llegar a tener que inventar cinco seguidas.**

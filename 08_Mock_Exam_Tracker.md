@@ -12,6 +12,7 @@
 | **Listening — mock oficial nº1** | **28-sep** | **6.0** | — | — | — | |
 | **Listening — mock oficial nº2** | **1-oct** | **6.0** *(24/40, 27:23)* | — | — | — | |
 | **Speaking — mock oficial (FlexCheck)** | **12-oct** | — | — | — | **6.0** *(FC 6 · LR 6 · GR 6 · P 6)* | |
+| **Listening — mock oficial nº3** | **18-oct** | **6.0** *(32:41)* | — | — | — | P1 limpia · **P4 caída** |
 | 🧭 **ESTADO A 18-OCT** | | **6.0** ⬆️ | **7.5** ✅ | **~6.5** corregido · **~6** en frío | **6.0** | **≈ 6.5** |
 | Mock completo nº1 | *19–25 oct* | | | | | |
 | Mock completo nº2 | *26 oct – 1 nov* | | | | | |
@@ -354,6 +355,51 @@ Las tres pérdidas de banda del día **nacen todas antes de escribir la primera 
 3. 🔴 **Ortografía al escribir mientras escucha** — sin corrector en el examen
 
 ⚠️ **Sesgo de la medición:** se hicieron las secciones 1 y 4 saltando la 2 y la 3, que son de dificultad intermedia. La estimación es orientativa; **la medición buena es el test completo de 40 preguntas**.
+
+---
+
+## 🏁 MOCK DE LISTENING Nº3 — 18 de octubre de 2026 · **Band 6.0** · 32:41
+
+**Tercer mock seguido en 6.0** (28-sep · 1-oct · 18-oct). Pero el reparto cambió por completo.
+
+### ✅ Parte 1 — limpia
+
+`3 · City · 45 · 90 · Bus · Bradbury · 16 · economy · 8362 · EU61`
+
+**Cero blancos. `Bradbury` y `EU61` deletreados sin un fallo.** Hace tres semanas eso mismo salía `rs6ga7`. **El trabajo de las vocales está hecho.**
+
+### 🔴 Parte 4 — caída
+
+| # | Suya | |
+|---|---|---|
+| 31 | `bright` | ❌ *(era el ritmo de rotación; `brightness` es el hueco 32)* |
+| 32 | `70` | ✅ |
+| 33 | `500 million` | ❌ → **seven billion** *(`250 million` está en el bullet siguiente)* |
+| 34 | `flash` | ✅ |
+| 35 | `dwart` | ❌ → **dwarf** · **la oyó bien; se perdió en la `f`** |
+| 36 | `activity` | ❌ |
+| 38 | `Argentina` | ❌ → *un país donde el hueco pedía un suceso* |
+| 39 | `atmosphere` | ❌ → **orbit** |
+
+### 🔑 Su explicación, que es el hallazgo
+
+> *"En la sección 4 inventé, iba súper bien y me perdí… **comenzó a dar respuestas ahí mismo, no hubo un contexto**"*
+
+**No es distracción: es cómo está construida la Parte 4.** La Parte 1 regala un calentamiento (ejemplo resuelto, saludos); la Parte 4 encuadra en una frase y **la respuesta 31 ya está pasando**. Sin preparación previa se entra por detrás, y en un monólogo sin pausas **el retraso no se recupera solo**.
+
+✅ **Inventar estuvo bien** — *cero blancos* se cumplió bajo presión. Lo que falla es **llegar a tener que inventar cinco seguidas**.
+
+> **Protocolo nuevo en `05_Listening_Module.md`:** marcar el TIPO de cada hueco antes del audio · al perderse, **saltar al siguiente ENCABEZADO**, no a la siguiente línea.
+
+### 📈 Y la lectura del 6.0 repetido
+
+| El mock dice | Los ejercicios dicen |
+|---|---|
+| 6.0 · 6.0 · 6.0 | Note completion **100%** · Table **4/4** · MC **5/6** · Mapa **4/5** · **P1 de hoy limpia** |
+
+**No hay estancamiento: hay reparación por partes que el promedio esconde.** Y ahora **queda UN problema con nombre, no cuatro: la Parte 4.**
+
+⚠️ **Fuga de ortografía, 3ª medición seguida:** `fences`→`FANCES` · `forty`→`fourty` · `dwarf`→`dwart`.
 
 ---
 

@@ -6,54 +6,50 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — domingo 18 oct · tarde completa en casa
+## 👉 RETOMAR AQUÍ — lunes 19 oct · la Parte 4
 
-**Vie 16 y sáb 17: sin sesión.** Todo lo de esos dos días se concentra hoy.
-**Faltan 27 días** (examen: sáb 14 nov). Bandas: **R 7.5 · W ~6.5/~6 frío · L 6.0 · S 6.0 → global ≈6.5**.
+**Domingo 18 ✅ tarde completa.** ✍️ **Task 2 nº8**: v1 ~6.0 → **v3 ~6.5/7** en 2 rondas · 🏁 **Listening mock nº3: Band 6.0** (32:41).
+**Faltan 27 días** (sáb 14 nov). **R 7.5 · W ~6.5 · L 6.0 · S 6.0 → global ≈6.5.**
 
-### 🔴 El plan de la tarde (~105 min + pausas)
+### 🎯 El problema de Listening ya tiene UN nombre: **la Parte 4**
 
-| | Min | Tarea | Por qué en ese orden |
-|---|---|---|---|
-| [ ] 1 | **40** | ✍️ **TASK 2 Nº8 EN FRÍO** *(final de `11_Writing_Baseline_Essays.md`)* | **Lleva 5 días aplazado.** Y la escritura en frío exige cerebro fresco: va primero |
-| | 10 | ☕ pausa real | |
-| [ ] 2 | **35** | 🏁 **LISTENING MOCK Nº3**, portal, cronometrado, papel al lado | **Es la medición de la semana.** Último mock: 1-oct, 24/40 |
-| | 10 | ☕ pausa | |
-| [ ] 3 | **20** | 🎤 **Parte 3 ×3** en voz alta + drill de hábitos | |
-| [ ] 4 | **10** | Registrar las tres cosas | |
+| Parte 1 del mock | Parte 4 del mock |
+|---|---|
+| ✅ limpia · `Bradbury` y `EU61` perfectos · cero blancos | 🔴 ≥6 de 10 mal |
 
-### ✂️ Lo que se sacrifica hoy, y por qué
+**Su diagnóstico, que es el correcto:** *"comenzó a dar respuestas ahí mismo, **no hubo un contexto**"*.
+**La P4 no tiene calentamiento** — la P1 sí (ejemplo resuelto, saludos). Sin lectura previa se entra por detrás en la 31 y **no se recupera**.
 
-- **Mapa nº6** — los mapas ya subieron de 1/5 a 4/5. Un ejercicio suelto no mueve la banda; el mock sí los incluye
-- **Speaking mock nº2** — ya hay uno del 12-oct. Repetirlo mide; **practicar Parte 3 mejora**. Con 27 días, mejorar gana
+📗 **Protocolo completo en `05_Listening_Module.md`** → *"La Parte 4 — por qué se pierde el hilo"*.
 
-### 🎯 Lo que se mide en cada bloque
-
-**Task 2 nº8** — tipo nuevo (*two-part question*). La meta **no es un 7 corregido**: es que **la v1 salga en 6.5**. Son los 5 minutos de barrido final los que deciden.
-
-**Listening mock nº3** — las tres fugas del mock del 1-oct:
-| 🔴 Ortografía de palabras que SÍ entendió | 5 fallos | *forty · Zealand · contents · two million (sin -s)* |
-| 🔴 Casilla en blanco | 1 | **cero blancos** |
-| Opciones (mapa + matching) | 7 | **frase espejo** · **reanclar en cada pregunta** |
-
-> **Solo cerrando ortografía y blancos: 24/40 → 30/40 = Band 7.0.** Un punto entero de global.
-
-**Parte 3** — *I'd say* para abrir · *Having said that* para el contraargumento · *On balance* para cerrar.
-Hábitos a matar: ***the* last year** (3ª vez) · ***too many*** = *muchos* · *I will say*.
+> **Los dos movimientos:**
+> **1.** Antes del audio: anotar **el TIPO** de palabra de cada hueco *(número · suceso · sustantivo…)*
+> **2.** Al perderse: **saltar al siguiente ENCABEZADO de las notas**, no a la línea siguiente. Esperar ahí
 
 ---
 
-### 📅 LA SEMANA — mock completo
+### 📅 LA SEMANA (19–25 oct)
 
 | Día | |
 |---|---|
-| **Lun 19 – vie 23** | Oficina: drills cortos del portal · 1 Task 1 · Parte 2 grabada |
-| **🏁 Sáb 24** | **MOCK COMPLETO Nº1** — L + R + W seguidos, condiciones reales. Speaking aparte |
-| **Dom 25** | 📊 Post-mortem completo + plan de las 3 semanas finales |
+| **Lun 19** | 🎧 **Portal → Practice → Note completion de Sección 4**, 2 sets, aplicando los dos protocolos · 🎓 clase *Processes (Academic IELTS)* 8:00 |
+| **Mar 20** | 🎓 **Clase en vivo: Part 2 Listening, 9:00** *(gratis, en el portal)* · 🎤 Parte 3 ×3 |
+| **Mié 21** | 🎓 Clase *Detailed reading* · ✍️ Task 1 en frío |
+| **Jue 22** | 🎧 Sección 4 otra vez, 2 sets · 🎤 drill de hábitos |
+| **Vie 23** | 📖 Reading mantenimiento, 1 pasaje |
+| **🏁 Sáb 24** | **MOCK COMPLETO Nº1** — L + R + W seguidos, condiciones reales |
+| **Dom 25** | 📊 Post-mortem + plan de las 3 semanas finales |
 
-### ⚠️ VERIFICAR — cambia la estrategia
+### 📈 Lectura del 6.0 por tercera vez
 
-**El requisito exacto de IELTS de RADMEP / EMIMEP / SSIS.** Muchos Erasmus Mundus piden **7.0 global con mínimo 6.5 por banda**, no 7.5. Si es 7.0, la meta está a **medio punto** y el plan de las últimas 3 semanas cambia.
+| El mock dice | Los ejercicios dicen |
+|---|---|
+| 6.0 · 6.0 · 6.0 | Note completion **100%** · Table **4/4** · MC **5/6** · Mapa **4/5** · **P1 limpia** |
+
+**No hay estancamiento: hay reparación por partes que el promedio esconde.** Las vocales están cerradas. **Queda un bloque.**
+
+### ⚠️ Sigue pendiente
+**Verificar el requisito exacto de IELTS de RADMEP / EMIMEP / SSIS.** Si piden **7.0 global con 6.5 mínimo** y no 7.5, el plan de las últimas semanas cambia.
 
 ---
 
