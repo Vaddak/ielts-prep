@@ -22,6 +22,22 @@
 
 📗 **Protocolo completo en `05_Listening_Module.md`** → *"La Parte 4 — por qué se pierde el hilo"*.
 
+### 🏆 Y 45 minutos después: **Flow chart 100% (4/4)**
+
+Mismo formato de monólogo que se cayó en el mock, **con los dos protocolos aplicados**.
+
+| | Sin protocolo | Con protocolo |
+|---|---|---|
+| Mapas | 1/5 | **4/5** |
+| MC sección 3 | 2/4 | **5/6** |
+| Monólogo | ≥6/10 mal | **4/4** |
+
+> **El problema no es la Parte 4: es ENTRAR EN FRÍO.**
+> 🔴 **En el mock del sábado, los segundos de lectura previa de CADA parte son obligatorios.**
+
+⚠️ **Matiz suyo, correcto:** ese audio tenía acento fácil. La prueba limpia es un monólogo con acento cerrado.
+🆕 **Material nuevo: *Las formas débiles*** en `05_Listening_Module.md` + **shadowing con transcript**, 10 min *(BBC 6 Minute English · Radio 4 In Our Time)*.
+
 > **Los dos movimientos:**
 > **1.** Antes del audio: anotar **el TIPO** de palabra de cada hueco *(número · suceso · sustantivo…)*
 > **2.** Al perderse: **saltar al siguiente ENCABEZADO de las notas**, no a la línea siguiente. Esperar ahí

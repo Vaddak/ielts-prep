@@ -574,3 +574,59 @@ Por cada hueco, una palabra al lado. No la respuesta: **el tipo**.
 
 **Cero casillas en blanco se cumplió**, perdida y al final de 32 minutos. Eso es disciplina de examen.
 **Lo que falla no es inventar: es llegar a tener que inventar cinco seguidas.**
+
+
+---
+
+# 🔊 LAS FORMAS DÉBILES — por qué un acento británico "se vuelve difícil"
+
+*Creado el 18-oct. Su observación tras sacar **4/4** en un flow chart: **"el audio tuvo un acento muy aceptable, muy fluido… pero a veces cuando son acentos tan ingleses es difícil"**.*
+
+> ⚠️ **Dato de método:** ese 4/4 se consiguió **con un acento fácil**. Parte del mérito es del protocolo nuevo y parte es del audio. **Las dos cosas son verdad.** La prueba limpia del protocolo es un monólogo con acento cerrado.
+
+## El mecanismo real: no es el acento, es la ERRE que desaparece y las vocales que se apagan
+
+En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se convierten en una `e` sorda** (*schwa*, /ə/). Las palabras con contenido se oyen; las de unión **se derriten**.
+
+| Escrito | Suena de verdad |
+|---|---|
+| **of** | /əv/ — *"a lot **ov**"* casi *"a lo**tev**"* |
+| **to** | /tə/ — *"going **te** school"* |
+| **and** | /ən/ o solo /n/ — *"fish **'n'** chips"* |
+| **can** | /kən/ — ⚠️ y ***can't*** = /kɑːnt/, *"carnt"* |
+| **was / were** | /wəz/ /wə/ |
+| **for** | /fə/ — *"**fe** the students"* |
+| **at / that** | /ət/ /ðət/ |
+| **are** | /ə/ — *"they**'re**"* casi desaparece |
+| **have / has** | /əv/ /əz/ — *"should**'ve**"* suena *"shoulda"* |
+
+> ### Por eso una frase que conoces entera puede sonar a ruido:
+> *"**A lot of the students have to**…"* → **/əlɒtəvðəstjuːdəntsəvtə/**
+> **Nueve palabras, un solo bloque de sonido.**
+
+## Y los tres fenómenos que pegan las palabras
+
+| | Ejemplo | Suena |
+|---|---|---|
+| **Enlace** *(consonante + vocal)* | *an orange* | *"a-norange"* |
+| **Elisión** *(se cae un sonido)* | *next day · must be* | *"nex day" · "mus be"* |
+| **Oclusión glotal** 🇬🇧 | *bottle · important · water* | *"bo'le" · "impor'ant" · "wa'er"* |
+
+## ✅ El entrenamiento — 10 minutos, y funciona
+
+**El mismo principio que cerró las vocales A/E/I y el *thir-TEEN / THIR-ty*: la boca le enseña al oído.**
+
+### Shadowing *(lo más eficaz que existe para esto)*
+1. Un audio corto **con transcript** — 2 o 3 minutos
+2. Escúchalo una vez normal
+3. **Vuelve a ponerlo y habla AL MISMO TIEMPO que el hablante**, medio segundo por detrás, copiando el ritmo. No importa entender: importa **imitar**
+4. Al final, **lee el transcript mientras suena**. Ahí es donde el oído conecta el sonido con la escritura
+
+### Las fuentes, gratis y con transcript
+| | |
+|---|---|
+| **BBC 6 Minute English** | episodios de 6 min **con transcript completo**. El estándar para esto |
+| **BBC Radio 4 — *In Our Time*** | 🇬🇧 **acento académico cerrado**, formato idéntico a la Parte 4 |
+| **El propio portal** | reescuchar la Parte 4 ya hecha, leyendo las notas |
+
+⚠️ **Y en el examen real los acentos VARÍAN** dentro del mismo test: británico (estándar y regional), australiano, neozelandés, canadiense. **No se puede elegir el fácil.** Por eso conviene entrenar a propósito con el difícil.

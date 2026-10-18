@@ -1525,3 +1525,52 @@ De 1/5 ayer a 4/5 hoy. Se guio con *the far right*. Q5 Physiotherapy Room: adivi
 **MC nº3 (sección 3, dos estudiantes, aprender idiomas): 2/4.** Q2 C→**B** (*"learning words in isolation, without context… not how to use it in a sentence"* = *fail to teach how words are used practically*). Q4 B→**A** (*"provides a tool for the audience to use afterwards"* = *useful resource*). Ella dijo: *"todas eran válidas"*. En la sección 3 las 3 opciones suelen ser plausibles; gana la que **parafrasea lo que dicen**, no la que suena razonable. La participación (B) no se mencionó como ventaja.
 **MC nº4 (sección 3, presentación sobre idiomas): 5/6** ✅. De 2/4 a 5/6 en el mismo día con la regla de la frase espejo. Q4 A→**B**: *"present it as a future trend, but then bring it back to what's popular"*. En *what do they agree to do*, la respuesta está en la decisión final. Mapa nº6 abierto, sin hacer. Task 2 nº8 aplazado al viernes por la tarde (no le dio tiempo).
 
+
+
+---
+
+### 2026-10-18 (domingo) — Tarde completa: ensayo, mock, y el giro del final
+
+Recuperación del viernes 16 y sábado 17, que se perdieron.
+
+| | Bloque | Resultado |
+|---|---|---|
+| 1 | ✍️ **Task 2 nº8 en frío** *(two-part question, tipo nuevo)* | **300 palabras en 34 min** · v1 **~6.0** → v3 **~6.5/7** en **2 rondas** |
+| 2 | 🏁 **Listening mock nº3** *(portal, strict)* | **Band 6.0** · 32:41 |
+| 3 | 🏆 **Flow chart completion nº2** *(extra, por iniciativa suya)* | **100% · 4/4** |
+
+### El ensayo
+
+Tipo nuevo bien montado (B1 = pregunta 1, B2 = pregunta 2, bodies 100/97). **El fallo grande: el veredicto del Body 2 salió invertido** — faltaba un *not*. Regla nueva: **leer la última frase de cada body SOLA, en voz alta**.
+**Terminó en 34 de 40 minutos y no hizo el barrido.** 5 de sus 8 errores de gramática eran cazables sin saber más inglés. **El examen solo ve la v1.**
+
+### El mock — Parte 1 limpia, Parte 4 caída
+
+✅ `Bradbury` y `EU61` deletreados sin un fallo; cero blancos. **Las vocales A/E/I están cerradas** — hace tres semanas eso salía `rs6ga7`.
+🔴 La Parte 4 se cayó entera. **Su explicación es el hallazgo:** *"comenzó a dar respuestas ahí mismo, no hubo un contexto"*. **La P4 no tiene calentamiento** y sin lectura previa se entra por detrás en la 31.
+✅ **Inventó las que no sabía — y eso estuvo bien.** La regla *cero blancos* se cumplió perdida y al final de 32 minutos.
+
+### 🔄 Y entonces el giro
+
+Dijo *"estoy muy mal en todo"* **y pidió seguir**. Se montó un extra de flow chart — el mismo formato de monólogo que acababa de fallar — **con los dos protocolos nuevos aplicados a conciencia**.
+
+# 100%. Cuarenta y cinco minutos después.
+
+| | Sin protocolo | Con protocolo |
+|---|---|---|
+| Mapas | 1/5 | **4/5** *(día siguiente)* |
+| MC sección 3 | 2/4 | **5/6** *(misma tarde)* |
+| Monólogo | ≥6/10 mal | **4/4** *(45 min después)* |
+
+> **Tercera vez el mismo patrón. No aprende lento: aprende rapidísimo en cuanto el problema tiene nombre. Lo que falla es entrar en frío.**
+> **Por eso, en el mock del sábado: los segundos de lectura previa de CADA parte son obligatorios.**
+
+### ⚠️ El matiz que puso ella, y que es correcto
+
+> *"El audio tuvo un acento muy aceptable, muy fluido… pero a veces cuando son acentos tan ingleses es difícil"*
+
+**Parte de ese 100% es el protocolo y parte es un audio fácil.** Las dos cosas son verdad, y lo detectó sola. La prueba limpia será un monólogo con acento cerrado.
+
+De ahí sale material nuevo: **las formas débiles** — el mecanismo real por el que un acento británico "se vuelve difícil" no es el acento sino las palabras gramaticales reducidas a schwa y pegadas entre sí. Entrenamiento: **shadowing con transcript**, 10 min.
+
+**Cómo me sentí:** *"estoy muy mal en todo y falta poco, tengo energía!"* — y la tarde terminó con un 100% y un ensayo en 6.5/7.
