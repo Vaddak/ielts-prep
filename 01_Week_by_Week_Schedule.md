@@ -30,9 +30,11 @@ Mismo formato de monólogo que se cayó en el mock, **con los dos protocolos apl
 |---|---|---|
 | Mapas | 1/5 | **4/5** |
 | MC sección 3 | 2/4 | **5/6** |
-| Monólogo | ≥6/10 mal | **4/4** |
+| Monólogo | ≥6/10 mal | **4/4** y **4/4** |
 
-> **El problema no es la Parte 4: es ENTRAR EN FRÍO.**
+**Flow chart nº3 (90 min después): 100% otra vez**, con diseño más duro — 4 opciones compartidas, cada letra una sola vez. **Cierra la objeción del acento fácil.** Su frase: ***"fluí con el audio"***.
+
+> # El problema NO es la Parte 4: es ENTRAR EN FRÍO.
 > 🔴 **En el mock del sábado, los segundos de lectura previa de CADA parte son obligatorios.**
 
 ⚠️ **Matiz suyo, correcto:** ese audio tenía acento fácil. La prueba limpia es un monólogo con acento cerrado.
@@ -48,7 +50,7 @@ Mismo formato de monólogo que se cayó en el mock, **con los dos protocolos apl
 
 | Día | |
 |---|---|
-| **Lun 19** | 🎧 **Portal → Practice → Note completion de Sección 4**, 2 sets, aplicando los dos protocolos · 🎓 clase *Processes (Academic IELTS)* 8:00 |
+| **Lun 19** | 🎧 **Portal → Practice → Flow chart** *(territorio Parte 4; Note completion mezcla Parte 1)*, 2 sets con los dos protocolos · 🎓 clase *Processes (Academic IELTS)* 8:00 |
 | **Mar 20** | 🎓 **Clase en vivo: Part 2 Listening, 9:00** *(gratis, en el portal)* · 🎤 Parte 3 ×3 |
 | **Mié 21** | 🎓 Clase *Detailed reading* · ✍️ Task 1 en frío |
 | **Jue 22** | 🎧 Sección 4 otra vez, 2 sets · 🎤 drill de hábitos |

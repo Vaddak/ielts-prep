@@ -358,6 +358,25 @@ Las tres pérdidas de banda del día **nacen todas antes de escribir la primera 
 
 ---
 
+## 🧪 EL EXPERIMENTO DEL 18 DE OCTUBRE — el protocolo, probado dos veces
+
+| Hora | Ejercicio | Condición | Resultado |
+|---|---|---|---|
+| Tarde | **Parte 4 del mock** | **en frío, sin protocolo** | **≥6 de 10 mal** |
+| +45 min | **Flow chart nº2** *(curaduría de arte)* | **con protocolo** | **100%** |
+| +90 min | **Flow chart nº3** *(plan de marketing)* | **con protocolo** | **100%** |
+
+**Los tres son el mismo formato: monólogo, un hablante, de corrido.**
+
+El primer 100% admitía la objeción del acento fácil — que **planteó ella misma**. **El segundo la cierra**, y además era el más difícil de diseño: cuatro opciones compartidas entre los cuatro huecos, **cada letra una sola vez**, de modo que un error arrastra otro.
+
+> # El problema nunca fue la Parte 4. Era ENTRAR EN FRÍO.
+> **Su frase al terminar: *"fluí con el audio"*.** Tres horas antes: *"me perdí, inventé"*.
+
+🔴 **Consecuencia para el mock del sábado 24: los segundos de lectura previa de CADA parte son obligatorios.** No son cortesía del examen: son parte del examen.
+
+---
+
 ## 🏁 MOCK DE LISTENING Nº3 — 18 de octubre de 2026 · **Band 6.0** · 32:41
 
 **Tercer mock seguido en 6.0** (28-sep · 1-oct · 18-oct). Pero el reparto cambió por completo.

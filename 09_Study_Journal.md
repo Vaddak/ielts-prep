@@ -1574,3 +1574,25 @@ Dijo *"estoy muy mal en todo"* **y pidió seguir**. Se montó un extra de flow c
 De ahí sale material nuevo: **las formas débiles** — el mecanismo real por el que un acento británico "se vuelve difícil" no es el acento sino las palabras gramaticales reducidas a schwa y pegadas entre sí. Entrenamiento: **shadowing con transcript**, 10 min.
 
 **Cómo me sentí:** *"estoy muy mal en todo y falta poco, tengo energía!"* — y la tarde terminó con un 100% y un ensayo en 6.5/7.
+
+
+### 2026-10-18 (cierre) — El experimento, y tres hábitos cerrados
+
+Después del mock pidió seguir: *"adelantemos por si en la semana no me da, **estoy muy mal en todo** y falta poco, tengo energía"*.
+
+**Flow chart nº2: 100%.** Ella misma puso el matiz correcto — *"el audio tuvo un acento muy aceptable"*.
+**Flow chart nº3: 100%.** Más difícil de diseño (letras compartidas, cada una una sola vez). **Su frase: *"fluí con el audio"*.**
+
+| | Condición | Resultado |
+|---|---|---|
+| P4 del mock | **en frío** | ≥6/10 mal |
+| Flow chart nº2 | con protocolo | **100%** |
+| Flow chart nº3 | con protocolo | **100%** |
+
+> **El problema nunca fue la Parte 4. Era entrar en frío.** Probado dos veces, el mismo día, por ella.
+
+**Drill de hábitos:** cerró ***the* last year** (3ª vez marcada) y **`too much/too many` 3/3**, incluida la trampa. `I will say` falló 0/2 — **y lo corrigió sola dos minutos después**.
+
+**Lo que se llevó la tarde:** un Task 2 de ~6.5/7, un mock, dos 100% y tres hábitos cerrados.
+
+**Cómo me sentí:** empezó la tarde con *"estoy muy mal en todo"* y la terminó con *"esos ejercicios cortos son fantásticos"*.

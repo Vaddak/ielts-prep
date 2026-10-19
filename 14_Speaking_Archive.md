@@ -48,3 +48,85 @@ Otros: *different **to*** → **from** · *places **to do*** → **to go** · **
 - ***Having said that***: aprendido entre la pregunta 1 y la 2 (*"dicho esto / pero por otro lado"* → **cambiar de lado**)
 - **6 → 6.5** en una sola sesión
 - Falta: unir las dos piezas en la **misma** respuesta: ***Having said that*** **+** ***On balance***
+
+
+---
+
+# 🗣️ DRILL DE HÁBITOS Nº3 — 18 de octubre *(10 ítems, en voz alta)*
+
+## ✅ CERRADOS
+
+| Hábito | Prueba |
+|---|---|
+| ***the* last year** *(3ª vez marcado)* | *"**Last year**, I did a photography course"* — **sin artículo** ✅ |
+| **`too much / too many`** | **3/3** — y la nº5 era la trampa: dijo *"There are **many** opportunities"*, no *too many* ✅ |
+| ***pretend*** *(= fingir)* | esquivado ✅ |
+
+> `many / much` = **muchos** · `too many / too much` = **demasiados** *(exceso, negativo)*
+
+## 🔬 EL HALLAZGO — traduce el TIEMPO VERBAL del español
+
+| | Dijo | |
+|---|---|---|
+| **2** | *I **have been working** in engineering since 2021* | ✅ |
+| **3** | *I **live** in Medellín since I was born* | ❌ |
+
+**La misma gramática, una bien y otra mal — y la causa es el español:**
+*"**Llevo** trabajando"* ya suena a continuo → salió `have been working`.
+*"**Vivo** en Medellín"* es presente simple → salió `live`.
+
+> ## `since` / `for` + periodo abierto → **SIEMPRE present perfect**. Sin excepción.
+> ❌ I ~~live~~ here since I was born → ✅ **I've lived**
+> ❌ I ~~study~~ English for three years → ✅ **I've been studying**
+>
+> **Truco:** si sale de la boca `since` o `for`, **el verbo de antes lleva `have/has`**.
+
+## 🔴 EL QUE RESISTE — `I will say` *(3ª sesión)*
+
+**0/2 en el drill** (*I will say* · *I will argue*). Viene de *"yo diría"* → la cabeza coge el futuro.
+**`I will say` = "voy a decir"** (anuncio). Lo que quiere es **`I'd say`** (opinión matizada).
+
+✅ **PERO:** dos minutos después, en la respuesta larga de Parte 3, **dijo `I would say` sola, sin que se lo recordaran.**
+
+## 🆕 Falso amigo nº12: ***wait*** por ***expect***
+
+*"You cannot **wait** that a child don't use AI"*. Esquivó `pretend` **y entró otro por la misma puerta**: *esperar* en español son **dos verbos** en inglés.
+
+| esperar = aguardar | **wait** | *I'm waiting for the bus* |
+|---|---|---|
+| esperar = suponer | **expect** | *I expect him to call* |
+
+> ✅ ***You can't expect a child NOT TO use artificial intelligence.***
+> `expect + alguien + to + verbo`. La negación en **`not to`**.
+
+## Otros
+
+- **nº8** — no sabía *crime fiction* y dijo ***"novels about crime"***. ✅ **Parafrasear en vez de bloquearse es lo correcto en el examen**
+- **nº4** — *"too much time **in** social media"* → **on**
+- **nº10** — *"**the** schools are responsible"* → **schools**. 🔴 **Su error nº1 de Writing** (artículo ante plural general) **apareciendo en el habla**
+- **nº6** — *solicitudes* → **applications** · *sponsorships* → **scholarships** · ⚠️ ***a few*** *(algunas, positivo)* vs ***few*** *(pocas, negativo)*
+
+---
+
+## 🎤 Parte 3 — respuesta con arquitectura completa *(primer intento)*
+
+> *"Is it better to study in your own country or abroad?"*
+
+**Lo que dijo:** *"I would say that it's better to study abroad, at least in fields related to engineering and applied science. **On balance**, certain careers are likely to have better opportunities in developed countries. Than in Latin American ones."*
+
+| | Movimiento | |
+|---|---|---|
+| 1 | `I'd say…` posición | ✅ **y acotada con criterio** (*at least in fields related to…*) |
+| 2 | `For example…` | ❌ faltó |
+| 3 | `Having said that…` 🔄 | ❌ faltó |
+| 4 | `On balance…` | ⚠️ **mal colocado** |
+
+> ### 🔴 `On balance` es el VEREDICTO, no un conector.
+> Significa **"pesándolo todo"** — y para pesar **tiene que haber dos cosas en la balanza**.
+> Sin el otro lado, no hay nada que pesar. **Va siempre al final, después de `Having said that`.**
+
+**Duración ~20 s.** Una respuesta de Parte 3 vive en **40–60 s**; los dos movimientos que faltan la llevan sola.
+
+**Arreglos de forma:** *certain **careers** have opportunities* → *certain **fields offer*** · *"…developed countries. **Than** in…"* → una sola frase.
+
+💡 **Su contraargumento ya estaba escrito:** es el **brain drain** de su Task 2 nº8 de esa misma tarde. **El contenido de Writing y el de Speaking es el mismo.**
