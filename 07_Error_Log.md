@@ -367,6 +367,7 @@ After every timed practice or mock exam:
 | 2026-10-18 | ⚠️ **Falsos amigos nuevos** | Writing · LR | ***principal*** por *main* (en inglés = director de colegio) · ***contribute with*** (calco de *contribuir con*) · ***local* countries** por *home countries* | |
 | 2026-10-18 | 🔴 **El barrido final no se hizo, con 6 min de sobra** | Writing · método | Terminó en 34 de 40. **5 de los 8 errores de gramática eran cazables** sin saber más inglés | **El examen solo ve la v1.** La brecha frío/corregido no es de inglés: es de minutos sin gastar |
 
+| **2026-10-19** | 🎧 Matching categorías nº1 | Listening | **4/5.** Q2 D→E: *Pronunciation Clinic* → eligió *understanding spoken language* por asociación; el audio decía *give talks or presentations* | Igual que en MC: **no la opción que encaja con el nombre, la que reformula lo que se dice** (frase espejo) |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
