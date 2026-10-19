@@ -6,7 +6,25 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — lunes 19 oct · la Parte 4
+## 👉 RETOMAR AQUÍ — lunes 19 oct (noche, en casa)
+
+### ✅ Lunes 19, oficina: 7 ejercicios de Listening
+| Ejercicio | Resultado | Regla |
+|---|---|---|
+| Flow chart nº4 / nº5 | **100% · 100%** | Ya van 4 flow charts seguidos al 100%: el protocolo de la P4 ya es automático |
+| Matching categorías nº1 *(nuevo)* | **4/5** | No elegir por asociación con el título: **frase espejo** |
+| Mapa nº6 *(10 letras)* | **🏆 5/5, el primer mapa perfecto** | Ancla + reanclar |
+| MC nº5 (sección 3) | **3/4** | En preguntas **Why**, la respuesta es la **consecuencia final** (*which is better for…*), no el mecanismo |
+| Form completion nº2 | **4/6** | Los dos fallos fueron **números**: *double four*, *fifteen/fifty*. Teléfonos: escribir por grupos |
+| Note completion nº2 | **100%** *(con un número: 195)* | La regla de los números se aplicó al momento |
+
+### 🏠 Esta noche, en casa (lo que no se puede hacer en la oficina)
+1. 🎤 **Parte 3 ×3** en voz alta, con *I'd say* + *Having said that* + *On balance*.
+2. 🤖 Si practicas con **Gemini**, no le pidas la nota: pídele *"list every grammar and vocabulary mistake I made, with the correction"* y pégame la lista para el error log. **Las notas de las IA no son fiables** (Gemini 6.5–7, ChatGPT 5.5–6; la estimación realista es ~6.0–6.5).
+3. 🔢 5 min de **números**: *13/30, 14/40, 15/50… 19/90* en voz alta, marcando el acento.
+
+---
+### (Plan del domingo, sigue vigente para la semana)
 
 **Domingo 18 ✅ tarde completa.** ✍️ **Task 2 nº8**: v1 ~6.0 → **v3 ~6.5/7** en 2 rondas · 🏁 **Listening mock nº3: Band 6.0** (32:41).
 **Faltan 27 días** (sáb 14 nov). **R 7.5 · W ~6.5 · L 6.0 · S 6.0 → global ≈6.5.**

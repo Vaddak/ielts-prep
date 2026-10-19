@@ -1608,3 +1608,7 @@ Nota: ha practicado Speaking en vivo con Gemini (audio, le puntúa 6.5–7) y co
 **Table/form completion nº2 (Parte 1, formulario de socio): 4/6 (66%)**. Las palabras estaban perfectas (`Grade`, `environmental`, `Tuesday`, `Park`); **los dos fallos fueron números**:
 - Q2 teléfono: escribió `07900318317`, y era **07944318257** (*"oh seven nine **double four**, three one eight, two five seven"*). Falló el *double four* y el último grupo.
 - Q6: escribió **50**, y era **15** (*"fifteen pounds"*). Es la trampa clásica de *-teen* vs *-ty*.
+**Note completion nº2 (curso de cerámica): 100% (5/5)** ✅, con un número (`195`) bien puesto justo después del fallo de *fifteen/fifty*.
+
+**Balance del lunes: 7 ejercicios.** Flow chart 100%·100%, Matching 4/5, **Mapa 5/5 (el primero perfecto)**, MC 3/4, Form 4/6, Note 100%. Los fallos de hoy tienen dos nombres: **elegir por asociación/mecanismo en vez de frase espejo/conclusión** (2), y **números** (2).
+
