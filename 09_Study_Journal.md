@@ -1596,3 +1596,8 @@ Después del mock pidió seguir: *"adelantemos por si en la semana no me da, **e
 **Lo que se llevó la tarde:** un Task 2 de ~6.5/7, un mock, dos 100% y tres hábitos cerrados.
 
 **Cómo me sentí:** empezó la tarde con *"estoy muy mal en todo"* y la terminó con *"esos ejercicios cortos son fantásticos"*.
+
+### 2026-10-19 (lunes, oficina)
+
+**Flow chart nº4 (ejercicio 25944): 100%** ✅. Es el tercer 100% seguido en flow chart con protocolo. Su frase: *"fluí súper bien, no fue nada complicado"*.
+Nota: ha practicado Speaking en vivo con Gemini (audio, le puntúa 6.5–7) y con ChatGPT (transcripción, 5.5–6). Conclusión: ninguna nota es fiable; la estimación realista es ~6.0–6.5. Usar la IA para volumen y para listas de errores concretos; la medición real es el Speaking mock oficial.
