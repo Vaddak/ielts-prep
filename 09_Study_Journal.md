@@ -1623,3 +1623,7 @@ Nota: ha practicado Speaking en vivo con Gemini (audio, le puntúa 6.5–7) y co
 - `beside that` → **`besides that`**.
 - `That are my two main…` → **`Those are`**.
 Puntos fuertes según Gemini: respuestas extendidas con el porqué; vocabulario *working out, weightlifting, pastime activity, backyard*.
+**MC nº6 (sección 3, 6 preguntas, tutoría sobre ciudades): 3/6 (50%)** 🔴. Es un audio largo (5:04) con tutor.
+- Q2 B→**A**: *"the data for Tokyo was quite complex, so we've chosen two cities in North America"*. *quite complex data* = *difficulty accessing relevant data*. La C (*single continent*) y la B eran ecos de *North America*.
+- Q4 A/C → **A**, y dudaba entre A y C. *"It shows you're **not just describing** two situations, but **synthesising**"*. **La C (*detailed description*) era justo lo que el tutor NEGÓ.** *integrated and analytical* = *sophisticated understanding*.
+- Q5 C→**B**: *"It's a **common mistake** to go to the journal websites directly"*. La pregunta decía *mistake* y el audio dijo *common mistake*: era la señal literal.

@@ -374,6 +374,7 @@ After every timed practice or mock exam:
 | **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `If I would have to choose… it will be` | **If I had to… it would be**. Nunca *would* después de *if* |
 | **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `used to` para hábitos actuales (*my cats used to be*, *I used to play*) | *used to* = **ya no**. Si sigue pasando: presente simple + *usually* |
 | **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `it's where I have more energy` (la mañana) · `beside that` · `That are` | Tiempo → **when** · **besides** that · plural → **Those are** |
+| **2026-10-20** | 🎧 MC nº6 (sección 3) | Listening | **3/6.** Q4 eligió C (*detailed description*) cuando el tutor dijo *not just describing, but synthesising*; Q5 se perdió la señal *common mistake*; Q2 eligió un eco | **NOT JUST X, BUT Y → la respuesta es Y; la opción con X es la trampa.** Las palabras de la pregunta (*mistake, advantage, reason*) se repiten en el audio justo antes de la respuesta: **cazar la palabra de la pregunta** |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
