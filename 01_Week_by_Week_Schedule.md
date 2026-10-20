@@ -6,22 +6,34 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — lunes 19 oct (noche, en casa)
+## 👉 RETOMAR AQUÍ — martes 20 oct · la semana del mock nº1
 
-### ✅ Lunes 19, oficina: 7 ejercicios de Listening
-| Ejercicio | Resultado | Regla |
+**Faltan 25 días (sáb 14 nov).** R 7.5 · W ~6.5 (~5.5–6 en frío) · L 6.0 → subiendo · S ~6.0 → **global ≈6.5**.
+
+### ✅ Lunes 19 + martes 20 (oficina): Listening
+Flow chart 100%·100% · Matching 4/5 · **Mapa 5/5** · MC 3/4 · Form 4/6 (números) · Note 100% · **MC 3/6 → 6/6**.
+Reglas nuevas: **NOT JUST X, BUT Y → Y** · **cazar la palabra de la pregunta** · *what point does X make* = la idea que defiende o repite.
+Speaking (Gemini, Parte 1): **`I will say` 4ª vez → drill diario de *I'd say***.
+
+### 🔎 Diagnóstico de la semana
+- 🎧 **Listening** ya no es el problema principal: los formatos se están cerrando uno a uno.
+- ✍️ **Writing en frío es lo más flojo**: el **último Task 1 fue el 8 oct** (12 días) y en frío sale ~5.5. El mock del sábado incluye Writing → **hay que despertarlo antes**.
+- 🎤 **Speaking mock oficial pendiente** desde el sáb 17. Es la única medición real de S.
+
+### 📅 LA SEMANA (20–25 oct)
+| Día | 🏢 Oficina | 🏠 Casa |
 |---|---|---|
-| Flow chart nº4 / nº5 | **100% · 100%** | Ya van 4 flow charts seguidos al 100%: el protocolo de la P4 ya es automático |
-| Matching categorías nº1 *(nuevo)* | **4/5** | No elegir por asociación con el título: **frase espejo** |
-| Mapa nº6 *(10 letras)* | **🏆 5/5, el primer mapa perfecto** | Ancla + reanclar |
-| MC nº5 (sección 3) | **3/4** | En preguntas **Why**, la respuesta es la **consecuencia final** (*which is better for…*), no el mecanismo |
-| Form completion nº2 | **4/6** | Los dos fallos fueron **números**: *double four*, *fifteen/fifty*. Teléfonos: escribir por grupos |
-| Note completion nº2 | **100%** *(con un número: 195)* | La regla de los números se aplicó al momento |
+| **Mar 20** | 🎧 Form/Note (números) + Mapa | 🎤 **Parte 3 ×3** · drill *I'd say* (1 min) |
+| **Mié 21** | ✍️ **Task 1 en frío** (20 min) + corrección · 🎓 clase *Detailed reading* | 🎤 drill *I'd say* + números |
+| **Jue 22** | 🎧 Sección 4 ×2 (monólogo con acento cerrado) | ✍️ **Task 2 en frío** (40 min) — **con barrido final de 5 min** |
+| **Vie 23** | 📖 Reading, 1 pasaje (mantenimiento) | 🎤 **Speaking mock oficial en Chrome** |
+| **🏁 Sáb 24** | — | **MOCK COMPLETO Nº1**: L + R + W seguidos, condiciones reales, sin pausas |
+| **Dom 25** | — | 📊 Post-mortem + plan de las 3 semanas finales |
 
-### 🏠 Esta noche, en casa (lo que no se puede hacer en la oficina)
-1. 🎤 **Parte 3 ×3** en voz alta, con *I'd say* + *Having said that* + *On balance*.
-2. 🤖 Si practicas con **Gemini**, no le pidas la nota: pídele *"list every grammar and vocabulary mistake I made, with the correction"* y pégame la lista para el error log. **Las notas de las IA no son fiables** (Gemini 6.5–7, ChatGPT 5.5–6; la estimación realista es ~6.0–6.5).
-3. 🔢 5 min de **números**: *13/30, 14/40, 15/50… 19/90* en voz alta, marcando el acento.
+**Cada día:** 1 min de *I'd say… / If I had to choose, I'd say…* en voz alta.
+
+### ⚠️ Sigue pendiente
+**Verificar el requisito exacto de IELTS de RADMEP / EMIMEP / SSIS.**
 
 ---
 ### (Plan del domingo, sigue vigente para la semana)
