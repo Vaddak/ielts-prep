@@ -1628,3 +1628,12 @@ Puntos fuertes según Gemini: respuestas extendidas con el porqué; vocabulario 
 - Q4 A/C → **A**, y dudaba entre A y C. *"It shows you're **not just describing** two situations, but **synthesising**"*. **La C (*detailed description*) era justo lo que el tutor NEGÓ.** *integrated and analytical* = *sophisticated understanding*.
 - Q5 C→**B**: *"It's a **common mistake** to go to the journal websites directly"*. La pregunta decía *mistake* y el audio dijo *common mistake*: era la señal literal.
 **MC nº7 (sección 3, 6 preguntas, festivales): 6/6 (100%)** 🏆. Fue justo después del 3/6, con la consigna de subrayar la palabra clave de cada pregunta. Dudó en la Q4 (*agree… best way to start*) y acertó la decisión final (*clear outline*). **Cuarta vez el mismo patrón: 3/6 → 6/6 en cuanto la regla tiene nombre.**
+**Note completion nº3 (sección 4, 10 preguntas, el canal de Panamá): 4/10 (40%)** 🔴. Es una clase magistral de 5 min, la primera Parte 4 real desde el mock. Los 6 fallos tienen **tres** causas:
+| # | Escribió | Era | Causa |
+|---|---|---|---|
+| 1 | mountains | **terrain** | Oyó *mountainous terrain* y **lo parafraseó ella**. Hay que escribir la palabra que suena |
+| 3 | collapse | **scandal** | *a major financial ___*: oyó *financial scandal… led to the collapse* y cogió la palabra equivocada. **Gramática del hueco**: *financial* + sustantivo |
+| 6 | bottles | **supply** | *clean water ___* → *clean water supply*. Inventado |
+| 7 | diname | **dynamite** | Ortografía de una palabra conocida (dinamita) |
+| 8 | death | **landslides** | *risk of ___*: el audio dijo *frequent landslides posed a constant threat*. Paráfrasis *risk* = *threat* |
+| 9 | 1940 | **1914** | *nineteen fourteen*: **otra vez -teen/-ty**. 3ª vez en dos días |
