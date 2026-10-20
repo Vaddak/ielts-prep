@@ -1612,3 +1612,14 @@ Nota: ha practicado Speaking en vivo con Gemini (audio, le puntúa 6.5–7) y co
 
 **Balance del lunes: 7 ejercicios.** Flow chart 100%·100%, Matching 4/5, **Mapa 5/5 (el primero perfecto)**, MC 3/4, Form 4/6, Note 100%. Los fallos de hoy tienen dos nombres: **elegir por asociación/mecanismo en vez de frase espejo/conclusión** (2), y **números** (2).
 
+
+### 2026-10-20 (martes)
+
+**Speaking Parte 1 con Gemini (lunes noche, en casa).** Bandas de Gemini: FC 6.5–7 · LR 6.5–7 · GR 6.0–6.5 · P 6.5–7 (**no fiables**, la estimación realista sigue en ~6.0–6.5). Lo útil son los errores concretos, que pasan al error log:
+- **`I will say` → `I'd say`**. Es la **4ª vez** marcado. Ya no es un error: es un **hábito fosilizado**.
+- `If I would have to choose… it will be` → **`If I had to choose… it would be`** (2º condicional).
+- `used to` con hábitos actuales → presente simple (*my cats usually hang out*, *I also play video games*).
+- `it's where I have more energy` (hablando de la mañana) → **`it's when`**.
+- `beside that` → **`besides that`**.
+- `That are my two main…` → **`Those are`**.
+Puntos fuertes según Gemini: respuestas extendidas con el porqué; vocabulario *working out, weightlifting, pastime activity, backyard*.

@@ -370,6 +370,10 @@ After every timed practice or mock exam:
 | **2026-10-19** | 🎧 Matching categorías nº1 | Listening | **4/5.** Q2 D→E: *Pronunciation Clinic* → eligió *understanding spoken language* por asociación; el audio decía *give talks or presentations* | Igual que en MC: **no la opción que encaja con el nombre, la que reformula lo que se dice** (frase espejo) |
 | **2026-10-19** | 🎧 MC nº5 (sección 3) | Listening | **3/4.** Q3 A→C: el audio describe la estructura (*longer span, fewer piers*) pero la razón es *better for the aquatic ecosystem* | En preguntas **Why**: la respuesta es **la consecuencia final** (*which is better for… / so that…*), no el mecanismo. Si dudas entre dos: la que contiene la **conclusión**, no los datos |
 | **2026-10-19** | 🎧 Form completion nº2 | Listening | **4/6.** Teléfono `07900318317` → **07944318257** (*double four*); `50` → **15** (*fifteen*) | **Números:** *-teen* lleva el acento al final y una **n** larga (fif-**TEEN**); *-ty* lleva el acento al principio (**FIF**-ty). *double X* = escribir XX. Teléfonos: escribir **en grupos** mientras los dictan |
+| **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `I will say` (**4ª vez**) | **`I'd say`**. Hábito fosilizado: drill diario de 1 min hasta el examen |
+| **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `If I would have to choose… it will be` | **If I had to… it would be**. Nunca *would* después de *if* |
+| **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `used to` para hábitos actuales (*my cats used to be*, *I used to play*) | *used to* = **ya no**. Si sigue pasando: presente simple + *usually* |
+| **2026-10-20** | 🎤 Parte 1 (Gemini) | Speaking | `it's where I have more energy` (la mañana) · `beside that` · `That are` | Tiempo → **when** · **besides** that · plural → **Those are** |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
