@@ -23,12 +23,14 @@ Speaking (Gemini, Parte 1): **`I will say` 4ª vez → drill diario de *I'd say*
 ### 📅 LA SEMANA (20–25 oct)
 | Día | 🏢 Oficina | 🏠 Casa |
 |---|---|---|
-| **Mar 20** | 🎧 Form/Note (números) + Mapa | 🎤 **Parte 3 ×3** · drill *I'd say* (1 min) |
+| **Mar 20** | ✅ MC 3/6 → **6/6** · Note sección 4 **4/10** (paráfrasis + 1914) · mapa nº7 abierto sin hacer | 🎤 **Parte 3 ×3** · drill *I'd say* (1 min) · 🔢 **drill -teen/-ty 5 min** *(13/30 … 19/90 + años: 1914, 1940, 1880s)* |
 | **Mié 21** | ✍️ **Task 1 en frío** (20 min) + corrección · 🎓 clase *Detailed reading* | 🎤 drill *I'd say* + números |
 | **Jue 22** | 🎧 Sección 4 ×2 (monólogo con acento cerrado) | ✍️ **Task 2 en frío** (40 min) — **con barrido final de 5 min** |
 | **Vie 23** | 📖 Reading, 1 pasaje (mantenimiento) | 🎤 **Speaking mock oficial en Chrome** |
 | **🏁 Sáb 24** | — | **MOCK COMPLETO Nº1**: L + R + W seguidos, condiciones reales, sin pausas |
 | **Dom 25** | — | 📊 Post-mortem + plan de las 3 semanas finales |
+
+**Regla nueva Parte 4:** escribir la palabra que SUENA (*mountainous terrain* → **terrain**), no la paráfrasis; la gramática del hueco dice qué palabra es.
 
 **Cada día:** 1 min de *I'd say… / If I had to choose, I'd say…* en voz alta.
 

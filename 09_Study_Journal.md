@@ -1637,3 +1637,4 @@ Puntos fuertes según Gemini: respuestas extendidas con el porqué; vocabulario 
 | 7 | diname | **dynamite** | Ortografía de una palabra conocida (dinamita) |
 | 8 | death | **landslides** | *risk of ___*: el audio dijo *frequent landslides posed a constant threat*. Paráfrasis *risk* = *threat* |
 | 9 | 1940 | **1914** | *nineteen fourteen*: **otra vez -teen/-ty**. 3ª vez en dos días |
+Mapa nº7 abierto sin hacer (mucho trabajo en la oficina). Sigue en casa: Parte 3 ×3, drill *I'd say*, drill de números.
