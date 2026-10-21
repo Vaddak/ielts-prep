@@ -1678,3 +1678,12 @@ Mapa nº7 abierto sin hacer (mucho trabajo en la oficina). Sigue en casa: Parte 
 **Falsos amigos nº13 y nº14:** `labor` (→ *manual*) y `media` (→ *the average*).
 
 **Cómo me sentí:** —
+
+---
+
+### 2026-10-21 (miércoles) — día de mucho trabajo y cansancio: Reading + Speaking
+Plan ajustado: **Task 1 en frío pasa al jueves** (oficina). Hoy: 1 pasaje de Reading + 1 Parte 3 en la noche.
+
+**YNNG 23983 (*More Than a Feeling?*): 5/7 (71%)**, 17:37 min. Los dos fallos, la **misma trampa**: marcó YES cuando la afirmación **añadía una comparación** que el texto no hace.
+> 🔴 **Regla: comparativo en la pregunta (*more… than, stronger than any*) + texto sin comparación = NOT GIVEN.**
+

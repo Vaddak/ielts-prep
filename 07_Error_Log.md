@@ -388,6 +388,9 @@ After every timed practice or mock exam:
 | 2026-10-20 | 🔬 **Dos habilidades CONTRARIAS en la Parte 4** | Listening | Mismo día: **Flow chart 100%** *(opciones)* vs **Note completion sección 4 4/10** *(escribir)* | **`Choose the correct letter`** → reconocer la paráfrasis. **`Write ONE WORD`** → **prohibido parafrasear, se copia la palabra que SUENA**. El cerebro sigue en modo *entender* cuando toca modo *copiar* |
 
 
+| **2026-10-21** | 📖 YNNG nº? (23983, *More Than a Feeling?*) — **5/7 (71%)** | Reading | Q3 `YES` → **NOT GIVEN**: *limerence → more emotional fatigue **than** physical*. El texto: *"emotional **and** physical fatigue"* | 🔴 **Comparación inventada.** Si la frase compara (*more… than*, *stronger than any*) y el texto **no compara**, es **NOT GIVEN** |
+| 2026-10-21 | 📖 YNNG 23983 | Reading | Q6 `YES` → **NOT GIVEN**: *pair-bond drive stronger in humans **than in any other species***. El texto solo dice que es *a deep-seated evolutionary imperative* (y compara a los **niños**, no el impulso) | Misma trampa: **el tema está, la comparación no**. *"other species"* aparece en el texto, pero en otra frase y para otra cosa |
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

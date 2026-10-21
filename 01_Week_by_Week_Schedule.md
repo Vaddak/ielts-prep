@@ -45,8 +45,8 @@
 
 | Día | 🏢 Oficina | 🏠 Casa |
 |---|---|---|
-| **Mié 21** | ✍️ **TASK 1 EN FRÍO (20 min)** + corrección · 🎓 clase *Detailed reading* | 🎤 **Parte 3 ×2 con `Having said that` obligatorio** · 🗣️ *I'd say* 1 min |
-| **Jue 22** | 🎧 Sección 4 ×2 — **note completion**, modo copiar | ✍️ **TASK 2 EN FRÍO (40 min)** — 🔴 **con los 5 min de barrido final** |
+| **Mié 21** | 📖 ✅ YNNG **5/7** (comparación inventada ×2) · *día cansado* | 🎤 **Parte 3 ×1 con `Having said that` obligatorio** |
+| **Jue 22** | ✍️ **TASK 1 EN FRÍO (20 min)** + corrección · 🎧 Sección 4 ×1, modo copiar | ✍️ **TASK 2 EN FRÍO (40 min)** — 🔴 **con los 5 min de barrido final** |
 | **Vie 23** | 📖 Reading, 1 pasaje | 🎤 **SPEAKING MOCK OFICIAL** en Chrome |
 | **🏁 Sáb 24** | — | **MOCK COMPLETO Nº1** — L + R + W seguidos, sin pausas |
 | **Dom 25** | — | 📊 Post-mortem + plan de las 3 semanas finales |
