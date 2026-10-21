@@ -1638,3 +1638,43 @@ Puntos fuertes según Gemini: respuestas extendidas con el porqué; vocabulario 
 | 8 | death | **landslides** | *risk of ___*: el audio dijo *frequent landslides posed a constant threat*. Paráfrasis *risk* = *threat* |
 | 9 | 1940 | **1914** | *nineteen fourteen*: **otra vez -teen/-ty**. 3ª vez en dos días |
 Mapa nº7 abierto sin hacer (mucho trabajo en la oficina). Sigue en casa: Parte 3 ×3, drill *I'd say*, drill de números.
+
+
+---
+
+### 2026-10-20 (martes) — Parte 3 set nº3: tres piezas nuevas aplicadas el mismo día
+
+**Oficina (registrado en el otro chat):** Flow chart 100%·100% · Mapa **5/5** · Note completion 100% · Matching 4/5 · MC 3/4 · Form 4/6 · **MC 3/6 → 6/6**.
+**Casa:** drill de números y drill de *I'd say* hechos con Gemini. **Parte 3 ×3.**
+
+### 🔬 El hallazgo del día en Listening
+
+| Mismo día, mismo formato de monólogo | |
+|---|---|
+| **Flow chart** *(elegir letra)* | **100%** |
+| **Note completion sección 4** *(escribir)* | **4/10** |
+
+> **Son dos habilidades contrarias.**
+> `Choose the correct letter` → **reconocer la paráfrasis** (*"working out who you're talking to"* = `target audience`).
+> `Write ONE WORD from the passage` → **prohibido parafrasear**: se escribe la palabra que **suena** (*mountainous terrain* → **terrain**).
+>
+> **No es que la Parte 4 le gane: es que cambia la instrucción y el cerebro sigue en modo "entender" cuando toca modo "copiar".**
+
+### 🎤 Parte 3 — tres de las cuatro piezas nuevas, aplicadas
+
+✅ **`I'd say` cerrado** tras cuatro avisos · ✅ **`On balance` al final** (corregido en dos días) · ✅ **especulación** (*It is likely that…*) y ✅ **condicional**, las dos usadas **minutos después de enseñarlas**.
+
+**Su mejor producción oral hasta hoy**, en la pregunta del brain drain:
+> *"**If** a country like France **could give**… guarantee to the students from Africa that returning **represents** the same quality of life… this **could be** the first step"*
+
+### 🔴 Y el hallazgo que cruza módulos
+
+**`Having said that`: 0 de 3.** En la nº1 dio **dos evidencias y las dos de su lado**.
+
+> **Es el mismo patrón del 12 de septiembre por escrito**, cuando los dos bodies argumentaban lo mismo.
+> **No es un problema de Speaking: es un hábito de razonamiento.** Argumenta un lado muy bien y no va al otro de forma natural.
+> Sin el otro lado, `On balance` no tiene nada que pesar — y **el matiz es lo que separa un 6 de un 7**.
+
+**Falsos amigos nº13 y nº14:** `labor` (→ *manual*) y `media` (→ *the average*).
+
+**Cómo me sentí:** —

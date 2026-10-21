@@ -6,31 +6,55 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — martes 20 oct · la semana del mock nº1
+## 👉 RETOMAR AQUÍ — miércoles 21 oct · **despertar el Writing**
 
-**Faltan 25 días (sáb 14 nov).** R 7.5 · W ~6.5 (~5.5–6 en frío) · L 6.0 → subiendo · S ~6.0 → **global ≈6.5**.
+**Faltan 24 días (sáb 14 nov).** R 7.5 · W ~6.5 (**~5.5–6 en frío**) · L 6.0 ↗ · S ~6.0 → **global ≈6.5**.
 
-### ✅ Lunes 19 + martes 20 (oficina): Listening
-Flow chart 100%·100% · Matching 4/5 · **Mapa 5/5** · MC 3/4 · Form 4/6 (números) · Note 100% · **MC 3/6 → 6/6**.
-Reglas nuevas: **NOT JUST X, BUT Y → Y** · **cazar la palabra de la pregunta** · *what point does X make* = la idea que defiende o repite.
-Speaking (Gemini, Parte 1): **`I will say` 4ª vez → drill diario de *I'd say***.
+### ✅ Martes 20 completo
+🎧 Oficina: Flow chart 100%·100% · **Mapa 5/5** · Note 100% · MC **3/6 → 6/6** · Note sección 4 **4/10**.
+🔢 Drill de números y 🗣️ *I'd say* hechos con Gemini.
+🎤 **Parte 3 ×3** — ver abajo.
 
-### 🔎 Diagnóstico de la semana
-- 🎧 **Listening** ya no es el problema principal: los formatos se están cerrando uno a uno.
-- ✍️ **Writing en frío es lo más flojo**: el **último Task 1 fue el 8 oct** (12 días) y en frío sale ~5.5. El mock del sábado incluye Writing → **hay que despertarlo antes**.
-- 🎤 **Speaking mock oficial pendiente** desde el sáb 17. Es la única medición real de S.
+### 🎤 Lo del Speaking de anoche
 
-### 📅 LA SEMANA (20–25 oct)
+| ✅ Cerrado | 🔴 Abierto |
+|---|---|
+| **`I'd say`** *(tras 4 avisos, salió solo)* | **`Having said that`: 0 de 3** |
+| **`On balance` al final** *(corregido en 2 días)* | |
+| 🆕 **Especulación** *(It is likely that…)* | |
+| 🆕 **Condicional** — su mejor momento oral | |
+
+> ## 🔴 El techo está en UNA cosa: falta el "pero".
+> Mete posición → evidencia → veredicto. **Nunca aparece la contraparte.**
+> **Es el mismo patrón del 12-sep por escrito** (dos bodies con el mismo argumento). **Cruza los dos módulos.**
+>
+> 🎯 **Truco, tras cada ejemplo:** *"¿quién estaría en desacuerdo conmigo, y por qué tendría parte de razón?"* → eso es tu `Having said that`.
+
+### 🔬 Y la regla de Listening que explica el 100% junto al 4/10
+
+> **`Choose the correct letter`** → reconocer **la paráfrasis**
+> **`Write ONE WORD from the passage`** → **PROHIBIDO parafrasear.** Se escribe la palabra que **SUENA** *(mountainous terrain → **terrain**)*
+>
+> **Son habilidades contrarias. Mirar la instrucción antes de cada bloque.**
+
+---
+
+## 🔴 EL PLAN — lo que de verdad falta antes del sábado
+
+**Listening ya no es el riesgo.** El riesgo es **Writing en frío** *(último Task 1: 8 de octubre)* y el **Speaking mock**, pendiente desde el sábado 17.
+
 | Día | 🏢 Oficina | 🏠 Casa |
 |---|---|---|
-| **Mar 20** | ✅ MC 3/6 → **6/6** · Note sección 4 **4/10** (paráfrasis + 1914) · mapa nº7 abierto sin hacer | 🎤 **Parte 3 ×3** · drill *I'd say* (1 min) · 🔢 **drill -teen/-ty 5 min** *(13/30 … 19/90 + años: 1914, 1940, 1880s)* |
-| **Mié 21** | ✍️ **Task 1 en frío** (20 min) + corrección · 🎓 clase *Detailed reading* | 🎤 drill *I'd say* + números |
-| **Jue 22** | 🎧 Sección 4 ×2 (monólogo con acento cerrado) | ✍️ **Task 2 en frío** (40 min) — **con barrido final de 5 min** |
-| **Vie 23** | 📖 Reading, 1 pasaje (mantenimiento) | 🎤 **Speaking mock oficial en Chrome** |
-| **🏁 Sáb 24** | — | **MOCK COMPLETO Nº1**: L + R + W seguidos, condiciones reales, sin pausas |
+| **Mié 21** | ✍️ **TASK 1 EN FRÍO (20 min)** + corrección · 🎓 clase *Detailed reading* | 🎤 **Parte 3 ×2 con `Having said that` obligatorio** · 🗣️ *I'd say* 1 min |
+| **Jue 22** | 🎧 Sección 4 ×2 — **note completion**, modo copiar | ✍️ **TASK 2 EN FRÍO (40 min)** — 🔴 **con los 5 min de barrido final** |
+| **Vie 23** | 📖 Reading, 1 pasaje | 🎤 **SPEAKING MOCK OFICIAL** en Chrome |
+| **🏁 Sáb 24** | — | **MOCK COMPLETO Nº1** — L + R + W seguidos, sin pausas |
 | **Dom 25** | — | 📊 Post-mortem + plan de las 3 semanas finales |
 
-**Regla nueva Parte 4:** escribir la palabra que SUENA (*mountainous terrain* → **terrain**), no la paráfrasis; la gramática del hueco dice qué palabra es.
+### 🔴 Las dos reglas para el mock del sábado
+
+> **1. Los segundos de lectura previa de CADA parte son obligatorios.** Probado el 18-oct: en frío ≥6/10 mal; con protocolo, 100% dos veces.
+> **2. En Writing, NO entregar antes de tiempo.** Los minutos que sobran son el barrido. El 18-oct sobraron 6 y 5 de los 8 errores eran cazables.
 
 **Cada día:** 1 min de *I'd say… / If I had to choose, I'd say…* en voz alta.
 

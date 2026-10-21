@@ -130,3 +130,90 @@ Otros: *different **to*** → **from** · *places **to do*** → **to go** · **
 **Arreglos de forma:** *certain **careers** have opportunities* → *certain **fields offer*** · *"…developed countries. **Than** in…"* → una sola frase.
 
 💡 **Su contraargumento ya estaba escrito:** es el **brain drain** de su Task 2 nº8 de esa misma tarde. **El contenido de Writing y el de Speaking es el mismo.**
+
+
+---
+
+# 🎤 PARTE 3 — SET Nº3 · 20 de octubre *(noche, en casa)*
+
+**Tres preguntas enlazadas con ensayos ya escritos**, para gastar la cabeza en la forma y no en el contenido.
+
+## ✅ TRES DE LAS CUATRO PIEZAS NUEVAS, APLICADAS EL MISMO DÍA
+
+| Pieza | Estado |
+|---|---|
+| **`I'd say`** | ✅ **CERRADO** — *"I would say that governments definitely should…"*. 4ª vez marcado, salió solo |
+| **`On balance` al FINAL** | ✅ **corregido en 2 días** — el 18-oct lo usaba como conector a mitad |
+| 🆕 **Especulación** | ✅ *"**It is likely that** the jobs available in the future are more oriented to cognitive skills"* — **usada 2 minutos después de enseñarla** |
+| 🆕 **Condicional** | ✅ **el mejor momento de las tres** *(ver abajo)* |
+| **`Having said that`** | 🔴 **0 de 3** |
+
+### ⭐ El condicional de la nº3 — lenguaje de banda 7
+
+> *"**If** a country like France **could give** more opportunities or guarantee to the students from Africa that returning to Africa **represents** the same quality of life they could find in France, this **could be** the first step to carry these advantages to Africa."*
+
+**Hipótesis construida, países reales, mecanismo explícito.** Es su mejor producción oral hasta la fecha.
+
+---
+
+## 🔴 EL HALLAZGO — argumenta UN lado y no va al otro
+
+**Estructura real de la nº1:**
+
+| | |
+|---|---|
+| Posición | más transporte público |
+| Evidencia 1 | estudios: más carreteras ≠ menos tráfico |
+| Evidencia 2 | estudios: el transporte público mueve más gente en hora punta |
+| Veredicto | *On balance…* |
+
+**Dos evidencias, las dos del mismo lado. Nunca aparece nadie en contra.**
+
+> ### Es el MISMO patrón del 12 de septiembre, por escrito.
+> Allí los dos bodies argumentaban lo mismo con el mismo ejemplo.
+> **No es un problema de Speaking: es un hábito de razonamiento que cruza los dos módulos.**
+> Sin el otro lado, **`On balance` no tiene nada que pesar** — y el examinador no ve **matiz**, que es lo que separa un 6 de un 7.
+
+### 🎯 El truco para forzarlo
+
+> **Después del ejemplo, pararse y preguntarse:**
+> ## *"¿Quién estaría en desacuerdo conmigo — y por qué tendría parte de razón?"*
+> **Esa respuesta es el `Having said that`.**
+
+**Las dos que estaban servidas y no usó:**
+- **nº1:** *"Having said that, public transport only works where the population is dense enough. In smaller cities buses often run half-empty, and there roads may genuinely be the better investment."*
+- **nº3:** *"Having said that, you can't force people to stay. Mobility is a right, and skilled workers aren't a resource their country owns."*
+
+---
+
+## 🆕 Falsos amigos nº13 y nº14
+
+| ❌ | ✅ | |
+|---|---|---|
+| *instead of **labor** ones* | **manual** jobs | Familia de *laboral* (agosto). **`labour` = mano de obra / trabajo en general**, nunca "físico" |
+| *more developed than **the media*** | than **average** | *la media* = **the average**. `media` en inglés = **los medios de comunicación** |
+
+**Colocación:** *"I would **deeply** agree"* → **`I'd strongly agree`** / *I completely agree*.
+`deeply` va con *regret · care · affect · concerned*, **no con `agree`**.
+
+## Los de siempre
+
+| ❌ | ✅ |
+|---|---|
+| *These jobs that **requires*** | that **require** *(concordancia a distancia)* |
+| *a lot of physical **efforts*** | physical **effort** 🔴 **incontable, §4.8** |
+| *doesn't allow **the traffic** to decrease* | doesn't reduce **traffic** |
+| *But **the** other studies show* | **other studies** show |
+| *the jobs **are** more oriented* | **will be** *(la pregunta era de futuro)* |
+| *oriented **to*** | oriented **towards** |
+| *governments **definitely should*** | governments **should definitely** |
+
+## 📊 Bandas
+
+| | | |
+|---|---|---|
+| 1 — transporte público | **~6** | 3 de 4 piezas · sin contraparte |
+| 2 — automatización | **~6** | ✅ especulación · **solo 2 piezas**: sin ejemplo, sin contraparte, sin veredicto |
+| 3 — brain drain | **~6.5** | ✅ **condicional + ejemplo concreto**. Le falta el otro lado para ser 7 |
+
+> **El techo está en una sola cosa: mete posición, evidencia y veredicto. Falta el "pero".**

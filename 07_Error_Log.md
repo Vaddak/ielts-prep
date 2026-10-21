@@ -379,6 +379,15 @@ After every timed practice or mock exam:
 | **2026-10-20** | 🎧 Note completion nº3 | Listening | `1940` por **1914** (*nineteen fourteen*), la 3ª vez con -teen/-ty en dos días | **Años:** *nineteen FOURTEEN* = 19**14**. En un año, el segundo par casi siempre es -teen o -ty: escucha si la **n** suena larga |
 | **2026-10-20** | 🎧 Note completion nº3 | Listening | `diname` → **dynamite** | Ortografía de palabras técnicas conocidas: *dynamite, terrain, sanitation* |
 
+| **2026-10-20** | 🎤 **Parte 3 set nº3** — 3 respuestas | Speaking | ✅ **`I'd say` CERRADO** (4ª vez marcado, salió solo) · ✅ **`On balance` al final**, corregido en 2 días · ✅ **especulación y condicional aplicados el mismo día que se enseñaron** | Mejor producción oral hasta la fecha: el condicional Francia–África de la nº3 |
+| 2026-10-20 | 🔴 **`Having said that`: 0 de 3** — argumenta un solo lado | Speaking · CC | La nº1 dio **dos evidencias, las dos de su lado**. Nunca aparece la contraparte | 🔴 **Mismo patrón que el 12-sep por escrito** (los dos bodies con el mismo argumento). **Cruza Writing y Speaking.** 🎯 Truco: tras el ejemplo, *"¿quién estaría en desacuerdo y por qué tendría parte de razón?"* |
+| 2026-10-20 | 🆕 **Falso amigo nº13: `labor`** | Speaking · LR | *"instead of **labor** ones"* por *trabajos manuales* | `labour` = **mano de obra / trabajo en general**, nunca *físico* → **manual jobs**. Familia de *laboral* (agosto) |
+| 2026-10-20 | 🆕 **Falso amigo nº14: `media`** | Speaking · LR | *"more developed than **the media**"* por *que la media* | *la media* = **the average**. `media` en inglés = **los medios de comunicación** |
+| 2026-10-20 | ⚠️ **Colocación: `deeply agree`** | Speaking · LR | *"I would **deeply** agree"* | → **`I'd strongly agree`**. `deeply` va con *regret · care · affect · concerned* |
+| 2026-10-20 | ⚠️ **Reincidentes en el habla** | Speaking · GR | *jobs that **requires*** · *physical **efforts*** (incontable) · *doesn't reduce **the** traffic* · ***the** other studies* · *governments **definitely should*** | **Los mismos del error log de Writing**, apareciendo al hablar |
+| 2026-10-20 | 🔬 **Dos habilidades CONTRARIAS en la Parte 4** | Listening | Mismo día: **Flow chart 100%** *(opciones)* vs **Note completion sección 4 4/10** *(escribir)* | **`Choose the correct letter`** → reconocer la paráfrasis. **`Write ONE WORD`** → **prohibido parafrasear, se copia la palabra que SUENA**. El cerebro sigue en modo *entender* cuando toca modo *copiar* |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
