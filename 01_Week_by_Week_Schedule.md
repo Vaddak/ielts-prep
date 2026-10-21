@@ -59,7 +59,7 @@
 **Cada día:** 1 min de *I'd say… / If I had to choose, I'd say…* en voz alta.
 
 ### ⚠️ Sigue pendiente
-**Verificar el requisito exacto de IELTS de RADMEP / EMIMEP / SSIS.**
+✅ Requisitos verificados → `10_Program_Requirements.md`. **Meta operativa: 7.0 con ninguna < 6.5** (EMM-Nano+, KU Leuven). Lo que decide: **Writing en frío y Speaking → 6.5**.
 
 ---
 ### (Plan del domingo, sigue vigente para la semana)
@@ -123,7 +123,7 @@ Mismo formato de monólogo que se cayó en el mock, **con los dos protocolos apl
 **No hay estancamiento: hay reparación por partes que el promedio esconde.** Las vocales están cerradas. **Queda un bloque.**
 
 ### ⚠️ Sigue pendiente
-**Verificar el requisito exacto de IELTS de RADMEP / EMIMEP / SSIS.** Si piden **7.0 global con 6.5 mínimo** y no 7.5, el plan de las últimas semanas cambia.
+✅ Requisitos verificados → `10_Program_Requirements.md`. **Meta operativa: 7.0 con ninguna < 6.5** (EMM-Nano+, KU Leuven). Lo que decide: **Writing en frío y Speaking → 6.5**. Si piden **7.0 global con 6.5 mínimo** y no 7.5, el plan de las últimas semanas cambia.
 
 ---
 
