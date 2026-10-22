@@ -791,3 +791,30 @@ Te dan el **inicio de una oración** (preguntas) y una lista de **finales** (A�
 3. Elige el final que dice **lo mismo que el texto**, no el que solo suena bien
 4. 🔴 **Doble filtro:** primero descarta los finales que **no encajan gramaticalmente** (verbo, singular/plural). Suelen quedar 2 o 3. Luego decide **con el texto**
 5. 🔴 **Trampa:** varios finales son **verdaderos según el texto**, pero corresponden a **otro inicio**. La unión tiene que ser la que el texto hace
+
+
+---
+
+## ⚖️ LA COMPARACIÓN INVENTADA — *than* es una palabra que carga el peso
+
+*Añadido el 21-oct tras el YNNG 23983 (5/7): **los dos fallos fueron el mismo***.
+
+| | La afirmación decía | El texto decía | Respuesta |
+|---|---|---|---|
+| **Q3** | *more emotional fatigue **than** physical* | *"emotional **and** physical fatigue"* | **NOT GIVEN** |
+| **Q6** | *stronger in humans **than in any other species*** | *"a deep-seated evolutionary imperative"* — compara a los **niños**, no el impulso | **NOT GIVEN** |
+
+> ## Si la afirmación COMPARA y el texto no compara → **NOT GIVEN**.
+> El tema está. Las dos mitades están. **La comparación no está.**
+
+**Sus dos frases, que localizan el error exacto:**
+> *"no leí el **than**"* → 🔴 **las palabras pequeñas son las que cargan el peso**: *than · only · all · never · most · any*
+> *"el autor parecía afirmarlo"* → 🔴 **inferir ≠ afirmar.** `YES` solo si el autor **lo dice**, no si *suena* a que lo cree
+
+⚠️ **Y la trampa del vocabulario reciclado:** en la Q6, *"other species"* **sí aparece en el texto** — pero en otra frase y para otra cosa. **Igual que el eco numérico del 20-sep** (*four storeys* en el conteo de edificios, no en los códigos).
+
+> ### Es la técnica de LAS DOS CANDIDATAS, otra vez *(20-sep)*
+> En aquella, las candidatas eran `most jurisdictions` · `prohibit` · `above four storeys`.
+> Aquí la candidata que cargaba el peso era **`than`** — **una sola palabra de cuatro letras**.
+>
+> **En la 2ª pasada: subrayar los comparativos y verificar que el texto COMPARA, no solo que menciona las dos cosas.**

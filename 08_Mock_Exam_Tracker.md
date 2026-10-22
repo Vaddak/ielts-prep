@@ -17,23 +17,38 @@
 | Mock completo nº1 | *19–25 oct* | | | | | |
 | Mock completo nº2 | *26 oct – 1 nov* | | | | | |
 | Mock completo nº3 | *2–8 nov* | | | | | |
-| **EXAMEN REAL** | **sáb 14 nov** | | | | | **META: 7.5+** |
+| **EXAMEN REAL** | **sáb 14 nov** | | | | | 🎯 **META OPERATIVA: 7.0, ninguna < 6.5** |
 
-### 📐 La aritmética que decide el plan
+### 📐 LA ARITMÉTICA — recalculada el 21-oct con los requisitos verificados
 
-La banda global es el **promedio de los cuatro, redondeado al 0.5 más cercano**.
+**Requisitos reales** (`10_Program_Requirements.md`): la mayoría de su lista pide **6.5**. Solo **EMM-Nano+** y **KU Leuven** piden **7.0 con ninguna banda < 6.5**.
+
+> ## 🎯 META OPERATIVA: **7.0 global, ninguna banda por debajo de 6.5.**
+> Eso **mantiene abierta la lista entera**, incluidas las dos exigentes.
+
+La global es el **promedio de los cuatro, redondeado al 0.5 más cercano**.
 
 | Escenario | L | R | W | S | Promedio | **Global** |
 |---|---|---|---|---|---|---|
 | **Hoy** | 6.0 | 7.5 | 6.5 | 6.0 | 6.50 | **6.5** |
-| Subiendo **solo Listening** a 7 | 7.0 | 7.5 | 6.5 | 6.0 | 6.75 | **7.0** |
-| **+ Speaking a 6.5** | 7.0 | 7.5 | 6.5 | 6.5 | 6.875 | **7.0** |
-| **+ Writing a 7** | 7.0 | 7.5 | 7.0 | 6.5 | 7.00 | **7.0** |
-| 🎯 **Ruta a 7.5** | **7.5** | 7.5 | **7.0** | **7.0** | 7.25 | **7.5** |
+| 🎯 **Meta operativa** | **6.5** | 7.5 | **6.5** | **6.5** | **6.75** | **7.0** ✅ |
+| Si Writing se cae a 6.0 | 6.5 | 7.5 | 6.0 | 6.5 | 6.625 | **6.5** ❌ |
+| Techo realista | 7.0 | 7.5 | 6.5 | 6.5 | 6.875 | **7.0** |
 
-> **Para 7.5 global hacen falta +1.5 en Listening, +0.5 en Writing y +1.0 en Speaking.**
-> **Listening es el de mayor recorrido y el más mecánico:** el mock del 1-oct tenía **6 fallos de ortografía y blancos** de 16. Solo con esos, 24/40 → 30/40 = **Band 7.0**.
-> ⚠️ **Muchos programas aceptan 7.0 global con 6.5 mínimo por banda.** Conviene verificar el requisito exacto de RADMEP / EMIMEP / SSIS: puede que 7.0 ya sirva, y eso cambia dónde vale la pena apretar.
+> ### Todo se reduce a una frase:
+> # **Todo a 6.5 salvo Reading. Eso ya es 7.0.**
+> No hacen falta subidas grandes en ningún módulo. **Hacen falta +0.5 en Listening y +0.5 en Speaking, y que Writing NO se caiga por debajo de 6.5 en frío.**
+
+### Lo que cuesta cada medio punto
+
+| | De → a | En crudo |
+|---|---|---|
+| **Listening** | 6.0 → 6.5 | **24/40 → 26/40.** **Dos preguntas más.** El mock del 1-oct tuvo 5 fallos de ortografía y 1 blanco |
+| **Speaking** | 6.0 → 6.5 | `Having said that` + los hábitos ya cerrados (*I'd say*, *too much/many*, *last year*) |
+| **Writing** | mantener 6.5 | 🔴 **El riesgo real.** Corregido va a 6.5–7; **en frío cae a ~5.5–6**. Lo cierra **el barrido de 5 min** |
+
+> ⚠️ **Y la cobertura que YA tiene con el 6.5 estimado de hoy:** RADMEP+ · SSI2 · EMINENT · iPSRS · LASCALA · CoDaS · TUHH · Chalmers · PoliMi · PoliTo · Padova.
+> **El trabajo que queda no es para aprobar: es para no cerrar EMM-Nano+ ni KU Leuven.**
 
 ---
 
