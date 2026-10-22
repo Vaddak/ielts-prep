@@ -800,3 +800,146 @@ Sus dos errores del 1-sep son este mismo patrón: *converts it **in** pulp* → 
 
 **2. Ninguna de estas palabras explica un porqué.** Son todas descriptivas, y así debe ser. Si aparece *because* o *due to*, es señal de haberse salido de la tarea.
 
+
+
+---
+
+# 🌍 BANCO LÉXICO 7+ — DATOS (TASK 1) Y TEMAS (TASK 2)
+
+*Añadido el 22 de octubre. Motivo: el Writing del portal se le sintió más rico en vocabulario que el nuestro. **Todo es material original**: las expresiones son colocaciones de uso común y los ejemplos los escribió Claudio, así que **se puede compartir libremente** con estudiantes que no pueden pagar cursos. Cuando entregue Tasks en el portal, se añadirán aquí colocaciones sueltas de sus modelos, nunca textos completos.*
+
+**Cómo usarlo:**
+1. Antes de escribir cada Task, elegir **3–4 expresiones** y marcarlas.
+2. En la corrección se revisa si quedaron naturales.
+
+Una colocación bien usada vale más que tres palabras raras mal puestas.
+
+---
+
+## C. TASK 1 — DESCRIBIR DATOS
+
+### C1. Tendencias: verbo + adverbio / adjetivo + sustantivo
+
+| Movimiento | Verbo + adverbio | Adjetivo + sustantivo |
+|---|---|---|
+| **Subida** | *rose steadily · climbed sharply · surged · soared* | *a steady rise · a sharp increase · a dramatic surge* |
+| **Bajada** | *fell gradually · declined markedly · plummeted · dipped slightly* | *a gradual decline · a marked drop · a slight dip* |
+| **Estable** | *remained stable · levelled off · plateaued at · stagnated* | *a period of stability · a plateau* |
+| **Variación** | *fluctuated between X and Y · was volatile* | *considerable fluctuation* |
+| **Extremos** | *peaked at · reached a high of · hit a low of · bottomed out at* | *a peak of · a low point of* |
+| **Recuperación** | *recovered to · rebounded · regained ground* | *a partial recovery* |
+
+**Ejemplo:** *Coal consumption **declined markedly** after 2010, while solar output **surged**, eventually **levelling off at** around 40 TWh.*
+
+### C2. Proporciones y aproximaciones
+
+- *accounted for / made up / comprised roughly a third of*
+- *the lion's share went to · the vast majority · a small minority · just under half · well over 60%*
+- *approximately · roughly · just over · nearly · in the region of*
+- *one in five households · a fifth of · a twofold / threefold increase · doubled · halved*
+
+**Ejemplo:** *Online sales **accounted for just under a quarter of** total revenue in 2020, **nearly double** the 2015 figure.*
+
+### C3. Comparar y contrastar
+
+- *X was considerably / marginally higher than Y*
+- *X outstripped / overtook / surpassed Y in 2018*
+- *the gap between X and Y widened / narrowed*
+- *by contrast · whereas · while · compared with · in stark contrast to*
+- *X ranked first, followed by Y · X was the only category to…*
+- *the reverse was true for… · a similar pattern was seen in…*
+
+**Ejemplo:** *Germany **overtook** France in 2016, and **the gap between them widened** steadily thereafter.*
+
+### C4. Overview: la frase que más pesa en Task 1
+
+- *Overall, the most striking feature is that…*
+- *It is clear that X dominated throughout the period, whereas…*
+- *In general, the figures for X moved in the opposite direction to those for Y.*
+- *Overall, despite some fluctuation, the trend was broadly upward.*
+
+---
+
+## D. TASK 2 — ARGUMENTAR
+
+### D1. Postura y matiz
+
+| Función | Expresiones |
+|---|---|
+| **Dar postura** | *I would argue that · I am firmly of the view that · I largely agree that* |
+| **Conceder** | *Admittedly, · It is true that… ; however, · While there is some merit in…* |
+| **Matizar la concesión** | *This is not to say that… · That said, · Even so,* |
+| **Contraargumento** | *Critics contend that · Opponents of this view point out that* |
+| **Refutar** | *This argument overlooks the fact that · This view fails to take into account* |
+| **Enfatizar** | *Crucially, · More importantly, · Above all,* |
+| **Ejemplificar** | *A case in point is · This is exemplified by · To illustrate,* |
+
+### D2. Causa, efecto y consecuencia (sin repetir *because* / *cause*)
+
+- *stem from · arise from · be attributable to · be driven by · be rooted in*
+- *give rise to · lead to · trigger · fuel · bring about · contribute to*
+- *have far-reaching consequences · have a knock-on effect on · take a toll on*
+- *exacerbate / aggravate (empeorar) · alleviate / mitigate (aliviar) · offset (compensar)*
+
+**Ejemplo:** *Rising housing costs **stem largely from** limited supply, and this **has a knock-on effect on** young people's ability to start families.*
+
+---
+
+## E. TASK 2 — VOCABULARIO POR TEMA
+
+Cada tema trae 8 colocaciones y un ejemplo modelo. Son los temas que más se repiten en el examen.
+
+### E1. Educación
+*bridge the gap between theory and practice · foster critical thinking · rote learning · a well-rounded education · equip students with practical skills · lifelong learning · academic attainment · tuition fees act as a barrier to access*
+
+> *Rather than relying on **rote learning**, schools should **foster critical thinking**, since this is what **equips students with** the skills employers actually value.*
+
+### E2. Medio ambiente
+*curb emissions · fossil fuel dependence · renewable energy sources · environmental degradation · carbon footprint · irreversible damage · biodiversity loss · a shift towards sustainable practices*
+
+> *Governments can **curb emissions** most effectively by making **renewable energy sources** cheaper than coal, not merely by taxing individuals.*
+
+### E3. Tecnología
+*automation of routine tasks · digital literacy · data privacy concerns · round-the-clock connectivity · be rendered obsolete · screen time · the digital divide · algorithmic bias*
+
+> *As **routine tasks** become automated, many clerical roles risk **being rendered obsolete**, which makes **digital literacy** a basic requirement rather than an advantage.*
+
+### E4. Salud
+*sedentary lifestyle · preventive healthcare · place a strain on health services · life expectancy · public health campaigns · processed food · mental well-being · a growing burden of chronic disease*
+
+> *A **sedentary lifestyle** **places a** considerable **strain on health services**, so investing in **preventive healthcare** is ultimately cheaper than treatment.*
+
+### E5. Trabajo y economía
+*job security · work-life balance · the gig economy · a skills shortage · income inequality · economic growth at the expense of · remote working arrangements · a living wage*
+
+> *Although **the gig economy** offers flexibility, it often comes **at the expense of job security** and basic benefits.*
+
+### E6. Gobierno y sociedad
+*allocate public funds · implement stricter regulations · a top priority · public infrastructure · bear the responsibility for · social cohesion · the welfare state · a disproportionate impact on low-income groups*
+
+> *When governments **allocate public funds**, healthcare should remain **a top priority**, since cuts tend to have **a disproportionate impact on low-income groups**.*
+
+### E7. Globalización y cultura
+*cultural homogenisation · preserve cultural heritage · a global village · cross-cultural understanding · erode local traditions · mass tourism · brain drain · international cooperation*
+
+> *Mass tourism can **erode local traditions**, yet the revenue it generates is often what allows communities to **preserve their cultural heritage**.*
+
+### E8. Crimen y justicia
+*act as a deterrent · rehabilitation programmes · reoffending rates · custodial sentences · the root causes of crime · juvenile delinquency · community service · law enforcement*
+
+> *Long **custodial sentences** rarely **act as a deterrent**; **rehabilitation programmes** do far more to reduce **reoffending rates**.*
+
+### E9. Ciencia e investigación *(su terreno: úsese en ejemplos)*
+*cutting-edge research · allocate research funding · yield tangible benefits · practical applications · ethical implications · a breakthrough in · peer-reviewed findings · interdisciplinary collaboration*
+
+> *Even research with no obvious **practical applications** can **yield tangible benefits** decades later, as the history of semiconductors shows.*
+
+---
+
+## ⚠️ Tres advertencias para este banco
+
+**1. Colocación exacta o nada.** *Curb emissions* y *curb pollution levels* están bien, pero *curb the environment* no. Si no estás segura de la combinación, usa la palabra sencilla.
+
+**2. No apilar.** Basta una expresión fuerte por oración. Si un párrafo junta *exacerbate*, *far-reaching*, *knock-on* y *disproportionate*, suena memorizado y el examinador lo penaliza.
+
+**3. Los ejemplos de su vida valen oro.** Es ingeniera y data scientist, así que sus ejemplos sobre semiconductores, datos o automatización son concretos y creíbles. Eso sube el *Task Response*.
