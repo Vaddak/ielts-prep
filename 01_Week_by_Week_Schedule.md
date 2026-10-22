@@ -6,7 +6,13 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — miércoles 21 oct · **despertar el Writing**
+## 👉 RETOMAR AQUÍ — viernes 23 oct · ✍️ Task 1 en frío + 🎤 Partes 3
+
+> **Temporada alta en el trabajo → semana re-planeada por ella** (ver tabla). Lo innegociable: **mock completo del domingo 25**.
+> **Jue 22 ✅:** Sección 4 **7/10** *(de 4/10)* · TFNG **3/4**. Reglas nuevas: *a bed **of X** → X* · **una alternativa no es una negación** (FALSE solo si el texto **descarta**).
+> **Meta operativa:** 7.0 con ninguna < 6.5 → **Writing en frío y Speaking** son lo que decide (`10_Program_Requirements.md`).
+> **Gemini:** al final de cada sesión pedir *"verbatim transcript of everything I said + every mistake with correction, no band score"* y pegarla aquí. (Un MCP no sirve: no trae el audio de Gemini Live.)
+> **Pendiente opcional:** un YNNG para practicar la guía de *quién habla* (autor vs. otros, *may* vs *definitely*).
 
 **Faltan 24 días (sáb 14 nov).** R 7.5 · W ~6.5 (**~5.5–6 en frío**) · L 6.0 ↗ · S ~6.0 → **global ≈6.5**.
 
