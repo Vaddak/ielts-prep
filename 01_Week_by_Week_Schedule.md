@@ -46,7 +46,7 @@
 | Día | 🏢 Oficina | 🏠 Casa |
 |---|---|---|
 | **Mié 21** | 📖 ✅ YNNG **5/7** (comparación inventada ×2) | 😴 *nada: llegó agotada (temporada alta en el trabajo)* |
-| **Jue 22** | 🎧 **Sección 4** (note completion, modo copiar) · 📖 **1 pasaje de Reading** | — |
+| **Jue 22** | ✅ 🎧 Sección 4 **7/10** *(de 4/10)* · 📖 TFNG **3/4** | — |
 | **Vie 23** | ✍️ **TASK 1 EN FRÍO (20 min)** + corrección | 🎤 **Partes 3 extra** con `Having said that` |
 | **Sáb 24** | — | 🎤 **SPEAKING MOCK OFICIAL** en Chrome · ✍️ **TASK 2 EN FRÍO (40 min)** con barrido final |
 | **🏁 Dom 25** | — | **MOCK COMPLETO Nº1** (L + R + W seguidos) + 📊 **post-mortem** |

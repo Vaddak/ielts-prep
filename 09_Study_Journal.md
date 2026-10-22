@@ -1693,4 +1693,5 @@ Plan ajustado: **Task 1 en frío pasa al jueves** (oficina). Hoy: 1 pasaje de Re
 Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho por ella:** jue Sección 4 + Reading · vie Task 1 + Partes 3 · sáb Speaking mock + Task 2 · **dom mock completo + post-mortem**.
 
 **Note completion sección 4 (26167, *Vertical City*): 7/10** — **subió de 4/10 a 7/10** en dos días con la regla de copiar. Fallos: `beds` (a bed **of silt**), `psichological`, `governments` (sonó *governance*).
+**TFNG 28127 (*The Friendship Test*): 3/4 (75%).** Fallo: Q3 FALSE → **NOT GIVEN** (el texto habla de presupuesto, no dice que el dinero **determine** el éxito). Antes, guía completa de TFNG y YNNG (quién habla, fuerza *may/definitely*, comparación inventada).
 

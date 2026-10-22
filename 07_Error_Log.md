@@ -395,6 +395,8 @@ After every timed practice or mock exam:
 | 2026-10-22 | 🎧 26167 | Listening | Q8 `psichological` → **psychological** | Ortografía: **psych-** (*psychology, psychological, psychiatrist*) |
 | 2026-10-22 | 🎧 26167 | Listening | Q9 `governments` → **governance** | Escribió una palabra **parecida** a la que sonó, no la que sonó. Además *a system of ___* pide un **concepto**, no personas/instituciones. Misma regla del 20-oct: **copiar la palabra exacta** |
 
+| **2026-10-22** | 📖 TFNG 28127 (*The Friendship Test*) — **3/4 (75%)** | Reading | Q3 `FALSE` → **NOT GIVEN**: *friendship success **largely determined by financial resources***. El texto: las **diferencias de presupuesto** causan tensión | 🔴 **Mismo tema ≠ misma afirmación.** El texto habla de dinero, pero no dice **qué determina el éxito**. Para FALSE hay que poder señalar la frase que lo **niega**; aquí no la hay → **NG**. Q4 (comparación *city vs nature*) ✅ bien: la regla de ayer ya funcionó |
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
