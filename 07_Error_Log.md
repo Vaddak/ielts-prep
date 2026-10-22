@@ -391,6 +391,10 @@ After every timed practice or mock exam:
 | **2026-10-21** | 📖 YNNG nº? (23983, *More Than a Feeling?*) — **5/7 (71%)** | Reading | Q3 `YES` → **NOT GIVEN**: *limerence → more emotional fatigue **than** physical*. El texto: *"emotional **and** physical fatigue"* | 🔴 **Comparación inventada.** Si la frase compara (*more… than*, *stronger than any*) y el texto **no compara**, es **NOT GIVEN** · Ella: *"no leí el than"* → **subrayar las palabras pequeñas que cambian todo**: *than, only, all, never, most* |
 | 2026-10-21 | 📖 YNNG 23983 | Reading | Q6 `YES` → **NOT GIVEN**: *pair-bond drive stronger in humans **than in any other species***. El texto solo dice que es *a deep-seated evolutionary imperative* (y compara a los **niños**, no el impulso) | Misma trampa: **el tema está, la comparación no**. *"other species"* aparece en el texto, pero en otra frase y para otra cosa · Ella: *"el autor parecía afirmarlo"* → 🔴 **inferir ≠ afirmar**: YES solo si el autor lo **dice**, no si *suena* a que lo cree |
 
+| **2026-10-22** | 🎧 Note completion sección 4 nº4 (26167, *Vertical City & Arcology*) — **7/10** *(de 4/10 el 20-oct)* | Listening | Q5 `beds` → **silt**: *"pouring concrete over **a bed of silt**"* | Agarró el sustantivo de la **estructura** (*a bed of*) y no el **contenido**. En *a bed / a layer / a piece **of** X* → la respuesta es **X** |
+| 2026-10-22 | 🎧 26167 | Listening | Q8 `psichological` → **psychological** | Ortografía: **psych-** (*psychology, psychological, psychiatrist*) |
+| 2026-10-22 | 🎧 26167 | Listening | Q9 `governments` → **governance** | Escribió una palabra **parecida** a la que sonó, no la que sonó. Además *a system of ___* pide un **concepto**, no personas/instituciones. Misma regla del 20-oct: **copiar la palabra exacta** |
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

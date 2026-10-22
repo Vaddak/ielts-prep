@@ -1687,3 +1687,10 @@ Plan ajustado: **Task 1 en frío pasa al jueves** (oficina). Hoy: 1 pasaje de Re
 **YNNG 23983 (*More Than a Feeling?*): 5/7 (71%)**, 17:37 min. Los dos fallos, la **misma trampa**: marcó YES cuando la afirmación **añadía una comparación** que el texto no hace.
 > 🔴 **Regla: comparativo en la pregunta (*more… than, stronger than any*) + texto sin comparación = NOT GIVEN.**
 
+---
+
+### 2026-10-22 (jueves) — temporada alta en el trabajo; semana re-planeada
+Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho por ella:** jue Sección 4 + Reading · vie Task 1 + Partes 3 · sáb Speaking mock + Task 2 · **dom mock completo + post-mortem**.
+
+**Note completion sección 4 (26167, *Vertical City*): 7/10** — **subió de 4/10 a 7/10** en dos días con la regla de copiar. Fallos: `beds` (a bed **of silt**), `psichological`, `governments` (sonó *governance*).
+
