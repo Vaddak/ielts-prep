@@ -31,7 +31,7 @@
 | [x] 1 | **20** | ✍️ **TASK 1 Nº7 EN FRÍO** — barras → ✅ **~5.5–6**, Overview arreglado · *all* falso · 3 typos · 248 pal. | Cabeza fresca. 16 días oxidado y mañana cuenta |
 | [x] 2 | 10 | corrección conmigo | |
 | | 10 | ☕ | |
-| [ ] 3 | **~15** | 🎤 **SPEAKING MOCK OFICIAL** *(Chrome, el portal solo admite una sesión)* | Única medición real de S. La voz descansada |
+| [x] 3 | **~15** | 🎤 **SPEAKING MOCK OFICIAL** → hecho, **sin nota** (FlexCheck es de pago). Se sintió *"muy fría"* → 🆕 protocolo de calentamiento · **medición con Gemini en la noche** *(prompt en `14_Speaking_Archive.md`)* | |
 | | 15 | ☕ pausa larga | |
 | [ ] 4 | **40** | ✍️ **TASK 2 Nº9 EN FRÍO** — *Discussion* | Ensayo de vestuario del mock |
 | [ ] 5 | 15 | corrección conmigo | |

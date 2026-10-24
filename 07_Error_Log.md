@@ -405,6 +405,10 @@ After every timed practice or mock exam:
 | 2026-10-24 | ⚠️ **Sobrelongitud: 248 / 5 párrafos** | Writing · CC | Internet repetido en Overview, párrafo 3 y párrafo 5 | Objetivo **170–190, 4 párrafos**. Agrupar una vez |
 
 
+| **2026-10-24** | 🎤 **Speaking mock oficial nº2 — sin nota** | Speaking | FlexCheck es de pago (el 12-oct fue crédito de prueba). **El "7.5" que vio era la META** (`6 / 7.5` = actual / meta). El portal tiene S en **5.5** | Estimación honesta: **S 5.5–6.0**, el módulo más lejos del 6.5. **Medición → Gemini con prompt estricto** (`14_Speaking_Archive.md`) |
+| 2026-10-24 | 🔴 **Entrar en frío — 2º módulo** | Speaking | *"Me sentí muy fría, me quedaba sin respuesta… con Gemini hago warm-up y esto fue en frío"* | **Mismo hallazgo que el Listening del 18-oct** (con protocolo: 100% ×2). 🆕 **Protocolo de calentamiento para el examen**: 5 min de inglés en voz baja antes de entrar · 3 frases ancla · 1ª respuesta de la Parte 1 siempre larga |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

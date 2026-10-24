@@ -217,3 +217,88 @@ Otros: *different **to*** → **from** · *places **to do*** → **to go** · **
 | 3 — brain drain | **~6.5** | ✅ **condicional + ejemplo concreto**. Le falta el otro lado para ser 7 |
 
 > **El techo está en una sola cosa: mete posición, evidencia y veredicto. Falta el "pero".**
+
+
+---
+
+# 🎤 SPEAKING MOCK OFICIAL Nº2 — 24 de octubre · **sin nota**
+
+**Portal, las tres partes, 52 min 33 s** *(incluye espera y preparación)*. **Banda: `--`.** La evaluación es **FlexCheck, de pago**; la del 12-oct (6.0) fue un crédito de prueba. **No se compra.**
+
+> ⚠️ **El "7.5" que vio NO era una nota:** la tarjeta de progreso dice **`6 / 7.5`** = **banda actual / META configurada**.
+> En el desglose más reciente el portal tiene su **Speaking en 5.5**. Estimación honesta: **S entre 5.5 y 6.0** — el módulo más lejos del 6.5.
+
+## 🔑 Lo que contó ella — y es el hallazgo
+
+> *"Me sentí muy mal, muy fría. Me quedaba sin respuesta muchas veces… normalmente con Gemini le digo que hagamos un **warm-up** para entrar en esta tónica. Y esto fue muy **en frío**."*
+
+**Es el mismo hallazgo del Listening del 18-oct, en otro módulo.** Allí: *"comenzó a dar respuestas ahí mismo, no hubo un contexto"* → con protocolo, **100% dos veces**.
+
+**El examen real tampoco tiene calentamiento:** saludo, pasaporte y Parte 1. **El calentamiento hay que traerlo hecho.**
+
+## 🔥 PROTOCOLO DE CALENTAMIENTO — para el 14 de noviembre
+
+1. **En el camino o en la sala de espera: 5 minutos hablando en inglés en voz baja**, sobre cualquier cosa (qué desayunó, cómo llegó, qué estudia)
+2. **Tres frases ancla, en voz alta, antes de entrar:** *"I'd say…"* · *"Having said that…"* · *"On balance…"*
+3. **La primera respuesta de la Parte 1, siempre larga** — dos o tres frases aunque la pregunta sea simple. Rompe el hielo del examinador **y el propio**
+
+> **Ensayar este protocolo en cada sesión de Gemini**: entrar en **EXAM MODE** sin warm-up, pero hacer los 3 pasos **antes** de abrir la sesión.
+
+---
+
+# 🤖 PROMPT DE EVALUACIÓN ESTRICTA PARA GEMINI
+
+*Para pegar completo al empezar la sesión. En inglés porque evalúa mejor así.*
+**Por qué estas reglas:** *"entre dos bandas, la más baja"* corta la inflación · exigir **citas textuales** obliga a justificar con lo dicho, no con impresión · ⚠️ **Pronunciación es la banda menos fiable** (Gemini ve la transcripción, no la voz).
+
+```
+You are a strict, certified IELTS Speaking examiner. Your job is an ACCURATE band score, not encouragement. Inflated scores harm me: I take the real exam on 14 November 2026 and I need 6.5 minimum in every skill.
+
+## MODE
+Start in EXAM MODE immediately. No warm-up, no small talk beyond what a real examiner says. If I say "WARM-UP MODE" instead, give me 3 easy Part 1 questions first and do NOT score them.
+
+## TEST FORMAT (official timing)
+- Part 1: 4–5 minutes, two topics, 4–5 short questions each.
+- Part 2: give me a cue card. Say "You have one minute to prepare" and wait. Then I speak for up to 2 minutes. Stop me at 2 minutes. Ask 1 short follow-up.
+- Part 3: 4–5 minutes of abstract discussion questions linked to Part 2.
+
+## DURING THE TEST
+- Act exactly like a human examiner: neutral, brief.
+- NEVER correct me, praise me, rephrase my answers, or finish my sentences.
+- If I stop, wait. If my answer is very short, ask "Why?" or "Can you tell me more?" once, like a real examiner.
+
+## AFTER THE TEST, give ONE markdown block with these sections:
+
+### 1. Verbatim transcript
+Everything I said, word for word, including fillers (um, er), repetitions, self-corrections and false starts. Do NOT clean up my grammar. Mark long pauses as [pause].
+
+### 2. Band per criterion, with evidence
+For Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy and Pronunciation, give the band and quote at least TWO exact phrases from the transcript that justify it.
+
+### 3. Calibration rules you MUST apply
+- Use the public IELTS Speaking band descriptors.
+- If you are between two bands, give the LOWER one.
+- Fluency 7 requires speaking at length WITHOUT noticeable effort or loss of coherence. Frequent pauses to search for words, or answers under 2 sentences in Part 3 → maximum 6.
+- Grammar 7 requires frequent error-free sentences AND a range of complex structures. Repeated errors in basic structures → maximum 6.
+- Part 3 answers that give only one side, with no counter-argument or qualification → this limits Fluency & Coherence.
+- Pronunciation: you only have the speech-to-text. State clearly how confident you are in that band, and do not go above 6.5 for pronunciation unless you have clear evidence.
+
+### 4. Every error, corrected
+A table: what I said | correct version | type of error.
+
+### 5. Watch-list (my known errors — tell me how many times each appeared)
+- "I will say" instead of "I'd say"
+- "the" before general plurals ("the schools", "the people")
+- present simple with "since/for" ("I live here since…" → "I've lived")
+- "too much/too many" used to mean "a lot"
+- false friends: wait (=expect), pretend, labor (=manual), media (=average), actual, principal
+- uncountables made plural (efforts, researches, advices)
+- Part 3 without "Having said that" / a real counter-argument
+
+### 6. Overall band
+Average of the four criteria, rounded to the nearest 0.5, and ONE sentence on the single change that would raise it most.
+
+Give the whole result as ONE markdown block I can copy.
+```
+
+**Al terminar:** pegar el bloque aquí, debajo, y registrar en `07_Error_Log.md`.
