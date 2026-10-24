@@ -33,11 +33,18 @@
 | | 10 | ☕ | |
 | [x] 3 | **~15** | 🎤 **SPEAKING MOCK OFICIAL** → hecho, **sin nota** (FlexCheck es de pago). Se sintió *"muy fría"* → 🆕 protocolo de calentamiento · **medición con Gemini en la noche** *(prompt en `14_Speaking_Archive.md`)* | |
 | | 15 | ☕ pausa larga | |
-| [ ] 4 | **40** | ✍️ **TASK 2 Nº9 EN FRÍO** — *Discussion* | Ensayo de vestuario del mock |
-| [ ] 5 | 15 | corrección conmigo | |
-| [ ] 6 | **10** | 🎤 **Parte 3 ×2** con **`Having said that` obligatorio** | Ya con el feedback del Discussion: es el mismo músculo |
+| [x] 4 | **40** | ✍️ **TASK 2 Nº9 EN FRÍO** → **~5.5–6** · 🔴 **la Visión B nunca aparece** (los dos bodies = empleo) | |
+| [x] 5 | 15 | corrección conmigo | |
+| [x] 6 | — | 🎤 Parte 3 → **cubierta** con el mock y con Gemini (6.0) | Descansar para el mock |
 
 ### 🏁 DOMINGO 25 — el mock
+
+> ## 🎯 LAS REGLAS DEL MOCK, todas juntas
+> **Listening:** leer cada parte ANTES del audio y anotar el TIPO de palabra de cada hueco · al perderse, saltar al **siguiente encabezado** · `Write ONE WORD` = **copiar la palabra que suena**, no parafrasear · cero blancos
+> **Reading:** tarjeta *NOT GIVEN* (final de `04_Reading_Module.md`) · subrayar *than / all / only / single* · inferir ≠ afirmar
+> **Task 1:** Overview sin dígitos · **antes de *all*, comprobar cada barra** · 4 párrafos, ~180 palabras
+> **Task 2:** subrayar la palabra que carga el peso · **una frase por cada visión como si la creyera** · última frase de cada body leída SOLA · **dos barridos**: sentido / **verbos y ortografía palabra por palabra** · no entregar antes de tiempo
+
 L (≈32 min) + R (60 min) + W (60 min) **seguidos, sin pausas largas**, como el examen. Después, post-mortem.
 
 ---

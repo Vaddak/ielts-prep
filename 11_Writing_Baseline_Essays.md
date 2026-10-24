@@ -965,6 +965,59 @@ Su hueco abierto, en Writing **y** en Speaking: **argumenta un lado muy bien y n
 
 </details>
 
-## ✍️ v1: PEGAR AQUÍ
+## ✍️ v1 — 24-oct · **38:25** (sobró 1:35) · **279 palabras** · **~Band 5.5–6** — NO SE TOCA
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿Barrido de 5 min?** ___
+*Intro 61 · B1 73 · B2 90 · conclusión 55.*
+
+Whereas some people think that the key purpose of a university is preparing students to enter labor market, others argue how universities should mainly contribute to student's knowledge, in spite of whether it leads to a job. This essay will examine both views before arguing that providing knowledge and professional skills guarantees better opportunities than focusing only in becoming an employ.
+
+Universities are institutions where knowledge is teached with standard methodologies and tools. The main purpose is to certificate students in a certain field to access as formed professionals into specific jobs. For example, electrical engineers should pass through the same curriculum despite of the country, guaranteeing the quality of their work due to their diploma. With these standards, industry could trust the source of the knowledge of the professionals that would be hiring.
+
+Whereas a certificate allows professionals to go abroad, it does not means that getting into labor market is guaranteed. Over the last years, soft skills and problem-solving skills are as important as a diploma. Providing students with strong soft skills such as assertive communication and a correct management of stress becomes more important in a job than a grade. Whereas knowledge can be learned in many platforms due to technology, universities turn into the perfect environment to learn and develop soft skills needed to increase the performance in nowadays tasks.
+
+In conclusion, universities have the challenge to be the integral space where students can access to knowledge and be able to develop soft skills at the same time. Today's world requires professionals who understand technical problems but most important; that can have skills to propose and communicate a plan, leading teams into a succesful environment.
+
+---
+
+## 🔴 EL HALLAZGO — la Visión B nunca aparece
+
+| | Tema | Visión que defiende |
+|---|---|---|
+| Body 1 | títulos estandarizados → la industria confía | **A** (empleo) |
+| Body 2 | las soft skills importan más que el título **en el trabajo** | **A otra vez** |
+
+**Nadie defiende el conocimiento *for its own sake*.** El Body 2 *parece* el otro lado (*"el título no basta"*) pero propone **otra forma de ser empleable**.
+
+> ### El patrón que cruza módulos, en su versión más clara
+> 12-sep escrito (dos bodies con el mismo argumento) · 20-oct Speaking (`Having said that` 0/3) · **hoy: un *Discuss both views* con UNA visión**
+> **La palabra que carga el peso:** ***for its own sake, regardless of whether it leads to a job***. La parafraseó en la intro y escribió el ensayo como si no estuviera.
+
+### 💡 El ejemplo que tenía a mano — su campo
+**El láser (1960): *"a solution looking for a problem"*** → hoy fibra óptica, cirugía ocular. **La cuántica de los años 20**, pura curiosidad → el transistor → toda la electrónica.
+
+**Body 2 modelo:**
+> On the other hand, others argue that a university's value lies in knowledge pursued for its own sake. Many of the most important discoveries had no obvious application at first. When the laser was invented in 1960, it was famously described as "a solution looking for a problem"; today it underpins fibre-optic communication and eye surgery. If universities only taught what employers currently demand, this kind of curiosity-driven research would never take place.
+
+## 🔴 Verbos — pasaron con 1:35 de sobra
+*knowledge is **teached*** → **taught** · *it does not **means*** → **mean** · *to **certificate*** → **certify**
+
+## 🆕 Falsos amigos nº17 y nº18
+***formed** professionals* → **trained / qualified** · *the **integral** space* → **all-round** development · *(y otra vez)* *an **employ*** → **employee**
+
+## El resto
+*argue **how*** → **that** · *enter **labor** market* → **the labour** market · ***student's*** → **students'** · ***in spite of whether / despite of*** → **regardless of (whether)** · *focusing **in*** → **on** · *the professionals **that would be hiring*** → **they** would be hiring *(el sentido se invierte)* · ***Over the last years… are*** → **In recent years… have become** *(igual que el 18-oct)* · *learned **in** platforms* → **on** · *in **nowadays** tasks* → **today's** · ***access to** knowledge* → **access** *(12-sep)* · *but **most important;** that* → **but, most importantly, who** *(punto y coma mal, otra vez)* · *succesful* · ***Whereas*** ×3
+
+## ✅ Bien
+Intro con la plantilla *Discussion* perfecta · ejemplo concreto propio · 279 palabras · **sin coma sujeto–verbo** ✅ · *soft skills, problem-solving, assertive communication*
+⚠️ Bodies **73/90**
+
+| TR | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 5.5 | 6 | 6 | 5.5 | **~5.5–6** |
+
+> **En un *Discussion*, si falta una visión, TR no pasa de 5.5–6.**
+
+## 🎯 REGLA NUEVA PARA EL MOCK
+> **En la planificación: una frase para cada visión como si ELLA la creyera.**
+> Luego: **¿esta frase de la Visión B podría defender la A?** Si sí, **todavía no hay Visión B.**
+> *(La de hoy —"soft skills matter more than a diploma in a job"— habría caído en esa prueba.)*

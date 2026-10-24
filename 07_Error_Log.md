@@ -417,6 +417,13 @@ After every timed practice or mock exam:
 | 2026-10-24 | ⚠️ **Gemini: banda fiable, lista de errores no** | método | Se le escaparon ~8 errores; transcripción no literal; marcó como error *the churches there* (correcto) | ✅ Prompt actualizado en `14_Speaking_Archive.md` |
 
 
+| **2026-10-24** | ✍️ **Task 2 nº9 en frío** — *Discussion*, 279 pal., 38:25 | Writing | **~5.5–6.** Intro con plantilla perfecta, ejemplo propio, sin coma sujeto–verbo ✅ | Bodies 73/90 |
+| 2026-10-24 | 🔴🔴 **Discussion con UNA sola visión** | Writing · TR | Body 1 = empleo · **Body 2 = empleo otra vez** (soft skills para el trabajo). **Nadie defiende el conocimiento *for its own sake*** | 🔴 **El patrón que cruza módulos** (12-sep escrito · 20-oct Speaking · hoy). **Palabra que carga el peso ignorada:** *for its own sake, regardless of whether it leads to a job*. 🆕 **Regla:** en el plan, una frase por visión como si la creyera; **¿la de B podría defender A?** → si sí, falta B |
+| 2026-10-24 | 🔴 **Verbos** | Writing · GR | ***teached*** (→ taught) · *does not **means*** · *to **certificate*** (→ certify) | Pasaron con 1:35 de sobra: **el barrido de verbos/ortografía no se hizo** |
+| 2026-10-24 | 🆕 **Falsos amigos nº17 y nº18** | Writing · LR | ***formed** professionals* (→ trained/qualified) · *the **integral** space* (→ all-round development) | + ***employ*** por *employee* (2ª vez, sep) |
+| 2026-10-24 | ⚠️ **Reincidentes** | Writing | ***Over the last years*** (18-oct) · ***access to** knowledge* (12-sep) · **punto y coma mal** (18-oct) · *despite of / in spite of whether* · *argue how* | |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
