@@ -1104,6 +1104,60 @@ Colombia´s figure was consistently far higher, starting at 70%. It fluctuated s
 
 </details>
 
-## ✍️ Task 1 nº 7 — v1: PEGAR AQUÍ
+## ✍️ Task 1 nº 7 — v1 · 24 oct · 20 min · **248 palabras** · **~Band 5.5–6** — NO SE TOCA
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿Barrido hecho?** ___
+The bar chart below illustrates the percentage of households in one country that had access to four different technologies in 2005, 2015 and 2025.
+
+Overall, the access to all technologies across the years of the study increseased over time. While almost all of the households had access to internet at the end of the study, the access to solar panels remained lower compared to the other technologies even in its highest figure.
+
+Between 2005 and 2015 the percentages showed the highest increase for all technologies but solar panels. After 2015, the increase of these percentages remained high but lower than in the first decade. Solar panels instead, showed an increase higher than the double of its original value between 2005 and 2015, whereas in 2025 almost multiplied its value by 4.
+
+Smart tv and smartphones achieved the most remarkable peaks in 2015. While the percentage of households having smartphones in 2005 was 6%, in 2015 this value was more than ten times higher. In 2005 only 1% of households had access to smart tv, ten years later this number reached values of 22%. In 2025, both smartphones and smart tv, increased their accesibility to households to 89% and 58% respectively.
+
+The access to internet was the highest for all four technologies in 2005 with 38%, in 2015 the households with internet almost doubled to 74%. In 2025, the access to internet is the highest of all the chart, with 92% of houlseholds having it in the same country.
+
+---
+
+### ✅ Lo que se medía: **el Overview — arreglado**
+**Cero dígitos.** Tendencia general + el más alto + el más bajo. El 8-oct era cifras sin titular. Faltó solo: **los smartphones, el crecimiento más espectacular**.
+
+### 🔴 Afirmación FALSA sobre los datos
+*"the highest increase **for all technologies** but solar panels"* (2005–2015). **La Smart TV creció más en la 2ª década** (+21 vs **+36**).
+> 🔁 **La lección de Reading al revés:** ***all*** carga el peso también cuando lo escribe ella. **Antes de *all / every / both*, comprobar cada barra.**
+
+*"achieved the most remarkable **peaks** in 2015"* → los picos están en **2025**. Quiso decir ***rises***. `peak` = punto más alto, no salto más grande.
+
+### 🔴 Reincidentes
+- **Coma entre sujeto y verbo ×2** *(detectada el 18-oct)*: *Solar panels instead**,** showed* · *both smartphones and smart tv**,** increased*
+- **Empalmes ×2**: *…with 38%**,** in 2015…* · *…smart tv**,** ten years later…*
+- **3 typos que sobrevivieron 20 min de revisión**: `increseased` · `accesibility` · `houlseholds`
+> ⚠️ **Relee por sentido, y así el ojo completa la palabra.** Para ortografía: **otra pasada, palabra por palabra, señalando con el cursor.**
+
+### Forma
+- **248 palabras** (objetivo 170–190): las comas sujeto–verbo y un empalme están en las frases sobrantes
+- **5 párrafos**: Internet aparece en el Overview, en el párrafo 3 **y** en el 5
+- Intro **casi copiada del enunciado**
+- *access to internet* → **the** internet · *smart tv* → **smart TVs** · *higher than the double* → **more than doubled** · *in 2025 almost multiplied* → **it almost quadrupled** · *reached values of 22%* → **reached 22%** · *is the highest* → **was**
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6 | 5.5 | 6 | 5.5 | **~5.5–6** |
+
+**Medio punto sobre el 8-oct.**
+
+### 📐 Modelo de referencia — 4 párrafos, ~180 palabras
+
+The bar chart compares the proportion of households in one country with access to four technologies in 2005, 2015 and 2025.
+
+Overall, access to all four technologies rose over the period. Internet access remained the most widespread throughout, while solar panels were consistently the least common. Smartphones showed by far the most dramatic growth.
+
+In 2005, 38% of households had internet access, a figure that almost doubled to 74% by 2015 and reached 92% in 2025. Smartphone ownership grew even faster, from just 6% to 61% in the first decade, before climbing to 89%, close to the internet figure.
+
+Smart TVs followed a different pattern: from only 1% in 2005, they reached 22% in 2015, **but their sharpest rise came in the second decade**, to 58% in 2025. Solar panels, meanwhile, remained marginal, more than doubling from 2% to 5% before almost quadrupling to 19%.
+
+> **La excepción que ella contó como regla es justo un rasgo que vale la pena reportar.** *"Followed a different pattern"* = lenguaje de banda 7.
+
+### 🎯 Para el mock del 25
+1. **Antes de *all / every / both*: comprobar cada barra**
+2. **4 párrafos, ~180 palabras**, y pasar al Task 2
+3. **Dos barridos separados:** sentido · **ortografía palabra por palabra**

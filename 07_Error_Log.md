@@ -397,6 +397,14 @@ After every timed practice or mock exam:
 
 | **2026-10-22** | 📖 TFNG 28127 (*The Friendship Test*) — **3/4 (75%)** | Reading | Q3 `FALSE` → **NOT GIVEN**: *friendship success **largely determined by financial resources***. El texto: las **diferencias de presupuesto** causan tensión | 🔴 **Mismo tema ≠ misma afirmación.** El texto habla de dinero, pero no dice **qué determina el éxito**. Para FALSE hay que poder señalar la frase que lo **niega**; aquí no la hay → **NG**. Q4 (comparación *city vs nature*) ✅ bien: la regla de ayer ya funcionó · Su razón: *"el éxito se basa en la comunicación, el texto lo dice"* → 🔴 **Una alternativa no es una negación.** El texto dice que la comunicación es *paramount in mitigating conflicts* (uno de varios factores), **no** que el dinero no importe. Para FALSE el texto tiene que **descartar** la afirmación |
 
+| **2026-10-24** | ✍️ **Task 1 nº7 en frío** — barras, 248 palabras, 20 min | Writing | **~5.5–6** (8-oct: 5.5). ✅ **Overview sin dígitos, con titular** — lo que se medía | Le faltó el titular *"smartphones, el mayor crecimiento"* |
+| 2026-10-24 | 🔴 **Afirmación falsa sobre los datos: *all*** | Writing · TA | *"the highest increase for **all** technologies"* en 2005–15; **la Smart TV creció más en 2015–25** | 🔁 **La lección de Reading al revés:** *all* carga el peso también al escribir. **Comprobar cada barra antes de *all/every/both*** |
+| 2026-10-24 | ⚠️ ***peak*** mal usado | Writing · LR | *"the most remarkable **peaks** in 2015"* (los máximos están en 2025) | `peak` = punto más alto; salto grande = **rise / increase** |
+| 2026-10-24 | 🔴 **Coma sujeto–verbo ×2 · empalmes ×2** | Writing · GR | *Solar panels instead**,** showed* · *both… smart tv**,** increased* | Reaparece la del 18-oct |
+| 2026-10-24 | 🔴 **3 typos sobrevivieron 20 min de revisión** | Writing · método | `increseased` · `accesibility` · `houlseholds` | **Relee por sentido y el ojo completa la palabra.** 🆕 **Dos barridos separados: sentido / ortografía palabra por palabra con el cursor** |
+| 2026-10-24 | ⚠️ **Sobrelongitud: 248 / 5 párrafos** | Writing · CC | Internet repetido en Overview, párrafo 3 y párrafo 5 | Objetivo **170–190, 4 párrafos**. Agrupar una vez |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

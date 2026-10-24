@@ -28,8 +28,8 @@
 
 | | Min | Tarea | Por qué ahí |
 |---|---|---|---|
-| [ ] 1 | **20** | ✍️ **TASK 1 Nº7 EN FRÍO** — barras | Cabeza fresca. 16 días oxidado y mañana cuenta |
-| [ ] 2 | 10 | corrección conmigo | |
+| [x] 1 | **20** | ✍️ **TASK 1 Nº7 EN FRÍO** — barras → ✅ **~5.5–6**, Overview arreglado · *all* falso · 3 typos · 248 pal. | Cabeza fresca. 16 días oxidado y mañana cuenta |
+| [x] 2 | 10 | corrección conmigo | |
 | | 10 | ☕ | |
 | [ ] 3 | **~15** | 🎤 **SPEAKING MOCK OFICIAL** *(Chrome, el portal solo admite una sesión)* | Única medición real de S. La voz descansada |
 | | 15 | ☕ pausa larga | |
