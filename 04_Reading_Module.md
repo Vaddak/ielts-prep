@@ -818,3 +818,57 @@ Te dan el **inicio de una oración** (preguntas) y una lista de **finales** (A�
 > Aquí la candidata que cargaba el peso era **`than`** — **una sola palabra de cuatro letras**.
 >
 > **En la 2ª pasada: subrayar los comparativos y verificar que el texto COMPARA, no solo que menciona las dos cosas.**
+
+
+---
+
+# 🧭 TARJETA DE REFERENCIA — ¿CUÁNDO ES NOT GIVEN? *(21-oct)*
+
+*Construida con sus 8 casos documentados. Leer antes de cada pasaje con T/F/NG o Y/N/NG.*
+
+## Los tres pasos
+
+1. **Busca el sitio en el texto.** Si buscaste de verdad y no hay nada del tema → `NOT GIVEN` *(es lo raro)*
+2. **Subraya la palabra que carga el peso.** La afirmación concreta, no el tema
+3. **La pregunta única:**
+
+> **¿Puedo señalar la frase que lo hace IMPOSIBLE?** → `FALSE` / `NO`
+> **¿Puedo señalar la frase que lo hace NECESARIO?** → `TRUE` / `YES`
+> **¿Ninguna?** → `NOT GIVEN`
+
+## 🔑 El test del paso único — la frontera donde falla en las dos direcciones
+
+> **Un paso de consecuencia directa** → sigue siendo F / T
+> **Añadir un dato que el texto no da** → NOT GIVEN
+> **Test:** ¿mi conclusión usa SOLO lo que dice el texto, o le estoy sumando algo?
+
+| | Afirmación | Texto | | |
+|---|---|---|---|---|
+| 12-sep #4 | *first identified using **satellite** data* | *"satellites had detected **nothing**"* | misma información dicha de otra forma | **FALSE** |
+| 12-sep #7 | *traced to a **single** factory* | *"production in eastern China"* | añade cuántas instalaciones | **NOT GIVEN** |
+
+## Las 6 formas del `NOT GIVEN`
+
+| | Forma | Su caso |
+|---|---|---|
+| 1 | ⚖️ **Comparación inventada** (*than, more… than*) | 21-oct Q3 y Q6 ❌ |
+| 2 | 🔢 **Cantidad no dada** (*single, how many*) | 12-sep #7 ❌ |
+| 3 | 📊 **Cuantificador sin respaldo** (*all, every, currently*) | 20-sep #2 ✅ |
+| 4 | ⏳ **Comparación entre épocas o grupos no hecha** | 20-sep #11 ✅ |
+| 5 | 🔗 **Causa no afirmada** (A pasó, B pasó ≠ A causó B) | |
+| 6 | 💭 **Valoración no hecha** (describir ≠ juzgar) | |
+
+**Y del 22-oct:** ***una alternativa no es una negación.*** Si el texto propone **otro** factor, no por eso **descarta** el de la afirmación. `FALSE` solo si el texto **descarta**.
+
+## ⚠️ T/F/NG ≠ Y/N/NG
+
+| | Pregunta por | |
+|---|---|---|
+| **T / F / NG** | la **información** | ¿los hechos lo hacen imposible? |
+| **Y / N / NG** | lo que el **autor sostiene** | ¿el autor **lo dice**? |
+
+> 🔴 **Inferir ≠ afirmar.** *"El autor parecía afirmarlo"* (21-oct) no es `YES`.
+> Si la afirmación repite una opinión que el autor **planta para tumbar** (*"Enthusiasts present it as… This is an overstatement"*) → **NO**.
+
+## 🔍 Las palabras pequeñas deciden
+***than · only · all · every · never · most · any · single · first · currently***

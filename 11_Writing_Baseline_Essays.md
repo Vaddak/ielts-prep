@@ -925,3 +925,46 @@ Los 7 aplicados. Veredicto explícito, tiempos coherentes, léxico consistente.
 
 > 🔴 **El examen solo ve la v1. No falta inglés: faltan los minutos que ya sobran.**
 
+
+
+---
+
+# ✍️ TASK 2 Nº 9 — EN FRÍO · Discussion · 24-oct · ⏱️ 40 min
+
+> **Autocontenido.** ⚠️ **No leas el enunciado hasta tener el cronómetro en 40:00.**
+> **Ensayo de vestuario del mock de mañana.**
+
+## Por qué Discussion hoy
+Su hueco abierto, en Writing **y** en Speaking: **argumenta un lado muy bien y no va al otro** (12-sep por escrito, 20-oct hablando: `Having said that` 0/3). **El *Discuss both views* obliga a defender de buena fe la postura contraria.**
+
+## La estructura
+| Párrafo | Qué va |
+|---|---|
+| Intro (2) | Parafrasear + *"…this essay will examine both views before arguing that…"* — **la postura ya aquí** |
+| Body 1 (4) | **Visión A, de buena fe.** Topic sentence → mecanismo → ejemplo → consecuencia |
+| Body 2 (4) | **Visión B, de buena fe.** ⚖️ **Mismo tamaño que el Body 1** |
+| Conclusión (2) | **Tu opinión explícita** + por qué |
+
+🔴 **Las dos reglas del 18-oct:**
+- **La última frase de cada body es un veredicto: léela SOLA, en voz alta.** *(el `not` que faltó)*
+- **NO entregar antes de tiempo.** El 18-oct sobraron 6 min y **5 de 8 errores eran cazables**
+
+## 🔍 Barrido final (min 35–40) — su lista personal
+☐ ¿250+? · ☐ **artículos** ante plural general (*the schools* ✗) · ☐ **concordancia** a distancia · ☐ **incontables** (*effort, research, advice, equipment*) · ☐ ***need of*** ✗ → *need for* · ☐ ***impact in*** ✗ → *impact on* · ☐ falsos amigos: ***principal, local countries, actual, pretend, wait/expect, labor, media*** · ☐ **sin coma entre sujeto y verbo** · ☐ cada corrección: **releer la oración entera**
+
+---
+
+<details>
+<summary><b>📝 EL ENUNCIADO — abrir SOLO con el cronómetro listo</b></summary>
+
+> *Some people believe that the main purpose of a university education is to prepare students for employment. Others think universities should mainly provide knowledge for its own sake, regardless of whether it leads to a job.*
+>
+> ***Discuss both views and give your own opinion.***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+</details>
+
+## ✍️ v1: PEGAR AQUÍ
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿Barrido de 5 min?** ___

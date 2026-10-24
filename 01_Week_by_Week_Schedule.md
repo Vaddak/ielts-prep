@@ -6,58 +6,43 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — viernes 23 oct · ✍️ Task 1 en frío + 🎤 Partes 3
+## 👉 RETOMAR AQUÍ — sábado 24 oct · ponerse al día completo (sáb + dom)
 
-> **Temporada alta en el trabajo → semana re-planeada por ella** (ver tabla). Lo innegociable: **mock completo del domingo 25**.
-> **Jue 22 ✅:** Sección 4 **7/10** *(de 4/10)* · TFNG **3/4**. Reglas nuevas: *a bed **of X** → X* · **una alternativa no es una negación** (FALSE solo si el texto **descarta**).
-> **Meta operativa:** 7.0 con ninguna < 6.5 → **Writing en frío y Speaking** son lo que decide (`10_Program_Requirements.md`).
-> **Gemini:** al final de cada sesión pedir *"verbatim transcript of everything I said + every mistake with correction, no band score"* y pegarla aquí. (Un MCP no sirve: no trae el audio de Gemini Live.)
-> **Pendiente opcional:** un YNNG para practicar la guía de *quién habla* (autor vs. otros, *may* vs *definitely*).
+**Faltan 21 días (sáb 14 nov).** R 7.5 · W ~6.5 (**~5.5–6 en frío**) · L 6.0 ↗ · S ~6.0 → **global ≈6.5**.
+🎯 **Meta operativa: 7.0 con ninguna < 6.5 → todo a 6.5 salvo Reading ya es 7.0.**
 
-**Faltan 24 días (sáb 14 nov).** R 7.5 · W ~6.5 (**~5.5–6 en frío**) · L 6.0 ↗ · S ~6.0 → **global ≈6.5**.
+**Semana de temporada alta:** mié noche y vie sin sesión. Jue ✅ Sección 4 **7/10** *(de 4/10)* · TFNG **3/4**.
 
-### ✅ Martes 20 completo
-🎧 Oficina: Flow chart 100%·100% · **Mapa 5/5** · Note 100% · MC **3/6 → 6/6** · Note sección 4 **4/10**.
-🔢 Drill de números y 🗣️ *I'd say* hechos con Gemini.
-🎤 **Parte 3 ×3** — ver abajo.
+### 🧾 LA DEUDA, entera
 
-### 🎤 Lo del Speaking de anoche
+| De | Qué | Estado |
+|---|---|---|
+| Mié 21 noche | 🎤 Parte 3 ×1 con `Having said that` | ⏳ |
+| Vie 23 | ✍️ **Task 1 en frío** *(último: 8-oct, 16 días)* | ⏳ → montado: `12_Task1_Archive.md`, final |
+| Vie 23 | 🎤 Partes 3 extra | ⏳ |
+| Sáb 24 | 🎤 **Speaking mock oficial** *(pendiente desde el 17)* | ⏳ |
+| Sáb 24 | ✍️ **Task 2 en frío** con barrido | ⏳ → montado: `11_Writing_Baseline_Essays.md`, final |
+| **Dom 25** | 🏁 **MOCK COMPLETO Nº1** (L + R + W) + post-mortem | ⏳ |
 
-| ✅ Cerrado | 🔴 Abierto |
-|---|---|
-| **`I'd say`** *(tras 4 avisos, salió solo)* | **`Having said that`: 0 de 3** |
-| **`On balance` al final** *(corregido en 2 días)* | |
-| 🆕 **Especulación** *(It is likely that…)* | |
-| 🆕 **Condicional** — su mejor momento oral | |
+### 📋 SÁBADO 24 — el orden
 
-> ## 🔴 El techo está en UNA cosa: falta el "pero".
-> Mete posición → evidencia → veredicto. **Nunca aparece la contraparte.**
-> **Es el mismo patrón del 12-sep por escrito** (dos bodies con el mismo argumento). **Cruza los dos módulos.**
->
-> 🎯 **Truco, tras cada ejemplo:** *"¿quién estaría en desacuerdo conmigo, y por qué tendría parte de razón?"* → eso es tu `Having said that`.
+| | Min | Tarea | Por qué ahí |
+|---|---|---|---|
+| [ ] 1 | **20** | ✍️ **TASK 1 Nº7 EN FRÍO** — barras | Cabeza fresca. 16 días oxidado y mañana cuenta |
+| [ ] 2 | 10 | corrección conmigo | |
+| | 10 | ☕ | |
+| [ ] 3 | **~15** | 🎤 **SPEAKING MOCK OFICIAL** *(Chrome, el portal solo admite una sesión)* | Única medición real de S. La voz descansada |
+| | 15 | ☕ pausa larga | |
+| [ ] 4 | **40** | ✍️ **TASK 2 Nº9 EN FRÍO** — *Discussion* | Ensayo de vestuario del mock |
+| [ ] 5 | 15 | corrección conmigo | |
+| [ ] 6 | **10** | 🎤 **Parte 3 ×2** con **`Having said that` obligatorio** | Ya con el feedback del Discussion: es el mismo músculo |
 
-### 🔬 Y la regla de Listening que explica el 100% junto al 4/10
-
-> **`Choose the correct letter`** → reconocer **la paráfrasis**
-> **`Write ONE WORD from the passage`** → **PROHIBIDO parafrasear.** Se escribe la palabra que **SUENA** *(mountainous terrain → **terrain**)*
->
-> **Son habilidades contrarias. Mirar la instrucción antes de cada bloque.**
+### 🏁 DOMINGO 25 — el mock
+L (≈32 min) + R (60 min) + W (60 min) **seguidos, sin pausas largas**, como el examen. Después, post-mortem.
 
 ---
 
-## 🔴 EL PLAN — lo que de verdad falta antes del sábado
-
-**Listening ya no es el riesgo.** El riesgo es **Writing en frío** *(último Task 1: 8 de octubre)* y el **Speaking mock**, pendiente desde el sábado 17.
-
-| Día | 🏢 Oficina | 🏠 Casa |
-|---|---|---|
-| **Mié 21** | 📖 ✅ YNNG **5/7** (comparación inventada ×2) | 😴 *nada: llegó agotada (temporada alta en el trabajo)* |
-| **Jue 22** | ✅ 🎧 Sección 4 **7/10** *(de 4/10)* · 📖 TFNG **3/4** | — |
-| **Vie 23** | ✍️ **TASK 1 EN FRÍO (20 min)** + corrección | 🎤 **Partes 3 extra** con `Having said that` |
-| **Sáb 24** | — | 🎤 **SPEAKING MOCK OFICIAL** en Chrome · ✍️ **TASK 2 EN FRÍO (40 min)** con barrido final |
-| **🏁 Dom 25** | — | **MOCK COMPLETO Nº1** (L + R + W seguidos) + 📊 **post-mortem** |
-
-### 🔴 Las dos reglas para el mock del sábado
+### 🔴 Las dos reglas para el mock del domingo
 
 > **1. Los segundos de lectura previa de CADA parte son obligatorios.** Probado el 18-oct: en frío ≥6/10 mal; con protocolo, 100% dos veces.
 > **2. En Writing, NO entregar antes de tiempo.** Los minutos que sobran son el barrido. El 18-oct sobraron 6 y 5 de los 8 errores eran cazables.

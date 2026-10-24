@@ -1063,3 +1063,47 @@ Colombia´s figure was consistently far higher, starting at 70%. It fluctuated s
 - Detalle: *below* se puede quitar (sigue copiando el enunciado)
 - ⚠️ **Ojo:** la v2 es en su mayoría texto de las sustituciones. **Es el modelo de referencia para líneas**, no una medida de su nivel en frío. La medida es la v1 (~5.5).
 
+
+
+---
+
+# ⏱️ SÁBADO 24 OCT — TASK 1 Nº 7 · GRÁFICO DE BARRAS · EN FRÍO · 20 min
+
+> **Autocontenido.** ⚠️ **No abras el enunciado hasta tener el cronómetro en 20:00.**
+> **16 días sin Task 1.** El mock de mañana lo incluye: esto es para despertarlo.
+
+## Lo que se mide hoy
+1. 🔴 **El Overview es el titular, SIN dígitos.** El 8-oct se llenó de cifras y le faltó la idea grande
+2. **Cuatro párrafos:** Intro (1) · Overview (2) · Detalle 1 · Detalle 2. **No cinco**
+3. **Agrupar**, no recorrer barra por barra. Si ya lo dijiste en el Overview, en el detalle solo van **cifras**
+4. **≥150 palabras**, objetivo 160–180
+5. 🔴 **Los últimos 3 minutos son barrido:** concordancia · artículos (*the UK*, *the proportion of*) · apóstrofo con la tecla `'` · nada copiado del enunciado
+
+## Reparto
+**0–3** leer y agrupar · **3–6** intro + overview · **6–16** dos párrafos de detalle · **16–20** barrido
+
+---
+
+<details>
+<summary><b>📊 EL ENUNCIADO — abrir SOLO con el cronómetro listo</b></summary>
+
+> *The bar chart below shows the percentage of households in one country that had access to four different technologies in 2005, 2015 and 2025.*
+>
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*
+>
+> **Write at least 150 words.**
+
+**Datos (porcentaje de hogares):**
+
+| Tecnología | 2005 | 2015 | 2025 |
+|---|---|---|---|
+| Internet access | 38 | 74 | 92 |
+| Smartphone | 6 | 61 | 89 |
+| Smart TV | 1 | 22 | 58 |
+| Solar panels | 2 | 5 | 19 |
+
+</details>
+
+## ✍️ Task 1 nº 7 — v1: PEGAR AQUÍ
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿Barrido hecho?** ___
