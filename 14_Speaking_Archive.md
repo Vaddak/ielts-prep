@@ -287,13 +287,19 @@ For Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy and Pron
 A table: what I said | correct version | type of error.
 
 ### 5. Watch-list (my known errors — tell me how many times each appeared)
-- "I will say" instead of "I'd say"
-- "the" before general plurals ("the schools", "the people")
+- "will" instead of "would" with ANY verb: "I will say / prefer / like / choose" → "I'd say / prefer / like / choose"
+- "the" before general plurals or uncountables ("the schools", "the public transport", "the recent years")
+- "the last year" instead of "last year"
 - present simple with "since/for" ("I live here since…" → "I've lived")
+- "during" + a length of time ("during six months" → "for six months")
 - "too much/too many" used to mean "a lot"
-- false friends: wait (=expect), pretend, labor (=manual), media (=average), actual, principal
+- false friends: wait (=expect), pretend, labor (=manual), media (=average), familiar (=relative), insecure (=unsafe), actual, principal
+- adverb between verb and object ("impacts negatively the cities")
 - uncountables made plural (efforts, researches, advices)
-- Part 3 without "Having said that" / a real counter-argument
+- restarting an answer ("Wait, I will start again")
+- Part 3 without "Having said that" / a real counter-argument, or without a final verdict
+
+IMPORTANT: read the transcript TWICE looking for errors. List EVERY error, not only the ones in this watch-list. Do NOT clean up or smooth my transcript.
 
 ### 6. Overall band
 Average of the four criteria, rounded to the nearest 0.5, and ONE sentence on the single change that would raise it most.
@@ -302,3 +308,64 @@ Give the whole result as ONE markdown block I can copy.
 ```
 
 **Al terminar:** pegar el bloque aquí, debajo, y registrar en `07_Error_Log.md`.
+
+
+---
+
+# 🤖 GEMINI — PRIMERA MEDICIÓN CON EL PROMPT ESTRICTO · 24-oct (tarde)
+
+## **Band 6.0** · FC 6 · LR 6 · GR 6 · P 6.5
+
+**Creíble: coincide con FlexCheck del 12-oct (6.0 en los cuatro).** Dos evaluadores distintos, el mismo número. **Speaking = 6.0.**
+
+### Transcripción (la que dio Gemini)
+
+> My full name is Valentina Restrepo Jaramillo. · Yes, of course. I brought my passport. · My hometown is Medellín. It is located in Antioquia department in Colombia. · The thing I like the most of living here in Medellín are the mountains. I love being surrounded by them. · I will start with the security problem we have. The city is currently very insecure for women. For everyone. · Usually, I use public transportation such as the metro system. The integrated bus it has. And also in private platforms such as Uber. · Yes, it is. Even with the increase in the population Medellín has in the recent years. The public transport remains very efficient. · I will prefer to have my own car, of course, even more if I am going outside the city. For a near city, for a near town, or if I am visiting a familiar outside the city. But inside Medellín, I will definitely prefer using the public transport due to the traffic problems. · The last year from April to September I was in Leuven, Belgium. I was doing a six-month student internship and I was researching about electrochemical sensors. I was linked with IMEC and the KU Leuven University. · I think Leuven is very beautiful due to its architecture. The churches there are very beautiful. The small details and the huge details they have are awesome. Details that I really appreciate. · I indeed had enough time. I mean, I was there during six months, but I was completely alone, so I was afraid of getting lost, so I only went to Brussels twice. And I went also to [pause] I don't remember the name of the town, but it's in the north. · Tourism impact in both positive and negative ways. It impacts negatively the historic cities due to the poor care of tourists give to the cities or the places they visit, but on the other hand, they invest in the city they are visiting, supporting the local markets and the local food, the local stores.
+>
+> *(Gemini también registró en la Parte 2: "I didn't end. Wait. I will start again.")*
+
+## ✅ PRIMERA PARTE 3 CON LAS DOS CARAS
+*"It impacts negatively the historic cities… **but on the other hand**, they invest in the city…"* — el 20-oct fue **0 de 3**. Faltó el veredicto (*On balance*).
+
+## 🔴 EL HALLAZGO — el hábito no es `I will say`: es **`will` por `would`**
+Gemini contó *"I will say: 1"* y **no hay ninguno** en la transcripción. Lo que hay: ***I will prefer*** **×2**.
+
+| Español | ❌ | ✅ |
+|---|---|---|
+| diría | I will say | **I'd say** |
+| preferiría | I will prefer | **I'd prefer** |
+| me gustaría | I will like | **I'd like** |
+| elegiría | I will choose | **I'd choose** |
+
+> ## Si en español termina en **-ría**, en inglés es **`I'd`**.
+> `I'd say` se arregló como **frase suelta**. Hay que drillar **el patrón**.
+
+## 🆕 Falsos amigos nº15 y nº16 *(+ una preposición de la misma familia)*
+| ❌ | ✅ | |
+|---|---|---|
+| *visiting a **familiar*** | a **relative** | nº15 · *familiar* = conocido |
+| *very **insecure** for women* | **unsafe** | nº16 · *insecure* = **inseguro de sí mismo**. Crimen → **unsafe / dangerous** |
+| *there **during** six months* | **for** six months | *durante* + duración = **for**. ***during*** + evento |
+
+## ⚠️ Lo que volvió bajo presión
+- 🔴 ***The last year*** — **cerrado en el drill del 18-oct** y volvió
+- 🔴 *It impacts **negatively** the historic cities* — adverbio entre verbo y objeto (**error nº5 de agosto**) → *It has a negative impact **on** historic cities*
+- *Tourism **impact** in both ways* → *Tourism **has an** impact*
+- ***The** public transport remains* · *in **the** recent years* → sin artículo
+- *researching **about*** → *researching*
+- *the thing I like the most **of*** → **about** · *in private platforms* → **on** · *a **near** city* → **nearby**
+
+> **Lectura:** lo que se cierra en drill **todavía no aguanta la presión**. Por eso el drill es diario.
+
+## 🎯 Fluidez: no reiniciar
+*"I didn't end. Wait. I will start again."* → **nunca reiniciar**. Seguir desde donde se está: *"…or rather…"* · *"…what I mean is…"* · *"…let me put it another way…"*
+
+## ⚠️ Gemini como evaluador
+- **La banda: confiable** (coincide con FlexCheck)
+- **La lista de errores: incompleta** — se le escaparon **~8**, incluidos *insecure* y *during*. Contó *the churches there* como error y **es correcto** (iglesias concretas de Lovaina)
+- **La transcripción no fue literal**: casi sin pausas ni muletillas → la fluidez real pudo ser algo menor
+- ✅ **Prompt actualizado** (arriba): *will* por *would* con cualquier verbo · lista ampliada · **dos pasadas** · **no limpiar** la transcripción
+
+| 12-oct FlexCheck | 24-oct Gemini | Meta |
+|---|---|---|
+| 6.0 | **6.0** | **6.5** |

@@ -13,6 +13,7 @@
 | **Listening — mock oficial nº2** | **1-oct** | **6.0** *(24/40, 27:23)* | — | — | — | |
 | **Speaking — mock oficial (FlexCheck)** | **12-oct** | — | — | — | **6.0** *(FC 6 · LR 6 · GR 6 · P 6)* | |
 | **Listening — mock oficial nº3** | **18-oct** | **6.0** *(32:41)* | — | — | — | P1 limpia · **P4 caída** |
+| **Speaking — Gemini, prompt estricto** | **24-oct** | — | — | — | **6.0** *(FC 6 · LR 6 · GR 6 · P 6.5)* | coincide con FlexCheck |
 | 🧭 **ESTADO A 18-OCT** | | **6.0** ⬆️ | **7.5** ✅ | **~6.5** corregido · **~6** en frío | **6.0** | **≈ 6.5** |
 | Mock completo nº1 | *19–25 oct* | | | | | |
 | Mock completo nº2 | *26 oct – 1 nov* | | | | | |

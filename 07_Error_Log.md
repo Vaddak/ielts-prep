@@ -409,6 +409,14 @@ After every timed practice or mock exam:
 | 2026-10-24 | 🔴 **Entrar en frío — 2º módulo** | Speaking | *"Me sentí muy fría, me quedaba sin respuesta… con Gemini hago warm-up y esto fue en frío"* | **Mismo hallazgo que el Listening del 18-oct** (con protocolo: 100% ×2). 🆕 **Protocolo de calentamiento para el examen**: 5 min de inglés en voz baja antes de entrar · 3 frases ancla · 1ª respuesta de la Parte 1 siempre larga |
 
 
+| **2026-10-24** | 🤖 **Gemini, prompt estricto: Speaking 6.0** (FC 6 · LR 6 · GR 6 · P 6.5) | Speaking | **Coincide con FlexCheck 12-oct (6.0).** ✅ **1ª Parte 3 con las dos caras** (*but on the other hand*) — el 20-oct fue 0/3. Faltó *On balance* | **S = 6.0 confirmado por dos evaluadores.** Falta medio punto |
+| 2026-10-24 | 🔴 **El hábito real: `will` por `would`** | Speaking · GR | ***I will prefer*** ×2 (Gemini lo contó mal como *I will say*) | 🆕 **Regla: español en -ría → `I'd`** (*diría, preferiría, me gustaría, elegiría*). Drillar **el patrón**, no la frase |
+| 2026-10-24 | 🆕 **Falsos amigos nº15 y nº16** | Speaking · LR | *visiting a **familiar*** (→ relative) · *very **insecure** for women* (→ **unsafe**) | + ***during** six months* → **for** (*durante* + duración) |
+| 2026-10-24 | ⚠️ **Hábitos cerrados que volvieron bajo presión** | Speaking | ***The last year*** (cerrado en drill el 18-oct) · *impacts **negatively** the cities* (error nº5 de agosto) · ***the** public transport* | Lo cerrado en drill **todavía no aguanta la presión**. Drill diario |
+| 2026-10-24 | ⚠️ **Reinició la Parte 2** | Speaking · FC | *"I didn't end. Wait. I will start again."* | **Nunca reiniciar**: *…or rather… / …what I mean is…* |
+| 2026-10-24 | ⚠️ **Gemini: banda fiable, lista de errores no** | método | Se le escaparon ~8 errores; transcripción no literal; marcó como error *the churches there* (correcto) | ✅ Prompt actualizado en `14_Speaking_Archive.md` |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
