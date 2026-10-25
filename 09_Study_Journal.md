@@ -1695,3 +1695,43 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 **Note completion sección 4 (26167, *Vertical City*): 7/10** — **subió de 4/10 a 7/10** en dos días con la regla de copiar. Fallos: `beds` (a bed **of silt**), `psichological`, `governments` (sonó *governance*).
 **TFNG 28127 (*The Friendship Test*): 3/4 (75%).** Fallo: Q3 FALSE → **NOT GIVEN** (el texto habla de presupuesto, no dice que el dinero **determine** el éxito). Antes, guía completa de TFNG y YNNG (quién habla, fuerza *may/definitely*, comparación inventada).
 
+
+
+---
+
+### 2026-10-24 (sábado) — ponerse al día: Task 1, Speaking mock, Gemini, Task 2
+
+| | Resultado |
+|---|---|
+| ✍️ Task 1 nº7 en frío (barras) | **~5.5–6** · ✅ **Overview arreglado** (sin cifras, con titular) · 🔴 un *all* falso sobre los datos · 3 typos sobrevivieron 20 min de revisión |
+| 🎤 Speaking mock oficial | **sin nota** (FlexCheck es de pago) · *"me sentí muy fría"* → 🆕 **protocolo de calentamiento** |
+| 🤖 Gemini, prompt estricto | **6.0** — coincide con FlexCheck del 12-oct · ✅ **1ª Parte 3 con las dos caras** · el hábito real es ***will* por *would*** |
+| ✍️ Task 2 nº9 en frío (*Discussion*) | **~5.5–6** · 🔴 **la Visión B nunca aparece**: los dos bodies hablan de empleo |
+
+**El "7.5" que vio en el portal era su META** (`6 / 7.5` = actual / meta), no una nota.
+
+**El hallazgo del día cruza Writing y Speaking:** defiende un lado muy bien y no llega al otro. Regla nueva: **en el plan, una frase por cada visión como si la creyera; si la de B podría defender A, todavía no hay B.**
+
+**Cómo me sentí:** *"me sentí muy tonta"* tras el Speaking mock — que tenía nombre: **entrar en frío**, el mismo hallazgo del Listening del 18-oct.
+
+---
+
+### 2026-10-25 (domingo) — 🏁 MOCK COMPLETO Nº1
+
+| | |
+|---|---|
+| 🎧 **Listening** | **6.5** 🎉 — primera vez sobre 6.0, tras tres mocks seguidos en 6.0. P1–3 = **27/30**; **P4 = 2/10** (*"me perdí demasiado en la mitad de la sección 4"*) |
+| 📖 **Reading** | **7.5** ✅ — 34/40, 58:34. 4 de 6 fallos en T/F/NG, en las dos direcciones |
+| ✍️ **Writing** | ⏸️ **bloqueo en el Task 1** — tabla de 14 actividades × 4 columnas (*"son tantos datos"*) → convertida en **práctica guiada**; el análisis está hecho en `12_Task1_Archive.md` |
+
+**Con nervios:** se envió un Listening por error a los 7 min (0.5, **inválido**). Respiró, volvió a empezar, **y salió su mejor Listening**.
+
+**Patrón del día en dos módulos: cambiar la palabra de la fuente** — `3 days` por *3 nights* (Listening), `preventing` por *prevention* (Reading).
+
+**Lección del Task 1:** con muchos datos, **elegir es lo que se califica** (*"selecting… the main features"*). Se usan unos 10 números de 56.
+
+**Global ≈ 6.5. Para 7.0: Writing y Speaking a 6.5.** Semana planificada hasta el **mock nº2 del sábado 31**.
+
+**Pendiente:** terminar la tabla (lunes) · decidir la privacidad del repo (domingo 1).
+
+**Cómo me sentí:** nerviosa al empezar (*"estoy muy nerviosa, le di sin querer a finish"*), y aun así el mejor Listening hasta hoy.
