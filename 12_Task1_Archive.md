@@ -1161,3 +1161,57 @@ Smart TVs followed a different pattern: from only 1% in 2005, they reached 22% i
 1. **Antes de *all / every / both*: comprobar cada barra**
 2. **4 párrafos, ~180 palabras**, y pasar al Task 2
 3. **Dos barridos separados:** sentido · **ortografía palabra por palabra**
+
+
+---
+
+# 🧭 TASK 1 Nº 8 — TABLA GUIADA *(mock del 25-oct, interrumpido)* · cómo abordar MUCHOS datos
+
+**Se bloqueó a los 5 minutos:** *"son tantos datos, no sé cómo abordarlo"*. Se convierte en **práctica guiada**, sin cronómetro.
+
+## El enunciado
+> *The table below shows how the UK unemployed spent their time last year.*
+> *Summarise the information by selecting and reporting the main features, and make comparisons where relevant.* **150+ words.**
+
+**How the Unemployed Spent their Time (UK, last year), %**
+
+| Actividad | Morning men | Morning women | Afternoon men | Afternoon women |
+|---|---|---|---|---|
+| Housework | 19 | **49** | 7 | 21 |
+| Shopping | 20 | 26 | 9 | 17 |
+| Job hunting | 22 | 16 | 12 | 13 |
+| Visiting friends or relatives | 6 | 10 | 12 | 17 |
+| Gardening | 14 | 2 | 13 | 3 |
+| TV | 4 | 2 | 14 | 12 |
+| Reading | 9 | 5 | 8 | 10 |
+| Decorating | 7 | 3 | 7 | 2 |
+| Walking | 5 | 3 | 8 | 2 |
+| Nothing / sitting around | 3 | 3 | 9 | 6 |
+| Staying in bed | 8 | 8 | 1 | 0 |
+| Visiting town | 5 | 7 | 3 | 4 |
+| Playing sport | 4 | 1 | 4 | 0 |
+| Drinking | 2 | 1 | 3 | 1 |
+
+## 🔑 LA REGLA PARA MUCHOS DATOS
+El enunciado dice ***"selecting and reporting the main features"***. **Elegir ES lo que se califica.** Describir los 56 números convierte el texto en una lista y baja la nota. **Se usan unos 10.**
+
+## El método — los primeros 3 minutos
+1. **¿Qué compara?** Aquí, **dos cruces**: mañana vs tarde · hombres vs mujeres
+2. **Tres rasgos = el Overview, sin cifras:**
+   - **A.** En la mañana dominan las tareas prácticas: *housework, shopping, job hunting*
+   - **B.** La mayor diferencia de la tabla: las mujeres, mucho más *housework* (**49 vs 19**)
+   - **C.** En la tarde todo se reparte más y sube el ocio: *TV* (14/12), *visiting friends* (12/17)
+3. **Dos grupos = dos párrafos**, 2–3 cifras cada uno
+
+| Párrafo | Contenido | Cifras |
+|---|---|---|
+| **Detalle 1: LA MAÑANA** | housework, shopping, job hunting | 49 vs 19 · 26 vs 20 · 22 vs 16 |
+| **Detalle 2: LA TARDE** | baja el housework, sube el ocio, jardín = hombres | 21 vs 7 · TV 14/12 · friends 17/12 · gardening 13 vs 3 |
+
+**Se ignora sin culpa:** reading, decorating, walking, sitting around, visiting town, sport, drinking. Como mucho, una frase: *"Activities such as playing sport and drinking accounted for very small proportions throughout."*
+
+## ✍️ Para escribir — 15 min, ~180 palabras, 4 párrafos
+**Intro (dada):** *The table compares how unemployed men and women in the UK spent their mornings and afternoons last year.*
+**Overview:** A + B + C · **Detalle 1:** mañana · **Detalle 2:** tarde
+
+### v1: PEGAR AQUÍ

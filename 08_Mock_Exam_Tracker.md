@@ -377,6 +377,19 @@ Las tres pérdidas de banda del día **nacen todas antes de escribir la primera 
 
 ---
 
+## 🏁 MOCK COMPLETO Nº1 — 25 de octubre · RESUMEN
+
+| Módulo | Banda | |
+|---|---|---|
+| 🎧 Listening | **6.5** 🎉 | primera vez sobre 6.0 · P1–3 27/30, **P4 2/10** |
+| 📖 Reading | **7.5** ✅ | 34/40 · 4 de 6 fallos en T/F/NG |
+| ✍️ Writing | ⏸️ **interrumpido** | bloqueo en el Task 1 (tabla de 56 datos) → práctica guiada en `12_Task1_Archive.md` |
+| 🎤 Speaking | **6.0** | Gemini, 24-oct |
+
+**Global estimado ≈ 6.5.** Para **7.0** faltan **Writing y Speaking a 6.5** (L 6.5 + R 7.5 + W 6.5 + S 6.5 = 6.75 → 7.0).
+
+---
+
 ## 🏁 MOCK COMPLETO Nº1 — LISTENING · 25 de octubre · **BAND 6.5** 🎉
 
 **Primer Listening por encima de 6.0**, tras tres mocks seguidos en 6.0 (28-sep · 1-oct · 18-oct). Con nervios y después de enviar un test por error a los 7 minutos.

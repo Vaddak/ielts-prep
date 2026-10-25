@@ -6,48 +6,46 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — sábado 24 oct · ponerse al día completo (sáb + dom)
+## 👉 RETOMAR AQUÍ — semana del 26 oct al 1 nov · **20 días para el examen**
 
-**Faltan 21 días (sáb 14 nov).** R 7.5 · W ~6.5 (**~5.5–6 en frío**) · L 6.0 ↗ · S ~6.0 → **global ≈6.5**.
-🎯 **Meta operativa: 7.0 con ninguna < 6.5 → todo a 6.5 salvo Reading ya es 7.0.**
+### 🏁 Domingo 25 — mock completo nº1
+| | |
+|---|---|
+| 🎧 **Listening 6.5** 🎉 | primera vez sobre 6.0 · P1–3 = 27/30 · **P4 = 2/10** |
+| 📖 **Reading 7.5** ✅ | 34/40 · 4 de 6 fallos en T/F/NG |
+| ✍️ **Writing** | ⏸️ **se bloqueó en el Task 1** (tabla de 56 números) → **práctica guiada**, en `12_Task1_Archive.md` (final) |
+| 🎤 Speaking | 6.0 *(Gemini, 24-oct)* |
 
-**Semana de temporada alta:** mié noche y vie sin sesión. Jue ✅ Sección 4 **7/10** *(de 4/10)* · TFNG **3/4**.
+> 🎯 **Global ≈ 6.5. Para 7.0: Writing y Speaking a 6.5.** Listening y Reading ya están.
 
-### 🧾 LA DEUDA, entera
-
-| De | Qué | Estado |
-|---|---|---|
-| Mié 21 noche | 🎤 Parte 3 ×1 con `Having said that` | ⏳ |
-| Vie 23 | ✍️ **Task 1 en frío** *(último: 8-oct, 16 días)* | ⏳ → montado: `12_Task1_Archive.md`, final |
-| Vie 23 | 🎤 Partes 3 extra | ⏳ |
-| Sáb 24 | 🎤 **Speaking mock oficial** *(pendiente desde el 17)* | ⏳ |
-| Sáb 24 | ✍️ **Task 2 en frío** con barrido | ⏳ → montado: `11_Writing_Baseline_Essays.md`, final |
-| **Dom 25** | 🏁 **MOCK COMPLETO Nº1** (L + R + W) + post-mortem | ⏳ |
-
-### 📋 SÁBADO 24 — el orden
-
-| | Min | Tarea | Por qué ahí |
-|---|---|---|---|
-| [x] 1 | **20** | ✍️ **TASK 1 Nº7 EN FRÍO** — barras → ✅ **~5.5–6**, Overview arreglado · *all* falso · 3 typos · 248 pal. | Cabeza fresca. 16 días oxidado y mañana cuenta |
-| [x] 2 | 10 | corrección conmigo | |
-| | 10 | ☕ | |
-| [x] 3 | **~15** | 🎤 **SPEAKING MOCK OFICIAL** → hecho, **sin nota** (FlexCheck es de pago). Se sintió *"muy fría"* → 🆕 protocolo de calentamiento · **medición con Gemini en la noche** *(prompt en `14_Speaking_Archive.md`)* | |
-| | 15 | ☕ pausa larga | |
-| [x] 4 | **40** | ✍️ **TASK 2 Nº9 EN FRÍO** → **~5.5–6** · 🔴 **la Visión B nunca aparece** (los dos bodies = empleo) | |
-| [x] 5 | 15 | corrección conmigo | |
-| [x] 6 | — | 🎤 Parte 3 → **cubierta** con el mock y con Gemini (6.0) | Descansar para el mock |
-
-### 🏁 DOMINGO 25 — el mock
-
-> ## 🎯 LAS REGLAS DEL MOCK, todas juntas
-> **Listening:** leer cada parte ANTES del audio y anotar el TIPO de palabra de cada hueco · al perderse, saltar al **siguiente encabezado** · `Write ONE WORD` = **copiar la palabra que suena**, no parafrasear · cero blancos
-> **Reading:** tarjeta *NOT GIVEN* (final de `04_Reading_Module.md`) · subrayar *than / all / only / single* · inferir ≠ afirmar
-> **Task 1:** Overview sin dígitos · **antes de *all*, comprobar cada barra** · 4 párrafos, ~180 palabras
-> **Task 2:** subrayar la palabra que carga el peso · **una frase por cada visión como si la creyera** · última frase de cada body leída SOLA · **dos barridos**: sentido / **verbos y ortografía palabra por palabra** · no entregar antes de tiempo
-
-L (≈32 min) + R (60 min) + W (60 min) **seguidos, sin pausas largas**, como el examen. Después, post-mortem.
+### 📌 Pendiente de ella
+- ✍️ **Terminar la tabla guiada** (15 min, el análisis ya está hecho)
+- 🔒 **Privacidad del repo:** decidir entre un repo privado aparte para la info personal y limpiar el público. **No urgente** (no hay contraseñas ni tokens; revisado el 25-oct)
 
 ---
+
+## 📅 LA SEMANA — 26 oct a 1 nov
+
+**Lógica:** temporada alta en el trabajo → **oficina = bloques cortos (20 min)**, **casa = lo que necesita voz o 40 min**. Prioridad: **Writing y Speaking**, que son los que deciden el 7.0.
+
+| Día | 🏢 Oficina *(~20 min)* | 🏠 Casa *(~30–40 min)* |
+|---|---|---|
+| **Lun 26** | ✍️ **Terminar la tabla guiada** + corrección | 🎤 Gemini: **Parte 3 ×2** cerrando con *On balance* · 🗣️ drill *I'd…* |
+| **Mar 27** | 🎧 **Sección 4 ×2** — protocolo: **saltar al siguiente encabezado** | ✍️ **Task 2 en frío (40 min)** — *Discussion*, regla de las dos visiones |
+| **Mié 28** | 📖 **T/F/NG ×1** — tarjeta *NOT GIVEN*, dos candidatas | 🎤 **Gemini: test completo** en EXAM MODE, con el calentamiento previo |
+| **Jue 29** | ✍️ **Task 1 en frío (20 min)** — otro formato con muchos datos | 🎧 Sección 4 ×1 · 🗣️ drill |
+| **Vie 30** | 😴 libre si el trabajo aprieta | ✍️ **Task 2 en frío** — *Opinion* |
+| **🏁 Sáb 31** | — | **MOCK COMPLETO Nº2**: L + R + **W completo** · 🎤 Gemini |
+| **Dom 1** | — | 📊 Post-mortem · 🔒 privacidad del repo |
+
+**Cada día, 1 minuto en voz alta:** *I'd say… I'd prefer… I'd argue…* — y en la Parte 3, **siempre** *Having said that…* → *On balance…*
+
+### 🗓️ Y lo que queda después
+| | |
+|---|---|
+| **Nov 2–8** | Mock nº3 + reforzar el módulo más bajo del mock nº2 |
+| **Nov 9–13** | Repaso ligero, **nada nuevo**. **Viernes 13: descanso total** |
+| **Sáb 14** | 🎯 **EXAMEN** |
 
 ### 🔴 Las dos reglas para el mock del domingo
 
