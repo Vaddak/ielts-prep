@@ -19,6 +19,7 @@
 | 2026-09-23 | 🏁 **TEST COMPLETO nº1** *(3 pasajes, 40 preg)* | 40 | **34** | **85%** | 42:00 de 60 |
 | 2026-09-24 | Matching Information nº1 | 9 | **7** | 78% | 13:40 |
 | 2026-09-27 | **Matching Features + Sentence Endings nº1** *(2 tipos nuevos)* | 12 | **12** | **100%** 🏆 | 15:14 |
+| **2026-10-25** | 🏁 **MOCK COMPLETO Nº1** *(portal 831001)* | 40 | **34** | **85% → 7.5** | 58:34 |
 
 ### Patrones vivos
 
@@ -2192,3 +2193,36 @@ International sleeper services face several practical difficulties. Trains must 
 **Nº12 (F → NG).** *Early projects in cities such as Sheffield and Stockholm have been popular*: los dos son populares, pero el texto **no los compara**. Sin comparación no hay contradicción → NG. Marcó F porque *asumió* que eran iguales.
 
 > **Regla para distinguir:** **F** = el texto dice algo que **choca** con la afirmación. **NG** = el texto **no dice nada** sobre ese punto. En la 9 el texto sí habla de la causa (y la limita). En la 12 el texto no habla de cuál fue más popular.
+
+
+---
+
+# 🏁 MOCK COMPLETO Nº1 — READING · 25 de octubre · **BAND 7.5** · 34/40 · 58:34
+
+**Portal, test 831001, condiciones de examen.** Estable en la meta (23-sep: 34/40). Usó los 60 minutos completos.
+
+| Tipo | Fallos |
+|---|---|
+| **T/F/NG** | **4** — Q8 · Q34 · Q35 · Q40 |
+| Opción múltiple | 1 — Q22 |
+| Completar | 1 — Q26 |
+
+> **4 de 6 fallos en T/F/NG, en las DOS direcciones.**
+
+## NG donde iba T/F
+| # | Afirmación | Suya | Correcta | Por qué |
+|---|---|---|---|---|
+| **34** | *IPM has generally been regarded **as a success** in the US* | NG | **FALSE** | *"has not delivered results comparable…"* + *"the federal government has been lacking in effectively promoting"* → **imposible**. **Patrón nº2, 5ª ocurrencia** |
+| **8** | *Flying over long distances can cause insomnia* | NG | **TRUE** | Párrafo B: ***jet lag*** puede causar insomnio. **Paráfrasis no reconocida** |
+
+## T/F donde iba NG
+| # | Afirmación | Suya | Correcta | Por qué |
+|---|---|---|---|---|
+| **35** | *Farmers are **restricted** from using certain pesticides by the US federal government* | FALSE | **NG** | Habla del gobierno y de pesticidas, **nunca de restricciones legales**. Tema presente, afirmación ausente |
+| **40** | *The **apple** industry is now facing a lot of competition from abroad* | TRUE | **NG** | La competencia es para la industria de las **peras**. 🔍 **Dos candidatas:** se ancló en *competition from abroad* y no revisó *apple* |
+
+## Las otras
+- **Q22 (MC)** — *¿por qué no se sabe el tamaño de la Great Pacific Garbage Patch?* Eligió **B** (*no se sabe su ubicación*) → era **C**: *"Due to its **constant growth**, the exact size… is unknown"*. **Causa razonable que el texto no da**
+- **Q26** — `preventing` → **prevention** (*"the answer lies in **prevention** rather than cure"*). ⚠️ **Cambió la forma de la palabra** — igual que `3 days`/`3 nights` en el Listening del mismo día
+
+> 🔁 **Patrón del día en dos módulos: cambiar la palabra de la fuente.** Se copia **exacta**, terminación incluida.

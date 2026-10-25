@@ -431,6 +431,14 @@ After every timed practice or mock exam:
 | 2026-10-25 | ⚠️ **Nervios: "Finish" pulsado por error** | método | Test enviado a los 7:48 → 0.5 en el portal (**inválido**) | Respirar 4-4-6 antes de empezar; **no tocar Finish hasta la última parte** |
 
 
+| **2026-10-25** | 🏁 **Reading mock completo nº1: 7.5** (34/40, 58:34) | Reading | Estable en la meta. **4 de 6 fallos en T/F/NG**, en las dos direcciones | |
+| 2026-10-25 | 🔴 **NG donde iba FALSE — 5ª ocurrencia** | Reading · T/F/NG | Q34 *"regarded as a success"* · texto: *"has not delivered comparable results… government lacking in promoting"* | **Se puede señalar la frase que lo hace imposible → FALSE** |
+| 2026-10-25 | 🔴 **Paráfrasis no reconocida → NG** | Reading · T/F/NG | Q8 *"flying over long distances"* = **jet lag** | TRUE |
+| 2026-10-25 | 🔴 **T/F donde iba NG** | Reading · T/F/NG | Q35 *restricted* (el texto nunca habla de restricciones) · Q40 ***apple*** (el texto habla de **peras**) | Q40 = **las dos candidatas**: se ancló en *competition from abroad* y no revisó *apple* |
+| 2026-10-25 | ⚠️ **Causa razonable no dicha (MC)** | Reading | Q22 eligió *ubicación desconocida*; el texto: *constant growth* | |
+| 2026-10-25 | 🔁 **Cambiar la palabra de la fuente — 2 módulos el mismo día** | Reading + Listening | `preventing` por **prevention** · `3 days` por **3 nights** | **Copiar EXACTO, terminación incluida** |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
