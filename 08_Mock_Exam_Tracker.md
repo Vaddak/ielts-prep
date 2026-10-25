@@ -14,6 +14,8 @@
 | **Speaking — mock oficial (FlexCheck)** | **12-oct** | — | — | — | **6.0** *(FC 6 · LR 6 · GR 6 · P 6)* | |
 | **Listening — mock oficial nº3** | **18-oct** | **6.0** *(32:41)* | — | — | — | P1 limpia · **P4 caída** |
 | **Speaking — Gemini, prompt estricto** | **24-oct** | — | — | — | **6.0** *(FC 6 · LR 6 · GR 6 · P 6.5)* | coincide con FlexCheck |
+| ⚠️ *Listening — envío accidental* | *25-oct* | *0.5 (7:48)* | | | | **INVÁLIDO** — "Finish" pulsado por error con los nervios |
+| 🏁 **Listening — MOCK COMPLETO Nº1** *(portal, test 821013)* | **25-oct** | **6.5** 🎉 *(≈29/40, 24:09)* | | | | P1 8/10 · **P2+3 19/20** · P4 **2/10** |
 | 🧭 **ESTADO A 18-OCT** | | **6.0** ⬆️ | **7.5** ✅ | **~6.5** corregido · **~6** en frío | **6.0** | **≈ 6.5** |
 | Mock completo nº1 | *19–25 oct* | | | | | |
 | Mock completo nº2 | *26 oct – 1 nov* | | | | | |
@@ -371,6 +373,32 @@ Las tres pérdidas de banda del día **nacen todas antes de escribir la primera 
 3. 🔴 **Ortografía al escribir mientras escucha** — sin corrector en el examen
 
 ⚠️ **Sesgo de la medición:** se hicieron las secciones 1 y 4 saltando la 2 y la 3, que son de dificultad intermedia. La estimación es orientativa; **la medición buena es el test completo de 40 preguntas**.
+
+---
+
+## 🏁 MOCK COMPLETO Nº1 — LISTENING · 25 de octubre · **BAND 6.5** 🎉
+
+**Primer Listening por encima de 6.0**, tras tres mocks seguidos en 6.0 (28-sep · 1-oct · 18-oct). Con nervios y después de enviar un test por error a los 7 minutos.
+
+| Parte | Aciertos |
+|---|---|
+| 1 | **8/10** |
+| 2 + 3 | **19/20** 🏆 |
+| 4 | **2/10** 🔴 |
+| **Total** | **≈ 29/40 → Band 6.5** |
+
+### Parte 1 — dos fallos, los dos ya conocidos
+- **Q1** `ecpd` → **EZPD** — el audio dijo ***"zed"***. 🇬🇧 **Z = zed** (tabla de deletreo desde el 28-sep)
+- **Q2** `3 days` → **3 nights** — *"a single comfort room for **3 nights**"*. **Cambió la palabra del audio por la suya** (regla del 20-oct: copiar lo que suena)
+
+### Parte 4 — el derrumbe empezó tras la 33
+- **31** `centigrate` → **centigrade** (ortografía; la oyó bien)
+- **32** `months` ✅ · **33** `56` ✅
+- **34–40: siete seguidas mal** — su frase: *"me perdí demasiado en la mitad de la sección 4"*. Mismo patrón del 18-oct: **persiguió el audio** en vez de saltar al siguiente encabezado
+- *(Respuestas correctas de 34–40: pendientes de leer en la ℹ️ del portal)*
+
+> ## Partes 1–3: **27/30, nivel 7–8.** Todo lo que separa del 7 es la Parte 4.
+> **Con la Parte 4 a 5/10 → 32/40 = Band 7.5.**
 
 ---
 

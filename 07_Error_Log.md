@@ -424,6 +424,13 @@ After every timed practice or mock exam:
 | 2026-10-24 | ⚠️ **Reincidentes** | Writing | ***Over the last years*** (18-oct) · ***access to** knowledge* (12-sep) · **punto y coma mal** (18-oct) · *despite of / in spite of whether* · *argue how* | |
 
 
+| **2026-10-25** | 🏁 **Listening mock completo nº1: BAND 6.5** 🎉 (≈29/40, 24:09) | Listening | **Primer L por encima de 6.0.** P1 8/10 · **P2+3 19/20** · P4 2/10 | **P1–3 = 27/30 (nivel 7–8). Todo lo que falta es la P4.** Con 5/10 en P4 → 7.5 |
+| 2026-10-25 | 🔴 **Z = "zed" — costó un punto** | Listening · P1 | `ecpd` por **EZPD** | Estaba en la tabla desde el 28-sep |
+| 2026-10-25 | 🔴 **Cambió la palabra del audio por la suya** | Listening · P1 | `3 days` por **3 nights** | Regla del 20-oct: **copiar lo que suena** |
+| 2026-10-25 | 🔴 **P4: siete seguidas mal tras la 33** | Listening · P4 | *"me perdí demasiado en la mitad de la sección 4"* · `centigrate` (→ centigrade) | **Mismo patrón del 18-oct: perseguir el audio.** Saltar al siguiente encabezado |
+| 2026-10-25 | ⚠️ **Nervios: "Finish" pulsado por error** | método | Test enviado a los 7:48 → 0.5 en el portal (**inválido**) | Respirar 4-4-6 antes de empezar; **no tocar Finish hasta la última parte** |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
