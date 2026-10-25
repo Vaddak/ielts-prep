@@ -728,7 +728,7 @@ In conclusion, I largely agree that governments should prioritise public transpo
 **Problemas posibles:** sustancias tóxicas (plomo, mercurio) que contaminan el suelo y el agua · exportación a países en desarrollo con reciclaje informal y riesgos para la salud · pérdida de materiales valiosos (oro, cobre, tierras raras).
 **Soluciones posibles:** *right to repair* y diseño modular (vida útil más larga) · responsabilidad extendida del productor (*take-back schemes*) · reciclaje formal certificado.
 **Léxico:** *hazardous · discard · dispose of · landfill · leach into · built-in obsolescence · extend the lifespan · take-back scheme · hold manufacturers accountable*.
-💡 **Tu ventaja:** eres ingeniera electrónica. Un ejemplo técnico concreto (PCB, baterías de litio) vale más que uno genérico.
+💡 **Tu ventaja:** vienes de un campo técnico. Un ejemplo técnico concreto (PCB, baterías de litio) vale más que uno genérico.
 
 </details>
 
@@ -750,7 +750,7 @@ In conclusion, while standard and massive recycling protocols are a rapid soluti
 
 🔴 **Lo que la frena en 6:**
 1. **Bodies desequilibrados:** Body 1 = 123 palabras, Body 2 = 86 (patrón de la semana 10, 3ª vez)
-2. **Body 2 sin ejemplo concreto.** Y la ventaja de ingeniera no se usó en ninguno de los dos bodies
+2. **Body 2 sin ejemplo concreto.** Y la ventaja del perfil técnico no se usó en ninguno de los dos bodies
 3. **Ortografía de palabras que conoce** (la misma fuga del Listening de hoy): *wasted, disscused, appropiate, adquire, Nowdays, throught*
 4. **Falsos amigos nuevos:** *actual* (= real, no "actual") · *increment* (= aumento en pasos fijos; se dice *increase*)
 5. **Concordancia sujeto–verbo** ×3: *batteries requires · they ends · manufacturers… who avoids*

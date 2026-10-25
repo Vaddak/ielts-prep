@@ -942,4 +942,4 @@ Cada tema trae 8 colocaciones y un ejemplo modelo. Son los temas que más se rep
 
 **2. No apilar.** Basta una expresión fuerte por oración. Si un párrafo junta *exacerbate*, *far-reaching*, *knock-on* y *disproportionate*, suena memorizado y el examinador lo penaliza.
 
-**3. Los ejemplos de su vida valen oro.** Es ingeniera y data scientist, así que sus ejemplos sobre semiconductores, datos o automatización son concretos y creíbles. Eso sube el *Task Response*.
+**3. Los ejemplos de su vida valen oro.** Viene de un campo técnico, así que sus ejemplos sobre semiconductores, datos o automatización son concretos y creíbles. Eso sube el *Task Response*.

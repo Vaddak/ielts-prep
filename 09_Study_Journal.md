@@ -604,7 +604,7 @@ El plan dice *"no corrijas mientras escribes"*. Al mezclar generación y correcc
 
 Cubierto: qué es (20 min, 150+ palabras) · la regla que hunde bandas (**describir, nunca explicar el porqué ni opinar**) · la estructura de 3 párrafos · el papel del **Overview** (sin él, techo Band 5; 2–3 oraciones, cero números, cubre todo el gráfico).
 
-**Por qué es la vía rápida:** Task 1 no tiene argumentación, ni posición, ni claims que alinear — nada de lo que ha costado en Task 2. Lo que sí se traslada es seguir una estructura fija (punto fuerte) y los dos patrones a vigilar: artículos y ortografía. Y leer gráficos es terreno propio siendo ingeniera.
+**Por qué es la vía rápida:** Task 1 no tiene argumentación, ni posición, ni claims que alinear — nada de lo que ha costado en Task 2. Lo que sí se traslada es seguir una estructura fija (punto fuerte) y los dos patrones a vigilar: artículos y ortografía. Y leer gráficos es terreno propio con su perfil técnico.
 
 **Pendiente:** leer *Language of Trends* en `03_Writing_Module.md` antes de mañana.
 
@@ -914,7 +914,7 @@ Las dos tareas salieron **~5.5 en frío y ~6.5 corregidas**. **Esa distancia es 
 ## ✅ **12/15 = 80%**
 
 ### Lo que salió bien, y era lo difícil
-**Los tres Not Given acertados** (5, 10, 14). El error que se esperaba de una ingeniera — **deducir de más**, marcar True porque *se sigue* del texto — **no apareció ni una vez**. Resistió la tentación de razonar en las tres. Eso suele costar meses.
+**Los tres Not Given acertados** (5, 10, 14). El error que se esperaba de un perfil técnico — **deducir de más**, marcar True porque *se sigue* del texto — **no apareció ni una vez**. Resistió la tentación de razonar en las tres. Eso suele costar meses.
 
 ### 🔴 Los tres fallos son el mismo fallo
 
@@ -1484,7 +1484,7 @@ Domingo del puente, *"a fuego"*. Dijo: *"voy muy mal en todo"* y *"a lo mejor es
 
 **Método descubierto:** el **micrófono de la app transcribe con muletillas incluidas** (*um, I I, we we*) → sirve para medir fluidez, léxico y gramática.
 
-Parte 1, 6 preguntas: FC 6 · LR 6.5 · GR 6. Habla con pasión y sin bloquearse; el problema es **la longitud** (110–180 palabras por respuesta) y **las repeticiones cuando se emociona**. Mejor respuesta: la 3 (Medellín), casi sin muletillas.
+Parte 1, 6 preguntas: FC 6 · LR 6.5 · GR 6. Habla con pasión y sin bloquearse; el problema es **la longitud** (110–180 palabras por respuesta) y **las repeticiones cuando se emociona**. Mejor respuesta: la 3 (su ciudad), casi sin muletillas.
 
 **Con esto, los 4 módulos tienen número.** Global estimado: (7.5 + 6.5 + 6 + 6.5) / 4 ≈ **6.5**.
 

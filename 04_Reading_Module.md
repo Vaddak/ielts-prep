@@ -315,7 +315,7 @@ After 5 practice passages, you will see your error patterns clearly.
 
 ### ✅ Lo que SÍ funcionó — y era lo difícil
 
-**Los tres Not Given, acertados** (5, 10, 14). El error esperado en una ingeniera — **deducir de más** — **no apareció ni una vez**. Su fallo fue el contrario: **NG donde el texto sí contradecía** (13), que es mucho más barato de corregir porque la respuesta está en el texto, no en la cabeza.
+**Los tres Not Given, acertados** (5, 10, 14). El error esperado en un perfil técnico — **deducir de más** — **no apareció ni una vez**. Su fallo fue el contrario: **NG donde el texto sí contradecía** (13), que es mucho más barato de corregir porque la respuesta está en el texto, no en la cabeza.
 
 ### La regla
 

@@ -69,11 +69,11 @@ Otros: *different **to*** → **from** · *places **to do*** → **to go** · **
 | | Dijo | |
 |---|---|---|
 | **2** | *I **have been working** in engineering since 2021* | ✅ |
-| **3** | *I **live** in Medellín since I was born* | ❌ |
+| **3** | *I **live** in [mi ciudad] since I was born* | ❌ |
 
 **La misma gramática, una bien y otra mal — y la causa es el español:**
 *"**Llevo** trabajando"* ya suena a continuo → salió `have been working`.
-*"**Vivo** en Medellín"* es presente simple → salió `live`.
+*"**Vivo** en [mi ciudad]"* es presente simple → salió `live`.
 
 > ## `since` / `for` + periodo abierto → **SIEMPRE present perfect**. Sin excepción.
 > ❌ I ~~live~~ here since I was born → ✅ **I've lived**
@@ -320,7 +320,7 @@ Give the whole result as ONE markdown block I can copy.
 
 ### Transcripción (la que dio Gemini)
 
-> My full name is Valentina Restrepo Jaramillo. · Yes, of course. I brought my passport. · My hometown is Medellín. It is located in Antioquia department in Colombia. · The thing I like the most of living here in Medellín are the mountains. I love being surrounded by them. · I will start with the security problem we have. The city is currently very insecure for women. For everyone. · Usually, I use public transportation such as the metro system. The integrated bus it has. And also in private platforms such as Uber. · Yes, it is. Even with the increase in the population Medellín has in the recent years. The public transport remains very efficient. · I will prefer to have my own car, of course, even more if I am going outside the city. For a near city, for a near town, or if I am visiting a familiar outside the city. But inside Medellín, I will definitely prefer using the public transport due to the traffic problems. · The last year from April to September I was in Leuven, Belgium. I was doing a six-month student internship and I was researching about electrochemical sensors. I was linked with IMEC and the KU Leuven University. · I think Leuven is very beautiful due to its architecture. The churches there are very beautiful. The small details and the huge details they have are awesome. Details that I really appreciate. · I indeed had enough time. I mean, I was there during six months, but I was completely alone, so I was afraid of getting lost, so I only went to Brussels twice. And I went also to [pause] I don't remember the name of the town, but it's in the north. · Tourism impact in both positive and negative ways. It impacts negatively the historic cities due to the poor care of tourists give to the cities or the places they visit, but on the other hand, they invest in the city they are visiting, supporting the local markets and the local food, the local stores.
+> *[nombre omitido]* · Yes, of course. I brought my passport. · *[ciudad de origen omitida]* · The thing I like the most of living here in *[mi ciudad]* are the mountains. I love being surrounded by them. · I will start with the security problem we have. The city is currently very insecure for women. For everyone. · Usually, I use public transportation such as the metro system. The integrated bus it has. And also in private platforms such as Uber. · Yes, it is. Even with the increase in the population *[la ciudad]* has in the recent years. The public transport remains very efficient. · I will prefer to have my own car, of course, even more if I am going outside the city. For a near city, for a near town, or if I am visiting a familiar outside the city. But inside *[mi ciudad]*, I will definitely prefer using the public transport due to the traffic problems. · The last year from April to September I was in *[ciudad europea]*. *[detalles de la estancia omitidos]* I was researching about *[tema]*. · I think *[la ciudad]* is very beautiful due to its architecture. The churches there are very beautiful. The small details and the huge details they have are awesome. Details that I really appreciate. · I indeed had enough time. I mean, I was there during six months, but I was completely alone, so I was afraid of getting lost, so I only went to *[la capital]* twice. And I went also to [pause] I don't remember the name of the town, but it's in the north. · Tourism impact in both positive and negative ways. It impacts negatively the historic cities due to the poor care of tourists give to the cities or the places they visit, but on the other hand, they invest in the city they are visiting, supporting the local markets and the local food, the local stores.
 >
 > *(Gemini también registró en la Parte 2: "I didn't end. Wait. I will start again.")*
 
@@ -362,7 +362,7 @@ Gemini contó *"I will say: 1"* y **no hay ninguno** en la transcripción. Lo qu
 
 ## ⚠️ Gemini como evaluador
 - **La banda: confiable** (coincide con FlexCheck)
-- **La lista de errores: incompleta** — se le escaparon **~8**, incluidos *insecure* y *during*. Contó *the churches there* como error y **es correcto** (iglesias concretas de Lovaina)
+- **La lista de errores: incompleta** — se le escaparon **~8**, incluidos *insecure* y *during*. Contó *the churches there* como error y **es correcto** (iglesias concretas de esa ciudad)
 - **La transcripción no fue literal**: casi sin pausas ni muletillas → la fluidez real pudo ser algo menor
 - ✅ **Prompt actualizado** (arriba): *will* por *would* con cualquier verbo · lista ampliada · **dos pasadas** · **no limpiar** la transcripción
 

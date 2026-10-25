@@ -25,10 +25,9 @@
 
 ### 📐 LA ARITMÉTICA — recalculada el 21-oct con los requisitos verificados
 
-**Requisitos reales** (`10_Program_Requirements.md`): la mayoría de su lista pide **6.5**. Solo **EMM-Nano+** y **KU Leuven** piden **7.0 con ninguna banda < 6.5**.
+**Requisitos verificados el 21-oct.**
 
 > ## 🎯 META OPERATIVA: **7.0 global, ninguna banda por debajo de 6.5.**
-> Eso **mantiene abierta la lista entera**, incluidas las dos exigentes.
 
 La global es el **promedio de los cuatro, redondeado al 0.5 más cercano**.
 
@@ -51,8 +50,6 @@ La global es el **promedio de los cuatro, redondeado al 0.5 más cercano**.
 | **Speaking** | 6.0 → 6.5 | `Having said that` + los hábitos ya cerrados (*I'd say*, *too much/many*, *last year*) |
 | **Writing** | mantener 6.5 | 🔴 **El riesgo real.** Corregido va a 6.5–7; **en frío cae a ~5.5–6**. Lo cierra **el barrido de 5 min** |
 
-> ⚠️ **Y la cobertura que YA tiene con el 6.5 estimado de hoy:** RADMEP+ · SSI2 · EMINENT · iPSRS · LASCALA · CoDaS · TUHH · Chalmers · PoliMi · PoliTo · Padova.
-> **El trabajo que queda no es para aprobar: es para no cerrar EMM-Nano+ ni KU Leuven.**
 
 ---
 

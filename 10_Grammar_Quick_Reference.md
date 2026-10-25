@@ -9,7 +9,7 @@ La regla general es de **grande a pequeño**:
 
 | Preposition | Use | Examples |
 |---|---|---|
-| **IN** | Espacios cerrados, áreas, ciudades, países | *in the gym, in the supermarket, in the car, in Medellín, in Colombia, in the office, in a building* |
+| **IN** | Espacios cerrados, áreas, ciudades, países | *in the gym, in the supermarket, in the car, in London, in Spain, in the office, in a building* |
 | **ON** | Superficies, pisos, calles | *on the street, on the second floor, on the bus, on a farm, on the coast* |
 | **AT** | Puntos específicos, lugares como actividad | *at the gym, at the supermarket, at home, at work, at school, at the airport, at a conference* |
 

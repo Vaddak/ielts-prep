@@ -1,7 +1,6 @@
 # IELTS Preparation Course — Target: 7.5–8.0
-**Student:** Electronic Engineer, B2 level  
+**Level at start:** B2  
 **Start:** May 14, 2026 | **Exam target:** Saturday, November 7, 2026  
-**Programs:** RADMEP, EMIMEP, SSIS (Erasmus Mundus)  
 **Weekly time:** Mon–Fri 30 min/day · Sat–Sun 60 min/day ≈ 3.5 h/week
 
 > **Schedule rebased on August 5, 2026.** Phase 1 (exam format) is complete — all four section modules have been read. The remaining 13 weeks are laid out day by day in `01_Week_by_Week_Schedule.md`, which is now the authoritative calendar. The week numbers below describe the *content sequence*; the schedule file has the real dates.
@@ -21,7 +20,7 @@
 | **Writing** | **Contador de palabras automático en pantalla.** El desastre de las 182 palabras del 15-ago no puede repetirse |
 | **Writing** | Cortar, pegar, deshacer, insertar en medio de un párrafo. Editar deja de ser caro → refuerza dos reglas ya registradas: *“reescribe la frase entera”* y *“reparar borra lo que estaba bien”* (Ctrl+Z lo recupera) |
 | **Reading** | Texto a la izquierda, preguntas a la derecha. Herramientas de resaltado y notas. **Sin hoja de respuestas que llenar** |
-| **Resultados** | 3–5 días en vez de 13 — relevante para los plazos Erasmus Mundus |
+| **Resultados** | 3–5 días en vez de 13 — relevante para los plazos de aplicación |
 
 ### Lo que se pierde
 
