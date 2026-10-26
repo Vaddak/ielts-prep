@@ -1252,3 +1252,32 @@ El enunciado dice ***"selecting and reporting the main features"***. **Elegir ES
 
 **✍️ Para la v2:** corregir solo esto, sin reescribir desde cero. Meta: **6.5**.
 
+
+### v2 *(26-oct)*
+> The table below compares how unemployed men and women in the UK spent their mornings and afternoons last year.
+>
+> Overall, considerably higher proportion of people did practical activities such as housework, shopping and job hunting  during the mornings than in the afternoons. The most striking feature was the amount of time women spent in houseworking during the mornings compared to men. During the afternoons, the gender gap narrowed for most activities.
+>
+> In the mornings, almost 50% of women were doing houseworking, while the figure for men was less than the half that figure, 19%. For shopping, similar figures are present for both men and women, 20% and 26%, respectively. For job hunting, figures for men are higher than for women; 22% compared to 16%, respectively.
+>
+> In the afternoons, the time spent in houseworking for both men and women decrease to 7% and 21%, respectively, but women remained spending more time despite the time of the day. Spare time activities such as watching tv, gardening and visiting friends/relatives increased during the afternoons. Men spent more time on gardening, 14% and 13%, than women during mornings and afternoons, 2% and 3%. Other activities remained with the minimum of time spent for both women and men.
+
+### 🩺 Corrección v2 — **~6.5 en contenido, gramática aún 5.5–6** (TA 6.5 · CC 6.5 · LR 6 · GRA 5.5)
+
+**✅ Arreglado:** *afternoons* · *less than half* · el *all* falso → *the gender gap narrowed* · *a higher proportion of people did* · cifras de gardening · *Overall* · typos (salvo *tv*).
+
+**🔴 Lo que sobrevivió — todo gramática:**
+| v2 | Corrección |
+|---|---|
+| *considerably higher proportion* | ***a** considerably higher proportion* (sustantivo contable singular → artículo) |
+| *houseworking* ×3 · *spent **in*** | *spent **on housework*** · *doing **housework*** |
+| *less than **the** half that figure* | *less than half that figure* |
+| *are present · are higher · decrease* | *were · were · fell* — **se corrigió en una frase y no en las otras: barrer TODOS los verbos** |
+| *remained spending* | *still spent* |
+| ***despite** the time of day* | Cambia el sentido (*despite* = a pesar de un obstáculo) → ***regardless of** the time of day* |
+| *watching tv* | *watching **TV*** |
+| *Other activities remained with the minimum…* | *Other activities accounted for very small proportions throughout.* |
+| Detalle 2 | Siguen faltando TV (14/12) y friends (12/17) |
+
+**Diagnóstico:** el contenido ya está en 6.5. Lo que la frena es que **corrige el caso señalado y no el patrón**: se le marcó *are → were* y quedaron otros tres presentes. En el barrido, revisar **cada verbo**, no solo el marcado.
+
