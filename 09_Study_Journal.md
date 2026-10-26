@@ -1750,3 +1750,5 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 🏠 **Extra — Note completion 26168 (sección 4): 8/10.** Tercera sección 4 seguida subiendo: 4 → 7 → 8. Fallos: *isolation* por *insulation* (palabra parecida) y la 5 no la escuchó porque el audio dijo *accessible and efficient* al revés que la nota.
 
 🏠 **Extra — Note completion 27446 (sección 4): 8/10.** Dos 8/10 seguidas. *lifestock* (→ livestock) y *hibernation* en vez de *protein* (distractor que sonó al lado). La 10, que creía perdida, estaba bien.
+
+🏠 **Extra — Note completion 27447 (sección 4): 3/10.** Mismo tema que la anterior (lobos), versión más difícil. Se sintió mal, pero **5 de los 7 fallos fueron ortografía y singular/plural** (*ranching, gorges, beavers, coyote, compensation*): la comprensión estuvo cerca de 8/10. Se crea el banco de ortografía en `05_Listening_Module.md`.

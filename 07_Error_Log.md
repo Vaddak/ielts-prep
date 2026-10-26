@@ -454,6 +454,10 @@ After every timed practice or mock exam:
 | **2026-10-26** | 🎧 **Note completion 27446 (sección 4, lobos de Yellowstone): 8/10** | Listening · P4 | Segunda 8/10 seguida. **La 10 (*erosion*) la acertó aunque creyó que no** | Confiar en la primera palabra que encaja |
 | 2026-10-26 | 🔴 **Ortografía: *lifestock*** | Listening · P4 | → ***livestock*** (*live* = vivo, como *alive*) | Error de spelling: cuenta como incorrecta |
 | 2026-10-26 | 🔴 **Distractor: escribió la palabra que sonó, no la que respondía** | Listening · P4 | *wolf kills for ___* → ***protein***; escribió ***hibernation*** (sonó justo después: *especially after hibernation*) | Preguntarse **qué da** la carroña (para qué sirve) — la respuesta es la función, no la palabra cercana |
+| **2026-10-26** | 🎧 **Note completion 27447 (sección 4, lobos II): 3/10** — *"adiviné mucho porque no sabía cómo se escribía"* | Listening · P4 | **De 7 fallos, 5 fueron de FORMA, no de comprensión** → escuchó ~8/10 | El problema de hoy es **ortografía y singular/plural** |
+| 2026-10-26 | 🔴 **Ortografía (2)** | Listening · P4 | `roundching` → **ranching** · `gourgues` → **gorges** | Banco de ortografía en `05_Listening_Module.md` |
+| 2026-10-26 | 🔴 **Singular / plural (3)** | Listening · P4 | `beaver` → **beavers** · `coyotes` → **coyote** · `compensations` → **compensation** (incontable) | Escribir **exactamente la forma que suena**; mirar la gramática de la nota (*a ___ fund* → singular) |
+| 2026-10-26 | 🔴 **Palabras que suenan igual** | Listening · P4 | `colors` → **collars** (*radio collars*) · `number` → **height** (*five times their previous height*) | ¿Tiene sentido? Los lobos no se rastrean con colores |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay

@@ -630,3 +630,27 @@ En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se co
 | **El propio portal** | reescuchar la Parte 4 ya hecha, leyendo las notas |
 
 ⚠️ **Y en el examen real los acentos VARÍAN** dentro del mismo test: británico (estándar y regional), australiano, neozelandés, canadiense. **No se puede elegir el fácil.** Por eso conviene entrenar a propósito con el difícil.
+
+
+---
+
+## 🔤 BANCO DE ORTOGRAFÍA — Sección 4 *(desde el 26-oct)*
+
+*Creado tras la sección 27447: 5 de 7 fallos fueron de forma, no de comprensión.* Palabras que salieron en el portal y se escribieron mal, más sus vecinas frecuentes de la Parte 4.
+
+| Escribió | ✅ Correcto | Truco |
+|---|---|---|
+| lifestock | **livestock** | *live* (vivo) + *stock* |
+| roundching | **ranching** | *ranch* + *-ing* |
+| gourgues | **gorges** | como *George* + s |
+| colors | **collars** | *collar* = collar; *colour* = color |
+| isolation | **insulation** | *insul-* = aislamiento térmico |
+| centigrate | **centigrade** | *grade* = grado |
+| psichological | **psychological** | *psych-* con **y** |
+
+**Familias que se repiten en la Parte 4 (ecología, ciudades, ciencia):** *habitat · species · predator · ecosystem · erosion · sediment · vegetation · biodiversity · emissions · infrastructure · maintenance · environment · government · accommodation · necessary · recommend*
+
+### ⚖️ Singular / plural — la regla
+1. Escribir **la forma que suena**: si se oye */s/* al final, va con -s.
+2. Mirar la nota: ***a** ___ fund* → singular · *___ **and** otters* → probablemente plural · sustantivos incontables (***compensation, information, equipment, research, advice***) **nunca** llevan -s.
+3. Si dudas entre dos ortografías, escribe **la más simple que se parezca al sonido**: una palabra casi bien escrita sigue siendo incorrecta, así que no pierdas tiempo; sigue escuchando.
