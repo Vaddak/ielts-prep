@@ -1735,3 +1735,10 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 **Pendiente:** terminar la tabla (lunes) · decidir la privacidad del repo (domingo 1).
 
 **Cómo me sentí:** nerviosa al empezar (*"estoy muy nerviosa, le di sin querer a finish"*), y aun así el mejor Listening hasta hoy.
+
+
+---
+
+## Lunes 26 de octubre · 19 días
+
+🏢 **Oficina — Task 1 nº8, la tabla guiada: ~6.0.** El bloqueo del mock se resolvió: con el método de los 3 minutos eligió ~10 cifras de 56 y escribió 4 párrafos sin trabarse. Usó dos expresiones del banco nuevo (*the most striking feature*, *considerably higher*). Lo que la deja en 6.0 no es el método sino la precisión: *evenings* por *afternoons*, otra vez un *all* falso, presente con *last year* y 6 typos sin barrido. Pendiente: **v2**.

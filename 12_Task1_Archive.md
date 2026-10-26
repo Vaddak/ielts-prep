@@ -1214,4 +1214,41 @@ El enunciado dice ***"selecting and reporting the main features"***. **Elegir ES
 **Intro (dada):** *The table compares how unemployed men and women in the UK spent their mornings and afternoons last year.*
 **Overview:** A + B + C · **Detalle 1:** mañana · **Detalle 2:** tarde
 
-### v1: PEGAR AQUÍ
+### v1 *(26-oct)*
+> The table compares how unemployed men and women in the UK spent their mornings and afternoons last year.
+>
+> Overview, practical activities such as housework, shopping and job hunting were considerably higher during the mornings than in the evenings for both men and women. The most striking feature was the amount of time women spent in houseworkinh during the mornings compared to men. During the evenings, all activities presented similar numbers and spare time activites were more common than in the mornings.
+>
+> In the mornings, almost 50% of women were doing houseworking while the figure for men was almost the half, 19%. For shopping, similar figures are present for both men and woman, 20% and 26%, respectively. For job hunting, figures for men are higher than for women; 22% compared to 16%, respectively.
+>
+> In the evenings, the tme spent in houseworking for both men and woman decrease to 7% and 21%, respectively, but women remain spending more time despite of the time of the day. Spare time activites such as watching tv, gardening and visiting friends/relatives increase during the evenings. Men spent more time in gardening than woman during mornings and evenings. Other activities remained with the minimum of time spent for both women and men.
+
+*(26-oct, oficina, ~15 min, ~215 palabras)*
+
+### 🩺 Corrección v1 — **~6.0** (TA 6 · CC 6.5 · LR 5.5 · GRA 5.5)
+
+**✅ Lo que funcionó — el bloqueo está resuelto:**
+- **Selección perfecta:** usó solo las ~10 cifras del plan e ignoró el resto sin culpa. Eso era exactamente lo que se medía.
+- 4 párrafos, Overview con los tres rasgos A + B + C, *respectively* bien usado, *the most striking feature* (banco C4) ✅, *considerably higher* (banco C3) ✅.
+
+**🔴 Errores de contenido (TA):**
+| | v1 | Corrección |
+|---|---|---|
+| 1 | *evenings* (×4) | La tabla dice **afternoons**. Copiar las etiquetas de la tabla. |
+| 2 | *the figure for men was **almost the half**, 19%* | 19 es **menos de la mitad** de 49 → *less than half that figure* |
+| 3 | *During the evenings, **all** activities presented similar numbers* | **Falso**: housework 21 vs 7, gardening 13 vs 3. 🔁 **Reincidente del Task 1 nº7** (la afirmación falsa con *all*) → *the gender gap narrowed for most activities* |
+| 4 | *practical **activities** were considerably higher* | Lo que es alto es la **proporción**, no la actividad → *a considerably higher proportion of people did…* |
+| 5 | Detalle 2 sin cifras de TV / friends | Añadir *TV (14% and 12%)*, *visiting friends (12% and 17%)* |
+
+**🔴 Gramática (GRA):**
+- **Tiempo:** *last year* → todo en **pasado**. *are present, are higher, decrease, increase, remain* → *were, were, fell, rose, still spent*.
+- ***housework* es sustantivo incontable**: *~~houseworking~~* → *doing housework* / *time spent on housework*.
+- ***despite of*** no existe → *despite* / *regardless of the time of day*.
+- *women **remain spending*** → *women **still spent** more time*.
+- *spent time **in** gardening* → *spent time **on** gardening* (*spend time on X* / *spend time doing X*).
+- *Overview,* como conector → ***Overall,***.
+
+**🔴 Typos (LR) — 6, el barrido no se hizo:** *houseworkinh · activites ×2 · tme · woman ×3 (→ women) · tv (→ TV)*
+
+**✍️ Para la v2:** corregir solo esto, sin reescribir desde cero. Meta: **6.5**.
+

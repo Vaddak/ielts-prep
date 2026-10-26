@@ -438,6 +438,12 @@ After every timed practice or mock exam:
 | 2026-10-25 | ⚠️ **Causa razonable no dicha (MC)** | Reading | Q22 eligió *ubicación desconocida*; el texto: *constant growth* | |
 | 2026-10-25 | 🔁 **Cambiar la palabra de la fuente — 2 módulos el mismo día** | Reading + Listening | `preventing` por **prevention** · `3 days` por **3 nights** | **Copiar EXACTO, terminación incluida** |
 
+| **2026-10-26** | ✍️ **Task 1 nº8 — tabla guiada (56 datos): ~6.0** | Writing · T1 | **Bloqueo resuelto:** selección de ~10 cifras perfecta, 4 párrafos | Falta: precisión y barrido |
+| 2026-10-26 | 🔁 **Afirmación falsa con *all* — 2ª vez** | Writing · T1 | *"all activities presented similar numbers"* (housework 21 vs 7) | Antes de escribir *all*, buscar el contraejemplo en la tabla |
+| 2026-10-26 | 🔴 **Etiqueta cambiada** | Writing · T1 | *evenings* ×4 (la tabla: **afternoons**) · *almost the half* para 19 de 49 | Mismo error que en Listening: **copiar lo que dice la fuente** |
+| 2026-10-26 | 🔴 **Presente con *last year*** | Writing · GRA | *are present · decrease · remain spending* | Dato con fecha pasada → todo en pasado |
+| 2026-10-26 | 🔴 ***houseworking* / *despite of*** | Writing · GRA | *houseworking* · *despite of* · *spend time in* | *doing housework* · *despite* · *spend time on* |
+| 2026-10-26 | 🔁 **6 typos — sin barrido** | Writing · LR | *houseworkinh, activites, tme, woman ×3* | Últimos 2 min: solo typos |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
