@@ -448,6 +448,9 @@ After every timed practice or mock exam:
 | 2026-10-26 | 🔴 ***despite* ≠ *regardless of*** | Writing · LR | *despite the time of the day* | *regardless of the time of day* |
 | 2026-10-26 | ✅ **Task 1 nº8 v3: ~6.5** | Writing · T1 | Gramática limpia: barrió el patrón | Del bloqueo del domingo a 6.5 en un día |
 | 2026-10-26 | 🔴 **Diferencia mal calculada** | Writing · T1 | *friends increased 4% for both* (real: +6 y +7) · *gardening increased* (hombres bajaron) | Recalcular toda resta antes de escribirla · ⭐ *percentage points* |
+| **2026-10-26** | 🎧 **Note completion 26168 (sección 4, ciudades sostenibles): 8/10** | Listening · P4 | 4/10 → 7/10 → **8/10**. *prevention*, *compost*, *irrigation* exactos | Protocolo de saltar funcionando |
+| 2026-10-26 | 🔴 **Palabra parecida: *isolation* por *insulation*** | Listening · P4 | *advanced **insulation** to minimise heat loss* | *insulation* = aislamiento **térmico** · *isolation* = aislamiento **social**. Revisar que la palabra encaje con el sentido de la frase |
+| 2026-10-26 | ⚠️ **Hueco no escuchado → adivinó *robust*** | Listening · P4 | *efficient and **accessible*** — el orden se invirtió: *accessible and efficient* | Las palabras pueden llegar **en orden distinto** al de la nota |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay

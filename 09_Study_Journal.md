@@ -1746,3 +1746,5 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 **v2:** contenido arreglado (afternoons, less than half, gender gap) → TA 6.5. Gramática sigue en 5.5: corrigió el verbo señalado pero no los demás presentes, y *houseworking* volvió 3 veces. Lección: **buscar el patrón, no el caso**.
 
 **v3: ~6.5 ✅.** Gramática limpia, esta vez barrió todos los verbos. Quedaron dos cifras mal calculadas (+4 en vez de +6/+7; gardening de hombres bajó). **Del bloqueo a 6.5 en un día.**
+
+🏠 **Extra — Note completion 26168 (sección 4): 8/10.** Tercera sección 4 seguida subiendo: 4 → 7 → 8. Fallos: *isolation* por *insulation* (palabra parecida) y la 5 no la escuchó porque el audio dijo *accessible and efficient* al revés que la nota.

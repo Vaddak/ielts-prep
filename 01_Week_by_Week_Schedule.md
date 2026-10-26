@@ -31,7 +31,7 @@
 | Día | 🏢 Oficina *(~20 min)* | 🏠 Casa *(~30–40 min)* |
 |---|---|---|
 | **Lun 26** | ✍️ **Terminar la tabla guiada** + corrección | 🎤 Gemini: **Parte 3 ×2** cerrando con *On balance* · 🗣️ drill *I'd…* |
-| **Mar 27** | 🎧 **Sección 4 ×2** — protocolo: **saltar al siguiente encabezado** | ✍️ **Task 2 en frío (40 min)** — *Discussion*, regla de las dos visiones |
+| **Mar 27** | 🎧 **Sección 4 ×2** *(1 adelantada el lun 26: **8/10**)* — protocolo: **saltar al siguiente encabezado** | ✍️ **Task 2 en frío (40 min)** — *Discussion*, regla de las dos visiones |
 | **Mié 28** | 📖 **T/F/NG ×1** — tarjeta *NOT GIVEN*, dos candidatas | 🎤 **Gemini: test completo** en EXAM MODE, con el calentamiento previo |
 | **Jue 29** | ✍️ **Task 1 en frío (20 min)** — otro formato con muchos datos | 🎧 Sección 4 ×1 · 🗣️ drill |
 | **Vie 30** | 😴 libre si el trabajo aprieta | ✍️ **Task 2 en frío** — *Opinion* |
