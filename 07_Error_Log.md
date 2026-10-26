@@ -451,6 +451,9 @@ After every timed practice or mock exam:
 | **2026-10-26** | 🎧 **Note completion 26168 (sección 4, ciudades sostenibles): 8/10** | Listening · P4 | 4/10 → 7/10 → **8/10**. *prevention*, *compost*, *irrigation* exactos | Protocolo de saltar funcionando |
 | 2026-10-26 | 🔴 **Palabra parecida: *isolation* por *insulation*** | Listening · P4 | *advanced **insulation** to minimise heat loss* | *insulation* = aislamiento **térmico** · *isolation* = aislamiento **social**. Revisar que la palabra encaje con el sentido de la frase |
 | 2026-10-26 | ⚠️ **Hueco no escuchado → adivinó *robust*** | Listening · P4 | *efficient and **accessible*** — el orden se invirtió: *accessible and efficient* | Las palabras pueden llegar **en orden distinto** al de la nota |
+| **2026-10-26** | 🎧 **Note completion 27446 (sección 4, lobos de Yellowstone): 8/10** | Listening · P4 | Segunda 8/10 seguida. **La 10 (*erosion*) la acertó aunque creyó que no** | Confiar en la primera palabra que encaja |
+| 2026-10-26 | 🔴 **Ortografía: *lifestock*** | Listening · P4 | → ***livestock*** (*live* = vivo, como *alive*) | Error de spelling: cuenta como incorrecta |
+| 2026-10-26 | 🔴 **Distractor: escribió la palabra que sonó, no la que respondía** | Listening · P4 | *wolf kills for ___* → ***protein***; escribió ***hibernation*** (sonó justo después: *especially after hibernation*) | Preguntarse **qué da** la carroña (para qué sirve) — la respuesta es la función, no la palabra cercana |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
