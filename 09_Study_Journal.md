@@ -883,7 +883,7 @@ Al cambiar *growth* por *widening* en el Overview del mapa, las dos palabras se 
 - ✅ **El mapa encontró LAS DOS cosas que no cambiaron** (iglesia y río) — el enunciado advertía que eso *"distingue una descripción completa de una lista de novedades"*. En su primer mapa
 - ✅ **Pasiva correcta** tres veces en el mapa · **ni una explicación causal**
 - ✅ **356 palabras** en el ensayo — la longitud dejó de ser problema: 182 → 252 → 285 → 356
-- ✅ **Dos ejemplos concretos con mecanismo:** trabajo remoto tras la pandemia, Stop Jeans con machine learning
+- ✅ **Dos ejemplos concretos con mecanismo:** trabajo remoto tras la pandemia, una empresa de ropa con machine learning
 - ✅ **Hedging aplicado sin recordatorio** (*These studies suggest · can increase the risk*)
 - ✅ ***has considerably reduced*** — adverbio antes del verbo, repasado esa misma tarde
 - ✅ **La última ronda de cada tarea no introdujo ningún error nuevo.** Primera vez desde el 17 de agosto
