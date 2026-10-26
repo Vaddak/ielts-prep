@@ -446,6 +446,8 @@ After every timed practice or mock exam:
 | 2026-10-26 | 🔁 **6 typos — sin barrido** | Writing · LR | *houseworkinh, activites, tme, woman ×3* | Últimos 2 min: solo typos |
 | 2026-10-26 | 🔁 **v2: corrige el caso marcado, no el patrón** | Writing · GRA | *are → were* corregido en 1 frase, quedan *are present · are higher · decrease* · *houseworking* ×3 | Barrido de **todos** los verbos y de la palabra corregida en todo el texto |
 | 2026-10-26 | 🔴 ***despite* ≠ *regardless of*** | Writing · LR | *despite the time of the day* | *regardless of the time of day* |
+| 2026-10-26 | ✅ **Task 1 nº8 v3: ~6.5** | Writing · T1 | Gramática limpia: barrió el patrón | Del bloqueo del domingo a 6.5 en un día |
+| 2026-10-26 | 🔴 **Diferencia mal calculada** | Writing · T1 | *friends increased 4% for both* (real: +6 y +7) · *gardening increased* (hombres bajaron) | Recalcular toda resta antes de escribirla · ⭐ *percentage points* |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay

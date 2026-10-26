@@ -1281,3 +1281,22 @@ El enunciado dice ***"selecting and reporting the main features"***. **Elegir ES
 
 **Diagnóstico:** el contenido ya está en 6.5. Lo que la frena es que **corrige el caso señalado y no el patrón**: se le marcó *are → were* y quedaron otros tres presentes. En el barrido, revisar **cada verbo**, no solo el marcado.
 
+### v3 *(26-oct)* — ✅ FINAL
+> The table below compares how unemployed men and women in the UK spent their mornings and afternoons last year.
+>
+> Overall, a considerably higher proportion of people did practical activities such as housework, shopping and job hunting  during the mornings than in the afternoons. The most striking feature was the amount of time women spent on housework during the mornings compared to men. During the afternoons, the gender gap narrowed for most activities.
+>
+> In the mornings, almost 50% of women were doing housework, while the figure for men was less than half that figure, 19%. For shopping, similar figures were present for both men and women, 20% and 26%, respectively. For job hunting, figures for men were higher than for women; 22% compared to 16%, respectively.
+>
+> In the afternoons, the time spent doing housework for both men and women fell to 7% and 21%, respectively, but women still spent more time regardless of the time of the day. Spare time activities such as watching TV, gardening and visiting friends/relatives increased during the afternoons. For watching TV, the figure for both men and women rose 10% in the afternoon. Visiting relatives/friends increased 4% in the afternoons for both men and women. Men spent more time on gardening, 14% and 13%, than women during mornings and afternoons, 2% and 3%. Other activities accounted for very small proportions throughout.
+
+### 🩺 Corrección v3 — **~6.5** ✅ (TA 6.5 · CC 6.5 · LR 6.5 · GRA 6.5)
+
+**✅ Gramática limpia:** todos los verbos en pasado, *housework* bien en las 3, *a considerably higher proportion*, *regardless of*, *TV*. **Esta vez barrió el patrón, no el caso.**
+
+**🔴 Lo último — dos cifras al calcular:**
+- *Visiting friends **increased 4%** for both* → **falso**: hombres 6→12 (**+6**), mujeres 10→17 (**+7**). Al calcular una diferencia, **recalcular antes de escribir**.
+- *gardening… increased* → hombres **bajaron** 14→13. Sacar *gardening* de esa lista.
+
+**⭐ Para 7:** *rose 10%* → *rose by **10 percentage points*** (de 4% a 14% es +250%, no +10%) · *the time of the day* → *the time of day*.
+

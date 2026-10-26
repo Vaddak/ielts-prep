@@ -19,7 +19,7 @@
 > 🎯 **Global ≈ 6.5. Para 7.0: Writing y Speaking a 6.5.** Listening y Reading ya están.
 
 ### 📌 Pendiente de ella
-- ✍️ **Terminar la tabla guiada** (15 min, el análisis ya está hecho)
+- ✅ ~~Terminar la tabla guiada~~ → **v3 ~6.5** (26-oct). Regla nueva: **recalcular toda resta antes de escribirla**
 - 🔒 **Privacidad del repo:** decidir entre un repo privado aparte para la info personal y limpiar el público. **No urgente** (no hay contraseñas ni tokens; revisado el 25-oct)
 
 ---

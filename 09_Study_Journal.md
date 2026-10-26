@@ -1744,3 +1744,5 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 🏢 **Oficina — Task 1 nº8, la tabla guiada: ~6.0.** El bloqueo del mock se resolvió: con el método de los 3 minutos eligió ~10 cifras de 56 y escribió 4 párrafos sin trabarse. Usó dos expresiones del banco nuevo (*the most striking feature*, *considerably higher*). Lo que la deja en 6.0 no es el método sino la precisión: *evenings* por *afternoons*, otra vez un *all* falso, presente con *last year* y 6 typos sin barrido. Pendiente: **v2**.
 
 **v2:** contenido arreglado (afternoons, less than half, gender gap) → TA 6.5. Gramática sigue en 5.5: corrigió el verbo señalado pero no los demás presentes, y *houseworking* volvió 3 veces. Lección: **buscar el patrón, no el caso**.
+
+**v3: ~6.5 ✅.** Gramática limpia, esta vez barrió todos los verbos. Quedaron dos cifras mal calculadas (+4 en vez de +6/+7; gardening de hombres bajó). **Del bloqueo a 6.5 en un día.**
