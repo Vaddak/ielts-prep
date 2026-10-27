@@ -28,15 +28,19 @@
 
 **Lógica:** temporada alta en el trabajo → **oficina = bloques cortos (20 min)**, **casa = lo que necesita voz o 40 min**. Prioridad: **Writing y Speaking**, que son los que deciden el 7.0.
 
-| Día | 🏢 Oficina *(~20 min)* | 🏠 Casa *(~30–40 min)* |
+**Re-planificada por ella el martes 27** (la oficina no da tiempo: todo en casa).
+
+| Día | 🏠 Casa | Estado |
 |---|---|---|
-| **Lun 26** | ✍️ **Terminar la tabla guiada** + corrección | 🎤 Gemini: **Parte 3 ×2** cerrando con *On balance* · 🗣️ drill *I'd…* |
-| **Mar 27** | 🎧 **Sección 4 ×2** *(1 adelantada el lun 26: **8/10**)* — protocolo: **saltar al siguiente encabezado** | ✍️ **Task 2 en frío (40 min)** — *Discussion*, regla de las dos visiones |
-| **Mié 28** | 📖 **T/F/NG ×1** — tarjeta *NOT GIVEN*, dos candidatas | 🎤 **Gemini: test completo** en EXAM MODE, con el calentamiento previo |
-| **Jue 29** | ✍️ **Task 1 en frío (20 min)** — otro formato con muchos datos | 🎧 Sección 4 ×1 · 🗣️ drill |
-| **Vie 30** | 😴 libre si el trabajo aprieta | ✍️ **Task 2 en frío** — *Opinion* |
-| **🏁 Sáb 31** | — | **MOCK COMPLETO Nº2**: L + R + **W completo** · 🎤 Gemini |
-| **Dom 1** | — | 📊 Post-mortem · 🔒 privacidad del repo |
+| **Lun 26** | ✍️ Tabla guiada v3 **6.5** · 🎧 Sección 4 ×3 (8 · 8 · 3*) · 🎤 Gemini Parte 3 | ✅ *(\*3/10 por ortografía; comprensión ~8)* |
+| **Mar 27** | 📖 **T/F/NG** con el PDF `15_NOT_GIVEN_para_dummies.pdf` · 🎧 **Sección 4 ×1** (banco de ortografía) · 🗣️ drill *I'd…* | |
+| **Mié 28** | ✍️ **Task 2 en frío (40 min)**, *Discussion* · 🎤 **Gemini: test completo** (EXAM MODE + transcripción) | |
+| **Jue 29** | ✍️ **Task 1 (20 min) + Task 2 (40 min)** = Writing completo en frío, ensayo del sábado | |
+| **Vie 30** | 🧯 **Colchón:** lo que no alcanzó de mar–jue. Si todo salió, descanso | |
+| **🏁 Sáb 31** | **MOCK COMPLETO Nº2** (L + R + W) + 🎤 Gemini · **post-mortem corto esa noche** (10 min: lista de errores) | |
+| **🏁 Dom 1** | **MOCK COMPLETO Nº3** · aplicar la lista del sábado · post-mortem de los dos | |
+
+🔒 **Privacidad del repo:** pasa a la semana siguiente (no urgente).
 
 **Cada día, 1 minuto en voz alta:** *I'd say… I'd prefer… I'd argue…* — y en la Parte 3, **siempre** *Having said that…* → *On balance…*
 
