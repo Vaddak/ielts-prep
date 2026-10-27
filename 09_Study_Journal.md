@@ -1754,3 +1754,10 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 🏠 **Extra — Note completion 27447 (sección 4): 3/10.** Mismo tema que la anterior (lobos), versión más difícil. Se sintió mal, pero **5 de los 7 fallos fueron ortografía y singular/plural** (*ranching, gorges, beavers, coyote, compensation*): la comprensión estuvo cerca de 8/10. Se crea el banco de ortografía en `05_Listening_Module.md`.
 
 🏠 **Noche — Gemini, Parte 3.** Solo llegó el resumen general de Gemini, sin transcripción: *ideas claras, buena pronunciación; falta conectar ideas con transiciones más suaves y evitar pausas dubitativas; 6.5–7.0 alcanzable.* Sin errores concretos no se puede anotar nada en el error log. **Próxima vez: pedir la transcripción literal + cada error con su corrección.**
+
+---
+
+## Martes 27 de octubre · 18 días
+
+🏢 **Oficina:** sin tiempo (temporada alta). Leyó el PDF *NOT GIVEN para dummies*. Reorganizó la semana ella misma: todo en casa, viernes como colchón, **dos mocks completos el fin de semana** (sáb 31 y dom 1), con post-mortem corto el sábado en la noche.
+🏠 **Casa (pendiente):** T/F/NG con el PDF · Sección 4 ×1 con el banco de ortografía · drill *I'd…*
