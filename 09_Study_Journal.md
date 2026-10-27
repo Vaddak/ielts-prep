@@ -1752,3 +1752,5 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 🏠 **Extra — Note completion 27446 (sección 4): 8/10.** Dos 8/10 seguidas. *lifestock* (→ livestock) y *hibernation* en vez de *protein* (distractor que sonó al lado). La 10, que creía perdida, estaba bien.
 
 🏠 **Extra — Note completion 27447 (sección 4): 3/10.** Mismo tema que la anterior (lobos), versión más difícil. Se sintió mal, pero **5 de los 7 fallos fueron ortografía y singular/plural** (*ranching, gorges, beavers, coyote, compensation*): la comprensión estuvo cerca de 8/10. Se crea el banco de ortografía en `05_Listening_Module.md`.
+
+🏠 **Noche — Gemini, Parte 3.** Solo llegó el resumen general de Gemini, sin transcripción: *ideas claras, buena pronunciación; falta conectar ideas con transiciones más suaves y evitar pausas dubitativas; 6.5–7.0 alcanzable.* Sin errores concretos no se puede anotar nada en el error log. **Próxima vez: pedir la transcripción literal + cada error con su corrección.**
