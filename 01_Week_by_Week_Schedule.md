@@ -33,7 +33,7 @@
 | Día | 🏠 Casa | Estado |
 |---|---|---|
 | **Lun 26** | ✍️ Tabla guiada v3 **6.5** · 🎧 Sección 4 ×3 (8 · 8 · 3*) · 🎤 Gemini Parte 3 | ✅ *(\*3/10 por ortografía; comprensión ~8)* |
-| **Mar 27** | 📖 **T/F/NG** con el PDF `15_NOT_GIVEN_para_dummies.pdf` · 🎧 **Sección 4 ×1** (banco de ortografía) · 🗣️ drill *I'd…* | |
+| **Mar 27** | 📖 **T/F/NG** con el PDF `15_NOT_GIVEN_para_dummies.pdf` · 🎧 **Sección 4 ×1** (banco de ortografía) · 🗣️ drill *I'd…* | 📖 ✅ **3/5** (límite *in his lifetime* · paráfrasis) |
 | **Mié 28** | ✍️ **Task 2 en frío (40 min)**, *Discussion* · 🎤 **Gemini: test completo** (EXAM MODE + transcripción) | |
 | **Jue 29** | ✍️ **Task 1 (20 min) + Task 2 (40 min)** = Writing completo en frío, ensayo del sábado | |
 | **Vie 30** | 🧯 **Colchón:** lo que no alcanzó de mar–jue. Si todo salió, descanso | |

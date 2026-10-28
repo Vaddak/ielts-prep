@@ -459,6 +459,11 @@ After every timed practice or mock exam:
 | 2026-10-26 | 🔴 **Singular / plural (3)** | Listening · P4 | `beaver` → **beavers** · `coyotes` → **coyote** · `compensations` → **compensation** (incontable) | Escribir **exactamente la forma que suena**; mirar la gramática de la nota (*a ___ fund* → singular) |
 | 2026-10-26 | 🔴 **Palabras que suenan igual** | Listening · P4 | `colors` → **collars** (*radio collars*) · `number` → **height** (*five times their previous height*) | ¿Tiene sentido? Los lobos no se rastrean con colores |
 
+| **2026-10-27** | 📖 **T/F/NG 28142** (*A Farewell to Work?*, pensiones) — **3/5, 60%** | Reading | ✅ **Q4 (la difícil):** vio que *main goal* carga el peso — Bismarck *"not purely altruistic"* | |
+| 2026-10-27 | 🔴 **No respetó el límite del texto** | Reading · T/F/NG | Q3: texto *"never implemented **in his lifetime**"* · afirmación *"shortly **after his death**"* → marcó FALSE; era **NOT GIVEN** | 🆕 **Los acotadores** (*in his lifetime, until X, at first, in Europe*) cargan el peso: fuera del límite → **NG**. 2ª vez con Q40 del 25-oct (*apple*) |
+| 2026-10-27 | 🔴 **Paráfrasis no reconocida — 2ª vez seguida** | Reading · T/F/NG | Q5: *"devastated private savings and company schemes… directly led to"* = *"in response to the failure of private schemes"* → marcó FALSE; era **TRUE** | Igual que Q8 del 25-oct (*jet lag*). **Lo mismo con otras palabras ≠ distinto** |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
