@@ -20,7 +20,7 @@
 
 ### 📌 Pendiente de ella
 - ✅ ~~Terminar la tabla guiada~~ → **v3 ~6.5** (26-oct). Regla nueva: **recalcular toda resta antes de escribirla**
-- 🔒 **Privacidad del repo:** decidir entre un repo privado aparte para la info personal y limpiar el público. **No urgente** (no hay contraseñas ni tokens; revisado el 25-oct)
+- ✅ ~~Privacidad del repo~~ → **hecho el 25-oct**: datos personales y programas quitados de los archivos; `10_Program_Requirements.md` borrado. Correo e historial se dejan como están (decisión suya)
 
 ---
 
@@ -40,7 +40,6 @@
 | **🏁 Sáb 31** | **MOCK COMPLETO Nº2** (L + R + W) + 🎤 Gemini · **post-mortem corto esa noche** (10 min: lista de errores) | |
 | **🏁 Dom 1** | **MOCK COMPLETO Nº3** · aplicar la lista del sábado · post-mortem de los dos | |
 
-🔒 **Privacidad del repo:** pasa a la semana siguiente (no urgente).
 
 **Cada día, 1 minuto en voz alta:** *I'd say… I'd prefer… I'd argue…* — y en la Parte 3, **siempre** *Having said that…* → *On balance…*
 
