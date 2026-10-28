@@ -36,7 +36,7 @@
 | **Mar 27** | 📖 **T/F/NG** con el PDF `15_NOT_GIVEN_para_dummies.pdf` · 🎧 **Sección 4 ×1** (banco de ortografía) · 🗣️ drill *I'd…* | 📖 ✅ **3/5 → en la práctica 4/5** (Q3 discutible, su razonamiento era válido · Q5: añadió *"única causa"*) · 🎧 ✅ **Sección 4: 5/10**, bloque final **3/3**; fallos en el arranque · 🎧 ✅ **Sección 4 extra: 6/10** |
 | **Mié 28** | ~~Task 2 + Gemini~~ → muy cansada: **maratón de Sección 4: 7 · 7 · 8** ✅ | Task 2 y Gemini pasan al **viernes (colchón)** |
 | **Jue 29** | ✍️ **Task 1 (20 min) + Task 2 (40 min)** = Writing completo en frío, ensayo del sábado | |
-| **Vie 30** | 🧯 **Colchón:** lo que no alcanzó de mar–jue. Si todo salió, descanso | |
+| **Vie 30** | 🧯 **Colchón:** ✍️ **Task 2 en frío** + 🎤 **Gemini test completo** (movidos del miércoles) | |
 | **🏁 Sáb 31** | **MOCK COMPLETO Nº2** (L + R + W) + 🎤 Gemini · **post-mortem corto esa noche** (10 min: lista de errores) | |
 | **🏁 Dom 1** | **MOCK COMPLETO Nº3** · aplicar la lista del sábado · post-mortem de los dos | |
 
