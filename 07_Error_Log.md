@@ -464,6 +464,11 @@ After every timed practice or mock exam:
 | 2026-10-27 | 🔴 **Añadió una palabra que la afirmación NO tiene** | Reading · T/F/NG | Q5: *"created **in response to** the failure of private schemes"*. Su razonamiento: *"la **única** causa era la crisis del 29"*. Marcó FALSE; era **TRUE** | 🆕 **No agregar *only / main / primary* a la afirmación.** Es una cadena: crisis → destruye los planes privados → el Estado responde. **Lo contrario de ignorar *all/than*: aquí el error es AÑADIR** |
 
 
+| **2026-10-27** | 🎧 **Sección 4 — 27454** (*Psychology of Consumer Behaviour*) — **5/10** | Listening | ✅ **Bloque final 8–10 perfecto** (*loyalty · paralysis · obligation*). **Los fallos, todos en 1–6: el arranque** | El protocolo de reenganche funciona; falla **entrar en frío** |
+| 2026-10-27 | ✍️ **Oyó bien, escribió mal** | Listening · P4 | `uncertainly` (→ **uncertainty**) · `pression` (→ **pressure**, no existe) | Al banco de ortografía |
+| 2026-10-27 | 🎯 **Palabra vecina** | Listening · P4 | `proofs` (del encabezado) → **authenticity** · `urgency` (idea del hueco 5) → **fear** · `perception` (palabra siguiente) → **benchmark** | 🆕 **Chequeo final: ¿encaja en la frase?** + **expresiones fijas adivinables antes del audio** (*fear of missing out*) |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

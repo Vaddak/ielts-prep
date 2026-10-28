@@ -647,6 +647,8 @@ En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se co
 | isolation | **insulation** | *insul-* = aislamiento térmico |
 | centigrate | **centigrade** | *grade* = grado |
 | psichological | **psychological** | *psych-* con **y** |
+| pression | **pressure** | ⚠️ *pression* **no existe** en inglés (es *presión*) |
+| uncertainly | **uncertainty** | *times of ___* pide **sustantivo**: *-ty*, no *-ly* |
 
 **Familias que se repiten en la Parte 4 (ecología, ciudades, ciencia):** *habitat · species · predator · ecosystem · erosion · sediment · vegetation · biodiversity · emissions · infrastructure · maintenance · environment · government · accommodation · necessary · recommend*
 
@@ -654,3 +656,10 @@ En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se co
 1. Escribir **la forma que suena**: si se oye */s/* al final, va con -s.
 2. Mirar la nota: ***a** ___ fund* → singular · *___ **and** otters* → probablemente plural · sustantivos incontables (***compensation, information, equipment, research, advice***) **nunca** llevan -s.
 3. Si dudas entre dos ortografías, escribe **la más simple que se parezca al sonido**: una palabra casi bien escrita sigue siendo incorrecta, así que no pierdas tiempo; sigue escuchando.
+
+
+### ✅ El chequeo final de 30 segundos *(27-oct)*
+**¿La palabra encaja en la frase de la nota?** Si no encaja, no es la respuesta.
+> *"acts as a ~~perception~~ for judging value"* → **benchmark** · *"the human ~~urgency~~ of missing out"* → **fear** · *"feedback has ~~proofs~~"* → **authenticity**
+
+**Y las expresiones fijas se pueden adivinar antes del audio:** *fear of missing out (FOMO)* · *analysis paralysis* · *a sense of obligation* · *brand loyalty*.
