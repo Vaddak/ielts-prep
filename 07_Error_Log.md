@@ -480,6 +480,9 @@ After every timed practice or mock exam:
 | **2026-10-28** | 🎧 **Sección 4 — 27467** (apariencia e identidad cultural) — **7/10** · maratón nº2 | Listening · P4 | ✅ *biography · western · sneakers · meaning* · **8 aciertos sin los 2 que no captó** | Dos 7/10 seguidas |
 | 2026-10-28 | 🔴 **No captó: palabra dentro de una lista** | Listening · P4 | Q1 **beliefs** (*"our heritage, our **beliefs**, and our sense of belonging"*) · Q7 **butterfat** (*"a mixture of **butterfat** and ochre"*) | En listas de 2–3, la respuesta suele ser **una** de ellas: retener las tres y elegir con la nota |
 | 2026-10-28 | 🎯 **Sustantivo vecino en vez de ADJETIVO** | Listening · P4 | `climate` → **practical**: *"a **practical** choice for the damp, cold **climate**"* | Antes del audio, decidir **qué tipo de palabra** va: *a ___ choice* → adjetivo |
+| **2026-10-28** | 🎧 **Sección 4 — 27481** (Big Five / personalidad) — **8/10** · maratón nº3 | Listening · P4 | ✅ Arranque **3/3** (*personality · interests · creativity*) · **Maratón: 7 → 7 → 8, subiendo cansada** | |
+| 2026-10-28 | 🔁 **Paráfrasis que cambia la forma de la palabra** | Listening · P4 | Nota: *behaviour directed towards a ___* · audio: ***goal**-directed behaviours* → **goal** (escribió `success`) | El audio puede dar la palabra **pegada a otra** (*goal-directed*): buscar la raíz, no la frase idéntica |
+| 2026-10-28 | ⚖️ **Discutible — lista de 4** | Listening · P4 | Nota: *kindness and ___* · audio: *trust, altruism, kindness, **affection*** → clave **trust**; escribió `affection` | *affection* también aparece en la lista. Aprendizaje: si dudas, la clave suele ser **el primer elemento** de la lista |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
