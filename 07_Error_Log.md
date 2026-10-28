@@ -477,6 +477,9 @@ After every timed practice or mock exam:
 | 2026-10-28 | 🎯 **Palabra vecina: el ejemplo en vez de la categoría** | Listening · P4 | `internet` → **technology**: *"the primary driver is **technology**. The rise of the **internet**…"* | El hablante **nombra la idea y luego da un ejemplo**: la respuesta suele ser la idea (lo que va después de *primary / main / key*) |
 | 2026-10-28 | 🎯 **Palabra vecina (otra vez)** | Listening · P4 | `culture` → **integration**: *"the main difficulty is **integration**… aligned with the company's **culture**"* | Igual: *main difficulty is X* → X. Lo que viene después es explicación |
 | 2026-10-28 | ✍️ **Incontable con -s** | Listening · P4 | `insurances` → **insurance** | Lista de incontables del banco de ortografía: *insurance, compensation, information, equipment, research, advice* |
+| **2026-10-28** | 🎧 **Sección 4 — 27467** (apariencia e identidad cultural) — **7/10** · maratón nº2 | Listening · P4 | ✅ *biography · western · sneakers · meaning* · **8 aciertos sin los 2 que no captó** | Dos 7/10 seguidas |
+| 2026-10-28 | 🔴 **No captó: palabra dentro de una lista** | Listening · P4 | Q1 **beliefs** (*"our heritage, our **beliefs**, and our sense of belonging"*) · Q7 **butterfat** (*"a mixture of **butterfat** and ochre"*) | En listas de 2–3, la respuesta suele ser **una** de ellas: retener las tres y elegir con la nota |
+| 2026-10-28 | 🎯 **Sustantivo vecino en vez de ADJETIVO** | Listening · P4 | `climate` → **practical**: *"a **practical** choice for the damp, cold **climate**"* | Antes del audio, decidir **qué tipo de palabra** va: *a ___ choice* → adjetivo |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay

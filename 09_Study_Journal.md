@@ -1769,3 +1769,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 
 😴 Muy cansada: el Task 2 y Gemini pasan al viernes (colchón). En su lugar, **maratón de Sección 4**.
 🎧 **27460: 7/10.** Arranque limpio y *isolation*/*flexibility* exactas (ayer las cambió por sinónimos). Fallos: dos veces la palabra vecina (*internet* por *technology*, *culture* por *integration*: el ejemplo o la explicación en vez de la idea principal) e *insurances* con -s.
+🎧 **27467: 7/10.** Dos 7/10 seguidas. *beliefs* y *butterfat* se perdieron dentro de listas; *climate* (sustantivo vecino) en lugar del adjetivo *practical*.
