@@ -872,3 +872,21 @@ Te dan el **inicio de una oración** (preguntas) y una lista de **finales** (A�
 
 ## 🔍 Las palabras pequeñas deciden
 ***than · only · all · every · never · most · any · single · first · currently***
+
+
+---
+
+## ➕ NO AÑADIR PALABRAS A LA AFIRMACIÓN *(27-oct)*
+
+**Q5 del T/F/NG 28142:** *"The first American national pension system was created **in response to** the failure of private retirement schemes."*
+Ella razonó: *"la **única** causa era la crisis del 29"* → FALSE. Era **TRUE**.
+
+> **La afirmación no dice *only, main, primary, the sole reason*.** Si no lo dice, **no se lo agregues**.
+> Una **cadena causal** (crisis → destruye los planes privados → el Estado responde) hace verdaderas **las dos** frases: *"en respuesta a la crisis"* y *"en respuesta al fracaso de los planes"*.
+
+| Error | Qué pasa | Ejemplo |
+|---|---|---|
+| **Ignorar** una palabra que SÍ está | *all, than, only, apple* | 21-oct · 25-oct |
+| **Añadir** una palabra que NO está | *"la única causa"* | 27-oct |
+
+**Y el método que SÍ funcionó (Q3, mismo día):** seguir leyendo el párrafo siguiente hasta encontrar la frase que hace la afirmación **imposible** — *"It was not until the late 19th century…"*. Su FALSE era defendible frente a la clave NG.
