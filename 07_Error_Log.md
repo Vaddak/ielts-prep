@@ -469,6 +469,11 @@ After every timed practice or mock exam:
 | 2026-10-27 | 🎯 **Palabra vecina** | Listening · P4 | `proofs` (del encabezado) → **authenticity** · `urgency` (idea del hueco 5) → **fear** · `perception` (palabra siguiente) → **benchmark** | 🆕 **Chequeo final: ¿encaja en la frase?** + **expresiones fijas adivinables antes del audio** (*fear of missing out*) |
 
 
+| **2026-10-27** | 🎧 **Sección 4 — 27459** (*The Changing Nature of Careers*) — **6/10** | Listening | ✅ *stability · income · communication · cost · purpose · network* — **predicciones previas funcionaron** | |
+| 2026-10-27 | 🔴 **Escribió SU sinónimo, no la palabra del audio** | Listening · P4 | `liberly` → **flexibility** · `disconnection` → **isolation** | ⚠️ **Efecto secundario de predecir:** la candidata a lápiz es **una hipótesis; el audio gana**. Si el hablante dice otra palabra, se cambia |
+| 2026-10-27 | 🔴 **Número vecino** | Listening · P4 | `90` → **61**: *"a trial involving **sixty-one companies**, over **ninety percent** decided…"* | Dos números seguidos: **¿cuál responde a *companies*?** |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

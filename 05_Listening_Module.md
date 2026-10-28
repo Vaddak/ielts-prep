@@ -663,3 +663,6 @@ En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se co
 > *"acts as a ~~perception~~ for judging value"* → **benchmark** · *"the human ~~urgency~~ of missing out"* → **fear** · *"feedback has ~~proofs~~"* → **authenticity**
 
 **Y las expresiones fijas se pueden adivinar antes del audio:** *fear of missing out (FOMO)* · *analysis paralysis* · *a sense of obligation* · *brand loyalty*.
+
+> ⚠️ **La candidata escrita antes del audio es una HIPÓTESIS. El audio gana.** *(27-oct: predijo y mantuvo `liberty` y `disconnection`; el audio decía **flexibility** e **isolation**.)*
+> 🔢 **Dos números seguidos** (*sixty-one companies, over ninety percent*): elegir **el que responde al sustantivo del hueco**.
