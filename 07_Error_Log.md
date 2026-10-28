@@ -473,6 +473,10 @@ After every timed practice or mock exam:
 | 2026-10-27 | 🔴 **Escribió SU sinónimo, no la palabra del audio** | Listening · P4 | `liberly` → **flexibility** · `disconnection` → **isolation** | ⚠️ **Efecto secundario de predecir:** la candidata a lápiz es **una hipótesis; el audio gana**. Si el hablante dice otra palabra, se cambia |
 | 2026-10-27 | 🔴 **Número vecino** | Listening · P4 | `90` → **61**: *"a trial involving **sixty-one companies**, over **ninety percent** decided…"* | Dos números seguidos: **¿cuál responde a *companies*?** |
 
+| **2026-10-28** | 🎧 **Sección 4 — 27460** (gig economy / freelancing) — **7/10** · maratón nº1 | Listening · P4 | ✅ **Arranque limpio** (*loyalty · risk*) — el foco del día funcionó · ✅ *isolation* y *flexibility*, **las dos que ayer cambió por sinónimos**, ahora exactas | |
+| 2026-10-28 | 🎯 **Palabra vecina: el ejemplo en vez de la categoría** | Listening · P4 | `internet` → **technology**: *"the primary driver is **technology**. The rise of the **internet**…"* | El hablante **nombra la idea y luego da un ejemplo**: la respuesta suele ser la idea (lo que va después de *primary / main / key*) |
+| 2026-10-28 | 🎯 **Palabra vecina (otra vez)** | Listening · P4 | `culture` → **integration**: *"the main difficulty is **integration**… aligned with the company's **culture**"* | Igual: *main difficulty is X* → X. Lo que viene después es explicación |
+| 2026-10-28 | ✍️ **Incontable con -s** | Listening · P4 | `insurances` → **insurance** | Lista de incontables del banco de ortografía: *insurance, compensation, information, equipment, research, advice* |
 
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay

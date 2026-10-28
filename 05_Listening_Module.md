@@ -654,7 +654,7 @@ En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se co
 
 ### ⚖️ Singular / plural — la regla
 1. Escribir **la forma que suena**: si se oye */s/* al final, va con -s.
-2. Mirar la nota: ***a** ___ fund* → singular · *___ **and** otters* → probablemente plural · sustantivos incontables (***compensation, information, equipment, research, advice***) **nunca** llevan -s.
+2. Mirar la nota: ***a** ___ fund* → singular · *___ **and** otters* → probablemente plural · sustantivos incontables (***compensation, information, equipment, research, advice, insurance***) **nunca** llevan -s.
 3. Si dudas entre dos ortografías, escribe **la más simple que se parezca al sonido**: una palabra casi bien escrita sigue siendo incorrecta, así que no pierdas tiempo; sigue escuchando.
 
 
@@ -666,3 +666,6 @@ En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se co
 
 > ⚠️ **La candidata escrita antes del audio es una HIPÓTESIS. El audio gana.** *(27-oct: predijo y mantuvo `liberty` y `disconnection`; el audio decía **flexibility** e **isolation**.)*
 > 🔢 **Dos números seguidos** (*sixty-one companies, over ninety percent*): elegir **el que responde al sustantivo del hueco**.
+
+### 🎯 Idea principal vs ejemplo *(28-oct)*
+El hablante suele decir **la idea y luego un ejemplo o explicación**: *"the **primary driver** is **technology**. The rise of the internet…"* · *"the **main difficulty** is **integration**… aligned with the culture"*. Después de ***primary / main / key / biggest***, **la primera palabra es la respuesta**; lo que sigue es apoyo.

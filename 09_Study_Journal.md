@@ -1761,3 +1761,11 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 
 🏢 **Oficina:** sin tiempo (temporada alta). Leyó el PDF *NOT GIVEN para dummies*. Reorganizó la semana ella misma: todo en casa, viernes como colchón, **dos mocks completos el fin de semana** (sáb 31 y dom 1), con post-mortem corto el sábado en la noche.
 🏠 **Casa (pendiente):** T/F/NG con el PDF · Sección 4 ×1 con el banco de ortografía · drill *I'd…*
+
+
+---
+
+## Miércoles 28 de octubre · 17 días
+
+😴 Muy cansada: el Task 2 y Gemini pasan al viernes (colchón). En su lugar, **maratón de Sección 4**.
+🎧 **27460: 7/10.** Arranque limpio y *isolation*/*flexibility* exactas (ayer las cambió por sinónimos). Fallos: dos veces la palabra vecina (*internet* por *technology*, *culture* por *integration*: el ejemplo o la explicación en vez de la idea principal) e *insurances* con -s.
