@@ -369,3 +369,29 @@ Gemini contó *"I will say: 1"* y **no hay ninguno** en la transcripción. Lo qu
 | 12-oct FlexCheck | 24-oct Gemini | Meta |
 |---|---|---|
 | 6.0 | **6.0** | **6.5** |
+
+
+---
+
+## Gemini — Part 3, 28 oct 2026 (tema: turismo y ciudades históricas)
+
+**Bandas de Gemini:** FC 6.0 · LR 6.0 · GRA 5.5 · P 6.5 → **6.0** (una sola respuesta de Part 3, así que la banda es poco fiable).
+
+**Transcripción (resumen de sus errores, no el texto completo):**
+- *tourism affect* → **tourism affects** (3ª persona -s)
+- *all your incomes* → **income** (incontable)
+- *too much more* → **much / far more**
+- *related with* → **related to**
+- *What it is?* → **What are they?** / *So what are the downsides?* (Gemini no lo marcó)
+- *the negative impact of the tourism* → **of tourism** (Gemini no lo marcó: es el ítem 2 del watch-list)
+- *it affects or it impacts* → reinicio; elegir un verbo y seguir
+- *an historic city*: **no es error**; *a historic* es lo más común, pero las dos valen.
+
+**Lo bueno:** estructura positivo → negativo con 3 ejemplos (gentrification, abandono de edificios, residuos). Eso es Part 3 bien construido.
+
+**Corrección de Claudio al watch-list:** el #2 (*the* + general) fue **1 vez**, no 0. Total real: 4 marcas (#2, #6, #9, #10).
+
+**Respuesta modelo 7 (misma idea, mismo vocabulario de ella):**
+> *I'd say tourism affects historic cities in both positive and negative ways. On the plus side, it boosts local income, since visitors spend money in shops and restaurants. The downside, though, is that it can drive gentrification: prices rise so much that locals can no longer afford to live there, and fewer residents are left to look after the old buildings. On top of that, waste becomes a real problem, because some tourists don't dispose of their rubbish properly. So, on balance, I think tourism helps only if the city regulates it.*
+
+**Siguiente paso:** en el próximo Gemini pedir **Part 3 completa (4–5 preguntas)** para tener una banda fiable, y cerrar cada respuesta con un veredicto (*So, on balance…*).

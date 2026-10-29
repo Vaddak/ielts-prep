@@ -1771,3 +1771,9 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 🎧 **27460: 7/10.** Arranque limpio y *isolation*/*flexibility* exactas (ayer las cambió por sinónimos). Fallos: dos veces la palabra vecina (*internet* por *technology*, *culture* por *integration*: el ejemplo o la explicación en vez de la idea principal) e *insurances* con -s.
 🎧 **27467: 7/10.** Dos 7/10 seguidas. *beliefs* y *butterfat* se perdieron dentro de listas; *climate* (sustantivo vecino) en lugar del adjetivo *practical*.
 🎧 **27481: 8/10.** Maratón cerrado: **7 → 7 → 8**, mejorando aunque estaba cansada. *goal-directed* (paráfrasis pegada) y un ítem discutible de lista (*trust* vs *affection*).
+
+
+### Mié 28 oct (noche) — Gemini Part 3
+- Tema: turismo y ciudades históricas. Bandas: FC 6 · LR 6 · GRA 5.5 · P 6.5 → **6.0** (solo una respuesta, así que la banda es poco fiable).
+- Estructura buena (positivo → 3 negativos). Hay que pulir la gramática básica: *-s* de 3ª persona, *income* incontable, *the tourism* y *related to*.
+- Gemini no marcó *the tourism* ni *What it is?*. Claudio los añadió. Detalle en 14_Speaking_Archive.md.
