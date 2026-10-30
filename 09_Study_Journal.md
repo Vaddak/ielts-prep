@@ -1777,3 +1777,8 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - Tema: turismo y ciudades históricas. Bandas: FC 6 · LR 6 · GRA 5.5 · P 6.5 → **6.0** (solo una respuesta, así que la banda es poco fiable).
 - Estructura buena (positivo → 3 negativos). Hay que pulir la gramática básica: *-s* de 3ª persona, *income* incontable, *the tourism* y *related to*.
 - Gemini no marcó *the tourism* ni *What it is?*. Claudio los añadió. Detalle en 14_Speaking_Archive.md.
+
+
+### Vie 30 oct — Task 2 en frío
+- Jueves 29 sin estudio por el trabajo. Hoy Task 2 (transporte público vs carreteras) en 32:34, con buena fluidez. Estimado 6.0–6.5.
+- Fallos repetidos: *amount* con contables, *a research*, *invest on*, 5 typos, idea nueva en la conclusión. Detalle en 11_Writing_Baseline_Essays.md.

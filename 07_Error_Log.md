@@ -485,6 +485,7 @@ After every timed practice or mock exam:
 | 2026-10-28 | ⚖️ **Discutible — lista de 4** | Listening · P4 | Nota: *kindness and ___* · audio: *trust, altruism, kindness, **affection*** → clave **trust**; escribió `affection` | *affection* también aparece en la lista. Aprendizaje: si dudas, la clave suele ser **el primer elemento** de la lista |
 | 28/10 | Speaking P3 (Gemini) | tourism affect · incomes · too much more · related with · the tourism · What it is? | 3ª persona -s; income incontable; much more; related to; sin *the* en general; What are they? | GRA 5.5 → objetivo: 0 errores básicos |
 
+| 30/10 | Writing T2 (transporte) | high amount of people · a research · invest on · exposed · reduce … than · 5 typos | large numbers of · research/a study · invest in · set out · reduce more than · revisar ortografía | 6.0–6.5 |
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
