@@ -1064,3 +1064,18 @@ Intro con la plantilla *Discussion* perfecta · ejemplo concreto propio · 279 p
 **Regla de la sesión:** *amount* va con incontables (*money, traffic*) y *number* con contables (*people, jobs, industries*). Y *research* nunca lleva *a*.
 
 **Usar los 7 minutos que sobraron:** 3 min de revisión con la lista de ortografía + *amount/number* + *invest in*.
+
+## v2 (31 oct) — estimado **6.5**
+Corrigió *invest in*, *large numbers of*, *number of jobs*, *is to fund*, *explained*, *Building*, *American*, *more than*, *Research* (body 2) y casi toda la ortografía.
+
+**Quedan:**
+- *to whole society* → **to society as a whole**
+- *a research compared* (body 1) → **a study compared**
+- *with a reduced cost in urban area* → **at a lower cost in urban areas**
+- *improve the traffic / the pollution* → **ease traffic congestion / reduce pollution** (sin *the* en general)
+- *spent more resources on* → **devoted more resources to** (*spend* va con *money / time*)
+- *eficciency* → **efficiency**
+- Conclusión: sigue *green areas* (idea nueva) → quitar
+- Body 1: la frase de *The data showed…* sigue en ~60 palabras → partirla en dos
+
+**Regla:** *invest **in*** (meter dinero dentro de algo y esperar retorno) · *spend **on*** (gastar dinero en algo).
