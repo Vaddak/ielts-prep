@@ -1091,3 +1091,13 @@ Arregló *society as a whole*, *a study*, *at a lower cost in urban areas*, *eas
 - *Research made by* → **Research conducted by**
 - Conclusión: *…large numbers of people, the reduction of the carbon footprint.* → **…large numbers of people and a smaller carbon footprint.** (falta *and* en la lista)
 - *the government* → **governments** (coherencia con la intro)
+
+## v4 (31 oct) — estimado **7.0** · FINAL REAL
+Aplicó los 7 pulidos de v3: *benefited*, paralelismo *and with fewer*, *traffic levels*, *ease congestion*, *conducted by*, *and* en la lista y *governments*.
+
+**Detalles opcionales (no bajan banda):**
+- *Tokyo could ease* → **Tokyo, for example, managed to ease** (*could* suena a posibilidad; *managed to* es un logro en pasado)
+- *in the research* → **in the study** (ya lo llamó *study* antes)
+- *supporting the building and the fixing of roads* → **building and repairing roads** (más directo)
+
+**Lección del ensayo:** de v1 (6.0) a v4 (7.0) sin cambiar ni una idea. Solo cambiaron precisión y revisión. Los 7 minutos de revisión valen una banda.
