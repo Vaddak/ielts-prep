@@ -1079,3 +1079,15 @@ Corrigió *invest in*, *large numbers of*, *number of jobs*, *is to fund*, *expl
 - Body 1: la frase de *The data showed…* sigue en ~60 palabras → partirla en dos
 
 **Regla:** *invest **in*** (meter dinero dentro de algo y esperar retorno) · *spend **on*** (gastar dinero en algo).
+
+## v3 (31 oct) — estimado **6.5 sólido, rozando 7** · FINAL
+Arregló *society as a whole*, *a study*, *at a lower cost in urban areas*, *ease traffic congestion*, *reduce pollution*, partió la frase larga y quitó *green areas*.
+
+**Últimos pulidos:**
+- *cities which spent … benefit* → **benefited** (concordancia de tiempos: pasado con pasado)
+- *at a lower cost … and environmental consequences* → **at a lower cost and with fewer environmental consequences** (paralelismo)
+- *compared the traffic* → **compared traffic levels**
+- Body 2: *improve the traffic* → **ease congestion** (el mismo *the* general, otra vez)
+- *Research made by* → **Research conducted by**
+- Conclusión: *…large numbers of people, the reduction of the carbon footprint.* → **…large numbers of people and a smaller carbon footprint.** (falta *and* en la lista)
+- *the government* → **governments** (coherencia con la intro)
