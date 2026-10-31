@@ -35,19 +35,24 @@
 | **Lun 26** | ✍️ Tabla guiada v3 **6.5** · 🎧 Sección 4 ×3 (8 · 8 · 3*) · 🎤 Gemini Parte 3 | ✅ *(\*3/10 por ortografía; comprensión ~8)* |
 | **Mar 27** | 📖 **T/F/NG** con el PDF `15_NOT_GIVEN_para_dummies.pdf` · 🎧 **Sección 4 ×1** (banco de ortografía) · 🗣️ drill *I'd…* | 📖 ✅ **3/5 → en la práctica 4/5** (Q3 discutible, su razonamiento era válido · Q5: añadió *"única causa"*) · 🎧 ✅ **Sección 4: 5/10**, bloque final **3/3**; fallos en el arranque · 🎧 ✅ **Sección 4 extra: 6/10** |
 | **Mié 28** | ~~Task 2 + Gemini~~ → muy cansada: **maratón de Sección 4: 7 · 7 · 8** ✅ | Task 2 y Gemini pasan al **viernes (colchón)** |
-| **Jue 29** | ✍️ **Task 1 (20 min) + Task 2 (40 min)** = Writing completo en frío, ensayo del sábado | |
-| **Vie 30** | 🧯 **Colchón:** ✍️ **Task 2 en frío** + 🎤 **Gemini test completo** (movidos del miércoles) | |
-| **🏁 Sáb 31** | **MOCK COMPLETO Nº2** (L + R + W) + 🎤 Gemini · **post-mortem corto esa noche** (10 min: lista de errores) | |
-| **🏁 Dom 1** | **MOCK COMPLETO Nº3** · aplicar la lista del sábado · post-mortem de los dos | |
-
+| **Jue 29** | ~~Task 1 + Task 2~~ → sin estudio (trabajo) | Task 1 en frío queda pendiente |
+| **Vie 30 → Sáb 31** | ✍️ **Task 2 en frío** (transporte vs carreteras) v1→v4: **6.0 → 7.0** 🎉 | ✅ |
+| **🏁 Sáb 31** | **MOCK COMPLETO Nº2** (L + R + W) · **post-mortem corto esa noche** (10 min: lista de errores) | |
+| **Dom 1** | 🎤 **Gemini test completo** (Parts 1+2+3) + descanso | |
 
 **Cada día, 1 minuto en voz alta:** *I'd say… I'd prefer… I'd argue…* — y en la Parte 3, **siempre** *Having said that…* → *On balance…*
+
+
+**Re-planificada el sábado 31** (con su visto bueno): el Mock nº3 pasa al **sábado 7** para tener la semana de reparación en medio.
 
 ### 🗓️ Y lo que queda después
 | | |
 |---|---|
-| **Nov 2–8** | Mock nº3 + reforzar el módulo más bajo del mock nº2 |
-| **Nov 9–13** | Repaso ligero, **nada nuevo**. **Viernes 13: descanso total** |
+| **Lun 2 – Jue 5** | 1 bloque corto en casa al día sobre **lo más bajo del Mock nº2** (Sección 4 / T/F/NG / Task 1 en frío) |
+| **🏁 Sáb 7** | **MOCK COMPLETO Nº3**, el último completo |
+| **Dom 8** | 🎤 Gemini + post-mortem de los mocks nº2 y nº3 |
+| **Lun 9 – Jue 12** | Repaso ligero, **nada nuevo** |
+| **Vie 13** | **Descanso total** |
 | **Sáb 14** | 🎯 **EXAMEN** |
 
 ### 🔴 Las dos reglas para el mock del domingo
