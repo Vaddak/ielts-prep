@@ -1782,3 +1782,6 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 ### Vie 30 oct — Task 2 en frío
 - Jueves 29 sin estudio por el trabajo. Hoy Task 2 (transporte público vs carreteras) en 32:34, con buena fluidez. Estimado 6.0–6.5.
 - Fallos repetidos: *amount* con contables, *a research*, *invest on*, 5 typos, idea nueva en la conclusión. Detalle en 11_Writing_Baseline_Essays.md.
+
+### Sáb 31 oct — Sección 4 nº27483 (Big Five): 7/10
+- Fallos: sinónimo propio (*cooperating* por **teamwork**), *1949* oído como 1999 y *questionary* (calco del español). Después: Gemini test completo.

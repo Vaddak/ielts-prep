@@ -486,6 +486,7 @@ After every timed practice or mock exam:
 | 28/10 | Speaking P3 (Gemini) | tourism affect · incomes · too much more · related with · the tourism · What it is? | 3ª persona -s; income incontable; much more; related to; sin *the* en general; What are they? | GRA 5.5 → objetivo: 0 errores básicos |
 
 | 30/10 | Writing T2 (transporte) | high amount of people · a research · invest on · exposed · reduce … than · 5 typos | large numbers of · research/a study · invest in · set out · reduce more than · revisar ortografía | 6.0–6.5 |
+| 31/10 | Listening S4 nº27483 (Big Five) **7/10** | 4 cooperating · 7 1999 · 8 questionary | 4 teamwork (palabra del audio, no sinónimo) · 7 1949 (*forty* ≠ *ninety*) · 8 questionnaire (no *cuestionario*) | 7/10 |
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

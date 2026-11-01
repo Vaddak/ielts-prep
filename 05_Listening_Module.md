@@ -669,3 +669,6 @@ En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se co
 
 ### 🎯 Idea principal vs ejemplo *(28-oct)*
 El hablante suele decir **la idea y luego un ejemplo o explicación**: *"the **primary driver** is **technology**. The rise of the internet…"* · *"the **main difficulty** is **integration**… aligned with the culture"*. Después de ***primary / main / key / biggest***, **la primera palabra es la respuesta**; lo que sigue es apoyo.
+
+- **questionnaire** (doble n, termina en *-aire*; no *questionary*) · **teamwork** (una palabra)
+- 🔢 *forty* (4**0**) vs *ninety* (9**0**): en fechas, *nineteen forty-nine* = **1949**
