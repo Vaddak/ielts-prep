@@ -532,5 +532,5 @@ El portal no las guardó y era la primera vez que lo usaba. **No hay desglose po
 | Módulo | Resultado | Notas |
 |---|---|---|
 | 🎧 Listening (portal, mock mode) | **Band 7.0** · ~30/40 · 27:07 | Fallos: P1 *payment method* y *(8) can be added later*; 4 de opción múltiple en P2–P3; P4 (túnel del Canal): 31, 34, 35, 38 (uno mal escrito: *fraids*) |
-| 📖 Reading | | último mock gratis del portal |
+| 📖 Reading (portal, test 831024, último gratis) | **Band 6.0** · 58:33 | Baja desde 7.5 (mock nº1). ~15 marcas fallidas: 5 en P1 (@ y #), *differents* (los adjetivos no llevan -s), *sand dredged* / *fine* en completion. Revisar en el post-mortem |
 | ✍️ Writing | | tareas originales de Claudio (el portal no tiene Writing mocks gratis) |
