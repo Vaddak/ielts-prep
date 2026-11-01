@@ -395,3 +395,39 @@ Gemini contó *"I will say: 1"* y **no hay ninguno** en la transcripción. Lo qu
 > *I'd say tourism affects historic cities in both positive and negative ways. On the plus side, it boosts local income, since visitors spend money in shops and restaurants. The downside, though, is that it can drive gentrification: prices rise so much that locals can no longer afford to live there, and fewer residents are left to look after the old buildings. On top of that, waste becomes a real problem, because some tourists don't dispose of their rubbish properly. So, on balance, I think tourism helps only if the city regulates it.*
 
 **Siguiente paso:** en el próximo Gemini pedir **Part 3 completa (4–5 preguntas)** para tener una banda fiable, y cerrar cada respuesta con un veredicto (*So, on balance…*).
+
+
+---
+
+## Gemini — test completo, 31 oct 2026 (rutina, alimentación, Lovaina, turismo)
+
+**Bandas de Gemini:** FC 6.0 · LR 6.0 · GRA 5.5 · P 6.5 → **6.0**
+
+⚠️ **Fiabilidad baja:** Gemini mezcló errores de la sesión del 28 (*incomes*, *tourism affect*, *gentrification*, *it affects or it impacts*), que hoy no dijo. Además la Part 3 volvió a tener **una sola pregunta**. La banda real de GRA probablemente es **6.0**, no 5.5.
+
+**Lo bueno:** Part 2 de Lovaina con detalle real (IMEC, chip design, electrochemical sensors) y el contraste *cutting-edge science* vs *old architecture*. Part 1 con respuestas largas desde la primera pregunta.
+
+**Errores que Gemini sí vio:** *I practice weightlifting since 5 years ago* → **I've been doing weightlifting for five years** · *an student* → **a student** · *on bus* → **by bus** · *lie on bed* → **lie in bed** · *the food* → **food**
+
+**Errores que Gemini NO vio (Claudio):**
+| Dijo | Mejor | Tipo |
+|---|---|---|
+| When I end my job | **When I finish work** | colocación |
+| Most of the days | **Most days** | uso |
+| this physical effort | **physical exercise / a workout** | falso amigo (*esfuerzo físico*) |
+| Even you have to sometimes have two jobs | **Sometimes you even have to have two jobs** | orden de *even* |
+| the mental health is also part | **mental health is also part** | *the* general |
+| for one hand | **on the one hand** | preposición |
+| researching about | **researching** (sin *about*) | preposición |
+| finishing my journey at IMEC | **finishing my working day** | falso amigo (*jornada*) |
+| benefit from the tourism | **benefit from tourism** | *the* general |
+| maintain the installations | **look after the facilities** | falso amigo (*instalaciones*) |
+| They don't use to take care | **They don't usually / tend not to take care** | falso amigo (*no suelen*) |
+| sense of familiarity | **sense of belonging** | colocación |
+| (Part 3 sin cierre) | **So, on balance, I think…** | sin veredicto |
+
+**Watch-list corregido:** *the* general **3** (the food, the mental health, the tourism) · *since* con presente **1** · falsos amigos **4** (effort, journey, installations, use to) · Part 3 sin veredicto **1**.
+
+**Patrón nuevo: falsos amigos del español** (*jornada, instalaciones, soler, esfuerzo*). Antes de la próxima sesión: *working day · facilities · usually/tend to · exercise*.
+
+**Para la próxima:** pedir en el prompt que **ignore sesiones anteriores** y que la Part 3 tenga **5 preguntas** (insistir al empezar la Part 3: *"Please ask me at least five Part 3 questions"*).

@@ -487,6 +487,7 @@ After every timed practice or mock exam:
 
 | 30/10 | Writing T2 (transporte) | high amount of people · a research · invest on · exposed · reduce … than · 5 typos | large numbers of · research/a study · invest in · set out · reduce more than · revisar ortografía | 6.0–6.5 |
 | 31/10 | Listening S4 nº27483 (Big Five) **7/10** | 4 cooperating · 7 1999 · 8 questionary | 4 teamwork (palabra del audio, no sinónimo) · 7 1949 (*forty* ≠ *ninety*) · 8 questionnaire (no *cuestionario*) | 7/10 |
+| 31/10 | Speaking test completo (Gemini) 6.0 | practice since 5 years · the mental health · journey · installations · don't use to · for one hand · on bus | I've been doing … for · mental health · working day · facilities · usually/tend to · on the one hand · by bus | GRA 5.5–6 |
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

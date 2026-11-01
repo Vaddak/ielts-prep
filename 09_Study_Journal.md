@@ -1785,3 +1785,8 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 
 ### Sáb 31 oct — Sección 4 nº27483 (Big Five): 7/10
 - Fallos: sinónimo propio (*cooperating* por **teamwork**), *1949* oído como 1999 y *questionary* (calco del español). Después: Gemini test completo.
+
+
+### Sáb 31 oct — Gemini test completo
+- Bandas de Gemini 6.0 (FC 6 · LR 6 · GRA 5.5 · P 6.5), pero Gemini mezcló errores del 28 y solo hizo 1 pregunta de Part 3. Fiabilidad baja.
+- Part 2 de Lovaina muy buena. Patrón nuevo: falsos amigos (*journey, installations, don't use to, effort*). *the* general ×3. Part 3 sin veredicto.
