@@ -525,3 +525,12 @@ El portal no las guardó y era la primera vez que lo usaba. **No hay desglose po
 **Date & time:** ___________  
 **ID to bring:** ___________  
 **Speaking test time (often separate day):** ___________
+
+---
+
+## 🏁 MOCK Nº2 — domingo 1 nov 2026
+| Módulo | Resultado | Notas |
+|---|---|---|
+| 🎧 Listening (portal, mock mode) | **Band 7.0** · ~30/40 · 27:07 | Fallos: P1 *payment method* y *(8) can be added later*; 4 de opción múltiple en P2–P3; P4 (túnel del Canal): 31, 34, 35, 38 (uno mal escrito: *fraids*) |
+| 📖 Reading | | último mock gratis del portal |
+| ✍️ Writing | | tareas originales de Claudio (el portal no tiene Writing mocks gratis) |
