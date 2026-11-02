@@ -1300,3 +1300,40 @@ El enunciado dice ***"selecting and reporting the main features"***. **Elegir ES
 
 **⭐ Para 7:** *rose 10%* → *rose by **10 percentage points*** (de 4% a 14% es +250%, no +10%) · *the time of the day* → *the time of day*.
 
+
+
+---
+
+# 🏁 TASK 1 — MOCK Nº2 · 1 nov 2026 · Tabla: hogares con internet (Noruega, España, Brasil, India · 2005/2015/2025)
+*Tarea original de Claudio. Datos: Noruega 64→91→98 · España 34→79→96 · Brasil 13→51→84 · India 2→19→62 (%).*
+
+## v1
+> The table illustrates the number of households with internet connection in four nations over two decades.
+> Overall, in every country, the access to internet rose year by year. Whereas almost every country showed the highest increase in the first decade,  India showed its highest increase in the second decade.
+> In 2005, more than half of Norway's population already was connected to internet. Ten years later, the growth in internet's accesibility reached 91% of households and in the final year of the study, almost all Norway's households have access to internet. Whereas Spain started the study with almost half the figure of Norway in 2005, the access to internet climbed to 79% in 2015 and ended with the similar figure of Norway in 2025, with 98% of houselholds with connection.
+> In 2005, only 13% of houses in Brazil had access to internet. In 2015 this figure increased to 51% and rose more than 30% in 2025. India was the country with the lowest amount of population connected to internet in 2005, only 2%. In 2015, this number increased almost ten times its original value. India remained with the lowest figure for 2025, with 62% of households connected to internet.
+
+## Corrección v1 — estimado **6.0–6.5**
+| Criterio | Banda | Por qué |
+|---|---|---|
+| TA | 6.0 | **Overview excelente** (la mayor subida en la 1ª década salvo India: verificado). Pero hay un dato mal (España 98% → **96%**), falta la cifra final de Brasil (**84%**) y dice *number* para porcentajes. |
+| CC | 6.5 | Buena agrupación: Noruega+España (altos) y Brasil+India (bajos). |
+| LR | 6.0 | *climbed, almost ten times*. Pero hay errores de ortografía y *amount of population*. |
+| GRA | 6.0 | Presente en vez de pasado (*have access*), orden de *already*, *the* general. |
+
+**Errores:**
+- *the number of households* → **the proportion / percentage of households** (es una tabla de %)
+- *rose year by year* → **rose steadily over the period** (solo hay 3 años de datos)
+- *almost every country* → **three of the four countries**
+- *Norway's population* → **Norway's households** (la tabla habla de hogares)
+- *already was connected* → **was already connected**
+- *almost all Norway's households have* → **almost all households in Norway had** (pasado)
+- *the access to internet* → **internet access** (sin *the*) · pero *connected to **the** internet* (con *the*: es un nombre único)
+- España *98%* → **96%** (dato mal leído; Noruega es la del 98%)
+- *rose more than 30% in 2025* → **rose by a further 33 percentage points to 84%**
+- *the lowest amount of population* → **the lowest proportion of households**
+- *increased almost ten times* → **increased almost tenfold**
+- *remained with the lowest figure* → **still had the lowest figure**
+- Ortografía: accesibility → **accessibility** · houselholds → **households**
+
+**Regla de la sesión:** *internet access* (general, sin *the*) vs *the internet* (nombre único, con *the*). Y antes de entregar, **comprobar cada cifra contra la tabla**.
