@@ -534,3 +534,8 @@ El portal no las guardó y era la primera vez que lo usaba. **No hay desglose po
 | 🎧 Listening (portal, mock mode) | **Band 7.0** · ~30/40 · 27:07 | Fallos: P1 *payment method* y *(8) can be added later*; 4 de opción múltiple en P2–P3; P4 (túnel del Canal): 31, 34, 35, 38 (uno mal escrito: *fraids*) |
 | 📖 Reading (portal, test 831024, último gratis) | **Band 6.0** · 58:33 | Baja desde 7.5 (mock nº1). ~15 marcas fallidas: 5 en P1 (@ y #), *differents* (los adjetivos no llevan -s), *sand dredged* / *fine* en completion. Revisar en el post-mortem |
 | ✍️ Writing | | tareas originales de Claudio (el portal no tiene Writing mocks gratis) |
+
+## 🏁 MOCK Nº3 — lunes 2 nov 2026 (festivo)
+| Módulo | Resultado | Notas |
+|---|---|---|
+| 🎧 Listening (portal, test 821008) | **Band 6.0** · ~24/40 · 27:36 | **P1: 5 fallos en datos dictados** (apellido deletreado, código postal, nombre de calle, nº de referencia, fecha) · P2: 1 (géneros de películas) · P3: 5 (matching de inundaciones) · **P4: 6** (killifish), 2 de ellos con **dos palabras cuando el límite era UNA** (*oxygen concentrations*, *low temperatures*) |
