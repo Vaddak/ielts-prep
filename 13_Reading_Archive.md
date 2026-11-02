@@ -2226,3 +2226,23 @@ International sleeper services face several practical difficulties. Trains must 
 - **Q26** — `preventing` → **prevention** (*"the answer lies in **prevention** rather than cure"*). ⚠️ **Cambió la forma de la palabra** — igual que `3 days`/`3 nights` en el Listening del mismo día
 
 > 🔁 **Patrón del día en dos módulos: cambiar la palabra de la fuente.** Se copia **exacta**, terminación incluida.
+
+---
+
+# 🏁 MOCK Nº2 — READING · 1 nov 2026 · **BAND 6.0** · 58:33
+*Sin copiar el test: solo tipos de pregunta y patrones. Estado: cansada tras el Listening y poco concentrada.*
+
+| Parte | Tipo | Fallos | Patrón |
+|---|---|---|---|
+| P1 (símbolos @ y #) | Matching a 4 opciones (A/B/Both/Neither) | **4 de 6** | Confundir *both* y *neither*: no comprobó el párrafo de **cada** símbolo |
+| P1 | Sentence completion | 1 | |
+| P1 | Pick from list | 2 | Eligió "inmediatamente popular": palabra alarma absoluta (*immediately*) |
+| P2 (arena) | T/F/NG | 1 | Marcó FALSE en una **comparación** (*more profitable than*): trampa 1, probablemente NG |
+| P2 | Summary completion | 2 | Revisar límite de palabras y categoría gramatical |
+| P3 (reverse culture shock) | Matching information | 2 | |
+| P3 | Sentence completion | 2 | *differents*: los adjetivos no llevan -s |
+| P3 | Y/N/NG | 2 | YES en una comparación (*more culturally advanced*) · NG en un *either/or* que el texto contradice (trampa 6) |
+
+**Conclusión:** de ~15 fallos, **4 vienen de una sola tarea** (Both/Neither) y **4 de las trampas del PDF** (comparación, absoluto, NG que era NO). El P1 de un Reading suele ser el más fácil: perder 7 ahí es señal de cansancio, no de nivel.
+
+**Regla nueva — matching Both/Neither:** para cada afirmación, buscarla **dos veces**: una en la parte del primer símbolo y otra en la del segundo. Solo después decidir A/B/C/D.
