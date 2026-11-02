@@ -2246,3 +2246,5 @@ International sleeper services face several practical difficulties. Trains must 
 **Conclusión:** de ~15 fallos, **4 vienen de una sola tarea** (Both/Neither) y **4 de las trampas del PDF** (comparación, absoluto, NG que era NO). El P1 de un Reading suele ser el más fácil: perder 7 ahí es señal de cansancio, no de nivel.
 
 **Regla nueva — matching Both/Neither:** para cada afirmación, buscarla **dos veces**: una en la parte del primer símbolo y otra en la del segundo. Solo después decidir A/B/C/D.
+
+**✅ Confirmado por ella con las respuestas del portal:** Q16 **NG** (comparación) · Q39 **NG** (comparación) · Q40 **NO** (*either/or* contradicho: trampa 6) · Q35 **alien** (ella puso *different*: sinónimo propio en lugar de la palabra del texto). Los 3 T/F/NG y Y/N/NG fallados son trampas del PDF, y las 3 están identificadas.
