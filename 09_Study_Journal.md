@@ -1794,3 +1794,7 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 ### Dom 1 nov — Mock nº2
 - 🎧 Listening **7.0** (récord) · 📖 Reading **6.0** (tema difícil, cansada) · ✍️ Task 1 internet ~6.0–6.5 (overview excelente, un dato mal leído).
 - Task 2 no hecho: sin energía. Queda pendiente para mañana (festivo), con el Task 2 de universidades.
+
+### Lun 2 – Mar 3 nov
+- Lun 2 (festivo): Mock nº3 Listening **6.0** (5 fallos de deletreo en P1, 2 por límite de palabras en P4). El resto del día se cortó por un viaje.
+- Mar 3: plan fijo de recta final acordado (spelling y NG primero, Mock nº4 el sáb 7). Drill de deletreo creado en 05_Listening_Module.md; lo hace en casa hoy.

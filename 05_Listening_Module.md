@@ -672,3 +672,43 @@ El hablante suele decir **la idea y luego un ejemplo o explicación**: *"the **p
 
 - **questionnaire** (doble n, termina en *-aire*; no *questionary*) · **teamwork** (una palabra)
 - 🔢 *forty* (4**0**) vs *ninety* (9**0**): en fechas, *nineteen forty-nine* = **1949**
+
+
+---
+
+# 🔤 DRILL DE DELETREO — Sección 1 (creado el 3 nov 2026)
+*Material original, libre para compartir. Motivo: en el mock nº3 se perdieron 5 puntos en la P1 por apellido, código postal, calle, referencia y fecha.*
+
+## 1. Las letras que se confunden (decirlas en voz alta, 2 veces)
+| Par | Cómo suenan en inglés | Truco |
+|---|---|---|
+| **A / E / I** | A = "ei" · E = "i" · I = "ai" | Al revés que en español: la **E** inglesa suena a nuestra *i* |
+| **G / J** | G = "yi" · J = "yei" | **J** tiene la "ei" de *Jay* |
+| **B / V** | B = "bi" (labios) · V = "vi" (dientes en el labio) | Mirar la boca, no el oído |
+| **M / N** | "em" / "en" | Esperar a que el hablante dé un ejemplo (*N for Nancy*) |
+| **K / Q** | "kei" / "kiu" | **Q** casi siempre va con U |
+| **R** | "ar" | No es "erre" |
+| **W** | "dabel-iu" | Larga: no confundir con *double U* = UU |
+| **Y** | "uai" | |
+| **H** | "eich" | |
+| **Z** | "zed" (UK) / "zi" (US) | En IELTS suele ser **zed** |
+
+## 2. Las reglas del dictado
+- **double L / double S** = escribir la letra dos veces (*double T* = TT).
+- **Números de teléfono y referencias:** se dicen en grupos (*oh-one-eight…*). **oh = 0**.
+- **Códigos postales** mezclan letras y números (*T1L 7E9*). Escribir carácter a carácter y **releer**.
+- **Fechas:** *the eleventh of July* = **11 July** o **July 11**. Las dos valen. El ordinal se escribe en número.
+- **Correcciones:** *"Sorry, that's M, not N"* → la respuesta es **lo último que dice**.
+- **Mayúsculas:** no restan puntos, pero los nombres propios con mayúscula ayudan a releer.
+
+## 3. Práctica (con Gemini o con alguien que lea en voz alta)
+Pídele a Gemini: *"Read these aloud to me letter by letter, like an IELTS Section 1 receptionist, with one correction in some of them. Do not show me the text."*
+
+1. Surname: **Whitfield** 2. Street: **Gresham Road** 3. Postcode: **BV7 9JQ** 4. Ref: **KX-4410-G** 5. Surname: **Abernethy**
+6. Email: **m.okafor@zentra.net** 7. Date: **the 23rd of August** 8. Phone: **07759 312 008** 9. Surname: **Llewellyn** 10. Town: **Yarmouth**
+11. Postcode: **EH12 5AJ** 12. Ref: **QW 88 31 V** 13. Surname: **Pereira** 14. Street: **Hazelmere Avenue** 15. Date: **Tuesday the 9th**
+
+**Clave:** se corrige comparando letra a letra. **Meta:** 15/15 dos días seguidos.
+
+## 4. Antes de cada Sección 1 (5 segundos)
+① **Mirar el límite de palabras con el dedo** · ② ¿Es nombre, número o fecha? · ③ Al terminar: **releer cada carácter** de códigos y referencias.
