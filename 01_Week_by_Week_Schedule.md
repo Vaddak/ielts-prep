@@ -45,16 +45,26 @@
 
 **Re-planificada por ella el sábado 31:** hoy Gemini + Listening, mañana Mock nº2 y el **lunes 2 (festivo) Mock nº3**.
 
-### 🗓️ Y lo que queda después
-| | |
+### 🗓️ RECTA FINAL — plan fijo (acordado el mar 3 nov)
+*Estado al 3-nov: Mock nº2 L 7.0 · R 6.0 · T1 ~6.0–6.5 · Mock nº3 L 6.0 (5 fallos de deletreo en P1, 2 por límite de palabras). Lun 2 cortado por viaje. Pendientes: Reading del mock nº3 y Task 2 de universidades.*
+*Prioridades: **spelling/dictado** y **NG**. Días de trabajo = 30–40 min máximo.*
+
+| Día | Plan (30–40 min entre semana) |
 |---|---|
-| **🏁 Lun 2 (festivo)** | **MOCK COMPLETO Nº3** · post-mortem de los dos mocks |
-| **Mar 3 – Vie 6** | 1 bloque corto en casa al día sobre **lo más bajo de los mocks** (Sección 4 / T/F/NG / Task 1 en frío) |
-| **Sáb 7** | Opcional: Mock nº4 o Writing completo en frío |
-| **Dom 8** | 🎤 Gemini final |
-| **Lun 9 – Jue 12** | Repaso ligero, **nada nuevo** |
+| **Mar 3** | 🔤 Drill de deletreo (15') + 🎧 1 Sección 1 del portal (10') + 📖 1 T/F/NG (15') |
+| **Mié 4** | ✍️ **Task 2 universidades** (40') — corrección conmigo |
+| **Jue 5** | 🔤 Drill de deletreo (10') + 🎧 1 Sección 1 + 📖 1 Y/N/NG |
+| **Vie 6** | 📖 **Reading mock completo** (60') — cabeza fresca, chuleta NG |
+| **🏁 Sáb 7** | **MOCK Nº4 completo en el portal** (L + R + **W en el portal**: desbloquea respuestas modelo) |
+| **Dom 8** | 🎤 Gemini test completo (Part 3 con 5 preguntas) + post-mortem del mock nº4 |
+| **Lun 9** | 🔤 Deletreo + 🎧 Sección 1 + 📖 1 T/F/NG |
+| **Mar 10** | ✍️ Task 1 en frío (20') — repasar el error log de Writing |
+| **Mié 11** | 🎤 Gemini relajado (Part 1 + 2), sin autocrítica |
+| **Jue 12** | Leer solo el banco de ortografía y la chuleta NG · logística (documento, centro, hora) |
 | **Vie 13** | **Descanso total** |
 | **Sáb 14** | 🎯 **EXAMEN** |
+
+**Regla de oro:** si un día de semana no hay energía, se hace **solo el drill de deletreo (10')**. Nunca cero.
 
 ### 🔴 Las dos reglas para el mock del domingo
 
