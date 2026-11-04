@@ -6,7 +6,7 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — semana del 26 oct al 1 nov · **20 días para el examen**
+## 👉 RETOMAR AQUÍ — recta final · **11 días para el examen** *(plan fijo: ver «RECTA FINAL» abajo)*
 
 ### 🏁 Domingo 25 — mock completo nº1
 | | |
