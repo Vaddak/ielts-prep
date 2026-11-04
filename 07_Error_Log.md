@@ -490,9 +490,9 @@ After every timed practice or mock exam:
 | 31/10 | Speaking test completo (Gemini) 6.0 | practice since 5 years · the mental health · journey · installations · don't use to · for one hand · on bus | I've been doing … for · mental health · working day · facilities · usually/tend to · on the one hand · by bus | GRA 5.5–6 |
 | **2026-11-03** | 🔤 **Drill de deletreo (Gemini) — 6/15** | Listening | ✅ códigos y **LLEWELLYN**. ❌ **Vocales A/E/I ×6** · **números ×3** (23→20, 008→07, 31→11) · **G oída como Y** · correo: *at* = @ | 🆕 **Traducción directa:** oigo "ei" → **A** · oigo "i" → **E** · oigo "ai" → **I** · "dyi" → **G** |
 | 2026-11-03 | 🎧 **Sección 1 — 24495 — 5/6** | Listening | ✅ **Grieve** y **Ashley** deletreados perfectos (la combinación I–E que fallaba en el drill) | ❌ Q2: número del correo (`998`) |
-| 2026-11-03 | 📖 **T/F/NG 28143** (*sari*) — **3/5** | Reading | ✅ **Q3 comparación inventada esquivada** (*more complex than* → NG) · ✅ **Q5 *exclusively*** → FALSE | |
+| 2026-11-03 | 📖 **T/F/NG 28143** (*sari*) — **3/5 → en la práctica 4/5** | Reading | ✅ **Q3 comparación inventada esquivada** (*more complex than* → NG) · ✅ **Q5 *exclusively*** → FALSE | |
 | 2026-11-03 | 🔴 **NG donde iba FALSE — trampa del apellido** | Reading · T/F/NG | Q4 *"**Indira** Gandhi popularised khadi… as protest"* · texto: **Mahatma** Gandhi y las mujeres del movimiento; Indira, después, otra cosa | **Atribución cambiada:** revisar que sea **exactamente esa persona**. Patrón nº2 |
-| 2026-11-03 | 🔴 **Afirmación de dos partes: solo comprobó una** | Reading · T/F/NG | Q1 *"worn simultaneously **to form the earliest sari**"*: el *ensemble* sí se usaba junto, pero el sari surgió al **combinar las piezas en una sola tela durante siglos** → FALSE | **Las dos candidatas:** una mitad cierta no salva la otra |
+| 2026-11-03 | ⚠️ **Q1: razonó FALSE (correcto), quedó marcado TRUE** | Reading · método | Ella eligió FALSE; el portal registró TRUE → **error de clic**, no de lectura. **En la práctica 4/5** | 🆕 **Antes de pasar de página, 10 s para revisar lo marcado.** En el examen por computador las opciones están juntas |
 
 
 **Common Writing Patterns:**

@@ -1803,5 +1803,5 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 ### Mar 3 nov (noche) — los tres bloques del día, completos
 - 🔤 **Drill de deletreo con Gemini: 6/15.** Su diagnóstico: *"mi talón de Aquiles es A, E, I"*. Confirmado (6 fallos de vocales) + 3 de números. Se crea la **traducción directa** de sonido a letra: **oigo "i" → escribo E**.
 - 🎧 **Sección 1 (24495): 5/6.** *Grieve* y *Ashley* perfectos: la tabla ya funcionó el mismo día. Solo falló un número.
-- 📖 **T/F/NG (28143, sari): 3/5.** Esquivó la comparación inventada y el *exclusively*. Fallos: **la trampa del apellido** (Indira vs Mahatma Gandhi) y una afirmación de dos partes en la que solo comprobó la primera.
+- 📖 **T/F/NG (28143, sari): 3/5 → en la práctica 4/5** (en la Q1 razonó FALSE, correcto, pero quedó marcado TRUE: error de clic). Esquivó la comparación inventada y el *exclusively*. Fallos: **la trampa del apellido** (Indira vs Mahatma Gandhi).
 - **Cómo me sentí:** empezó el día con *":c"* al ver los mocks 2 y 3; lo cerró haciendo los tres bloques (*"hagamos todos los de hoy!"*).
