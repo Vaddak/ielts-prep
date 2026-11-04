@@ -51,7 +51,7 @@
 
 | Día | Plan (30–40 min entre semana) |
 |---|---|
-| **Mar 3** | 🔤 Drill de deletreo (15') + 🎧 1 Sección 1 del portal (10') + 📖 1 T/F/NG (15') |
+| **Mar 3** | ✅ 🔤 Drill **6/15** (vocales A/E/I + números) · 🎧 Sección 1 **5/6** · 📖 T/F/NG **3/5** |
 | **Mié 4** | ✍️ **Task 2 universidades** (40') — corrección conmigo |
 | **Jue 5** | 🔤 Drill de deletreo (10') + 🎧 1 Sección 1 + 📖 1 Y/N/NG |
 | **Vie 6** | 📖 **Reading mock completo** (60') — cabeza fresca, chuleta NG |

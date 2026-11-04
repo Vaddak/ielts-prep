@@ -488,6 +488,13 @@ After every timed practice or mock exam:
 | 30/10 | Writing T2 (transporte) | high amount of people · a research · invest on · exposed · reduce … than · 5 typos | large numbers of · research/a study · invest in · set out · reduce more than · revisar ortografía | 6.0–6.5 |
 | 31/10 | Listening S4 nº27483 (Big Five) **7/10** | 4 cooperating · 7 1999 · 8 questionary | 4 teamwork (palabra del audio, no sinónimo) · 7 1949 (*forty* ≠ *ninety*) · 8 questionnaire (no *cuestionario*) | 7/10 |
 | 31/10 | Speaking test completo (Gemini) 6.0 | practice since 5 years · the mental health · journey · installations · don't use to · for one hand · on bus | I've been doing … for · mental health · working day · facilities · usually/tend to · on the one hand · by bus | GRA 5.5–6 |
+| **2026-11-03** | 🔤 **Drill de deletreo (Gemini) — 6/15** | Listening | ✅ códigos y **LLEWELLYN**. ❌ **Vocales A/E/I ×6** · **números ×3** (23→20, 008→07, 31→11) · **G oída como Y** · correo: *at* = @ | 🆕 **Traducción directa:** oigo "ei" → **A** · oigo "i" → **E** · oigo "ai" → **I** · "dyi" → **G** |
+| 2026-11-03 | 🎧 **Sección 1 — 24495 — 5/6** | Listening | ✅ **Grieve** y **Ashley** deletreados perfectos (la combinación I–E que fallaba en el drill) | ❌ Q2: número del correo (`998`) |
+| 2026-11-03 | 📖 **T/F/NG 28143** (*sari*) — **3/5** | Reading | ✅ **Q3 comparación inventada esquivada** (*more complex than* → NG) · ✅ **Q5 *exclusively*** → FALSE | |
+| 2026-11-03 | 🔴 **NG donde iba FALSE — trampa del apellido** | Reading · T/F/NG | Q4 *"**Indira** Gandhi popularised khadi… as protest"* · texto: **Mahatma** Gandhi y las mujeres del movimiento; Indira, después, otra cosa | **Atribución cambiada:** revisar que sea **exactamente esa persona**. Patrón nº2 |
+| 2026-11-03 | 🔴 **Afirmación de dos partes: solo comprobó una** | Reading · T/F/NG | Q1 *"worn simultaneously **to form the earliest sari**"*: el *ensemble* sí se usaba junto, pero el sari surgió al **combinar las piezas en una sola tela durante siglos** → FALSE | **Las dos candidatas:** una mitad cierta no salva la otra |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

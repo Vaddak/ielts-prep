@@ -1798,3 +1798,10 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 ### Lun 2 – Mar 3 nov
 - Lun 2 (festivo): Mock nº3 Listening **6.0** (5 fallos de deletreo en P1, 2 por límite de palabras en P4). El resto del día se cortó por un viaje.
 - Mar 3: plan fijo de recta final acordado (spelling y NG primero, Mock nº4 el sáb 7). Drill de deletreo creado en 05_Listening_Module.md; lo hace en casa hoy.
+
+
+### Mar 3 nov (noche) — los tres bloques del día, completos
+- 🔤 **Drill de deletreo con Gemini: 6/15.** Su diagnóstico: *"mi talón de Aquiles es A, E, I"*. Confirmado (6 fallos de vocales) + 3 de números. Se crea la **traducción directa** de sonido a letra: **oigo "i" → escribo E**.
+- 🎧 **Sección 1 (24495): 5/6.** *Grieve* y *Ashley* perfectos: la tabla ya funcionó el mismo día. Solo falló un número.
+- 📖 **T/F/NG (28143, sari): 3/5.** Esquivó la comparación inventada y el *exclusively*. Fallos: **la trampa del apellido** (Indira vs Mahatma Gandhi) y una afirmación de dos partes en la que solo comprobó la primera.
+- **Cómo me sentí:** empezó el día con *":c"* al ver los mocks 2 y 3; lo cerró haciendo los tres bloques (*"hagamos todos los de hoy!"*).
