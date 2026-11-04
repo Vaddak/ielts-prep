@@ -712,3 +712,26 @@ Pídele a Gemini: *"Read these aloud to me letter by letter, like an IELTS Secti
 
 ## 4. Antes de cada Sección 1 (5 segundos)
 ① **Mirar el límite de palabras con el dedo** · ② ¿Es nombre, número o fecha? · ③ Al terminar: **releer cada carácter** de códigos y referencias.
+
+
+---
+
+## 📊 Resultado del drill — 3 nov · **6/15**
+✅ BV79JQ · KX4410G · **LLEWELLYN** · YARMOUTH · EH125AJ · PEREIRA
+| Tipo | Casos |
+|---|---|
+| **Vocales A/E/I** (6) | whitf**il**d (Whitf**ie**ld) · SH**IN** (SH**AM**) · Z**I**T (Z**E**NTRA) · AVEN**EU**E (AVEN**UE**) · TUESD**EY** (TUESD**AY**) |
+| **Números** (3) | 20rd (**23**rd) · …12**07** (…312 **008**) · 88 **11** (88 **31**) |
+| **Otros** | **Y** por **G** (Gresham) · ABERTHEN (**ABERNETHY**, orden perdido) · correo: ***at* = @, *dot* = .** |
+
+## 🎯 LA TRADUCCIÓN DIRECTA — de lo que oyes a lo que escribes
+| Si oyes… | Escribes | Rima con |
+|---|---|---|
+| **"ei"** (como *rey*) | **A** | day · say · play |
+| **"i"** (como *sí*) | **E** | see · me · tree |
+| **"ai"** (como *hay*) | **I** | my · eye · five |
+
+> **Regla de oro: oigo "i" → escribo E.** La mano quiere escribir I.
+> **G** = "dyi" (como *Gina, gym*), no la Y. **J** = "dyei".
+
+**Mini-drill de vocales (Gemini, 5 min):** *"Say 20 random letter sequences of 4 to 6 letters, one at a time, letter by letter, in a British accent. Use mostly the letters A, E, I, G and J, mixed with others. Do not show me the text. Wait for me to say "next". At the end, show me all 20 so I can check."* — **Meta: 18/20.**
