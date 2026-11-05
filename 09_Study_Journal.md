@@ -1805,3 +1805,8 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - 🎧 **Sección 1 (24495): 5/6.** *Grieve* y *Ashley* perfectos: la tabla ya funcionó el mismo día. Solo falló un número.
 - 📖 **T/F/NG (28143, sari): 3/5 → en la práctica 4/5** (en la Q1 razonó FALSE, correcto, pero quedó marcado TRUE: error de clic). Esquivó la comparación inventada y el *exclusively*. Fallos: **la trampa del apellido** (Indira vs Mahatma Gandhi).
 - **Cómo me sentí:** empezó el día con *":c"* al ver los mocks 2 y 3; lo cerró haciendo los tres bloques (*"hagamos todos los de hoy!"*).
+
+### Jue 5 nov (oficina)
+- ✍️ Task 2 nº10 (universidades gratis vs pagadas): v2 **~6.5** → v3 **~6.5–7.0** final. Aprendió la **fórmula de conclusión** (*Although… I believe… because…* + cierre sin ideas nuevas). Falta la topic sentence del Body 1.
+- Pregunta de GitHub: le pidió un método de pago. Respuesta: no hace falta para repos (plan Free); no poner tarjeta y verificar que sea github.com.
+- Pendiente para casa hoy: 🔤 deletreo (10') + 🎧 1 Sección 1 + 📖 1 Y/N/NG.
