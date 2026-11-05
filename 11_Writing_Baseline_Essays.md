@@ -1194,3 +1194,14 @@ Arregló *outlined*, *international students*, *development*, `financial`, `gove
 > *In conclusion, **although** tuition fees give private universities financial independence, I believe that university education should be free, **because** it allows far more students to study and prevents talented graduates from leaving their country. In the long term, this benefits society as a whole.*
 
 **Qué se arregló:** *do not create a dependency… and cannot allow a larger number* (una ventaja y una desventaja mezcladas) → una sola concesión con *although*. *given by a larger number of professionals* (idea nueva y enredada) → quitado.
+
+## ✍️ v3 — 5-nov · **~6.5–7.0** · FINAL
+Aplicó todo: topic sentence en Body 2 con *On the other hand*, *the education system*, *the academic community*, *which have*, *for research*, *provide free education to*, *into*, y la conclusión con la fórmula *although… I believe… because*.
+
+**Últimos pulidos:**
+- *such as ∅ United States* → **such as the United States** (los nombres de países en plural o con *States/Kingdom* llevan *the*)
+- **Body 1 sin topic sentence** (empieza con el ejemplo de EE. UU.) → ✅ *Those in favour of tuition fees argue that they provide universities with essential funding.* Luego el ejemplo
+- *∅ implementation of new technologies* → **the implementation of…**
+- *a budget where they can find financial support* → **a budget that provides financial support** (*where* es para lugares)
+
+**Lección:** cada body = **1ª frase con la postura** → explicación → ejemplo. En la v3 el Body 2 ya lo cumple; falta el Body 1.
