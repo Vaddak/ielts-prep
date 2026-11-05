@@ -1144,6 +1144,35 @@ El 24-oct, en el *Discussion* de universidades, **la Visión B nunca apareció**
 
 </details>
 
-## ✍️ v1: PEGAR AQUÍ
+## ✍️ v1 — 4-nov · **37:06** (sobró 2:54) · **275 palabras** · **~Band 6.0–6.5** — NO SE TOCA
+*Intro 45 · B1 82 · B2 98 · conclusión 50.*
 
-**Tiempo real:** ___ · **Palabras:** ___ · **¿Barrido hecho?** ___
+Whereas some people think students should not pay for their education in universities, others argue that students should pay a fee for their own university studies. In this essay, both views will be discussed and the benefits of guaranteeing free college studies will be exposed.
+
+In countries such as America, private universities dominate education system, leading students to pay tuition fees or to apply for scholarship programmes in order to enroll in these universities. This system guarantees resources for universities that are used in several ways, benefitting both students and academic community. For example, implementation of new technologies in universities can only be achieved through research groups, these groups have a budget where they can find finnancial support to get both students and materials needed for researching.
+
+On the other hand, students who cannot afford private colleges or could not get a scholarship are finding other ways to get enrolled in professional careers. The brain drain phenomenon is caused, in part, by the lack of opportunities some students find in their local universities. Once students go abroad and become professionals, they stay in the countries which offered them better conditions. Countries such as Germany provide to both locals and foreigns free education, absorbing them in its industry and allowing them to contribute to Germany's advance in several fields such as engineering, applied and social sciences.
+
+In conclusion, whereas private universities do not create a dependency on governments and cannot allow a larger number of students, public universities supported by governmets can provide education to more students, guaranteeing development of society in fields such as medicine, engineering and sciences given by a larger number of professionals.
+
+---
+
+## 🎉 LO QUE SE MEDÍA: los dos bodies, OPUESTOS
+B1 = **pagar** (las matrículas financian a las universidades) · B2 = **gratis** (*On the other hand*: sin oportunidades, los estudiantes se van; Alemania retiene el talento). **El 24-oct los dos bodies decían lo mismo. Hoy no.** Opinión explícita en la conclusión ✅. *Brain drain* reutilizado ✅.
+
+## 🔴 Lo que baja la nota
+1. **Conclusión enredada:** junta una ventaja y una desventaja de las privadas en la misma mitad de la frase → ✅ *In conclusion, **although** private universities **are less dependent on** governments, public universities **can educate far more students**…*
+2. **Body 2 sin topic sentence** (empieza con contexto) → ✅ *On the other hand, supporters of free tuition argue that it keeps talented students in their own countries.*
+
+## Falsos amigos
+*will be **exposed*** → **outlined** · *professional **careers*** → **degree programmes** (🔴 ya en la lista) · ***America*** → **the United States** (🔴 nº8, sep) · ***foreigns*** → **international students**
+
+## Gramática
+*dominate ∅ education system* → **the** · *∅ academic community* → **the** · *research groups**,** these groups* → empalme · *provide **to** both… free education* → **provide free education to** · *absorbing them **in*** → **into** · *for **researching*** → **for research** · `finnancial` · `governmets` *(pasaron con 2:54 de sobra: la pasada de ortografía no se hizo)*
+
+| TR | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6.5 | 6 | 6 | 6 | **~6.0–6.5** |
+
+**Medio punto sobre el 24-oct, y la Visión B resuelta.**
+**Para el mock:** ① la 1ª frase de cada body es su tesis · ② los minutos que sobran van a la pasada de ortografía.

@@ -495,6 +495,13 @@ After every timed practice or mock exam:
 | 2026-11-03 | ⚠️ **Q1: razonó FALSE (correcto), quedó marcado TRUE** | Reading · método | Ella eligió FALSE; el portal registró TRUE → **error de clic**, no de lectura. **En la práctica 4/5** | 🆕 **Antes de pasar de página, 10 s para revisar lo marcado.** En el examen por computador las opciones están juntas |
 
 
+| **2026-11-04** | ✍️ **Task 2 nº10 en frío** — *Discussion* (matrícula universitaria), 275 pal., 37:06 | Writing | **~6.0–6.5.** ✅ **Los dos bodies OPUESTOS** (pagar / gratis) — el hueco del 24-oct, **cerrado** · opinión explícita | Medio punto sobre el 24-oct |
+| 2026-11-04 | 🔴 **Conclusión enredada** | Writing · CC | Ventaja y desventaja de las privadas unidas con *and* dentro de un *whereas* | *although X, Y* — una idea por lado |
+| 2026-11-04 | 🔴 **B2 sin topic sentence** | Writing · CC | Empieza con contexto; la tesis (*la gratuidad retiene talento*) nunca se dice | Patrón conocido |
+| 2026-11-04 | ⚠️ **Falsos amigos** | Writing · LR | ***exposed*** (→ outlined) · ***careers*** (→ degree programmes, 🔴 repetido) · ***America*** (→ the US, 🔴 nº8) · ***foreigns*** | |
+| 2026-11-04 | ⚠️ **Gramática** | Writing · GR | 2 artículos · empalme · *provide to X Y* · *into* · *for research* · `finnancial` `governmets` | Typos con 2:54 de sobra: **pasada de ortografía no hecha** |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

@@ -52,7 +52,7 @@
 | Día | Plan (30–40 min entre semana) |
 |---|---|
 | **Mar 3** | ✅ 🔤 Drill **6/15** (vocales A/E/I + números) · 🎧 Sección 1 **5/6** · 📖 T/F/NG **4/5** *(Q1: error de clic)* |
-| **Mié 4** | ✍️ **Task 2 universidades** (40') — corrección conmigo |
+| **Mié 4** | ✅ ✍️ **Task 2 nº10** (matrícula, *Discussion*) **~6.0–6.5** · **dos visiones opuestas por fin** |
 | **Jue 5** | 🔤 Drill de deletreo (10') + 🎧 1 Sección 1 + 📖 1 Y/N/NG |
 | **Vie 6** | 📖 **Reading mock completo** (60') — cabeza fresca, chuleta NG |
 | **🏁 Sáb 7** | **MOCK Nº4 completo en el portal** (L + R + **W en el portal**: desbloquea respuestas modelo) |
