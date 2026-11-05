@@ -1101,3 +1101,49 @@ Aplicó los 7 pulidos de v3: *benefited*, paralelismo *and with fewer*, *traffic
 - *supporting the building and the fixing of roads* → **building and repairing roads** (más directo)
 
 **Lección del ensayo:** de v1 (6.0) a v4 (7.0) sin cambiar ni una idea. Solo cambiaron precisión y revisión. Los 7 minutos de revisión valen una banda.
+
+
+---
+
+# ✍️ TASK 2 Nº 10 — EN FRÍO · Discussion (universidades) · 4-nov · ⏱️ 40 min
+
+> **Autocontenido.** ⚠️ **No abras el enunciado hasta tener el cronómetro en 40:00.**
+> **10 días para el examen.** Se mide **la v1**: es lo único que ve el examinador.
+
+## El hueco que se mide hoy
+El 24-oct, en el *Discussion* de universidades, **la Visión B nunca apareció**: los dos bodies defendían lo mismo.
+
+> 🔴 **En el plan (minutos 0–8), antes de escribir:**
+> 1. **Una frase para la Visión A, como si TÚ la creyeras**
+> 2. **Una frase para la Visión B, como si TÚ la creyeras**
+> 3. **¿La frase B podría defender A?** Si sí → **todavía no tienes la B**. Rehazla
+
+## Estructura
+| Párrafo | Qué va |
+|---|---|
+| Intro (2) | Parafrasear + *"…this essay will examine both views before arguing that…"* |
+| Body 1 (4) | **Visión A de buena fe** — topic sentence → mecanismo → ejemplo → consecuencia |
+| Body 2 (4) | **Visión B de buena fe** — mismo tamaño que el Body 1 |
+| Conclusión (2) | **Tu opinión explícita**, sin ideas nuevas |
+
+## 🔍 Barrido final (min 33–40) — su lista
+☐ 250+ · ☐ **última frase de cada body leída SOLA** (¿dice lo que defiendo?) · ☐ ***amount*** solo con incontables / ***number*** con contables · ☐ ***research*** nunca con *a* · ☐ ***invest in*** / ***spend on*** · ☐ ***the*** ante plural general ✗ · ☐ concordancia · ☐ falsos amigos (*formed, integral, employ, principal, actual*) · ☐ **segunda pasada: ortografía palabra por palabra**
+
+🚫 **No entregar antes de tiempo.**
+
+---
+
+<details>
+<summary><b>📝 EL ENUNCIADO — abrir SOLO con el cronómetro listo</b></summary>
+
+> *Some people believe that university education should be free for all students. Others think that students should pay for their own university studies.*
+>
+> ***Discuss both views and give your own opinion.***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+</details>
+
+## ✍️ v1: PEGAR AQUÍ
+
+**Tiempo real:** ___ · **Palabras:** ___ · **¿Barrido hecho?** ___
