@@ -1176,3 +1176,21 @@ B1 = **pagar** (las matrículas financian a las universidades) · B2 = **gratis*
 
 **Medio punto sobre el 24-oct, y la Visión B resuelta.**
 **Para el mock:** ① la 1ª frase de cada body es su tesis · ② los minutos que sobran van a la pasada de ortografía.
+
+## ✍️ v2 — 5-nov · **~6.5**
+Arregló *outlined*, *international students*, *development*, `financial`, `governments`. Conclusión sin tocar (no sabía cómo).
+
+**Quedan:**
+- Body 2 empieza con *part-time jobs*: **perdió el *On the other hand*** y sigue sin topic sentence → ✅ *On the other hand, supporters of free tuition argue that it keeps talented students in their own countries.*
+- *America* → **the United States** · *dominate ∅ education system* → **the education system** · *∅ academic community* → **the academic community**
+- *research groups, these groups have* (dos frases pegadas con coma) → **research groups, which have…**
+- *for researching* → **for research** · *provide to both locals and international students free education* → **provide free education to both…** · *absorbing them in* → **into**
+
+## 🧩 Cómo se hace la conclusión — fórmula de 2 frases
+1. **Resumir las dos posturas en una frase con *Although*:** *Although* [lo mejor de la postura que NO eliges], [tu postura] *because* [tu razón principal].
+2. **Una frase de cierre con tu opinión**, sin ideas nuevas.
+
+**Su conclusión, reescrita con sus mismas ideas:**
+> *In conclusion, **although** tuition fees give private universities financial independence, I believe that university education should be free, **because** it allows far more students to study and prevents talented graduates from leaving their country. In the long term, this benefits society as a whole.*
+
+**Qué se arregló:** *do not create a dependency… and cannot allow a larger number* (una ventaja y una desventaja mezcladas) → una sola concesión con *although*. *given by a larger number of professionals* (idea nueva y enredada) → quitado.
