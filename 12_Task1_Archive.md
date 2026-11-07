@@ -1337,3 +1337,30 @@ El enunciado dice ***"selecting and reporting the main features"***. **Elegir ES
 - Ortografía: accesibility → **accessibility** · houselholds → **households**
 
 **Regla de la sesión:** *internet access* (general, sin *the*) vs *the internet* (nombre único, con *the*). Y antes de entregar, **comprobar cada cifra contra la tabla**.
+
+
+---
+
+# ✍️ TASK 1 — sáb 7 nov 2026 · Gráfico de líneas: horas semanales de ocio (2000–2020) · ⏱️ 20 min
+*Tarea original de Claudio. ⚠️ Cronómetro en 20:00 antes de leer los datos.*
+
+> **The graph below shows the average number of hours per week that people in one country spent on four leisure activities between 2000 and 2020.**
+> **Summarise the information by selecting and reporting the main features, and make comparisons where relevant.**
+> **Write at least 150 words.**
+
+*(Gráfico de líneas; estos son los datos de cada línea)*
+| Activity | 2000 | 2005 | 2010 | 2015 | 2020 |
+|---|---|---|---|---|---|
+| Watching TV | 18 | 17 | 15 | 12 | 9 |
+| Using social media | 0 | 2 | 6 | 11 | 16 |
+| Reading | 6 | 5 | 5 | 4 | 4 |
+| Sport and exercise | 3 | 3 | 4 | 4 | 5 |
+
+**Checklist:**
+- ☐ **Overview** justo después de la intro: las 2 tendencias principales, **sin números**
+- ☐ Lenguaje de **tendencias**: *declined steadily · rose sharply · overtook · remained stable* (Banco Léxico C1, C3)
+- ☐ Son **horas**, no porcentajes
+- ☐ **Comparar cada cifra con la tabla antes de entregar**
+- ☐ Ortografía, *the* general, pasado en todo el texto
+
+## ✍️ v1: PEGAR AQUÍ
