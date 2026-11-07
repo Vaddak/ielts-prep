@@ -1810,3 +1810,6 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - ✍️ Task 2 nº10 (universidades gratis vs pagadas): v2 **~6.5** → v3 **~6.5–7.0** final. Aprendió la **fórmula de conclusión** (*Although… I believe… because…* + cierre sin ideas nuevas). Falta la topic sentence del Body 1.
 - Pregunta de GitHub: le pidió un método de pago. Respuesta: no hace falta para repos (plan Free); no poner tarjeta y verificar que sea github.com.
 - Pendiente para casa hoy: 🔤 deletreo (10') + 🎧 1 Sección 1 + 📖 1 Y/N/NG.
+
+### Vie 6 – Sáb 7 nov
+- Jue 5 (en casa) y vie 6 sin estudio: trabajo pesado y el plan de Claude estuvo sin pagar. Sin culpa: el Reading del viernes entra en el mock nº4 de hoy.

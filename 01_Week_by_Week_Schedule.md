@@ -53,8 +53,8 @@
 |---|---|
 | **Mar 3** | ✅ 🔤 Drill **6/15** (vocales A/E/I + números) · 🎧 Sección 1 **5/6** · 📖 T/F/NG **4/5** *(Q1: error de clic)* |
 | **Mié 4** | ✅ ✍️ **Task 2 nº10** (matrícula, *Discussion*) **~6.0–6.5** · **dos visiones opuestas por fin** |
-| **Jue 5** | 🔤 Drill de deletreo (10') + 🎧 1 Sección 1 + 📖 1 Y/N/NG |
-| **Vie 6** | 📖 **Reading mock completo** (60') — cabeza fresca, chuleta NG |
+| ~~**Jue 5**~~ | 🔤 Drill de deletreo (10') + 🎧 1 Sección 1 + 📖 1 Y/N/NG |
+| ~~**Vie 6**~~ | ~~Reading mock~~ → **jue 5 y vie 6 sin estudio** (trabajo + el plan de Claude sin pagar). Se absorbe en el mock del sábado |
 | **🏁 Sáb 7** | **MOCK Nº4 completo en el portal** (L + R + **W en el portal**: desbloquea respuestas modelo) |
 | **Dom 8** | 🎤 Gemini test completo (Part 3 con 5 preguntas) + post-mortem del mock nº4 |
 | **Lun 9** | 🔤 Deletreo + 🎧 Sección 1 + 📖 1 T/F/NG |
