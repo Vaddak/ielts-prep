@@ -55,10 +55,10 @@
 | **Mié 4** | ✅ ✍️ **Task 2 nº10** (matrícula, *Discussion*) **~6.0–6.5** · **dos visiones opuestas por fin** |
 | ~~**Jue 5**~~ | 🔤 Drill de deletreo (10') + 🎧 1 Sección 1 + 📖 1 Y/N/NG |
 | ~~**Vie 6**~~ | ~~Reading mock~~ → **jue 5 y vie 6 sin estudio** (trabajo + el plan de Claude sin pagar). Se absorbe en el mock del sábado |
-| **🏁 Sáb 7** | **MOCK Nº4 completo en el portal** (L + R + **W en el portal**: desbloquea respuestas modelo) |
-| **Dom 8** | 🎤 Gemini test completo (Part 3 con 5 preguntas) + post-mortem del mock nº4 |
+| **Sáb 7** | 🎤 **Gemini test completo** + ✍️ **Task 1** (20') + 🎧 **1 Listening** *(cambiado por ella)* |
+| **🏁 Dom 8** | **MOCK Nº4 completo en el portal** (L + R + **W en el portal**: desbloquea respuestas modelo) + post-mortem |
 | **Lun 9** | 🔤 Deletreo + 🎧 Sección 1 + 📖 1 T/F/NG |
-| **Mar 10** | ✍️ Task 1 en frío (20') — repasar el error log de Writing |
+| **Mar 10** | ✍️ Task 2 corto o repaso del error log de Writing |
 | **Mié 11** | 🎤 Gemini relajado (Part 1 + 2), sin autocrítica |
 | **Jue 12** | Leer solo el banco de ortografía y la chuleta NG · logística (documento, centro, hora) |
 | **Vie 13** | **Descanso total** |
