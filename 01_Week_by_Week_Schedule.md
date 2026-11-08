@@ -6,7 +6,28 @@
 
 ---
 
-## 👉 RETOMAR AQUÍ — recta final · **11 días para el examen** *(plan fijo: ver «RECTA FINAL» abajo)*
+## 👉 RETOMAR AQUÍ — 🏁 domingo 8 nov · MOCK Nº4 · **6 días para el examen**
+
+**Sáb 7 ✅:** 🎧 Sección 1 **3/4** (números y fechas limpios) · 🎧 Sección 4 **6/10** (*survey* exacto) · ✍️ Task 1 líneas **~6.0**. Gemini pasa a después del mock.
+
+### 🏁 El mock de hoy: L + R + W en el portal, seguidos
+**Antes:** desayuno · 5 min de inglés en voz alta · 🌬️ respirar 4-4-6 · **no tocar "Finish" hasta la última parte**.
+
+> **🎧 Listening**
+> leer cada parte ANTES del audio y anotar el TIPO de palabra · si te pierdes, **saltar al siguiente encabezado** · **copiar la palabra que suena** (ni sinónimos ni otra terminación) · **oigo "i" → E · "ei" → A · "ai" → I** · *Z = zed* · dos números seguidos: ¿cuál responde al hueco? · **¿encaja en la frase?** · cero blancos
+>
+> **📖 Reading**
+> ¿puedo **señalar** la frase que lo hace imposible? → FALSE · revisar **TODAS** las palabras clave (*than, all, only*, nombres de persona) · paráfrasis = lo mismo · **no añadir palabras** (*only, main*) · **revisar lo marcado antes de pasar de página** · 20 min por pasaje
+>
+> **✍️ Task 1** (20 min)
+> 3 min: qué sube, qué baja, **¿algo adelanta a algo? → titular** · overview sin cifras · 4 párrafos, ~180 palabras · **minutos sobrantes: cifra por cifra contra los datos**
+>
+> **✍️ Task 2** (40 min)
+> subrayar la palabra que carga el peso · *Discussion* = **dos visiones opuestas** (una frase por visión como si la creyeras) · **1ª frase de cada body = su tesis** · última frase leída sola · conclusión: *Although…, I believe… because…* · **dos barridos: sentido / ortografía palabra por palabra** · no entregar antes
+
+**Después:** post-mortem corto + 🎤 Gemini si queda energía.
+
+---
 
 ### 🏁 Domingo 25 — mock completo nº1
 | | |
