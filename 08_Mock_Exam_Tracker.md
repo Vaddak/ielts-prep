@@ -17,6 +17,7 @@
 | ⚠️ *Listening — envío accidental* | *25-oct* | *0.5 (7:48)* | | | | **INVÁLIDO** — "Finish" pulsado por error con los nervios |
 | 🏁 **Listening — MOCK COMPLETO Nº1** *(portal, test 821013)* | **25-oct** | **6.5** 🎉 *(≈29/40, 24:09)* | | | | P1 8/10 · **P2+3 19/20** · P4 **2/10** |
 | 🏁 **Reading — MOCK COMPLETO Nº1** *(portal 831001)* | **25-oct** | | **7.5** *(34/40, 58:34)* | | | 4 de 6 fallos en T/F/NG |
+| 🏁 **MOCK Nº4 — Writing** | **8-nov** | | | **≈6.0** *(T1 ~6.0 · T2 ~6.0)* | | 7 typos · *Although,* |
 | 🧭 **ESTADO A 18-OCT** | | **6.0** ⬆️ | **7.5** ✅ | **~6.5** corregido · **~6** en frío | **6.0** | **≈ 6.5** |
 | Mock completo nº1 | *19–25 oct* | | | | | |
 | Mock completo nº2 | *26 oct – 1 nov* | | | | | |

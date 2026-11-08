@@ -1395,3 +1395,28 @@ Las redes **adelantaron** a la TV (2015: TV 12 / redes 11 → 2020: redes 16 / T
 | 5.5–6 | 6 | 6 | 6 | **~6.0** |
 
 **Para el mock:** ① ¿algo adelanta a algo? → titular · ② minutos sobrantes = **cifra por cifra contra la tabla**, no releer de memoria.
+
+
+---
+
+# 🏁 MOCK Nº4 — TASK 1 · 8-nov · tabla de desempleados UK *(la misma del 25-oct)* · **226 palabras** · **~6.0**
+
+The table below illustrates how unemployed people in the UK spent their time last year.
+
+Overall, people spent most of their time in activities such as housework, shopping, visiting friends or relatives and job hunting, while the time spent for the rest of activities was significantly less. In addition, whereas women spent more time than men in activities such as housework and shopping, men spent more time than women in activities such as job hunting and gardening.
+
+Both men and women spent more time during morning to housework, nineteen and fourty nine per cent respectively, than during afternoon, seven and twenty one per cent respectively. Shopping, gardening and job hunting were also more common to do during morning than afternoons.
+
+Furthermore, leisure time activities such as visiting friends or relatives, watching TV, reading and decorating were more usual during afternoon. Men spent four time per cent watching TV during morning and fourteen per cent during afternoon, while woman spent two per cent during morning and twelve per cent during afternoon.
+
+The rest of activities represented small percentages of the total free time unemployed people have. Only two per cent of men were driking during the morning, the figure for women is just one per cent during morning and afternoon, but during afternoon, three per cent of men were drinking, a slightly increase of one per cent.
+
+✅ Overview con dos rasgos (actividades principales + diferencia de género).
+🔴 **Datos que no se sostienen:** *reading and decorating* "más en la tarde" (decorating bajó; reading de hombres bajó) · *gardening* "más en la mañana" (mujeres subió). **Mirar cada actividad antes de agruparlas.**
+🔴 **Ortografía:** `fourty` (🔴 repetido, 1-oct) · `driking`
+⚠️ **5 párrafos, 226 palabras**; el último entero sobre *drinking* (1–3%, lo menos relevante)
+⚠️ *during morning* ×7 → **in the morning** · cifras en palabras → **19% / 49%** · *spent time to/for* → **on** · *woman* → women · *a slightly increase* → slight · *have* → had
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6 | 6 | 6 | 5.5 | **~6.0** |

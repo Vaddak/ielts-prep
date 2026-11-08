@@ -1205,3 +1205,31 @@ Aplicó todo: topic sentence en Body 2 con *On the other hand*, *the education s
 - *a budget where they can find financial support* → **a budget that provides financial support** (*where* es para lugares)
 
 **Lección:** cada body = **1ª frase con la postura** → explicación → ejemplo. En la v3 el Body 2 ya lo cumple; falta el Body 1.
+
+
+---
+
+# 🏁 MOCK Nº4 — WRITING · 8-nov · portal, 60 min, en frío
+
+## Task 2 — *Animal testing* (Discussion) · **316 palabras** · **~6.0**
+*Intro 57 · B1 99 · B2 81 · conclusión 79.*
+
+Whereas some people believe that testing on animals must continue as a practice in scientific research, others find this practice cruel and argue that should not be allowed. This essay will discuss both point of views and will outline why testing on animals is a cruel and unnecesary practice that should be outlawed, bringing up better alternatives.
+
+During the twentieh century, several advances in medicine were achieved due to cruel experimentation on humans in extermination camps in Germany and China made by both Nazi and Japanese armies. Although, these practices are now forbidden by human rights, experimentation on other living beings such as animals was not covered by any law until recent years. This allowed cosmetics, pharmacies and medical industries to still testing techniques and products on animals, leading to rapid advances. Due to these advances, researching in different illness and treatments could be implemented with ease in humans, guaranteeing results with low risks for humans.
+
+Regardless of the rapid advance in fields such as medicine, these practices remain extremely cruel and the results achieved are not worthy due to the suffer animals have to experiment, Current technology can provide better alternatives that lead the cruelty free slogan as a feature users andresearchers prefer. The implementation of lab-grown cells allow scientists to experiment with more freedom. These cells represent human conditions more accurately than any other animal, providing precise results and allowing science advance without representing cruelty.
+
+In conclusion, animal testing depicted the only way to advance in different fields during some time but the cruelty it carried could not be justified. Alternatives rapidly came up and guarantee high quality results at the same time that do not represent risk or cruel treatments to any living being. The fist step humankind had to do to achieve these new alternatives was outlawing brutal and inhumane conditions in order to manage science to find decent ways to research.
+
+✅ **Dos visiones opuestas otra vez** (a favor / en contra) · opinión explícita en intro y conclusión.
+
+🔴 **Ortografía:** `unnecesary` · `twentieh` · `andresearchers` · `fist` · *suffer* (sustantivo: **suffering**)
+🔴 ***"Although,"*** con coma (3ª vez en dos días) → **However,** / *Although X, Y*
+🔴 **B1 sin tesis y con un ejemplo fuera del tema** (experimentos con humanos en la guerra). ✅ *Supporters of animal testing argue that it has driven many of the most important medical advances of the last century.*
+⚠️ **Falsos amigos:** *suffer animals have to **experiment*** (→ endure) · ***depicted*** the only way (→ was) · ***pharmacies*** (→ pharmaceutical companies)
+⚠️ **Gramática:** *argue that ∅ should* · *point of views* · *to still testing* · *researching in different illness* · *cells allow* (→ allows) · *allowing science ∅ advance* · empalme *experiment, Current*
+
+| TR | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 6.5 | 6 | 6 | 5.5 | **~6.0** |

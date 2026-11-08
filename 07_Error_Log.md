@@ -517,6 +517,13 @@ After every timed practice or mock exam:
 | 2026-11-07 | 🔴 ***Although* como *However*** ×2 | Writing · GR | *"…twenty years. Although, reading…"* | *Although X, Y* en la misma oración; para abrir: *By contrast / However* |
 
 
+| **2026-11-08** | 🏁 **MOCK Nº4 — Writing ≈ 6.0** (T1 ~6.0 · T2 ~6.0) | Writing | ✅ T2 con **dos visiones opuestas** y opinión explícita (2º seguido) | |
+| 2026-11-08 | 🔴 **7 typos entre las dos tareas** | Writing · método | `fourty` (🔴 repetido) · `driking` · `unnecesary` · `twentieh` · `andresearchers` · `fist` · *suffer* | **Últimos 3 min de cada tarea: SOLO ortografía, palabra por palabra** |
+| 2026-11-08 | 🔴 ***"Although,"*** — 3ª vez en dos días | Writing · GR | *"Although, these practices are now forbidden…"* | 🆕 **Prohibido "Although," con coma.** → *However,* |
+| 2026-11-08 | 🔴 **T2: B1 sin tesis + ejemplo fuera del tema** | Writing · TR/CC | Experimentos con humanos en la guerra para un tema de animales | Ejemplos del tema, sin casos extremos |
+| 2026-11-08 | 🔴 **T1: agrupó actividades sin revisar cada una** | Writing · TA | *decorating, reading, gardening* puestos en grupos donde no encajan | Regla del *all*: revisar cada dato antes de agrupar |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
