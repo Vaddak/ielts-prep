@@ -502,6 +502,9 @@ After every timed practice or mock exam:
 | 2026-11-04 | ⚠️ **Gramática** | Writing · GR | 2 artículos · empalme · *provide to X Y* · *into* · *for research* · `finnancial` `governmets` | Typos con 2:54 de sobra: **pasada de ortografía no hecha** |
 
 
+| **2026-11-07** | 🎧 **Sección 1 — 24905 — 3/4** | Listening | ✅ **número (£20) y fecha limpios**, sin caer en la corrección | ❌ `confidency` → **confidence**: terminación por analogía (*urgency, efficiency*). Misma familia que *uncertainly* y *preventing* |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
