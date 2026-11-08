@@ -1813,3 +1813,5 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 
 ### Vie 6 – Sáb 7 nov
 - Jue 5 (en casa) y vie 6 sin estudio: trabajo pesado y el plan de Claude estuvo sin pagar. Sin culpa: el Reading del viernes entra en el mock nº4 de hoy.
+
+- **Sáb 7 (tarde):** 🎧 Sección 1 (24905) **3/4** — números y fechas limpios; `confidency` (→ confidence). 🎧 Sección 4 (27484, Big Five) **6/10** — ✅ `survey` exacto (el 31-oct fue *questionary*); fallos: `lidership`, palabra vecina, dos que no encajaban en la frase.

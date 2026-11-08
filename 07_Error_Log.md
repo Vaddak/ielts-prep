@@ -505,6 +505,12 @@ After every timed practice or mock exam:
 | **2026-11-07** | 🎧 **Sección 1 — 24905 — 3/4** | Listening | ✅ **número (£20) y fecha limpios**, sin caer en la corrección | ❌ `confidency` → **confidence**: terminación por analogía (*urgency, efficiency*). Misma familia que *uncertainly* y *preventing* |
 
 
+| **2026-11-07** | 🎧 **Sección 4 — 27484 (Big Five, 2ª versión) — 6/10** | Listening | ✅ **`survey` copiado exacto** (el 31-oct escribió *questionary*) · ✅ bloque 3–6 perfecto | |
+| 2026-11-07 | 🔴 **Ortografía de palabra oída** | Listening · P4 | `lidership` → **leadership** | "i" escrita **EA** |
+| 2026-11-07 | 🔴 **Palabra vecina** | Listening · P4 | `interests` → **creativity** | |
+| 2026-11-07 | 🔴 **No encaja en la frase** | Listening · P4 | Q9 *"after a person's **30**"* · Q7 *"in the **culture**"* | **Chequeo final de 30 s**: si no encaja gramaticalmente, no es la respuesta |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

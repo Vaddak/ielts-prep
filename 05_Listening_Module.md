@@ -649,6 +649,7 @@ En inglés hablado rápido, **las palabras gramaticales pierden su vocal y se co
 | psichological | **psychological** | *psych-* con **y** |
 | pression | **pressure** | ⚠️ *pression* **no existe** en inglés (es *presión*) |
 | uncertainly | **uncertainty** | *times of ___* pide **sustantivo**: *-ty*, no *-ly* |
+| lidership | **leadership** | el sonido "i" aquí es **EA**: *lea*der, *lea*rn, *rea*d |
 | confidency | **confidence** | no todas llevan *-cy*: confid**ence**, independ**ence**, differ**ence** vs effici**ency**, urg**ency** |
 
 **Familias que se repiten en la Parte 4 (ecología, ciudades, ciencia):** *habitat · species · predator · ecosystem · erosion · sediment · vegetation · biodiversity · emissions · infrastructure · maintenance · environment · government · accommodation · necessary · recommend*
