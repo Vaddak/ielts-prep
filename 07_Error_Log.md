@@ -511,6 +511,12 @@ After every timed practice or mock exam:
 | 2026-11-07 | 🔴 **No encaja en la frase** | Listening · P4 | Q9 *"after a person's **30**"* · Q7 *"in the **culture**"* | **Chequeo final de 30 s**: si no encaja gramaticalmente, no es la respuesta |
 
 
+| **2026-11-07** | ✍️ **Task 1 en frío — líneas (ocio)** — 194 pal., 17:24 | Writing | **~6.0.** ✅ forma resuelta (4 párrafos, overview sin cifras, pasado) | |
+| 2026-11-07 | 🔴 **Dato al revés** | Writing · TA | Deporte 3→5 descrito como *decrease* y *"similar"* al Reading (que bajó) | Con 2:36 de sobra: **cifra por cifra contra la tabla**. 2ª vez (Smart TV, 24-oct) |
+| 2026-11-07 | 🔴 **Faltó el cruce en el Overview** | Writing · TA | Redes sociales **adelantan** a la TV | *¿Algo adelanta a algo?* → titular |
+| 2026-11-07 | 🔴 ***Although* como *However*** ×2 | Writing · GR | *"…twenty years. Although, reading…"* | *Although X, Y* en la misma oración; para abrir: *By contrast / However* |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

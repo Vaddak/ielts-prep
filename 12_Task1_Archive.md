@@ -1363,4 +1363,35 @@ El enunciado dice ***"selecting and reporting the main features"***. **Elegir ES
 - ☐ **Comparar cada cifra con la tabla antes de entregar**
 - ☐ Ortografía, *the* general, pasado en todo el texto
 
-## ✍️ v1: PEGAR AQUÍ
+## ✍️ v1 — 7 nov · **17:24** (sobraron 2:36) · **194 palabras** · **~Band 6.0** — NO SE TOCA
+
+The graph bellow illustrates the average of hours that people spent per week in four spare-time activities in a country between 2000 and 2020.
+
+Overall, the most remarkable feature is the drop in the average of hours spent watching TV and the increase in the use of social media over the twenty years. Although, reading, sport and exercise remained with small variations.
+
+The people spent an average of 18 hours per week watching TV in 2000 but with the years this figure declined to the half in 2020. Whereas the people did not use social media in 2000, after five years the people spent an average of two hours using social media and it increased until 16 hours per week in 2020, the highest number for any of the four activities in 2020.
+
+Although, the time spent in reading showed a downward trend across the twenty years of the study, this figure only reduced from six in 2000 to four in 2020, remaining almost constant. The average hours people spent doing sport and exercise showed a similar behavior over time, with a slightly decrease from three hours in 2000 to five hours in 2020.
+
+### ✅ Forma resuelta
+4 párrafos · Overview sin cifras · pasado en todo el texto.
+
+### 🔴 Dato al revés
+*"sport and exercise showed **a similar behavior**… with a slightly **decrease** from three hours… to **five**"* → **de 3 a 5 es SUBIDA**, y es lo **contrario** del Reading (bajó). Con 2:36 de sobra, el chequeo *"cifra por cifra contra la tabla"* no se hizo. **Mismo error que la Smart TV del 24-oct.**
+✅ *Time spent on sport and exercise, by contrast, rose slightly, from three hours to five.*
+
+### 🔴 Faltó el titular: el CRUCE
+Las redes **adelantaron** a la TV (2015: TV 12 / redes 11 → 2020: redes 16 / TV 9).
+✅ *Overall, time spent watching TV fell steadily, while social media use rose sharply, **overtaking television** to become the most popular activity by 2020. Reading and sport changed only slightly.*
+
+### 🔴 *Although* usado como *However* (×2)
+*Although* = *aunque* → **dos partes en la misma oración**, sin coma después. Para empezar frase: ***By contrast,*** / ***However,***.
+
+### El resto
+*bellow* (→ quitar; **below**) · *the average **of** hours* → **average number of hours** · *spent **in*** → **on** (×2) · ***The** people* (×3) → **People** · *declined **to the half*** → **halved** · *increased **until** 16* → **rose to** · *only reduced from six* → **fell only slightly, from six hours**
+
+| TA | CC | LR | GR | Global |
+|---|---|---|---|---|
+| 5.5–6 | 6 | 6 | 6 | **~6.0** |
+
+**Para el mock:** ① ¿algo adelanta a algo? → titular · ② minutos sobrantes = **cifra por cifra contra la tabla**, no releer de memoria.

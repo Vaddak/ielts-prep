@@ -1815,3 +1815,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - Jue 5 (en casa) y vie 6 sin estudio: trabajo pesado y el plan de Claude estuvo sin pagar. Sin culpa: el Reading del viernes entra en el mock nº4 de hoy.
 
 - **Sáb 7 (tarde):** 🎧 Sección 1 (24905) **3/4** — números y fechas limpios; `confidency` (→ confidence). 🎧 Sección 4 (27484, Big Five) **6/10** — ✅ `survey` exacto (el 31-oct fue *questionary*); fallos: `lidership`, palabra vecina, dos que no encajaban en la frase.
+- **Sáb 7 (noche):** ✍️ Task 1 líneas (ocio) **~6.0** en 17:24 — forma resuelta; dato del deporte al revés, faltó el cruce TV/redes en el overview, *Although* usado como *However*. Gemini pasa a después del mock.
