@@ -524,6 +524,9 @@ After every timed practice or mock exam:
 | 2026-11-08 | 🔴 **T1: agrupó actividades sin revisar cada una** | Writing · TA | *decorating, reading, gardening* puestos en grupos donde no encajan | Regla del *all*: revisar cada dato antes de agrupar |
 
 
+| **2026-11-08** | 🏁 **MOCK Nº4 — Listening 7.5** 🏆 (28:36) | Listening | **Récord.** P1 **9/10** (✅ ***Chowdhury*** perfecto) · **P4 8/10** (el 25-oct fue **2/10**) · P2+3 ~16/20 | Huecos fallados: `relaxing` (P1) · `vast`, `poachers` (P4). **Serie: 6.0 · 6.0 · 6.0 · 6.5 · 7.0 · 6.0 · 7.5** |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
