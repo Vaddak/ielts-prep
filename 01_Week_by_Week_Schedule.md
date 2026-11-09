@@ -8,6 +8,23 @@
 
 ## 👉 RETOMAR AQUÍ — 🏁 domingo 8 nov · MOCK Nº4 · **6 días para el examen**
 
+## 🎯 SEMANA FINAL — lun 9 a vie 13 nov *(plan concreto, hecho el 8-nov)*
+
+**Prioridad según el mock nº4:** ✍️ **Writing (≈6.0)** y 🎤 **Speaking (6.0)** primero. Listening y Reading (7.5) solo se mantienen.
+**Sin gimnasio esta semana** → ella lo decidió. **Sí: 20 min de caminata al día** (ayuda a dormir y a fijar lo que estudia).
+
+| Día | 🏢 Oficina *(~20 min)* | 🏠 Casa *(~45–60 min)* | Ataca |
+|---|---|---|---|
+| **Lun 9** | 🔤 **Drill de deletreo** (15 palabras del banco, dictadas por Gemini) + 🎧 **Sección 1** | ✍️ **Task 2 en frío, 40 min** (*Discussion*) + **2 revisiones**: ¿tiene sentido? / ortografía palabra por palabra · 📖 **T/F/NG ×1** | typos · *Although,* · paráfrasis → FALSE |
+| **Mar 10** | ✍️ **Task 1 en frío, 20 min** (gráfico de líneas): overview **sin cifras**, cruce de líneas como **titular**, revisar cada cifra | 🎤 **Gemini: test completo** con calentamiento · 📖 **emparejar párrafos ×1** (buscar la **idea**) | *will* → *would* · Parte 3 con las **dos caras** |
+| **Mié 11** | 🎧 **Sección 4 ×1** (saltar al siguiente encabezado) + 5 palabras de deletreo | ✍️ **Task 2 en frío, 40 min** (*Opinion*) + 2 revisiones · 🎤 **Gemini Parte 3 ×2** (*Having said that… On balance…*) | Writing · Speaking |
+| **Jue 12** | 📚 **Solo leer:** banco de ortografía, tarjeta NOT GIVEN, checklist de Writing | 🎤 **Gemini Parte 1, 15 min**, solo para calentar · 🧳 **Logística:** documento, ruta, hora, ropa | nada nuevo |
+| **Vie 13** | 😴 **Descanso total** | caminata · cena temprano · **dormir temprano** | — |
+| **🏁 Sáb 14** | 🎯 **EXAMEN** · calentamiento de 5 min en inglés antes de entrar | | |
+
+**El checklist de Writing (cada texto):** topic sentence en cada párrafo · *Discussion* = dos bodies **opuestos** · **cero *"Although,"*** · revisión 1: ¿tiene sentido? · revisión 2: ortografía **palabra por palabra** · Task 1: overview sin números + el cruce de líneas + cada cifra comprobada.
+
+
 > ✅ **Mock nº4 hecho (dom 8 nov):** L **7.5** · R **7.5** (33/40) · W ≈6.0 · S 6.0 → **global ≈ 7.0**.
 > 👉 **SIGUIENTE: lunes 9** — drill de deletreo (banco en `05_Listening_Module.md`) + Sección 1 + T/F/NG (buscar el sinónimo antes de marcar FALSE).
 
