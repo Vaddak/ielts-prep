@@ -1816,3 +1816,19 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 
 - **Sáb 7 (tarde):** 🎧 Sección 1 (24905) **3/4** — números y fechas limpios; `confidency` (→ confidence). 🎧 Sección 4 (27484, Big Five) **6/10** — ✅ `survey` exacto (el 31-oct fue *questionary*); fallos: `lidership`, palabra vecina, dos que no encajaban en la frase.
 - **Sáb 7 (noche):** ✍️ Task 1 líneas (ocio) **~6.0** en 17:24 — forma resuelta; dato del deporte al revés, faltó el cruce TV/redes en el overview, *Although* usado como *However*. Gemini pasa a después del mock.
+
+
+---
+
+### 2026-11-08 (domingo) — 🏁 MOCK Nº4 COMPLETO · 6 días para el examen
+
+| Módulo | Banda | |
+|---|---|---|
+| ✍️ Writing | **≈6.0** | lo hizo primero, en frío · 7 typos y otra vez *"Although,"* |
+| 🎧 Listening | **7.5** 🎉 | **Parte 4: 8/10** (empezó en 2/10) |
+| 📖 Reading | **7.5** | 33/40 · **T/F/NG 3/4** · un FALSE que era TRUE por una paráfrasis (*individuals = consumers*) |
+| 🎤 Speaking | 6.0 | Gemini (la sesión del sábado por la noche no tiene nota registrada) |
+
+**Global estimado ≈ 7.0.** Listening y Reading ya están en la meta. **Lo que queda es el Writing:** las dos revisiones (que tenga sentido / ortografía palabra por palabra) y nada de *"Although,"*.
+
+**Mañana (lun 9):** drill de deletreo + Sección 1 + T/F/NG (buscar el sinónimo antes de marcar FALSE).

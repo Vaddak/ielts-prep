@@ -8,6 +8,9 @@
 
 ## 👉 RETOMAR AQUÍ — 🏁 domingo 8 nov · MOCK Nº4 · **6 días para el examen**
 
+> ✅ **Mock nº4 hecho (dom 8 nov):** L **7.5** · R **7.5** (33/40) · W ≈6.0 · S 6.0 → **global ≈ 7.0**.
+> 👉 **SIGUIENTE: lunes 9** — drill de deletreo (banco en `05_Listening_Module.md`) + Sección 1 + T/F/NG (buscar el sinónimo antes de marcar FALSE).
+
 **Sáb 7 ✅:** 🎧 Sección 1 **3/4** (números y fechas limpios) · 🎧 Sección 4 **6/10** (*survey* exacto) · ✍️ Task 1 líneas **~6.0**. Gemini pasa a después del mock.
 
 ### 🏁 El mock de hoy: L + R + W en el portal, seguidos
