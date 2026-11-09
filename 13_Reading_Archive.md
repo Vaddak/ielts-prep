@@ -2248,3 +2248,22 @@ International sleeper services face several practical difficulties. Trains must 
 **Regla nueva — matching Both/Neither:** para cada afirmación, buscarla **dos veces**: una en la parte del primer símbolo y otra en la del segundo. Solo después decidir A/B/C/D.
 
 **✅ Confirmado por ella con las respuestas del portal:** Q16 **NG** (comparación) · Q39 **NG** (comparación) · Q40 **NO** (*either/or* contradicho: trampa 6) · Q35 **alien** (ella puso *different*: sinónimo propio en lugar de la palabra del texto). Los 3 T/F/NG y Y/N/NG fallados son trampas del PDF, y las 3 están identificadas.
+
+
+---
+
+# 🏁 MOCK Nº4 — READING · 8 de noviembre · **BAND 7.5** · 33/40 · 56:33
+
+**Portal, test 831025.** Huecos de completar **12/13** · opción/emparejamiento **21/27**.
+
+| Tipo | Fallos |
+|---|---|
+| Matching de información (párrafos) | 2 — eligió C (era **F**), eligió D (era **C**) |
+| **T/F/NG** | **1 de 4** — Q10 |
+| Opción múltiple (sueños / mecanismo) | 3 — D por **C** (*all but the most essential muscles stop working*) · *casing is made of wood* por **C** (*hands turn in a circle*) · sentence ending E por **B** (*identify problems in aeronautical components*) |
+| Completar | 1 — `lump` (mecanismo de Antikythera) |
+
+## La T/F/NG
+- **Q10** *A significant fall in pollinators would be costly for both industry and individuals* → marcó **FALSE**, era **TRUE**. Párrafo D: *"higher prices for **consumers** and a serious dent in the profitability of the **agriculture sector**"*. **Paráfrasis no reconocida** (individuals = consumers, industry = agriculture sector)
+
+> ✅ **T/F/NG 3/4** — el tipo que más fallaba ya no es el problema. Los fallos se repartieron.

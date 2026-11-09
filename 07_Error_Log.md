@@ -527,6 +527,11 @@ After every timed practice or mock exam:
 | **2026-11-08** | 🏁 **MOCK Nº4 — Listening 7.5** 🏆 (28:36) | Listening | **Récord.** P1 **9/10** (✅ ***Chowdhury*** perfecto) · **P4 8/10** (el 25-oct fue **2/10**) · P2+3 ~16/20 | Huecos fallados: `relaxing` (P1) · `vast`, `poachers` (P4). **Serie: 6.0 · 6.0 · 6.0 · 6.5 · 7.0 · 6.0 · 7.5** |
 
 
+| **2026-11-08** | 🏁 **Reading mock nº4: 7.5** (33/40, 56:33) | Reading | T/F/NG 3/4 · huecos 12/13 · fallos repartidos | Estable en la meta |
+| 2026-11-08 | 🔴 **Paráfrasis no reconocida → FALSE** | Reading · T/F/NG | Q10 *costly for industry and individuals* = *higher prices for consumers + dent in profitability* | TRUE · buscar el sinónimo antes de decidir |
+| 2026-11-08 | ⚠️ **Matching de párrafos ×2** | Reading | eligió C (F) y D (C) | Buscar la **idea**, no la palabra repetida |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

@@ -19,6 +19,7 @@
 | 🏁 **Reading — MOCK COMPLETO Nº1** *(portal 831001)* | **25-oct** | | **7.5** *(34/40, 58:34)* | | | 4 de 6 fallos en T/F/NG |
 | 🏁 **MOCK Nº4 — Writing** | **8-nov** | | | **≈6.0** *(T1 ~6.0 · T2 ~6.0)* | | 7 typos · *Although,* |
 | 🏁 **MOCK Nº4 — Listening** *(portal 821007)* | **8-nov** | **7.5** 🏆 *(28:36)* | | | | P1 **9/10** · P2+3 ~16/20 · **P4 8/10** |
+| 🏁 **Reading — MOCK Nº4** *(portal 831025)* | **8-nov** | | **7.5** *(33/40, 56:33)* | | | T/F/NG 3/4 · 2 matching de párrafos · 3 MC |
 | 🧭 **ESTADO A 18-OCT** | | **6.0** ⬆️ | **7.5** ✅ | **~6.5** corregido · **~6** en frío | **6.0** | **≈ 6.5** |
 | Mock completo nº1 | *19–25 oct* | | | | | |
 | Mock completo nº2 | *26 oct – 1 nov* | | | | | |
