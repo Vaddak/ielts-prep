@@ -1233,3 +1233,23 @@ In conclusion, animal testing depicted the only way to advance in different fiel
 | TR | CC | LR | GR | Global |
 |---|---|---|---|---|
 | 6.5 | 6 | 6 | 5.5 | **~6.0** |
+
+---
+
+# ✍️ TASK 2 — EN FRÍO · Discussion · lun 9 nov · ⏱️ 40 min
+*Pregunta original de Claudio. ⚠️ No abrir el enunciado hasta tener el cronómetro en 40:00.*
+
+**Checklist (min 33–40):** ☐ 1ª frase de cada body = su postura · ☐ bodies **opuestos** · ☐ opinión en intro y conclusión (*Although… I believe… because…*) · ☐ **cero *"Although,"*** (frase nueva con contraste → *However,*) · ☐ revisión 1: ¿tiene sentido? · ☐ revisión 2: **ortografía palabra por palabra** · ☐ *the* general · *amount/number* · *research* sin *a* · 250+
+
+<details>
+<summary><b>📝 EL ENUNCIADO — abrir SOLO con el cronómetro listo</b></summary>
+
+> *Some people believe that working from home benefits both employees and companies. Others think that it is better for people to work together in an office.*
+>
+> ***Discuss both views and give your own opinion.***
+>
+> **Write at least 250 words. You have 40 minutes.**
+
+</details>
+
+## ✍️ v1: PEGAR AQUÍ
