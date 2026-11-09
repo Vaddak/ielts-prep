@@ -1832,3 +1832,6 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 **Global estimado ≈ 7.0.** Listening y Reading ya están en la meta. **Lo que queda es el Writing:** las dos revisiones (que tenga sentido / ortografía palabra por palabra) y nada de *"Although,"*.
 
 **Mañana (lun 9):** drill de deletreo + Sección 1 + T/F/NG (buscar el sinónimo antes de marcar FALSE).
+
+### Lun 9 nov (oficina)
+- 📖 T/F/NG 28144: **4/5**. Fallo: TRUE en *benefit more than* (el texto habla de **posibilidad**, no de **beneficio**) → NG. Esquivó el absoluto *In all cultures*. En casa: deletreo + Sección 1 + Task 2.

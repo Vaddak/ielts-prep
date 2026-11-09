@@ -532,6 +532,7 @@ After every timed practice or mock exam:
 | 2026-11-08 | ⚠️ **Matching de párrafos ×2** | Reading | eligió C (F) y D (C) | Buscar la **idea**, no la palabra repetida |
 
 
+| 2026-11-09 | 📖 **T/F/NG 28144** (*free-range parenting*) — **4/5** | Reading | ❌ Q3 TRUE en una **comparación** (*benefit more than*): el texto solo dice que la **posibilidad** depende de factores socioeconómicos, no quién se **beneficia más** → NG (trampas 1 y 2: comparación + inferencia) | ✅ *In all cultures* (absoluto) esquivado |
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
