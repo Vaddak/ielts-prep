@@ -1519,3 +1519,14 @@ The rest of activities represented small percentages of the total free time unem
 ## Corrección v4 — estimado **≈6.5–7.0** ✅
 - Sujetos y preposiciones arreglados. Quedan 2: *presented grew* (sigue ahí) → **grew** · *forty one per cent of electricity* → **41 percentage points**.
 - Lección: al corregir, **releer la frase entera**, no solo la palabra cambiada.
+
+
+## v5 — versión final (mismo día)
+> The line graph compares the share of electricity generated from four different sources in one country between 1995 and 2020.
+> Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.
+> Coal started in 1995 with fifty two per cent, the highest figure on the graph and ended with the lowest in 2020, eleven per cent. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. By 2020 it had climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015. Five years later, it fell by two percentage points, ending with twenty nine per cent of electricity produced. Nuclear sources started with twenty nine per cent in 1995 and declined to twenty seven per cent in 2010, then rose by one percentage point in 2015, before dropping to twenty six per cent in 2020.
+> Whereas gas and wind and solar sources grew remarkably, the drop in nuclear was only three percentage points, while the drop in coal sources was the highest, 41 percentage points.
+
+## Corrección v5 — estimado **≈7.0** ✅ (5.5 → 7.0 en 5 versiones)
+- Limpio. Detalles finos: *Wind and solar sources … it had climbed* → **they had climbed** (o *wind and solar power … it*) · el gas subió *moderately* (overview) ≠ *remarkably* (cierre) → coherencia: **grew** a secas o *wind and solar grew remarkably and gas moderately*.

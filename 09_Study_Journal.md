@@ -1847,3 +1847,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - v2 del Task 1: **≈6.0**. Overview y nuclear arreglados; el gas siguió en *ninety nine* → regla: dígitos siempre.
 - v3 del Task 1: **≈6.5**, todas las cifras bien. Queda el sujeto omitido (×2). Falso amigo *present* añadido.
 - v4 del Task 1: **≈6.5–7.0**. Solo quedan *presented grew* y *41 percentage points*.
+- v5 del Task 1: **≈7.0** final. De 5.5 a 7.0 revisando: cifras en dígitos, sujeto en cada verbo, releer la frase entera.
