@@ -1840,3 +1840,7 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - ✍️ Task 2 (casa, teletrabajo): **≈6.0–6.5** en 35:35. **Cero *Although,*** ✅ · bodies opuestos ✅ · solo 2 typos. Queda: gerundio/infinitivo y usar los minutos sobrantes en revisar.
 - 🔤 Deletreo: **pasa a Gemini** con el prompt v2 (ítems nuevos, en `05_Listening_Module.md`). Resultado pendiente.
 - **Mañana (mar 10):** 🏢 Task 1 en frío 20 min (overview sin cifras, cruce como titular, revisar cada cifra) · 🏠 Gemini test completo + emparejar párrafos ×1 · traer el resultado del deletreo.
+
+
+### Mar 10 nov — Task 1 (oficina)
+- Gráfico de líneas, electricidad por fuente: **≈5.5**. Overview con gas y nuclear al revés y 4 cifras mal (99/97/96 en vez de 29/27/26). Estructura y comparación final bien. Lección: cifras en dígitos y verificar cada una con la tabla.

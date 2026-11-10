@@ -539,6 +539,7 @@ After every timed practice or mock exam:
 | 2026-11-09 | 🔴 **Sujeto omitido / *a research*** | Writing · GRA | *if a company saves…, can provide* · *A research made by* | **it** can provide · **Research conducted by** |
 
 
+| 10/11 | Task 1 líneas electricidad ≈5.5 | overview: gas diminished / nuclear increased · ninety nine (=29) · downgrade · presented oscillations · fourty · In 2020 climbed | gas rose / nuclear stable · 29% en dígitos · declined steadily · fluctuated · forty · By 2020 it had climbed | TA 5.0 |
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

@@ -1447,3 +1447,33 @@ The rest of activities represented small percentages of the total free time unem
 - ☐ Ortografía, *the* general, pasado en todo el texto
 
 ## ✍️ v1: PEGAR AQUÍ
+
+> The graph below illustrates the percentage of electricity generated from four different sources in one country between 1995 and 2020.
+> Overall, Coal and Wind and solar sources showed a linear downgrade and upgrade, respectively. Gas sources diminished and Nuclear sources increased but presented oscillations during time.
+> Coal started in 1995 with fifty two per cent, the highest figure of the graph and ended with the lowest percentage in 2020. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. In 2020 climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015, five years later in 2020 declined two per cent, ending with ninety nine per cent of electricity produced. Nuclear sources started with ninety nine per cent in 1995 and declined to ninety seven per cent in 2010, in 2015 increased one per cent and in 2020 it dropped to ninety six per cent.
+> Whereas Gas and Wind and solar sources presented remarkable growth, the drop in Nuclear was only three per cent while the drop in Coal sources was the highest, fourty one per cent of electricity.
+
+## Corrección v1 — estimado **5.5** (TA es lo que baja)
+| Criterio | Banda | Por qué |
+|---|---|---|
+| TA | 5.0 | **Overview con 2 tendencias al revés**: el gas **subió** (18→29) y la nuclear quedó **estable** (29→26). Cuatro cifras mal: **29, 29, 27, 26** escritas como 99, 99, 97, 96. Falta el cruce (renovables superan al carbón en 2015) y el 11% final del carbón. |
+| CC | 6.0 | Buena agrupación (carbón vs renovables; gas + nuclear) y párrafo final de comparación. Falta *by contrast / meanwhile*. |
+| LR | 5.5 | *downgrade/upgrade* (no son tendencias), *presented* (falso amigo), *fourty*. |
+| GRA | 6.0 | Sujeto omitido (*In 2020 climbed*), mayúsculas en *Coal, Gas*. |
+
+**Errores:**
+- La intro copia el enunciado → **The line graph compares the share of electricity produced from four sources in a country from 1995 to 2020.**
+- *linear downgrade and upgrade* → **declined steadily … rose dramatically**
+- *Gas sources diminished* → **gas rose overall** · *Nuclear increased* → **nuclear remained fairly stable**
+- *presented oscillations during time* → **fluctuated slightly over the period** (*presentar* = falso amigo)
+- *Coal, Gas, Nuclear* con mayúscula → **coal, gas, nuclear power**
+- *In 2020 climbed to* → **By 2020 it had climbed to**
+- *declined two per cent* → **fell by two percentage points**
+- **ninety nine / ninety seven / ninety six → 29 / 27 / 26** (¡*twenty* ≠ *ninety*!)
+- *fourty* → **forty** (la palabra 4 sí lleva U: *four*, *fourteen*; el 40 no)
+- Cifras en letras → **escribir 52%, 34%** (más rápido y sin errores de deletreo)
+
+**Overview modelo:** *Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.*
+
+**Regla de la sesión:** antes de entregar, **tapar el texto y leer cada cifra contra la tabla** (el checklist decía esto). Y escribir los números en **dígitos**.
