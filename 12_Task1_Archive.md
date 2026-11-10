@@ -1477,3 +1477,20 @@ The rest of activities represented small percentages of the total free time unem
 **Overview modelo:** *Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.*
 
 **Regla de la sesión:** antes de entregar, **tapar el texto y leer cada cifra contra la tabla** (el checklist decía esto). Y escribir los números en **dígitos**.
+
+
+## v2 (mismo día)
+> The line graph compares the share of electricity generated from four different sources in one country between 1995 to 2020.
+> Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.
+> Coal started in 1995 with fifty two per cent, the highest figure of the graph and ended with the lowest in 2020, eleven per cent. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. By 2020 it had climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015, five years later in 2020 fell by two percentage points, ending with ninety nine per cent of electricity produced. Nuclear sources started with twenty nine per cent in 1995 and declined to twent seven per cent in 2010, in 2015 increased one per cent and in 2020 it dropped to twenty six per cent.
+> Whereas gas and Wind and solar sources presented remarkable growth, the drop in Nuclear was only three per cent while the drop in coal sources was the highest, forty one per cent of electricity.
+
+## Corrección v2 — estimado **≈6.0** (sube de 5.5)
+- ✅ Overview correcto con el cruce · nuclear bien (29/27/26) · 11% del carbón · *By 2020 it had climbed* · *fell by two percentage points*.
+- 🔴 **El gas sigue en *ninety nine*** → **29%**. Mismo fallo, por eso: **dígitos siempre**.
+- *between 1995 to 2020* → **between 1995 and 2020** / **from 1995 to 2020**
+- *five years later in 2020 fell* (frase pegada con coma y sin sujeto) → **. Five years later, it fell…**
+- *twent seven* → **twenty-seven** (o mejor **27%**) · *increased one per cent* → **rose by one percentage point**
+- *presented remarkable growth* → **grew remarkably** · *Wind, Nuclear* → minúscula · *of the graph* → **on the graph**
+- Nota: el overview es el modelo de Claudio; el sábado hay que producirlo solo (fórmula: lo que más baja + lo que más sube + el cruce + lo estable).
