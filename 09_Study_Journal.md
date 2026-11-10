@@ -1837,3 +1837,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - 📖 T/F/NG 28144: **4/5**. Fallo: TRUE en *benefit more than* (el texto habla de **posibilidad**, no de **beneficio**) → NG. Esquivó el absoluto *In all cultures*. En casa: deletreo + Sección 1 + Task 2.
 - 🎧 Sección 1 (24912): **3/4**. Números fluidos (teléfono de 11 dígitos perfecto). Faltó una **G** en *-ings* por las prisas.
 - 🏠 Pendiente en casa: Task 2 *Discussion* (teletrabajo vs oficina), ya preparado en 11_Writing_Baseline_Essays.md.
+- ✍️ Task 2 (casa, teletrabajo): **≈6.0–6.5** en 35:35. **Cero *Although,*** ✅ · bodies opuestos ✅ · solo 2 typos. Queda: gerundio/infinitivo y usar los minutos sobrantes en revisar.

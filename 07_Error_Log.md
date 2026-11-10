@@ -534,6 +534,11 @@ After every timed practice or mock exam:
 
 | 2026-11-09 | 📖 **T/F/NG 28144** (*free-range parenting*) — **4/5** | Reading | ❌ Q3 TRUE en una **comparación** (*benefit more than*): el texto solo dice que la **posibilidad** depende de factores socioeconómicos, no quién se **beneficia más** → NG (trampas 1 y 2: comparación + inferencia) | ✅ *In all cultures* (absoluto) esquivado |
 | 2026-11-09 | 🎧 **Sección 1 — 24912 — 3/4** | Listening | ✅ número de 3 cifras, apellido *Peters* y teléfono de 11 dígitos limpios | ❌ correo/apellido *mjennins* → faltó la **G** final (*-ings*) por ir rápido: **releer cada letra** |
+| **2026-11-09** | ✍️ **Task 2 Discussion en frío (teletrabajo): ≈6.0–6.5** | Writing | ✅ cero *Although,* · bodies opuestos · typos 7 → **2** · 4:25 de sobra | **Usar los minutos sobrantes en la revisión 2** |
+| 2026-11-09 | 🔴 **Gerundio / infinitivo** | Writing · GRA | *find more advantageous working · prefer have · work remotely brings* | find **it** … **to work** · prefer **to** have · **working** remotely |
+| 2026-11-09 | 🔴 **Sujeto omitido / *a research*** | Writing · GRA | *if a company saves…, can provide* · *A research made by* | **it** can provide · **Research conducted by** |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

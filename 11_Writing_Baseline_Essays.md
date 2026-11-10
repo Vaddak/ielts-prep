@@ -1252,4 +1252,40 @@ In conclusion, animal testing depicted the only way to advance in different fiel
 
 </details>
 
-## ✍️ v1: PEGAR AQUÍ
+## ✍️ v1 — en frío, 35:35 (le sobraron 4:25) · ≈300 palabras
+
+> While some people find more advantageous working beside colleagues in an office, others contend that work remotely brings more benefits for both employees and companies. In this essay, both point of views will be discussed and the reasons why working from home are more solid and beneficial  will beo utlined.
+>
+> Working from office provides an evironment where challenges and experiences can be shared and accomplish. Several companies prefer have a budget that guarantees facilities and everything needed for those instead of having remote work as a possibility. These conditions could improve aspects such as teamworking, soft skills and rapid answers to daily problems presented at work. A research made by universities in United States during 2024 outlined a decline in depression and anxiety rates in several number participants after they could return to the office once pandemic risks dropped.
+>
+> On the other hand, working from home provides a wider spectrum of benefits that most employees and companies prioritize. Whereas some people find interactions with coworkers as something positive, others find more value in having their own space to be calm and proactive, avoiding some of the conflicts that can occur in shared spaces. Saving money and time in transport and avoiding traffic are some of the benefits employees also value. Finally, companies can benefit from evading the rent of expensive facilities and hiring people just to maintain them clean and safe.
+>
+> In conclusion, whereas working from office can be better for some people due to their need to social interactions, remote work is more advantageous due to a larger number  of reasons that benefit more people and could compensate these interactions. Additionally, if a company saves money on rent, can provide a bigger budget to other things such as better devices for employees.
+
+## 📊 Calificación: **≈6.0–6.5**
+| Criterio | Banda | |
+|---|---|---|
+| Task Response | **6.5** | las dos visiones + opinión clara en intro y conclusión · ⚠️ idea nueva en la conclusión (presupuesto para equipos) |
+| Coherence & Cohesion | **6.5** | ✅ **bodies opuestos** con topic sentence · *On the other hand, Finally, Additionally* |
+| Lexical Resource | **6.0** | buen vocabulario (*contend, a wider spectrum, evading*) · colocaciones: *maintain them clean, need to social interactions, point of views* |
+| Grammar | **6.0** | gerundio/infinitivo: *find more advantageous working, prefer have, work remotely brings* · sujeto omitido: *if a company saves…, can provide* |
+
+**✅ Lo que mejoró:** **cero *"Although,"*** · bodies opuestos · typos de 7 (mock 4) a **2** (*evironment, beo utlined*) · terminó con 4 minutos de sobra.
+**🔴 Lo que queda:** **usar los 4 minutos en la revisión 2** (los dos typos estaban a la vista) · gerundio/infinitivo · *research* sin *a* (estaba en el checklist).
+
+| Ella escribió | Correcto |
+|---|---|
+| find more advantageous working | find **it** more advantageous **to work** |
+| work remotely brings | **working** remotely brings |
+| both point of views | both **points of view** |
+| the reasons why working from home **are** | … **is** |
+| Working from office | Working **in an** office |
+| shared and accomplish | shared and **accomplished** |
+| prefer have | prefer **to** have |
+| A research made by universities in United States | **Research conducted** by universities in **the** United States |
+| in several number participants | in **a number of** participants |
+| find interactions as something positive | **see** interactions as positive |
+| maintain them clean | **keep** them clean |
+| their need to social interactions | their need **for** social **interaction** |
+| if a company saves money on rent, can provide | …, **it** can provide |
+
