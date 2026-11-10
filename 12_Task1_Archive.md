@@ -1494,3 +1494,16 @@ The rest of activities represented small percentages of the total free time unem
 - *twent seven* → **twenty-seven** (o mejor **27%**) · *increased one per cent* → **rose by one percentage point**
 - *presented remarkable growth* → **grew remarkably** · *Wind, Nuclear* → minúscula · *of the graph* → **on the graph**
 - Nota: el overview es el modelo de Claudio; el sábado hay que producirlo solo (fórmula: lo que más baja + lo que más sube + el cruce + lo estable).
+
+
+## v3 (mismo día)
+> The line graph compares the share of electricity generated from four different sources in one country between 1995 and 2020.
+> Overall, coal fell sharply while wind and solar power rose dramatically, overtaking coal in 2015 and becoming the main source by 2020. Gas increased moderately, whereas nuclear power remained fairly stable.
+> Coal started in 1995 with fifty two per cent, the highest figure of the graph and ended with the lowest in 2020, eleven per cent. Wind and solar sources started with the lowest percentage of electricity produced, only one per cent in 1995. By 2020 it had climbed to the highest value of that year, thirty four per cent.
+> Gas sources started with eighteen per cent in 1995 and rose to thirty one per cent in 2015. Five years later in 2020 fell by two percentage points, ending with twenty nine per cent of electricity produced. Nuclear sources started with twenty nine per cent in 1995 and declined to twenty seven per cent in 2010, in 2015 rose by one percentage point and in 2020 it dropped to twenty six per cent.
+> Whereas gas and wind and solar sources presented grew remarkably, the drop in nuclear was only three per cent while the drop in coal sources was the highest, forty one per cent of electricity.
+
+## Corrección v3 — estimado **≈6.5** ✅ todas las cifras correctas
+- Quedan: sujeto omitido ×2 (*Five years later in 2020 **it** fell* · *and **rose** by one percentage point **in 2015***) · resto de edición *presented grew* → **grew** · *only three per cent* → **only three percentage points** · *of the graph* → **on the graph**.
+- Patrón: **sujeto omitido** (pro-drop del español) aparece en las 3 versiones → al revisar, buscar cada verbo y preguntar "¿quién?".
+- Falso amigo nuevo en la lista: *present* (= mostrar formalmente / representar un reto) ≠ *presentar un aumento* → **rise, fall, fluctuate, show, experience**.
