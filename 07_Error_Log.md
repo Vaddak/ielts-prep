@@ -540,6 +540,7 @@ After every timed practice or mock exam:
 
 
 | 10/11 | Task 1 líneas electricidad ≈5.5 | overview: gas diminished / nuclear increased · ninety nine (=29) · downgrade · presented oscillations · fourty · In 2020 climbed | gas rose / nuclear stable · 29% en dígitos · declined steadily · fluctuated · forty · By 2020 it had climbed | TA 5.0 |
+| 10/11 | Reading matching headings 23687 · 5/8 | A: impacto (palabra del final) · D: futuro · H: definición | A: definición · D: liderazgo · H: futuro → la **primera frase** manda | Reading |
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

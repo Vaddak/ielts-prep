@@ -2267,3 +2267,15 @@ International sleeper services face several practical difficulties. Trains must 
 - **Q10** *A significant fall in pollinators would be costly for both industry and individuals* → marcó **FALSE**, era **TRUE**. Párrafo D: *"higher prices for **consumers** and a serious dent in the profitability of the **agriculture sector**"*. **Paráfrasis no reconocida** (individuals = consumers, industry = agriculture sector)
 
 > ✅ **T/F/NG 3/4** — el tipo que más fallaba ya no es el problema. Los fallos se repartieron.
+
+
+---
+
+## Matching headings nº23687 — mar 10 nov 2026 · **5/8**
+*(Solo patrones, sin contenido del portal.)*
+- ✅ 5 párrafos del medio bien.
+- ❌ **Párrafo A** (introducción): eligió "el impacto negativo" por una palabra del **final** (*damaging*), pero la **primera frase define el concepto** → el heading era el de **definición**.
+- ❌ **Párrafo D**: la primera frase nombra a **los líderes políticos** como causa → heading de **liderazgo**. Ella eligió el de **futuro incierto**.
+- ❌ **Párrafo H** (cierre): empieza con *Looking to the future… uncertain* → heading de **futuro**. Ella eligió el de **definición**.
+- **Patrón:** los 3 fallos tenían **la respuesta en la primera frase**. Se dejó llevar por detalles del final del párrafo. Además, A y H quedaron intercambiados: **el primer párrafo suele definir y el último suele mirar al futuro**.
+- **Regla:** ① leer la **primera frase** y ponerle un titular propio de 3 palabras · ② después buscar el heading · ③ cuidado con las palabras que aparecen tarde en el párrafo.
