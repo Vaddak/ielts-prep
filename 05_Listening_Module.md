@@ -737,3 +737,15 @@ Pídele a Gemini: *"Read these aloud to me letter by letter, like an IELTS Secti
 > **G** = "dyi" (como *Gina, gym*), no la Y. **J** = "dyei".
 
 **Mini-drill de vocales (Gemini, 5 min):** *"Say 20 random letter sequences of 4 to 6 letters, one at a time, letter by letter, in a British accent. Use mostly the letters A, E, I, G and J, mixed with others. Do not show me the text. Wait for me to say "next". At the end, show me all 20 so I can check."* — **Meta: 18/20.**
+
+
+---
+
+## 🔁 DRILL DE DELETREO v2 — Gemini inventa los ítems *(9 nov)*
+La lista del 3-nov ya está vista; para no memorizar, **Gemini genera ítems nuevos** dirigidos a sus fallos.
+
+```
+Act as an IELTS Listening Section 1 receptionist with a British accent. Dictate 15 items to me, ONE AT A TIME, letter by letter or digit by digit, exactly as in the real test: surnames, street names, postcodes, booking references, email addresses, phone numbers and dates. Invent new ones; do not show me the text. Focus on the letters A, E, I, G and J, on names ending in -ings or -ield, on "double" letters, and on emails with "at" and "dot". In about one in four items, make a correction ("sorry, that's G, not J"). Wait for me to say "next" before each item. At the end, show me all 15 so I can check letter by letter, and tell me my score.
+```
+**Antes, en voz alta:** oigo "i" → E · "ei" → A · "ai" → I · G = "dyi" · J = "dyei" · Z = "zed" · si se corrige, gana lo último · **releer cada letra** (9-nov: *Jennings* sin G).
+**Meta: 15/15.** Resultado: *pendiente — ella lo hace con Gemini y pega lo escrito + la lista.*

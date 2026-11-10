@@ -8,6 +8,9 @@
 
 ## 👉 RETOMAR AQUÍ — 🏁 domingo 8 nov · MOCK Nº4 · **6 días para el examen**
 
+> ✅ **Lun 9 hecho:** T/F/NG 4/5 · Sección 1 3/4 · Task 2 ≈6.0–6.5 (cero *Although,*, 2 typos). Deletreo: con Gemini (prompt v2), resultado pendiente.
+> 👉 **SIGUIENTE: martes 10** — Task 1 en la oficina · Gemini test completo + emparejar párrafos en casa.
+
 ## 🎯 SEMANA FINAL — lun 9 a vie 13 nov *(plan concreto, hecho el 8-nov)*
 
 **Prioridad según el mock nº4:** ✍️ **Writing (≈6.0)** y 🎤 **Speaking (6.0)** primero. Listening y Reading (7.5) solo se mantienen.
