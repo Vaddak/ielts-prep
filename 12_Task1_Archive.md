@@ -1420,3 +1420,30 @@ The rest of activities represented small percentages of the total free time unem
 | TA | CC | LR | GR | Global |
 |---|---|---|---|---|
 | 6 | 6 | 6 | 5.5 | **~6.0** |
+
+
+---
+
+# ✍️ TASK 1 — mar 10 nov 2026 · Gráfico de líneas: electricidad por fuente (1995–2020) · ⏱️ 20 min
+*Tarea original de Claudio. ⚠️ Pon el cronómetro en 20:00 antes de leer los datos.*
+
+> **The graph below shows the percentage of electricity generated from four sources in one country between 1995 and 2020.**
+> **Summarise the information by selecting and reporting the main features, and make comparisons where relevant.**
+> **Write at least 150 words.**
+
+*(Gráfico de líneas, % del total)*
+| Source | 1995 | 2000 | 2005 | 2010 | 2015 | 2020 |
+|---|---|---|---|---|---|---|
+| Coal | 52 | 48 | 41 | 30 | 19 | 11 |
+| Gas | 18 | 22 | 27 | 30 | 31 | 29 |
+| Nuclear | 29 | 28 | 26 | 27 | 28 | 26 |
+| Wind and solar | 1 | 2 | 6 | 13 | 22 | 34 |
+
+**Checklist:**
+- ☐ **Overview** justo después de la intro: las 2 tendencias principales, **sin números**
+- ☐ El **cruce** de líneas como titular (*overtook*)
+- ☐ Son **porcentajes** → *the proportion / share of electricity*, no *the number*
+- ☐ **Comparar cada cifra con la tabla antes de entregar**
+- ☐ Ortografía, *the* general, pasado en todo el texto
+
+## ✍️ v1: PEGAR AQUÍ
