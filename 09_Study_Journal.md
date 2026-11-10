@@ -1846,3 +1846,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - Gráfico de líneas, electricidad por fuente: **≈5.5**. Overview con gas y nuclear al revés y 4 cifras mal (99/97/96 en vez de 29/27/26). Estructura y comparación final bien. Lección: cifras en dígitos y verificar cada una con la tabla.
 - v2 del Task 1: **≈6.0**. Overview y nuclear arreglados; el gas siguió en *ninety nine* → regla: dígitos siempre.
 - v3 del Task 1: **≈6.5**, todas las cifras bien. Queda el sujeto omitido (×2). Falso amigo *present* añadido.
+- v4 del Task 1: **≈6.5–7.0**. Solo quedan *presented grew* y *41 percentage points*.
