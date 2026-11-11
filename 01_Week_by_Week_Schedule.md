@@ -11,6 +11,9 @@
 > ✅ **Lun 9 hecho:** T/F/NG 4/5 · Sección 1 3/4 · Task 2 ≈6.0–6.5 (cero *Although,*, 2 typos). Deletreo: con Gemini (prompt v2), resultado pendiente.
 > 👉 **SIGUIENTE: martes 10** — Task 1 en la oficina · Gemini test completo + emparejar párrafos en casa.
 
+> ✅ **Mar 10 hecho:** Task 1 líneas 5.5 → **7.0 en v5** (cifras en dígitos, sujeto en cada verbo) · matching headings 5/8 (la **primera frase** manda). Pendientes: Gemini test completo y resultado del deletreo.
+> 👉 **SIGUIENTE: miércoles 11** — 🏢 Sección 4 ×1 + deletreo con Gemini (prompt v2) · 🏠 Task 2 *Opinion* en frío 40 min + **Gemini test completo** (sustituye a "Parte 3 ×2"; lo de ayer quedó pendiente).
+
 ## 🎯 SEMANA FINAL — lun 9 a vie 13 nov *(plan concreto, hecho el 8-nov)*
 
 **Prioridad según el mock nº4:** ✍️ **Writing (≈6.0)** y 🎤 **Speaking (6.0)** primero. Listening y Reading (7.5) solo se mantienen.
