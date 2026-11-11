@@ -14,6 +14,9 @@
 > ✅ **Mar 10 hecho:** Task 1 líneas 5.5 → **7.0 en v5** (cifras en dígitos, sujeto en cada verbo) · matching headings 5/8 (la **primera frase** manda). Pendientes: Gemini test completo y resultado del deletreo.
 > 👉 **SIGUIENTE: miércoles 11** — 🏢 Sección 4 ×1 + deletreo con Gemini (prompt v2) · 🏠 Task 2 *Opinion* en frío 40 min + **Gemini test completo** (sustituye a "Parte 3 ×2"; lo de ayer quedó pendiente).
 
+> ✅ **Mié 11:** Task 2 *Opinion* **≈6.5** (TR 7.0, cero *Although,*; le sobraron 8 min) · dolor de cabeza → paró. Noche: Gemini suave + Sección 4 opcional (**resultados pendientes**). Deletreo v2: sin resultado aún.
+> 👉 **SIGUIENTE: jueves 12 (oficina)** — **nada nuevo.** Leer: banco de ortografía + tarjeta NOT GIVEN + checklist de Writing (*research* sin *a*) · si no hizo la Sección 4, una · 🧳 logística del sábado (documento, ruta, hora). Si anoche no salió la Parte 3: 15 min de Gemini.
+
 ## 🎯 SEMANA FINAL — lun 9 a vie 13 nov *(plan concreto, hecho el 8-nov)*
 
 **Prioridad según el mock nº4:** ✍️ **Writing (≈6.0)** y 🎤 **Speaking (6.0)** primero. Listening y Reading (7.5) solo se mantienen.
