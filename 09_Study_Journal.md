@@ -1849,3 +1849,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - v4 del Task 1: **≈6.5–7.0**. Solo quedan *presented grew* y *41 percentage points*.
 - v5 del Task 1: **≈7.0** final. De 5.5 a 7.0 revisando: cifras en dígitos, sujeto en cada verbo, releer la frase entera.
 - 🏠 Matching headings 23687: **5/8**. Los 3 fallos estaban en la primera frase (A = definición, D = liderazgo, H = futuro). Pendiente: Gemini test completo.
+- 🗣️ (noche) Gemini Speaking Part 1 + 2: **6.0–6.5**. Falta la Part 3 → test completo el mié 11.

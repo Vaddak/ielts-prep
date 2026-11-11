@@ -492,3 +492,10 @@ IMPORTANT: List EVERY error, not only the ones in this watch-list.
 ### 6. Overall band
 Average of the four criteria, rounded to the nearest 0.5, and ONE sentence on the single change that would raise it most.
 ```
+
+
+---
+
+## Gemini — Part 1 + Part 2, mar 10 nov 2026
+**Banda de Gemini:** **6.0–6.5** (sin reporte detallado pegado). Sin Part 3 → no cuenta como test completo.
+**Pendiente:** test completo con Part 3 de 5+ preguntas (mié 11, en casa).
