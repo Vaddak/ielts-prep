@@ -1850,3 +1850,6 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - v5 del Task 1: **≈7.0** final. De 5.5 a 7.0 revisando: cifras en dígitos, sujeto en cada verbo, releer la frase entera.
 - 🏠 Matching headings 23687: **5/8**. Los 3 fallos estaban en la primera frase (A = definición, D = liderazgo, H = futuro). Pendiente: Gemini test completo.
 - 🗣️ (noche) Gemini Speaking Part 1 + 2: **6.0–6.5**. Falta la Part 3 → test completo el mié 11.
+
+### Mié 11 nov
+- ✍️ Task 2 *Opinion* (transporte público): **≈6.5** — TR 7.0, cero *Although,* por 2ª vez. Quedan *a research* (3ª vez), *strikingly reduction*, *causing a worst*.

@@ -1289,3 +1289,43 @@ In conclusion, animal testing depicted the only way to advance in different fiel
 | their need to social interactions | their need **for** social **interaction** |
 | if a company saves money on rent, can provide | …, **it** can provide |
 
+
+
+---
+
+# ✍️ TASK 2 — EN FRÍO · Opinion · mié 11 nov · ⏱️ 40 min
+> *Some people think that governments should spend money on public transport rather than on building new roads. To what extent do you agree or disagree?*
+
+## v1 (≈300 palabras)
+> It is often argued that governments should invest more in public transport instead of building new roads. I largely agree with this view, since a larger part of the population benefits from it, leading to develop greener and healthier societies.
+>
+> Having a larger number roads brings more drawbacks than benefits; a larger number of roads attract more cars, causing a worst. It also increases the budget that governments must have for fixing roads and significantly reduces green areas, causing more noise and pollution. A research conducted by American universities, collected data from traffic in different cities across the world. Ciudad de Mexico showed the worst traffic and Kyoto instead, showed an efficient mobility at peak hours. The main difference between these two cities is the investment on public transport. Kyoto spends millions on improvements to public transport, while the figure for Ciudad de Mexico is remarkably lower.
+>
+> Regardless of the strikingly reduction in traffic and the improvement in urban mobility, investment in public transport brings more advantages linked to health and social development. The decrease of polluting air in the atmosphere and a better sleep achieved with lower levels of noise are key factors that health institutes propose as essential to improve both physical and mental health. Finally, wider urban areas would be available to be converted into parks and green areas, preserving natural schemes inside cities and promoting cultural and social spaces.
+>
+> In conclusion, I firmly believe that governments should spend more money on public transport instead of building new roads, because basic aspects of a large proportion of society can be improved with a stronger investment in public transport. Current roads need to have regular maintainance that guarantee car owners high quality mobility.
+
+## 📊 Calificación: **≈6.5**
+| Criterio | Banda | |
+|---|---|---|
+| Task Response | **7.0** | postura clara y sostenida · ejemplo concreto (Kyoto vs Ciudad de México) · ⚠️ *largely agree* en la intro vs *firmly believe* en la conclusión · última frase = idea nueva |
+| Coherence & Cohesion | **6.5** | body 1 = tráfico, body 2 = salud y espacio · ⚠️ *Regardless of* mal usado (= "sin importar") → **Apart from** |
+| Lexical Resource | **6.5** | ✅ *remarkably lower, peak hours, urban mobility* · ⚠️ *natural schemes, polluting air, investment on* |
+| Grammar | **6.0** | *a research* (otra vez) · *a larger number roads* · *strikingly reduction* · frase incompleta *causing a worst* |
+
+**✅ Mejoró:** cero *Although,* (2º texto seguido) · el mejor Task Response hasta hoy · un ejemplo concreto que de verdad sostiene el argumento.
+**🔴 Queda:** la **revisión 1** habría detectado *causing a worst* · ***research* sin *a*** (3ª vez) · adjetivo vs adverbio.
+
+| Ella escribió | Correcto |
+|---|---|
+| leading to develop greener… societies | **helping to create** greener… societies |
+| a larger number roads | a larger number **of** roads |
+| causing a worst. | causing **worse congestion**. |
+| A research conducted by American universities, collected | **Research** conducted by American universities **collected** (sin coma) |
+| Ciudad de Mexico | **Mexico City** |
+| Kyoto instead, showed | **whereas** Kyoto showed |
+| the investment **on** public transport | investment **in** |
+| Regardless of the strikingly reduction | **Apart from** the **striking** reduction |
+| The decrease of polluting air | The **reduction in air pollution** |
+| natural schemes | **natural spaces** |
+| maintainance that guarantee | **maintenance** that **guarantees** |

@@ -541,6 +541,12 @@ After every timed practice or mock exam:
 
 | 10/11 | Task 1 líneas electricidad ≈5.5 | overview: gas diminished / nuclear increased · ninety nine (=29) · downgrade · presented oscillations · fourty · In 2020 climbed | gas rose / nuclear stable · 29% en dígitos · declined steadily · fluctuated · forty · By 2020 it had climbed | TA 5.0 |
 | 10/11 | Reading matching headings 23687 · 5/8 | A: impacto (palabra del final) · D: futuro · H: definición | A: definición · D: liderazgo · H: futuro → la **primera frase** manda | Reading |
+| **2026-11-11** | ✍️ **Task 2 Opinion en frío (transporte público): ≈6.5** | Writing | ✅ cero *Although,* (2º seguido) · TR 7.0 con ejemplo concreto | Mejor Task 2 en frío hasta hoy |
+| 2026-11-11 | 🔴 ***a research* — 3ª vez** | Writing · GRA | *A research conducted by…* | **Research** es incontable: nunca *a* |
+| 2026-11-11 | 🔴 **Adjetivo vs adverbio / *Regardless*** | Writing | *the strikingly reduction* · *Regardless of* (= sin importar) | the **striking** reduction · **Apart from** |
+| 2026-11-11 | ⚠️ **Frase incompleta + postura que cambia** | Writing | *causing a worst.* · *largely agree* → *firmly believe* | revisión 1 · la misma fuerza en intro y conclusión |
+
+
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
