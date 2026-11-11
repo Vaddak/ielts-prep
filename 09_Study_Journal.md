@@ -1853,3 +1853,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 
 ### Mié 11 nov
 - ✍️ Task 2 *Opinion* (transporte público): **≈6.5** — TR 7.0, cero *Although,* por 2ª vez. Quedan *a research* (3ª vez), *strikingly reduction*, *causing a worst*.
+- Le sobraron **8 min** en el Task 2 (deberían ir a la revisión 2). Dolor de cabeza fuerte → **para por hoy**; el Gemini con Parte 3 pasa al jueves (15–20 min, suave).
