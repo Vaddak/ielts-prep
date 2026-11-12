@@ -1855,3 +1855,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - ✍️ Task 2 *Opinion* (transporte público): **≈6.5** — TR 7.0, cero *Although,* por 2ª vez. Quedan *a research* (3ª vez), *strikingly reduction*, *causing a worst*.
 - Le sobraron **8 min** en el Task 2 (deberían ir a la revisión 2). Dolor de cabeza fuerte → **para por hoy**; el Gemini con Parte 3 pasa al jueves (15–20 min, suave).
 - Noche: va a hacer **un poco de Gemini** (Parte 3) y, si tiene ánimo, **una Sección 4**. Resultados pendientes. Mañana sigue en la oficina.
+- 🗣️ (noche mié 11) Gemini test completo Part 1+2+3: **6.5** ✅. Sección 4: no se hizo.
