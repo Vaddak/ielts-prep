@@ -1860,3 +1860,7 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 ### Jue 12 nov — repaso
 - 🔤 Ortografía 10 palabras: **7/10** (questionnaire, accommodation, maintenance).
 - 🎧 Sección 1 nº25673: **5/6**. Palabras y número de horas bien; falló el **año de nacimiento** (escribió 1996).
+- ✍️ Encuentra el error: **4/5**. Se le pasó *Gas presented a moderate growth* → **Gas grew moderately** (*presented* otra vez). Dudó bien de *Although,*.
+- 🗣️ En chat: *I use to look* → **I usually look** · *accommodations* → **accommodation** (incontable). Mismo patrón que *a research*.
+- T/F/NG relámpago: a) ✅; b–e pendientes. Speaking de práctica (*work from home in the future?*): en casa.
+> 👉 **Esta noche (casa):** Speaking 40 s con *Having said that… / So, on balance…* · logística (documento, hora, ruta) · caminata · dormir temprano. **Viernes 13: descanso total. Sábado 14: EXAMEN.**

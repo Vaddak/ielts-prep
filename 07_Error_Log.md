@@ -548,6 +548,7 @@ After every timed practice or mock exam:
 
 
 | 12/11 | Listening Sección 1 25673 · 5/6 | año de nacimiento: 1996 ✗ | revisar la clave; años = posible corrección o confusión de cifras | Listening |
+| 12/11 | Repaso jueves | Gas presented a moderate growth · I use to look · accommodations | Gas grew moderately · I usually look · accommodation | falsos amigos / incontables |
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example
