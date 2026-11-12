@@ -749,3 +749,7 @@ Act as an IELTS Listening Section 1 receptionist with a British accent. Dictate 
 ```
 **Antes, en voz alta:** oigo "i" → E · "ei" → A · "ai" → I · G = "dyi" · J = "dyei" · Z = "zed" · si se corrige, gana lo último · **releer cada letra** (9-nov: *Jennings* sin G).
 **Meta: 15/15.** Resultado: *pendiente — ella lo hace con Gemini y pega lo escrito + la lista.*
+
+
+### 🔤 Repaso jue 12 nov — 7/10
+Falladas: **questionnaire** (doble N + -aire, no *questionary*) · **accommodation** (doble C, doble M) · **maintenance** (main-**ten**-ance; *maintain* pierde la I).
