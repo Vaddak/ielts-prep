@@ -547,6 +547,7 @@ After every timed practice or mock exam:
 | 2026-11-11 | ⚠️ **Frase incompleta + postura que cambia** | Writing | *causing a worst.* · *largely agree* → *firmly believe* | revisión 1 · la misma fuerza en intro y conclusión |
 
 
+| 12/11 | Listening Sección 1 25673 · 5/6 | año de nacimiento: 1996 ✗ | revisar la clave; años = posible corrección o confusión de cifras | Listening |
 **Common Writing Patterns:**
 - [ ] Used the same word more than twice in one essay
 - [ ] Body paragraph had no specific example

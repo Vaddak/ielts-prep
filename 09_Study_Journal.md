@@ -1859,3 +1859,4 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 
 ### Jue 12 nov — repaso
 - 🔤 Ortografía 10 palabras: **7/10** (questionnaire, accommodation, maintenance).
+- 🎧 Sección 1 nº25673: **5/6**. Palabras y número de horas bien; falló el **año de nacimiento** (escribió 1996).
