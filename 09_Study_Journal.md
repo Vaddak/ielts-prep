@@ -1864,3 +1864,6 @@ Miércoles en casa: nada (llegó agotada; buena decisión). **Plan nuevo, hecho 
 - 🗣️ En chat: *I use to look* → **I usually look** · *accommodations* → **accommodation** (incontable). Mismo patrón que *a research*.
 - T/F/NG relámpago: a) ✅; b–e pendientes. Speaking de práctica (*work from home in the future?*): en casa.
 > 👉 **Esta noche (casa):** Speaking 40 s con *Having said that… / So, on balance…* · logística (documento, hora, ruta) · caminata · dormir temprano. **Viernes 13: descanso total. Sábado 14: EXAMEN.**
+- 🗣️ (noche jue 12) Gemini test completo: **6.5** otra vez ✅.
+
+### Vie 13 nov — descanso total. Sábado 14: EXAMEN 🍀

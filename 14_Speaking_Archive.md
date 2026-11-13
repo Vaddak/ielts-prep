@@ -503,3 +503,7 @@ Average of the four criteria, rounded to the nearest 0.5, and ONE sentence on th
 
 ## Gemini — test completo (Part 1 + 2 + 3), mié 11 nov 2026
 **Banda de Gemini:** **6.5** ✅ (sube de 6.0 → 6.0–6.5 → 6.5). Primer test completo con Part 3 de esta semana.
+
+
+## Gemini — test completo, jue 12 nov 2026
+**Banda de Gemini:** **6.5** ✅ — segundo 6.5 seguido con Part 3. Estable para el examen.
